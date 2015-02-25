@@ -17,6 +17,7 @@ Example JSON data
 From the oldest Pret still around, [#2](json/UK0002.json).
 ```
 {
+    "number": "2",
     "details": {
         "has_opened": true,
         "name": "319 High Holborn",
@@ -34,7 +35,6 @@ From the oldest Pret still around, [#2](json/UK0002.json).
         "latitude": "51.5181546133",
         "longitude": "-0.112728300111"
     },
-    "number": "2",
     "opening_hours": {
         "friday": "06:30 - 19:30",
         "monday": "06:30 - 19:30",
