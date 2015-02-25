@@ -1,0 +1,4108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.112728300111,
+                    51.5181546133,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "319 High Holborn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137658432518,
+                    51.5056174817,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crown Passage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0846410241461,
+                    51.5181940066,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eldon Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0934478403844,
+                    51.5133224034,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bow Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127354845825,
+                    51.5116176617,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St Martins Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142231851844,
+                    51.5162469239,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Regent Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.151498428449,
+                    51.5188478347,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Marylebone High Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.449426243793,
+                    51.4720362572,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heathrow, Terminal 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.139914558156,
+                    51.5079720448,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "163 Piccadilly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.25769948858,
+                    51.752146191,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oxford, 2 Cornmarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.119036661608,
+                    51.5175588662,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "240 High Holborn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.108944785894,
+                    51.5188182154,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Leather Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.156883515235,
+                    51.5213314271,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Baker Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.136345463723,
+                    51.5225242079,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "100 Tottenham Court Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.155801890891,
+                    51.5138854514,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Marble Arch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.121323232394,
+                    52.2053237455,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8998657079,
+                    52.4793032974,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Birmingham, New Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.104258097853,
+                    51.5202792081,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Turnmill Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137826571131,
+                    51.5088299163,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "41 Piccadilly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.123735378076,
+                    51.5082070105,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Villiers Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0203192567211,
+                    51.5050283818,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canary Wharf, Cabot Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133106703885,
+                    51.5163351758,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oxford Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.22568071795,
+                    51.4930091549,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hammersmith, Kings Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.192524,
+                    51.50071,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kensington Arcade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12337114745,
+                    51.509870454,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "421 Strand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.133622081494,
+                    51.5126660523,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Soho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.118378222039,
+                    51.5140859312,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kingsway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0825319718049,
+                    51.5102262018,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Great Tower Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.092619838099,
+                    51.5120034153,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "52 Cannon Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082559,
+                    51.517399,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Liverpool Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.104080282454,
+                    51.513599393,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Bridge Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1565427091,
+                    51.8923665989,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bicester Village"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.54591140995,
+                    53.7975250491,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Leeds, Bond Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.118865231606,
+                    51.5112310396,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "135 Strand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0796516968261,
+                    51.5181032313,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "192 Bishopsgate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0761899104345,
+                    51.5135626113,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aldgate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.136316193364,
+                    51.5133420463,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Broadwick Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0795350438882,
+                    51.5195253979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Broadgate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.24411082265,
+                    53.4820912508,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manchester, Cross St"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.149232604637,
+                    51.514092946,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oxford St, West One"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.077609,
+                    53.922081,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "York, Designer Outlet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0841262610144,
+                    51.5160047651,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Winchester House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0262944002567,
+                    51.5063225026,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canary Wharf, Westferry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.272502698078,
+                    51.4393232109,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bluewater"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0881874972307,
+                    51.5113117596,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "135 Cannon Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.101301266837,
+                    51.5137169107,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ludgate Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0810663332971,
+                    51.5145839601,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St Mary Axe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.14756278991,
+                    52.9532687322,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nottingham, High Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.605707,
+                    51.455921,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bristol, Queens Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.107730382056,
+                    51.5071090337,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stamford Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.139679,
+                    51.513769,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Great Marlborough Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.89738193478,
+                    52.480601413,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Birmingham, Cherry Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113031365446,
+                    51.521492263,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grays Inn Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.25423759641,
+                    55.8643927272,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glasgow, Sauchiehall Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.15451674396,
+                    51.5151087108,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Orchard Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.143861917465,
+                    51.5233867862,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "244 Great Portland St"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0984783304686,
+                    51.5231749121,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Goswell Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.117173,
+                    51.520408,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Theobalds Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.261258,
+                    55.86115,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glasgow, Bothwell Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.758403421342,
+                    52.0412541902,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Milton Keynes, Intu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.139629843885,
+                    51.525077162,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Euston Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103661117399,
+                    51.5166261772,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Holborn Viaduct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.089758,
+                    51.518985,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ropemaker Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.21022069183,
+                    55.9493986145,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edinburgh, Shandwick Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.970643581074,
+                    51.4552030839,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Reading, The Oracle Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.144879634996,
+                    51.4960333925,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Victoria Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.20316332974,
+                    55.9519967919,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edinburgh, Castle Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.196808,
+                    51.508891,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Notting Hill Gate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.107261145686,
+                    51.5143066036,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "143 Fleet Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122915,
+                    51.513926,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Long Acre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141732158762,
+                    51.5086885436,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Albemarle Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.54842505686,
+                    53.7975402008,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Leeds, Infirmary Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13248,
+                    51.499647,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tothill Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09612,
+                    51.514575,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "141 Cheapside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.21621589399,
+                    51.462388031,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Putney High Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.114706630988,
+                    51.5125954996,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "182 Strand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.08140319343,
+                    53.959013131,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "York, Parliament Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131918930333,
+                    51.5138861617,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Frith Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.144146442052,
+                    50.8236030221,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brighton, North Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.165685596314,
+                    51.4987362781,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brompton Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.19684488813,
+                    55.9531218323,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edinburgh, Hanover Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082173,
+                    51.518305,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Liverpool Street Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142614204267,
+                    51.5202340187,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "136 Great Portland Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0756839548004,
+                    51.5114211209,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "America Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0873620329688,
+                    51.5244862466,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "City Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.261067106244,
+                    51.8904483896,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stansted Airport, Airside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12689665526,
+                    51.5093632362,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Trafalgar Square North"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.018737034401,
+                    51.5025770773,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canary Wharf, Jubilee Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.079726,
+                    51.512165,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fenchurch Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.303459388214,
+                    51.4096220485,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kingston, Eden Walk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.128631,
+                    51.507312,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Trafalgar Square South"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.144161544966,
+                    51.5160162325,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cavendish Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.613508,
+                    54.973944,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Newcastle, Grainger Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.479175497961,
+                    51.5460614141,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Uxbridge, High Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.015237,
+                    51.402843,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bromley High Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.293484,
+                    52.627075,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Norwich, Haymarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102337,
+                    51.376034,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Croydon, North End"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.378037203322,
+                    51.8776563895,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Luton Airport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.101993174825,
+                    51.5199840979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St John Street, 3-5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0184612095966,
+                    51.5048819014,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canary Wharf, The Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.283779158976,
+                    51.4867875297,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lakeside Shopping Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124669199952,
+                    51.5232591685,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Russell Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0166050944887,
+                    51.5038899627,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canary Wharf, Canada Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0874043075257,
+                    51.520905749,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Finsbury Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0849846508957,
+                    51.5055614777,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tooley Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.146790556227,
+                    51.4943733095,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Buckingham Palace Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.174116786884,
+                    51.4933910062,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "South Kensington"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122085115293,
+                    51.5309058843,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pentonville Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.36034846703,
+                    51.3814582011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bath, Stall Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.574378058536,
+                    51.236308033,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Guildford, Swan Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0190242926923,
+                    51.5049077429,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canary Wharf, Tower Kiosk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.194497,
+                    51.480182,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fulham Broadway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131650548375,
+                    51.510230848,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Coventry Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.54351787439,
+                    53.797768702,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Leeds, Lands Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0785991842118,
+                    51.5097702172,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Byward Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0994126935506,
+                    51.5146332339,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paternoster Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6133086005,
+                    54.9768877015,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Newcastle, Northumberland St"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.89289721273,
+                    52.4778346764,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Birmingham, Selfridges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.457607752504,
+                    51.4699996291,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heathrow, Terminal 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.348267,
+                    53.466096,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manchester, Trafford Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.08060539902,
+                    51.2787077128,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canterbury, The Parade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.132828713853,
+                    51.5277810054,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Euston Station Piazza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127282,
+                    51.507207,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Whitehall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.163,
+                    51.1568,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gatwick, South Terminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127639720809,
+                    51.5283555187,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Euston Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.17449002608,
+                    51.4794889845,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cardiff, Bridge Street Arcade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122416,
+                    51.520358,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southampton Row"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.25543019258,
+                    55.8603991844,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glasgow, Gordon Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0913049064748,
+                    51.5068835328,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stoney Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0970588897937,
+                    51.5171742509,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aldersgate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.121191010074,
+                    51.5176520621,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "125 High Holborn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.093695659222,
+                    51.3747186945,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Croydon, George Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.106298262744,
+                    51.5328522715,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Islington, High Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141871,
+                    51.513807,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hanover Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0850192421333,
+                    51.519713942,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Whitecross Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142192215419,
+                    51.5381233342,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "157 Camden High St"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.144679824954,
+                    51.5095226438,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Berkeley Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.144162,
+                    51.540632,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Camden Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.135506644765,
+                    51.5156664234,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wardour Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.974266978356,
+                    51.4556324941,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Reading, Broad Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.187819,
+                    51.513418,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Queensway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.87939059356,
+                    53.2655818108,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cheshire Oaks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.182150530357,
+                    51.4939932423,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gloucester Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0992559150962,
+                    51.5056377593,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canvey Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0923271503978,
+                    51.5150095573,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gresham Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0867964172662,
+                    51.5098928055,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "King William Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.487568345324,
+                    51.4722298151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heathrow, Terminal 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.40446224143,
+                    50.9039500389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southampton, West Quay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.612899,
+                    54.975295,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Newcastle, Fenwick"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.25166463751,
+                    53.4796411089,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manchester, Spinningfields"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0821253580441,
+                    51.5120503334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cullum Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142318602954,
+                    51.4963896693,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "173 Victoria Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12615611234,
+                    51.5320129351,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St Pancras International"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.223690563906,
+                    51.4924332635,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hammersmith, Broadway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0980754011192,
+                    51.5200383003,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Barbican, Long Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.23548695281,
+                    53.4806158248,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manchester, Piccadilly Gardens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.139329675407,
+                    50.8211879383,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brighton, East Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.134187399986,
+                    51.5203021134,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "67 Tottenham Court Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0878162052948,
+                    51.5127152106,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lombard Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08127249669,
+                    51.5128379673,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "28 Fenchurch Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.25846908215,
+                    51.7534511037,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oxford, 26-27 Cornmarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.119672,
+                    52.20582,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cambridge, Market Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.147389283831,
+                    51.5167004505,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wigmore Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.089648,
+                    51.51653,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Coleman Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0776493706107,
+                    51.5196287207,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Spitalfields, 280 Bishops Sq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.58486734448,
+                    51.4591307941,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bristol, Cabot Circus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129189332938,
+                    51.4968336478,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Great Peter Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.107122827748,
+                    51.5178535343,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Holborn Circus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.98687608817,
+                    53.4033360921,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Liverpool, Paradise Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.089868,
+                    51.504806,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Borough High Street, 51"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14148864371,
+                    51.493406284,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wilton Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0936362156782,
+                    51.5173027321,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aldermanbury Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.99004905763,
+                    53.4053506161,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Liverpool, Derby Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138483,
+                    51.535159,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "18 Camden High Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0480413466277,
+                    51.5039848434,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "City Airport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081089,
+                    51.524636,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Great Eastern Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0805611510791,
+                    51.5045978727,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "More London"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141144,
+                    51.5128,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Conduit Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.145468489209,
+                    51.4941557848,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Victoria Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124610495361,
+                    51.4861758835,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vauxhall, St George's Wharf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138086702158,
+                    51.4926152881,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Warwick Way"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0976192730474,
+                    51.5120151057,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Queen Victoria Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.22417,
+                    51.57703,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brent Cross Shopping Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7343278959,
+                    52.4531702896,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Birmingham Airport, Airside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0193822285037,
+                    51.5010007321,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "South Quay Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.22078057554,
+                    51.5069895447,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Westfield, White City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.207276033761,
+                    51.4209625327,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wimbledon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0801375539568,
+                    51.5207771836,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bishopsgate, 201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13314028777,
+                    51.508154548,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lower Regent Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.77780366906,
+                    52.4128437394,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Solihull"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13890148555,
+                    51.5163854452,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eastcastle Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.89174953094,
+                    53.190988945,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chester, Northgate Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127100108948,
+                    51.5170115288,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "6468 New Oxford Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.146015100929,
+                    51.5127038209,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Avery Row"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.108068558851,
+                    51.5027326642,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Cut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.140895395683,
+                    51.5505815462,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kentish Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.151611510791,
+                    51.5016810365,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grosvenor Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0680799280576,
+                    51.5080806301,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Thomas More Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.158101896403,
+                    51.5228854144,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Baker Street, 211-213"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.473651093672,
+                    51.7338086465,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chelmsford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.521157823637,
+                    51.2752883813,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Maidstone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0780909416527,
+                    51.5150952383,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Houndsditch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.610420644914,
+                    51.4819899258,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Windsor, 52 King Edward Court"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.398028784173,
+                    51.6567413734,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Watford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.109703,
+                    51.516772,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fetter Lane, 110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.122157178187,
+                    51.5334518416,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "York Way"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.179599784997,
+                    51.5193274276,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paddington, 8 Sheldon Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1501597,
+                    51.514903,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St Christopher's Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.104435791191,
+                    51.515543113,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Farringdon Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.458212307194,
+                    51.4705089666,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heathrow Terminal 3, Airside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.169928,
+                    51.51913,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Praed St"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.447729137568,
+                    51.4597798754,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heathrow, Terminal 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.131825553161,
+                    51.5182468914,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tottenham Court Road, 237"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.23096107112,
+                    53.4777219749,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manchester, Piccadilly Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.09939469558,
+                    57.148586578,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aberdeen, Bon Accord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0733812283055,
+                    51.513783289,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mansell Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.129721028154,
+                    51.4947927361,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Horseferry Road, 19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.121430762046,
+                    51.510322681,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "87-88 Strand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00532877697844,
+                    51.5438470567,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Westfield Stratford City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.193071730917,
+                    51.4921508555,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Earls Court Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.304561980681,
+                    51.5130184781,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ealing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.330907370666,
+                    51.0626849209,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Horsham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.558564553539,
+                    51.3197958664,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Woking, Wolsey Walk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.143819092648,
+                    51.5144550479,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hanover Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.139364755789,
+                    51.4968448259,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Victoria Street, 143"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.10710420091,
+                    57.1443877785,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aberdeen, Union Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.74100130865,
+                    51.1294161017,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Clarks Village, Somerset"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.135938763596,
+                    51.4986653757,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Caxton Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.487861952071,
+                    51.4723563316,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heathrow, T5 Kiosk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12501188972,
+                    51.531541138,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kings Cross, Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.251292749,
+                    55.8606628494,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glasgow, Queen Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.143525769056,
+                    51.5065966946,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Piccadilly, 81"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124342824972,
+                    51.5313401773,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kings Cross Station, Kiosk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.26355990384,
+                    51.13403877,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tunbridge Wells"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.124942126322,
+                    51.5141569144,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shelton Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.103096122668,
+                    51.5244233774,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St John Street, 182"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0843961913663,
+                    51.510819114,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eastcheap, 19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10594513853,
+                    51.5315478873,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St John Street, 402"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.18166511107,
+                    51.4854223374,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fulham Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.163081881343,
+                    51.1719646468,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gatwick, North Terminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.303645234442,
+                    51.4610920839,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Richmond, Lower George Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0919337851036,
+                    51.5026325015,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Borough High Street, 167"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138352751784,
+                    51.5111065694,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Regent Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.107452,
+                    51.522336,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "95 Farringdon Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.171474,
+                    51.534058,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St John's Wood"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11245,
+                    51.503293,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Waterloo Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.17313231507,
+                    51.4827755873,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cardiff, Capitol Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.155065804509,
+                    51.5172916004,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "20 Baker Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.751272,
+                    52.043052,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Milton Keynes, Eagle Walk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.077436,
+                    51.523895,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shoreditch High Street, 192"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0728276799832,
+                    51.5155828326,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aldgate East Tube Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.132657,
+                    52.635456,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Leicester, Gallowtree Gate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00191829509276,
+                    51.5412067845,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stratford Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.302939848311,
+                    51.4109666381,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kingston, Clarence Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.277903871779,
+                    51.559302704,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wembley, (LDO) Designer Outlet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.104305257566,
+                    51.5017164989,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Blackfriars Road,157"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2429983397,
+                    53.4762759909,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manchester, Oxford Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.338176,
+                    51.753138,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St Albans, St Peter's Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.243959233778,
+                    52.5733361054,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Peterborough Queensgate Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.186795031404,
+                    51.1144637329,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crawley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.117104594327,
+                    51.5176869698,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "High Holborn, 280"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.147231046657,
+                    51.5151868826,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vere Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.59064130405,
+                    51.4569770487,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bristol, 95 Broadmead"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.32459797433,
+                    51.4019656099,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Newbury, 93 Northbrook Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0879822618284,
+                    51.523690555,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "London Wall, 165-166"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16178706456,
+                    51.4901228556,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kings Road, 35-37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0829686555225,
+                    51.5153803427,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bishopsgate 55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.10658084177,
+                    51.5344058523,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Islington , N1 Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.138803198122,
+                    51.5239055636,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Warren Street, 14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.091684502138,
+                    51.5134092008,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "90 Queen Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.130089685072,
+                    51.5082275732,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pall Mall East, 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0891337031824,
+                    51.5051392904,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Borough High Street, 11-13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.134987100882,
+                    51.4973434462,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Victoria Street, 95"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.112610859506,
+                    51.5130734101,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Strand, 217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.092814,
+                    51.522853,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Whitecross Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.224956191315,
+                    51.4933713042,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hammersmith Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.18843867614,
+                    55.9509699928,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edinburgh, North Bridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.36484320882,
+                    55.875986935,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glasgow, Braehead"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0143052315674,
+                    51.4987880585,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Harbour Island"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5953854962,
+                    51.5251106874,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bristol, Cribbs Causeway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137146417351,
+                    51.5185825677,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mortimer Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.89749560547,
+                    52.4821899811,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Birmingham, Colmore Row"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.34209621123,
+                    55.8229352624,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glasgow, Silverburn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.177420969592,
+                    51.51745282,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paddington Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.79586911677,
+                    56.3407630416,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St Andrews"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.10656395649,
+                    50.7963001946,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Portsmouth, Gunwharf Quay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.24646718435,
+                    53.4820665651,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Manchester, Deansgate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0852991003899,
+                    51.5144561906,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "125 Old Broad Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.66854461253,
+                    54.9576626707,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gateshead, Metrocentre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12822098331,
+                    51.5253378508,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tavistock Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0790366,
+                    51.508858,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tower Hill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.08794869586,
+                    51.2655884655,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Basingstoke, Festival Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.104006671774,
+                    51.5057853863,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Blackfrairs Road, 240"
+            }
+        }
+    ]
+}
+
