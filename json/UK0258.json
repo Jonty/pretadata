@@ -1,0 +1,24 @@
+{
+    "getting_there": "Our shop is a beautifully placed egg shape, open space shop just in the centre of Terminal 1 lounge area.",
+    "has_opened": true,
+    "location": {
+        "address": "Birmingham Airport, Birmingham B26 3QJ",
+        "latitude": "52.4531702896",
+        "longitude": "-1.7343278959"
+    },
+    "opening_hours": {
+        "friday": "04:00 - 20:00",
+        "monday": "04:00 - 20:00",
+        "saturday": "04:00 - 20:00",
+        "sunday": "04:00 - 20:00",
+        "thursday": "04:00 - 20:00",
+        "tuesday": "04:00 - 20:00",
+        "wednesday": "04:00 - 20:00"
+    },
+    "phone_number": "0121 767 8231",
+    "seating": "Lots of seats",
+    "title": "Birmingham Airport, Airside",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

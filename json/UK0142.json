@@ -1,0 +1,24 @@
+{
+    "getting_there": "Off the Minories, between Fenchurch St and Tower Hill tube stations.",
+    "has_opened": true,
+    "location": {
+        "address": "3 America Square, London EC3N 2LR",
+        "latitude": "51.5114211209",
+        "longitude": "-0.0756839548004"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:00",
+        "monday": "06:30 - 19:00",
+        "saturday": "08:00 - 16:00",
+        "sunday": "08:00 - 16:00",
+        "thursday": "06:30 - 19:00",
+        "tuesday": "06:30 - 19:00",
+        "wednesday": "06:30 - 19:00"
+    },
+    "phone_number": "020 7932 5342",
+    "seating": "Some seats",
+    "title": "America Square",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

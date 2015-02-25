@@ -1,0 +1,24 @@
+{
+    "getting_there": "In the Vitro Building, which is towards the eastern end of Fenchurch St, and very close to the station.",
+    "has_opened": true,
+    "location": {
+        "address": "Vitro Building, 62-63 Fenchurch Street, London EC3M 4AQ",
+        "latitude": "51.512165",
+        "longitude": "-0.079726"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:00",
+        "monday": "06:30 - 19:00",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 19:00",
+        "tuesday": "06:30 - 19:00",
+        "wednesday": "06:30 - 19:00"
+    },
+    "phone_number": "020 7932 5348",
+    "seating": "Some seats",
+    "title": "Fenchurch Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

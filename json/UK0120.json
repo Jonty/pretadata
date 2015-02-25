@@ -1,0 +1,24 @@
+{
+    "getting_there": "Directly outside Notting Hill tube station.",
+    "has_opened": true,
+    "location": {
+        "address": "65 Notting Hill Gate, London W11 3JS",
+        "latitude": "51.508891",
+        "longitude": "-0.196808"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 22:00",
+        "monday": "06:30 - 22:00",
+        "saturday": "06:30 - 22:00",
+        "sunday": "08:00 - 22:00",
+        "thursday": "06:30 - 22:00",
+        "tuesday": "06:30 - 22:00",
+        "wednesday": "06:30 - 22:00"
+    },
+    "phone_number": "020 7932 5320",
+    "seating": "Some seats",
+    "title": "Notting Hill Gate",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

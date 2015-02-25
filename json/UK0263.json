@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is located right at the bottom of Regent Street. Exit Piccadilly station and  walk 100 yards past Lillywhites as you will find the shop.",
+    "has_opened": true,
+    "location": {
+        "address": "Retail Unit 2, 2 Regent Street, London  SW1Y 4PF",
+        "latitude": "51.508154548",
+        "longitude": "-0.13314028777"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 21:00",
+        "monday": "06:30 - 21:00",
+        "saturday": "07:00 - 21:30",
+        "sunday": "07:00 - 20:00",
+        "thursday": "06:30 - 21:00",
+        "tuesday": "06:30 - 21:00",
+        "wednesday": "06:30 - 21:00"
+    },
+    "phone_number": "020 7932 5309",
+    "seating": "Some seats",
+    "title": "Lower Regent Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

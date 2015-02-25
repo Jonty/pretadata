@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit Chancery Lane station and take a left down High Holborn. You will see the shop on your left.",
+    "has_opened": true,
+    "location": {
+        "address": "319 High Holborn, London WC1V 7PU",
+        "latitude": "51.5181546133",
+        "longitude": "-0.112728300111"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:30",
+        "monday": "06:30 - 19:30",
+        "saturday": "08:00 - 17:00",
+        "sunday": "09:00 - 16:00",
+        "thursday": "06:30 - 19:30",
+        "tuesday": "06:30 - 19:30",
+        "wednesday": "06:30 - 19:30"
+    },
+    "phone_number": "020 7932 5202",
+    "seating": "No seats",
+    "title": "319 High Holborn",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

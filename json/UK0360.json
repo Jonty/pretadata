@@ -1,0 +1,24 @@
+{
+    "getting_there": "Just across the road from the 'Royal Courts of Justice'. Temple and Chancery Lane are the nearest tubes.",
+    "has_opened": true,
+    "location": {
+        "address": "217 Strand, London WC2R 1AT",
+        "latitude": "51.5130734101",
+        "longitude": "-0.112610859506"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:00",
+        "monday": "06:30 - 20:00",
+        "saturday": "08:30 - 17:30",
+        "sunday": "08:30 - 17:30",
+        "thursday": "06:30 - 20:00",
+        "tuesday": "06:30 - 20:00",
+        "wednesday": "06:30 - 20:00"
+    },
+    "phone_number": "02079364839",
+    "seating": "Lots of seats",
+    "title": "Strand, 217",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

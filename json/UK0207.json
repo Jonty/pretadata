@@ -1,0 +1,24 @@
+{
+    "getting_there": "By heading in the direction of Mornington Crescent from Camden tube station, and we're 2 minutes away on your right.",
+    "has_opened": true,
+    "location": {
+        "address": "157 Camden High Street, London NW1 7JY",
+        "latitude": "51.5381233342",
+        "longitude": "-0.142192215419"
+    },
+    "opening_hours": {
+        "friday": "07:15 - 20:30",
+        "monday": "07:15 - 20:30",
+        "saturday": "07:30 - 21:00",
+        "sunday": "07:30 - 20:00",
+        "thursday": "07:15 - 20:30",
+        "tuesday": "07:15 - 20:30",
+        "wednesday": "07:15 - 20:30"
+    },
+    "phone_number": "020 7932 5407",
+    "seating": "Some seats",
+    "title": "157 Camden High St",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

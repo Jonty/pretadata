@@ -1,0 +1,24 @@
+{
+    "getting_there": "From Windsor Central Station turn immediately right and walk through the shopping arcade to exit near Carluccio\u0092s. Continue along King Edward Court past Waitrose and turn left and you will see Pret.",
+    "has_opened": true,
+    "location": {
+        "address": "52 King Edward Court, Windsor, Berkshire SL4 1TG",
+        "latitude": "51.4819899258",
+        "longitude": "-0.610420644914"
+    },
+    "opening_hours": {
+        "friday": "07:30 - 18:30",
+        "monday": "07:30 - 18:30",
+        "saturday": "07:30 - 19:00",
+        "sunday": "09:00 - 18:30",
+        "thursday": "07:30 - 18:30",
+        "tuesday": "07:30 - 18:30",
+        "wednesday": "07:30 - 18:30"
+    },
+    "phone_number": "020 7932 5377",
+    "seating": "Some seats",
+    "title": "Windsor, 52 King Edward Court",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

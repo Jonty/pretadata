@@ -1,0 +1,24 @@
+{
+    "getting_there": "At the top end of Long Acre, past the Opera House near Drury Lane. Take a right turn out of Covent Garden tube station and we're just a minute away.",
+    "has_opened": true,
+    "location": {
+        "address": "65 Long Acre, London WC2E 9JD",
+        "latitude": "51.513926",
+        "longitude": "-0.122915"
+    },
+    "opening_hours": {
+        "friday": "06:45 - 20:00",
+        "monday": "06:45 - 20:00",
+        "saturday": "08:30 - 20:00",
+        "sunday": "09:00 - 18:00",
+        "thursday": "06:45 - 20:00",
+        "tuesday": "06:45 - 20:00",
+        "wednesday": "06:45 - 20:00"
+    },
+    "phone_number": "020 7932 5324",
+    "seating": "Lots of seats",
+    "title": "Long Acre",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

@@ -1,0 +1,24 @@
+{
+    "getting_there": "From Piccadilly Circus tube station, Walk towards Haymarket turn into Coventry Street between Rock Circus and Pavillion Theatre.",
+    "has_opened": true,
+    "location": {
+        "address": "39 Coventry Street, London W1D 6BZ",
+        "latitude": "51.510230848",
+        "longitude": "-0.131650548375"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 23:00",
+        "monday": "06:30 - 23:00",
+        "saturday": "07:00 - 23:00",
+        "sunday": "07:00 - 23:00",
+        "thursday": "06:30 - 23:00",
+        "tuesday": "06:30 - 23:00",
+        "wednesday": "06:30 - 23:00"
+    },
+    "phone_number": "020 7932 5264",
+    "seating": "Some seats",
+    "title": "Coventry Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

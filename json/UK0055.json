@@ -1,0 +1,24 @@
+{
+    "getting_there": "At the Charing Cross end of the Strand, on the corner of Bedford Street, just along from the Adelphi Theatre.",
+    "has_opened": true,
+    "location": {
+        "address": "421/422   Strand, London WC2R 0PS",
+        "latitude": "51.509870454",
+        "longitude": "-0.12337114745"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 20:30",
+        "monday": "07:00 - 20:30",
+        "saturday": "08:00 - 20:30",
+        "sunday": "09:00 - 19:30",
+        "thursday": "07:00 - 20:30",
+        "tuesday": "07:00 - 20:30",
+        "wednesday": "07:00 - 20:30"
+    },
+    "phone_number": "020 7932 5255",
+    "seating": "Lots of seats",
+    "title": "421 Strand",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

@@ -1,0 +1,24 @@
+{
+    "getting_there": "A few minutes walk from Old Street station, just passed the Hoxton Hotel.",
+    "has_opened": true,
+    "location": {
+        "address": "57, Great Eastern Street, London EC2A 3QD",
+        "latitude": "51.524636",
+        "longitude": "-0.081089"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:30",
+        "monday": "06:30 - 20:30",
+        "saturday": "08:00 - 18:30",
+        "sunday": "09:00 - 17:30",
+        "thursday": "06:30 - 20:30",
+        "tuesday": "06:30 - 20:30",
+        "wednesday": "06:30 - 20:30"
+    },
+    "phone_number": "020 7932 5393",
+    "seating": "Lots of seats",
+    "title": "Great Eastern Street",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

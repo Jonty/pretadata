@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is located in the centre of Spitalsfield's market.",
+    "has_opened": true,
+    "location": {
+        "address": "Ground Floor, 280 Bishops Square, Spitalfields EC2M 4RB",
+        "latitude": "51.5196287207",
+        "longitude": "-0.0776493706107"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 19:30",
+        "monday": "07:00 - 19:30",
+        "saturday": "07:00 - 20:00",
+        "sunday": "07:30 - 20:00",
+        "thursday": "07:00 - 19:30",
+        "tuesday": "07:00 - 19:30",
+        "wednesday": "07:00 - 19:30"
+    },
+    "phone_number": "020 7932 5442",
+    "seating": "Some seats",
+    "title": "Spitalfields, 280 Bishops Sq",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

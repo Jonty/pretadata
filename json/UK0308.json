@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit M5, Junction 23 and follow the A39 to Street/Clarks Village. \rFrom the A303, exit the Podimore roundabout and follow the B3151 to Street/Clarks Village. The nearest train are Castle Cary, Taunton and Yeovil, all approx. 30 minutes away by car.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 37D, Clarks Village Street , Somerset BA16 0BB",
+        "latitude": "51.1294161017",
+        "longitude": "-2.74100130865"
+    },
+    "opening_hours": {
+        "friday": "08:30 - 18:00",
+        "monday": "08:30 - 18:00",
+        "saturday": "08:30 - 18:00",
+        "sunday": "09:30 - 17:00",
+        "thursday": "08:30 - 20:00",
+        "tuesday": "08:30 - 18:00",
+        "wednesday": "08:30 - 18:00"
+    },
+    "phone_number": "01458 445406",
+    "seating": "Lots of seats",
+    "title": "Clarks Village, Somerset",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": false
+}

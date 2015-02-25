@@ -1,0 +1,24 @@
+{
+    "getting_there": "Go through customs. Take either escalator to bottom floor. We are next door to the duty free shop.  Our mobile numbers are 07584680834 and 07880008361. Or call the kitchen on 02082836232.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 8 Gate Level, Terminal 5, Heathrow Airport, Hounslow TW6 2GA",
+        "latitude": "51.4722298151",
+        "longitude": "-0.487568345324"
+    },
+    "opening_hours": {
+        "friday": "05:00 - 21:30",
+        "monday": "05:00 - 21:30",
+        "saturday": "05:00 - 21:30",
+        "sunday": "05:00 - 21:30",
+        "thursday": "05:00 - 21:30",
+        "tuesday": "05:00 - 21:30",
+        "wednesday": "05:00 - 21:30"
+    },
+    "phone_number": "075846 80834",
+    "seating": "Lots of seats",
+    "title": "Heathrow, Terminal 5",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": false
+}

@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is opposite House of Fraser. From Cross Street straight down to St Ann street, on the corner on the right.",
+    "has_opened": true,
+    "location": {
+        "address": "79-81 Deansgate, Manchester M3 2BW",
+        "latitude": "53.4820665651",
+        "longitude": "-2.24646718435"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 19:00",
+        "monday": "07:00 - 19:00",
+        "saturday": "08:00 - 19:00",
+        "sunday": "09:00 - 18:00",
+        "thursday": "07:00 - 19:00",
+        "tuesday": "07:00 - 19:00",
+        "wednesday": "07:00 - 19:00"
+    },
+    "phone_number": "01618328292",
+    "seating": "Lots of seats",
+    "title": "Manchester, Deansgate",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

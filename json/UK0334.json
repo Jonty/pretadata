@@ -1,0 +1,24 @@
+{
+    "getting_there": "Unit 1, 1 Commercial Street. Call the team on 07557742317.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 1, 1 Commercial Street, London   E1 6BF",
+        "latitude": "51.5155828326",
+        "longitude": "-0.0728276799832"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:00",
+        "monday": "06:30 - 19:00",
+        "saturday": "07:00 - 19:00",
+        "sunday": "07:30 - 19:00",
+        "thursday": "06:30 - 19:00",
+        "tuesday": "06:30 - 19:00",
+        "wednesday": "06:30 - 19:00"
+    },
+    "phone_number": "02070929114",
+    "seating": "Lots of seats",
+    "title": "Aldgate East Tube Station",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

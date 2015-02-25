@@ -1,0 +1,24 @@
+{
+    "getting_there": "Eden Walk is just off Eden Street - we are next to Ann Summers and directly opposite Sainsburys on the pedestrian walkway going into the shopping centre.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 5, Eden Walk, Kingston upon Thames, Surrey KT1 1BP",
+        "latitude": "51.4096220485",
+        "longitude": "-0.303459388214"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 18:00",
+        "monday": "07:00 - 18:00",
+        "saturday": "07:30 - 19:00",
+        "sunday": "09:00 - 18:00",
+        "thursday": "07:00 - 18:00",
+        "tuesday": "07:00 - 18:00",
+        "wednesday": "07:00 - 18:00"
+    },
+    "phone_number": "020 7932 5349",
+    "seating": "Lots of seats",
+    "title": "Kingston, Eden Walk",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

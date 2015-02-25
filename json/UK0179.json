@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit St Pauls tube station and walk towards St Pauls Cathedral. Turn right into Paternoster Sq. We are next to the London Stock Exchange on the main square.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 1, 10 Paternoster Square, London EC4M 7DY",
+        "latitude": "51.5146332339",
+        "longitude": "-0.0994126935506"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:00",
+        "monday": "06:30 - 20:00",
+        "saturday": "09:00 - 17:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "06:30 - 20:00",
+        "tuesday": "06:30 - 20:00",
+        "wednesday": "06:30 - 20:00"
+    },
+    "phone_number": "020 7932 5379",
+    "seating": "Lots of seats",
+    "title": "Paternoster Square",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

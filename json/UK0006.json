@@ -1,0 +1,24 @@
+{
+    "getting_there": "As part of a small row of shops which connect Pall Mall and King Street and which run parallel with the bottom of St James's Street.",
+    "has_opened": true,
+    "location": {
+        "address": "21 Crown Passage, London SW1Y 6PP",
+        "latitude": "51.5056174817",
+        "longitude": "-0.137658432518"
+    },
+    "opening_hours": {
+        "friday": "06:45 - 18:00",
+        "monday": "06:45 - 18:00",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:45 - 18:00",
+        "tuesday": "06:45 - 18:00",
+        "wednesday": "06:45 - 18:00"
+    },
+    "phone_number": "020 7932 5206",
+    "seating": "No seats",
+    "title": "Crown Passage",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

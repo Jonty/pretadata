@@ -1,0 +1,24 @@
+{
+    "getting_there": "At the St Paul's end of Cheapside. From exit 1 of St Paul's tube station, we're on your left-hand side.",
+    "has_opened": true,
+    "location": {
+        "address": "141 Cheapside, London EC2V 6BJ",
+        "latitude": "51.514575",
+        "longitude": "-0.09612"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:00",
+        "monday": "06:30 - 20:00",
+        "saturday": "07:30 - 18:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "06:30 - 20:00",
+        "tuesday": "06:30 - 20:00",
+        "wednesday": "06:30 - 20:00"
+    },
+    "phone_number": "020 7932 5329",
+    "seating": "Some seats",
+    "title": "141 Cheapside",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

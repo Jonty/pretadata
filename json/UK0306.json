@@ -1,0 +1,24 @@
+{
+    "getting_there": "A few minutes walk from Victoria Station.",
+    "has_opened": true,
+    "location": {
+        "address": "143 Victoria Street, London SW1E 6RD",
+        "latitude": "51.4968448259",
+        "longitude": "-0.139364755789"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:30",
+        "monday": "06:30 - 19:30",
+        "saturday": "09:00 - 17:00",
+        "sunday": "09:30 - 17:00",
+        "thursday": "06:30 - 19:30",
+        "tuesday": "06:30 - 19:30",
+        "wednesday": "06:30 - 19:30"
+    },
+    "phone_number": "020 7821 0028",
+    "seating": "No seats",
+    "title": "Victoria Street, 143",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

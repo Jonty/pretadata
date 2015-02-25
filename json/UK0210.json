@@ -1,0 +1,24 @@
+{
+    "getting_there": "Get off at Oxford Street walk down towards Tottenham Crt Rd, Wardour Street is the street right after Berwick Street",
+    "has_opened": true,
+    "location": {
+        "address": "182 Wardour Street, London W1F 8FZ",
+        "latitude": "51.5156664234",
+        "longitude": "-0.135506644765"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 19:00",
+        "monday": "07:00 - 19:00",
+        "saturday": "08:30 - 18:30",
+        "sunday": "10:00 - 17:00",
+        "thursday": "07:00 - 19:00",
+        "tuesday": "07:00 - 19:00",
+        "wednesday": "07:00 - 19:00"
+    },
+    "phone_number": "020 7932 5208",
+    "seating": "Lots of seats",
+    "title": "Wardour Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

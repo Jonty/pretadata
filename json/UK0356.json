@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit Bank underground station, take the Poultry Cheapside exit. Walking towards St Paul's Cathedral. Queen street is the first road on your left opposite King Street.",
+    "has_opened": true,
+    "location": {
+        "address": "90 Queen Street, London EC4N 1SA",
+        "latitude": "51.5134092008",
+        "longitude": "-0.091684502138"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:00",
+        "monday": "06:30 - 20:00",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 20:00",
+        "tuesday": "06:30 - 20:00",
+        "wednesday": "06:30 - 20:00"
+    },
+    "phone_number": "0207 332 0238",
+    "seating": "Lots of seats",
+    "title": "90 Queen Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

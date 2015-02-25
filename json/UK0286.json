@@ -1,0 +1,24 @@
+{
+    "getting_there": "On Farringdon Street, situated unit 1 in the Nexus building",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 1, Nexus Place, 24 Farringdon Street, London EC4A 4JA",
+        "latitude": "51.515543113",
+        "longitude": "-0.104435791191"
+    },
+    "opening_hours": {
+        "friday": "06:45 - 17:30",
+        "monday": "06:45 - 17:30",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:45 - 17:30",
+        "tuesday": "06:45 - 17:30",
+        "wednesday": "06:45 - 17:30"
+    },
+    "phone_number": "020 7932 5450",
+    "seating": "Lots of seats",
+    "title": "Farringdon Street",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": false,
+    "wifi": true
+}

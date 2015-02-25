@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit Barbican station, turn right, walk  towards the Museum of London. The shop is on the far right corner building on the roundabout.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 1, 200 Aldersgate, London  EC1A 4HD",
+        "latitude": "51.5171742509",
+        "longitude": "-0.0970588897937"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:30",
+        "monday": "06:30 - 20:30",
+        "saturday": "08:00 - 18:00",
+        "sunday": "09:00 - 17:30",
+        "thursday": "06:30 - 20:30",
+        "tuesday": "06:30 - 20:30",
+        "wednesday": "06:30 - 20:30"
+    },
+    "phone_number": "020 7932 5437",
+    "seating": "Some seats",
+    "title": "Aldersgate",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

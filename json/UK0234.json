@@ -1,0 +1,24 @@
+{
+    "getting_there": "Come out of Monument station. Walk up Gracechurch Street. Turn right into Fenchurch Street.  Walk along and turn left into Fenchurch Avenue.",
+    "has_opened": true,
+    "location": {
+        "address": "28 Fenchurch Avenue, London EC3M 5AD",
+        "latitude": "51.5128379673",
+        "longitude": "-0.08127249669"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 18:00",
+        "monday": "06:30 - 18:00",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 18:00",
+        "tuesday": "06:30 - 18:00",
+        "wednesday": "06:30 - 18:00"
+    },
+    "phone_number": "020 7932 5344",
+    "seating": "Lots of seats",
+    "title": "28 Fenchurch Avenue",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

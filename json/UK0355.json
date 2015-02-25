@@ -1,0 +1,24 @@
+{
+    "getting_there": "A few minutes walk from Warren Street station.",
+    "has_opened": true,
+    "location": {
+        "address": "14 Warren Street, London W1T 5LL",
+        "latitude": "51.5239055636",
+        "longitude": "-0.138803198122"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 21:00",
+        "monday": "06:30 - 21:00",
+        "saturday": "08:00 - 18:00",
+        "sunday": "08:00 - 17:00",
+        "thursday": "06:30 - 21:00",
+        "tuesday": "06:30 - 21:00",
+        "wednesday": "06:30 - 21:00"
+    },
+    "phone_number": "02073876661",
+    "seating": "Lots of seats",
+    "title": "Warren Street, 14",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

@@ -1,0 +1,24 @@
+{
+    "getting_there": "On the edge of Berkeley Square, so in-between Green Park and Bond Street stations.",
+    "has_opened": true,
+    "location": {
+        "address": "7 Berkeley Square, London W1J 6ES",
+        "latitude": "51.5095226438",
+        "longitude": "-0.144679824954"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 22:00",
+        "monday": "06:30 - 22:00",
+        "saturday": "07:00 - 20:30",
+        "sunday": "08:30 - 19:00",
+        "thursday": "06:30 - 22:00",
+        "tuesday": "06:30 - 22:00",
+        "wednesday": "06:30 - 22:00"
+    },
+    "phone_number": "020 7932 5408",
+    "seating": "Lots of seats",
+    "title": "Berkeley Square",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

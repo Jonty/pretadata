@@ -1,0 +1,24 @@
+{
+    "getting_there": "Head to the main exit. Before you reach the exit, turn left and the shop is in your right hand-side.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 3 Concourse, Manchester Piccadilly Station, Manchester M1 2BN",
+        "latitude": "53.4777219749",
+        "longitude": "-2.23096107112"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 21:00",
+        "monday": "06:00 - 21:00",
+        "saturday": "07:00 - 21:00",
+        "sunday": "08:00 - 20:00",
+        "thursday": "06:00 - 21:00",
+        "tuesday": "06:00 - 21:00",
+        "wednesday": "06:00 - 21:00"
+    },
+    "phone_number": "020 7932 5457",
+    "seating": "Some seats",
+    "title": "Manchester, Piccadilly Station",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

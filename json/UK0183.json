@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is located within Selfridges on the first floor at front.",
+    "has_opened": true,
+    "location": {
+        "address": "Selfridges, Trafford Centre, Manchester M17 8DA",
+        "latitude": "53.466096",
+        "longitude": "-2.348267"
+    },
+    "opening_hours": {
+        "friday": "09:30 - 22:30",
+        "monday": "09:30 - 22:30",
+        "saturday": "09:00 - 21:30",
+        "sunday": "11:30 - 17:30",
+        "thursday": "09:30 - 22:30",
+        "tuesday": "09:30 - 22:30",
+        "wednesday": "09:30 - 22:30"
+    },
+    "phone_number": "0161 7550942",
+    "seating": "Some seats",
+    "title": "Manchester, Trafford Centre",
+    "toilets": "Nearby Disabled",
+    "wheelchair_access": true,
+    "wifi": false
+}

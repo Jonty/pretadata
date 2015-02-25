@@ -1,0 +1,24 @@
+{
+    "getting_there": "Directly opposite the side entrance (and McDonald's) at Liverpool Street station.",
+    "has_opened": true,
+    "location": {
+        "address": "19-20 Liverpool Street, London EC2M 7PD",
+        "latitude": "51.517399",
+        "longitude": "-0.082559"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 20:00",
+        "monday": "06:00 - 20:00",
+        "saturday": "07:30 - 17:30",
+        "sunday": "07:30 - 17:30",
+        "thursday": "06:00 - 20:00",
+        "tuesday": "06:00 - 20:00",
+        "wednesday": "06:00 - 20:00"
+    },
+    "phone_number": "020 7932 5267",
+    "seating": "No seats",
+    "title": "Liverpool Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

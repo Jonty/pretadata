@@ -1,0 +1,24 @@
+{
+    "getting_there": "On the south side of Trafalgar Square, just opposite Nelson's Column",
+    "has_opened": true,
+    "location": {
+        "address": "62/65 Trafalgar Square, London WC2N 5DS",
+        "latitude": "51.507312",
+        "longitude": "-0.128631"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 21:00",
+        "monday": "06:30 - 21:00",
+        "saturday": "07:30 - 21:00",
+        "sunday": "07:30 - 21:00",
+        "thursday": "06:30 - 21:00",
+        "tuesday": "06:30 - 21:00",
+        "wednesday": "06:30 - 21:00"
+    },
+    "phone_number": "020 7932 5350",
+    "seating": "Lots of seats",
+    "title": "Trafalgar Square South",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

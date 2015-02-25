@@ -1,0 +1,24 @@
+{
+    "getting_there": "We are on St Martin's Place, just off the northeast side of Trafalgar Square and opposite the Chandos pub.",
+    "has_opened": true,
+    "location": {
+        "address": "7-8 St Martin's Place, London WC2N 4JH",
+        "latitude": "51.5093632362",
+        "longitude": "-0.12689665526"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 23:00",
+        "monday": "07:00 - 23:00",
+        "saturday": "07:00 - 23:00",
+        "sunday": "07:00 - 23:00",
+        "thursday": "07:00 - 23:00",
+        "tuesday": "07:00 - 23:00",
+        "wednesday": "07:00 - 23:00"
+    },
+    "phone_number": "020 7932 5345",
+    "seating": "Lots of seats",
+    "title": "Trafalgar Square North",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

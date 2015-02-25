@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit the station. Follow the signs for Queensgate Shopping Centre. Walk through the shopping centre, and take the  down escalator. The shop is located on the left by the main door leading to the high street, Long Causeway.",
+    "has_opened": true,
+    "location": {
+        "address": "2/3 Queensgate Shopping Centre, Peterborough PE1 1NH",
+        "latitude": "52.5733361054",
+        "longitude": "-0.243959233778"
+    },
+    "opening_hours": {
+        "friday": "07:30 - 20:00",
+        "monday": "07:30 - 18:00",
+        "saturday": "07:30 - 18:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "07:30 - 20:00",
+        "tuesday": "07:30 - 18:00",
+        "wednesday": "07:30 - 18:00"
+    },
+    "phone_number": "01733 307637",
+    "seating": "Lots of seats",
+    "title": "Peterborough Queensgate Centre",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

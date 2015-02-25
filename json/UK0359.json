@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is located on the corner of Victoria Street, No 95. Opposite House of Fraser store.",
+    "has_opened": true,
+    "location": {
+        "address": "93-95 Victoria Street, London SW1H 0HW",
+        "latitude": "51.4973434462",
+        "longitude": "-0.134987100882"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 21:00",
+        "monday": "06:00 - 21:00",
+        "saturday": "07:00 - 19:30",
+        "sunday": "07:30 - 19:00",
+        "thursday": "06:00 - 21:00",
+        "tuesday": "06:00 - 21:00",
+        "wednesday": "06:00 - 21:00"
+    },
+    "phone_number": "02072226293",
+    "seating": "Lots of seats",
+    "title": "Victoria Street, 95",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

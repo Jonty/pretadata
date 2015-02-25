@@ -1,0 +1,24 @@
+{
+    "getting_there": "Very close to Holborn tube station. Come out of the station onto High Holborn, take a right, and we're just 20 seconds away.",
+    "has_opened": true,
+    "location": {
+        "address": "240/241 High Holborn, London WC1V 7DN",
+        "latitude": "51.5175588662",
+        "longitude": "-0.119036661608"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 23:00",
+        "monday": "06:30 - 22:00",
+        "saturday": "07:00 - 23:00",
+        "sunday": "07:00 - 21:00",
+        "thursday": "06:30 - 23:00",
+        "tuesday": "06:30 - 22:00",
+        "wednesday": "06:30 - 23:00"
+    },
+    "phone_number": "020 7932 5231",
+    "seating": "Some seats",
+    "title": "240 High Holborn",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

@@ -1,0 +1,24 @@
+{
+    "getting_there": "On the high street, near the cathedral walk through.",
+    "has_opened": true,
+    "location": {
+        "address": "Canterbury, The Parade, Unit 7, The Parade, Canterbury CT1 2JL",
+        "latitude": "51.2787077128",
+        "longitude": "1.08060539902"
+    },
+    "opening_hours": {
+        "friday": "07:30 - 17:30",
+        "monday": "07:30 - 17:30",
+        "saturday": "07:30 - 17:30",
+        "sunday": "09:00 - 17:00",
+        "thursday": "07:30 - 17:30",
+        "tuesday": "07:30 - 17:30",
+        "wednesday": "07:30 - 17:30"
+    },
+    "phone_number": "01227479563",
+    "seating": "Lots of seats",
+    "title": "Canterbury, The Parade",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

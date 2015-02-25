@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is located just by the Millennium Bridge.",
+    "has_opened": true,
+    "location": {
+        "address": "Old Change House, 128 Queen Victoria Street, London EC4V 4BY",
+        "latitude": "51.5120151057",
+        "longitude": "-0.0976192730474"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:00",
+        "monday": "06:30 - 19:00",
+        "saturday": "09:30 - 17:00",
+        "sunday": "09:30 - 17:00",
+        "thursday": "06:30 - 19:00",
+        "tuesday": "06:30 - 19:00",
+        "wednesday": "06:30 - 19:00"
+    },
+    "phone_number": "020 7932 5386",
+    "seating": "Lots of seats",
+    "title": "Queen Victoria Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

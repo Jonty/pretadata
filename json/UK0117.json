@@ -1,0 +1,24 @@
+{
+    "getting_there": "On the edge of the Oracle shopping centre. From Reading train station, head towards the shops. Navigate your way by Burger King, John Lewis and Marks & Spencer, and you'll find us on your right-hand side.",
+    "has_opened": true,
+    "location": {
+        "address": "39 Holy Brook Walk, The Oracle, Reading RG1 2AQ",
+        "latitude": "51.4552030839",
+        "longitude": "-0.970643581074"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 19:30",
+        "monday": "07:00 - 19:30",
+        "saturday": "07:00 - 20:00",
+        "sunday": "09:00 - 19:00",
+        "thursday": "07:00 - 19:30",
+        "tuesday": "07:00 - 19:30",
+        "wednesday": "07:00 - 19:30"
+    },
+    "phone_number": "020 7932 5317",
+    "seating": "Lots of seats",
+    "title": "Reading, The Oracle Centre",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

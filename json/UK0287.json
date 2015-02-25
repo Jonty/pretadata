@@ -1,0 +1,24 @@
+{
+    "getting_there": "In the International Departure Lounge",
+    "has_opened": true,
+    "location": {
+        "address": "Unit RU3059, Heathrow, Terminal 3, Main International Departure Lounge, London TW6 1QG",
+        "latitude": "51.4705089666",
+        "longitude": "-0.458212307194"
+    },
+    "opening_hours": {
+        "friday": "05:00 - 21:30",
+        "monday": "05:00 - 21:30",
+        "saturday": "05:00 - 21:30",
+        "sunday": "05:00 - 21:30",
+        "thursday": "05:00 - 21:30",
+        "tuesday": "05:00 - 21:30",
+        "wednesday": "05:00 - 21:30"
+    },
+    "phone_number": "020 7 932 5446",
+    "seating": "Lots of seats",
+    "title": "Heathrow Terminal 3, Airside",
+    "toilets": "Nearby Disabled",
+    "wheelchair_access": true,
+    "wifi": false
+}

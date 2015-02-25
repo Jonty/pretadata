@@ -1,0 +1,24 @@
+{
+    "getting_there": "Travel toward Glasgow Airport on the M8 and exit at Braehead . The shop is located in the Food Court downstairs in the shopping centre.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit C6, Braehead Shopping Centre, Glasgow G51 4BP",
+        "latitude": "55.875986935",
+        "longitude": "-4.36484320882"
+    },
+    "opening_hours": {
+        "friday": "08:30 - 22:00",
+        "monday": "08:30 - 22:00",
+        "saturday": "08:30 - 22:00",
+        "sunday": "09:00 - 22:00",
+        "thursday": "08:30 - 22:00",
+        "tuesday": "08:30 - 22:00",
+        "wednesday": "08:30 - 22:00"
+    },
+    "phone_number": "01418867312",
+    "seating": "Some seats",
+    "title": "Glasgow, Braehead",
+    "toilets": "Shopping centre toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

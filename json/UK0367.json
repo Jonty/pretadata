@@ -1,0 +1,24 @@
+{
+    "getting_there": "Alight South Quay Station turn right into Oukland Quay. The shop is a few minutes away.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit CGN, 19 Harbour Island, Millwall Dock, Docklands, , London E14 9GE",
+        "latitude": "51.4987880585",
+        "longitude": "-0.0143052315674"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:30",
+        "monday": "06:30 - 19:30",
+        "saturday": "07:00 - 17:00",
+        "sunday": "08:00 - 17:00",
+        "thursday": "06:30 - 19:30",
+        "tuesday": "06:30 - 19:30",
+        "wednesday": "06:30 - 19:30"
+    },
+    "phone_number": "02075379672",
+    "seating": "Lots of seats",
+    "title": "Harbour Island",
+    "toilets": "Yes",
+    "wheelchair_access": false,
+    "wifi": false
+}

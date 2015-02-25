@@ -1,0 +1,24 @@
+{
+    "getting_there": "Less than 2 minutes from St James's Park station, on the way down to Broad Sanctuary.",
+    "has_opened": true,
+    "location": {
+        "address": "49 Tothill Street, London SW1H 9LQ",
+        "latitude": "51.499647",
+        "longitude": "-0.13248"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 21:00",
+        "monday": "06:30 - 22:00",
+        "saturday": "07:00 - 20:00",
+        "sunday": "07:30 - 20:00",
+        "thursday": "06:30 - 22:00",
+        "tuesday": "06:30 - 22:00",
+        "wednesday": "06:30 - 22:00"
+    },
+    "phone_number": "020 7932 5328",
+    "seating": "No seats",
+    "title": "Tothill Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

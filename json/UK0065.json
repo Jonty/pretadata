@@ -1,0 +1,24 @@
+{
+    "getting_there": "By exiting Monument station and heading down Eastcheap, and we're 2 minutes away on your right.",
+    "has_opened": true,
+    "location": {
+        "address": "1 Great Tower Street, London EC3R 5AA",
+        "latitude": "51.5102262018",
+        "longitude": "-0.0825319718049"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 18:00",
+        "monday": "06:30 - 19:00",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 19:00",
+        "tuesday": "06:30 - 19:00",
+        "wednesday": "06:30 - 19:00"
+    },
+    "phone_number": "020 7932 5265",
+    "seating": "Some seats",
+    "title": "Great Tower Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

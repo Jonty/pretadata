@@ -1,0 +1,24 @@
+{
+    "getting_there": "At the tube station end of King Street, next to the market and across the road from the Hop Holes pub.",
+    "has_opened": true,
+    "location": {
+        "address": "8/10 King Street, Hammersmith, London W6 0QA",
+        "latitude": "51.4930091549",
+        "longitude": "-0.22568071795"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 21:30",
+        "monday": "06:30 - 21:30",
+        "saturday": "07:30 - 21:30",
+        "sunday": "08:30 - 20:30",
+        "thursday": "06:30 - 21:30",
+        "tuesday": "06:30 - 21:30",
+        "wednesday": "06:30 - 21:30"
+    },
+    "phone_number": "020 7932 5252",
+    "seating": "Lots of seats",
+    "title": "Hammersmith, Kings Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

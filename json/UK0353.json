@@ -1,0 +1,24 @@
+{
+    "getting_there": "A few minutes walk from monument station.",
+    "has_opened": true,
+    "location": {
+        "address": "55 Bishopsgate, London EC2N 3AS",
+        "latitude": "51.5153803427",
+        "longitude": "-0.0829686555225"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 20:00",
+        "monday": "06:00 - 20:00",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:00 - 20:00",
+        "tuesday": "06:00 - 20:00",
+        "wednesday": "06:00 - 20:00"
+    },
+    "phone_number": "02073746420",
+    "seating": "Lots of seats",
+    "title": "Bishopsgate 55",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

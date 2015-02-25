@@ -1,0 +1,24 @@
+{
+    "getting_there": "Coming from the bus station going towards Westminster, cross the road, there is a flower shop just outside the shop.",
+    "has_opened": true,
+    "location": {
+        "address": "173 Victoria Street, London, London SW1E 5NA",
+        "latitude": "51.4963896693",
+        "longitude": "-0.142318602954"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 23:00",
+        "monday": "06:00 - 23:00",
+        "saturday": "07:00 - 23:00",
+        "sunday": "07:30 - 22:00",
+        "thursday": "06:00 - 23:00",
+        "tuesday": "06:00 - 23:00",
+        "wednesday": "06:00 - 23:00"
+    },
+    "phone_number": "020 7932 5224",
+    "seating": "Lots of seats",
+    "title": "173 Victoria Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

@@ -1,0 +1,24 @@
+{
+    "getting_there": "Take the right exit at Camden Town tube. Turn right and it is a 3 minute walk on the left hand side before the traffic lights.",
+    "has_opened": true,
+    "location": {
+        "address": "261 High Street, Camden, London NW1 7BU",
+        "latitude": "51.540632",
+        "longitude": "-0.144162"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 20:30",
+        "monday": "07:00 - 20:30",
+        "saturday": "07:00 - 20:30",
+        "sunday": "07:00 - 20:30",
+        "thursday": "07:00 - 20:30",
+        "tuesday": "07:00 - 20:30",
+        "wednesday": "07:00 - 20:30"
+    },
+    "phone_number": "020 7932 5409",
+    "seating": "Lots of seats",
+    "title": "Camden Market",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

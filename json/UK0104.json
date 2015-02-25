@@ -1,0 +1,24 @@
+{
+    "getting_there": "Mid-way along Theobalds Road, just around the corner from Bedford Row and opposite LA Fitness.",
+    "has_opened": true,
+    "location": {
+        "address": "15 Theobalds Road, London WC1X 8SL",
+        "latitude": "51.520408",
+        "longitude": "-0.117173"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 18:00",
+        "monday": "07:00 - 18:00",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "07:00 - 18:00",
+        "tuesday": "07:00 - 18:00",
+        "wednesday": "07:00 - 18:00"
+    },
+    "phone_number": "020 7932 5304",
+    "seating": "Some seats",
+    "title": "Theobalds Road",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

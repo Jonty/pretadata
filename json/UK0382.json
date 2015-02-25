@@ -1,0 +1,24 @@
+{
+    "getting_there": "A few minutes walk from Bank Station.",
+    "has_opened": true,
+    "location": {
+        "address": "125 Old Broad Street, London EC2N 1DW",
+        "latitude": "51.5144561906",
+        "longitude": "-0.0852991003899"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:00",
+        "monday": "06:30 - 20:00",
+        "saturday": "09:00 - 17:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "06:30 - 20:00",
+        "tuesday": "06:30 - 20:00",
+        "wednesday": "06:30 - 20:00"
+    },
+    "phone_number": "02073744550",
+    "seating": "Lots of seats",
+    "title": "125 Old Broad Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

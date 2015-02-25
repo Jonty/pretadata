@@ -1,0 +1,24 @@
+{
+    "getting_there": "Mid-way up Queens Road. opposite the Wills building/museum and Browns caf\u00e9, just before the Triangle.",
+    "has_opened": true,
+    "location": {
+        "address": "29/30 Queens Road, Bristol BS8 1QE",
+        "latitude": "51.455921",
+        "longitude": "-2.605707"
+    },
+    "opening_hours": {
+        "friday": "07:30 - 18:00",
+        "monday": "07:30 - 18:00",
+        "saturday": "09:00 - 17:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "07:30 - 18:00",
+        "tuesday": "07:30 - 18:00",
+        "wednesday": "07:30 - 18:00"
+    },
+    "phone_number": "020 7932 5293",
+    "seating": "Some seats",
+    "title": "Bristol, Queens Road",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

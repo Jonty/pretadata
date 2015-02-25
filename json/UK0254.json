@@ -1,0 +1,24 @@
+{
+    "getting_there": "Come out of the tube station, cross over the road towards the river and we are on the left just before the Vauxhall Bridge",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 21, St. George Wharf, Vauxhall SW8 2JW",
+        "latitude": "51.4861758835",
+        "longitude": "-0.124610495361"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 21:00",
+        "monday": "06:00 - 21:00",
+        "saturday": "06:30 - 20:00",
+        "sunday": "06:30 - 20:00",
+        "thursday": "06:00 - 21:00",
+        "tuesday": "06:00 - 21:00",
+        "wednesday": "06:00 - 21:00"
+    },
+    "phone_number": "020 7932 5415",
+    "seating": "Some seats",
+    "title": "Vauxhall, St George's Wharf",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

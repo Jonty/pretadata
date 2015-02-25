@@ -1,0 +1,24 @@
+{
+    "getting_there": "At the Aldwych end of Kingsway, roughly mid-way between Holborn and Temple tube stations; opposite the Peacock theatre.",
+    "has_opened": true,
+    "location": {
+        "address": "29-33 Kingsway, London WC2B 6UJ",
+        "latitude": "51.5140859312",
+        "longitude": "-0.118378222039"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 00:00",
+        "monday": "07:00 - 20:30",
+        "saturday": "08:00 - 20:00",
+        "sunday": "08:00 - 20:00",
+        "thursday": "07:00 - 20:30",
+        "tuesday": "07:00 - 20:30",
+        "wednesday": "07:00 - 20:30"
+    },
+    "phone_number": "020 7932 5262",
+    "seating": "Lots of seats",
+    "title": "Kingsway",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

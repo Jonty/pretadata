@@ -1,0 +1,24 @@
+{
+    "getting_there": "Follow Bishopsgate north out of the city. The shop is visible from the crossroads of Shoreditch High Street, Great Eastern Street and Bishopsgate.",
+    "has_opened": true,
+    "location": {
+        "address": "192 Shoreditch High Street, London E1 6HU",
+        "latitude": "51.523895",
+        "longitude": "-0.077436"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:30",
+        "monday": "06:30 - 20:00",
+        "saturday": "07:30 - 20:30",
+        "sunday": "09:00 - 19:00",
+        "thursday": "06:30 - 20:30",
+        "tuesday": "06:30 - 20:00",
+        "wednesday": "06:30 - 20:00"
+    },
+    "phone_number": "0207 033 0209",
+    "seating": "Lots of seats",
+    "title": "Shoreditch High Street, 192",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

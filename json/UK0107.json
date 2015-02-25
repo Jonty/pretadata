@@ -1,0 +1,24 @@
+{
+    "getting_there": "Opposite Warren Street tube, on the corner of Euston Road and Hampstead Road.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 1, Euston Tower Podium, London NW1 3DP",
+        "latitude": "51.525077162",
+        "longitude": "-0.139629843885"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 19:30",
+        "monday": "06:00 - 19:30",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:00 - 19:30",
+        "tuesday": "06:00 - 19:30",
+        "wednesday": "06:00 - 19:30"
+    },
+    "phone_number": "020 7932 5307",
+    "seating": "Lots of seats",
+    "title": "Euston Tower",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

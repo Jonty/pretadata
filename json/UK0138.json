@@ -1,0 +1,24 @@
+{
+    "getting_there": "On Hanover Street, on the right-hand side as you walk up from Princes Street.",
+    "has_opened": true,
+    "location": {
+        "address": "51 Hanover Street, Edinburgh EH2 2PJ",
+        "latitude": "55.9531218323",
+        "longitude": "-3.19684488813"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 18:00",
+        "monday": "07:00 - 18:00",
+        "saturday": "08:00 - 18:00",
+        "sunday": "08:00 - 18:00",
+        "thursday": "07:00 - 18:00",
+        "tuesday": "07:00 - 18:00",
+        "wednesday": "07:00 - 18:00"
+    },
+    "phone_number": "020 7932 5338",
+    "seating": "Lots of seats",
+    "title": "Edinburgh, Hanover Street",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

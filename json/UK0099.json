@@ -1,0 +1,24 @@
+{
+    "getting_there": "In Glasgow city centre. From Buchanan Street underground station, head towards the Royal Concert Hall, take a left, cross the road at the traffic lights and we're directly in front of you .",
+    "has_opened": true,
+    "location": {
+        "address": "34 Sauchiehall Street, Glasgow G2 3AH",
+        "latitude": "55.8643927272",
+        "longitude": "-4.25423759641"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 20:00",
+        "monday": "07:00 - 19:00",
+        "saturday": "07:30 - 20:00",
+        "sunday": "08:30 - 19:00",
+        "thursday": "07:00 - 20:00",
+        "tuesday": "07:00 - 19:00",
+        "wednesday": "07:00 - 20:00"
+    },
+    "phone_number": "020 7932 5299",
+    "seating": "Lots of seats",
+    "title": "Glasgow, Sauchiehall Street",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

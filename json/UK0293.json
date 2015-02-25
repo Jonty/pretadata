@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is located in the Bon Accord Shopping Centre, upstairs in the Food Court.",
+    "has_opened": true,
+    "location": {
+        "address": "Food Unit 3, Bon Accord Shopping Centre, Aberdeen AB25 1HJ",
+        "latitude": "57.148586578",
+        "longitude": "-2.09939469558"
+    },
+    "opening_hours": {
+        "friday": "07:30 - 18:00",
+        "monday": "07:30 - 18:00",
+        "saturday": "07:30 - 18:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "07:30 - 20:00",
+        "tuesday": "07:30 - 18:00",
+        "wednesday": "07:30 - 18:00"
+    },
+    "phone_number": "020 7932 5458",
+    "seating": "Some seats",
+    "title": "Aberdeen, Bon Accord",
+    "toilets": "Nearby Disabled",
+    "wheelchair_access": true,
+    "wifi": true
+}

@@ -1,0 +1,24 @@
+{
+    "getting_there": "From  Bayswater tube station, turn left.",
+    "has_opened": true,
+    "location": {
+        "address": "127 Queensway, London W2 4SJ",
+        "latitude": "51.513418",
+        "longitude": "-0.187819"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 21:00",
+        "monday": "06:30 - 21:00",
+        "saturday": "07:00 - 21:00",
+        "sunday": "07:00 - 20:00",
+        "thursday": "06:30 - 21:00",
+        "tuesday": "06:30 - 21:00",
+        "wednesday": "06:30 - 21:00"
+    },
+    "phone_number": "020 7932 5212",
+    "seating": "Some seats",
+    "title": "Queensway",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

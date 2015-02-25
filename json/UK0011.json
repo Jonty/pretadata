@@ -1,0 +1,24 @@
+{
+    "getting_there": "Take exit 4 from Mansion House and bear left. You will see our shop at the top end of Bow Lane, just off Cheapside.",
+    "has_opened": true,
+    "location": {
+        "address": "47 Bow Lane, London EC4M 9DL",
+        "latitude": "51.5133224034",
+        "longitude": "-0.0934478403844"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 17:00",
+        "monday": "06:30 - 17:00",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 17:00",
+        "tuesday": "06:30 - 17:00",
+        "wednesday": "06:30 - 17:00"
+    },
+    "phone_number": "020 7932 5211",
+    "seating": "No seats",
+    "title": "Bow Lane",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

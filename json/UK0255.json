@@ -1,0 +1,24 @@
+{
+    "getting_there": "On the corner of Warwick Way and Vauxhall Bridge Road",
+    "has_opened": true,
+    "location": {
+        "address": "2 Warwick Way, London SW1V 1RU",
+        "latitude": "51.4926152881",
+        "longitude": "-0.138086702158"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 19:00",
+        "monday": "07:00 - 19:00",
+        "saturday": "07:30 - 17:00",
+        "sunday": "08:00 - 17:00",
+        "thursday": "07:00 - 19:00",
+        "tuesday": "07:00 - 19:00",
+        "wednesday": "07:00 - 19:00"
+    },
+    "phone_number": "020 7932 5314",
+    "seating": "Some seats",
+    "title": "Warwick Way",
+    "toilets": "Nearby Disabled",
+    "wheelchair_access": true,
+    "wifi": true
+}

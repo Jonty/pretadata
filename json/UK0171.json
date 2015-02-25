@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit the station and turn right off North street.",
+    "has_opened": true,
+    "location": {
+        "address": "26/28 Swan Lane, Guildford, Surrey GU1 4EQ",
+        "latitude": "51.236308033",
+        "longitude": "-0.574378058536"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 18:00",
+        "monday": "07:00 - 18:00",
+        "saturday": "07:30 - 19:00",
+        "sunday": "08:00 - 18:00",
+        "thursday": "07:00 - 18:00",
+        "tuesday": "07:00 - 18:00",
+        "wednesday": "07:00 - 18:00"
+    },
+    "phone_number": "020 7932 5371",
+    "seating": "Lots of seats",
+    "title": "Guildford, Swan Lane",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

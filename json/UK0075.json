@@ -1,0 +1,24 @@
+{
+    "getting_there": "By taking the Bishopsgate exit out of Liverpool Street station. Exchange Arcade is the block to your left, and we're towards the far end.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 21 Exchange Arcade, 175 Bishopsgate, London EC2M 3WA",
+        "latitude": "51.5195253979",
+        "longitude": "-0.0795350438882"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:30",
+        "monday": "06:30 - 19:30",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 19:30",
+        "tuesday": "06:30 - 19:30",
+        "wednesday": "06:30 - 19:30"
+    },
+    "phone_number": "020 7932 5275",
+    "seating": "Some seats",
+    "title": "Broadgate",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

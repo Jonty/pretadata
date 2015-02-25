@@ -1,0 +1,24 @@
+{
+    "getting_there": "A few minutes from Bakers Street tube station. Go past Madame Tussaud's, cross the road and we're a 5 minute walk down Marylebone High St.",
+    "has_opened": true,
+    "location": {
+        "address": "7 Marylebone High Street, London W1U 4NL",
+        "latitude": "51.5188478347",
+        "longitude": "-0.151498428449"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 21:00",
+        "monday": "06:30 - 21:00",
+        "saturday": "06:30 - 19:30",
+        "sunday": "07:30 - 19:30",
+        "thursday": "06:30 - 21:00",
+        "tuesday": "06:30 - 21:00",
+        "wednesday": "06:30 - 21:00"
+    },
+    "phone_number": "020 7932 5227",
+    "seating": "Some seats",
+    "title": "Marylebone High Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

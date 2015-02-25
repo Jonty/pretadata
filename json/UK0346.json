@@ -1,0 +1,24 @@
+{
+    "getting_there": "Bristol, 95 Broadmead",
+    "has_opened": true,
+    "location": {
+        "address": "95 Broadmead, Bristol BS1 3DT",
+        "latitude": "51.4569770487",
+        "longitude": "-2.59064130405"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 19:00",
+        "monday": "07:00 - 19:00",
+        "saturday": "07:00 - 20:00",
+        "sunday": "09:00 - 19:00",
+        "thursday": "07:00 - 19:00",
+        "tuesday": "07:00 - 19:00",
+        "wednesday": "07:00 - 19:00"
+    },
+    "phone_number": "0117 9220251",
+    "seating": "Lots of seats",
+    "title": "Bristol, 95 Broadmead",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

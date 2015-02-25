@@ -1,0 +1,24 @@
+{
+    "getting_there": "Less than 5 minutes away from Glasgow city centre.",
+    "has_opened": true,
+    "location": {
+        "address": "65-69 Bothwell Street, Glasgow G2 6TS",
+        "latitude": "55.86115",
+        "longitude": "-4.261258"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 17:00",
+        "monday": "07:00 - 17:00",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "07:00 - 17:00",
+        "tuesday": "07:00 - 17:00",
+        "wednesday": "07:00 - 17:00"
+    },
+    "phone_number": "020 7932 5305",
+    "seating": "Lots of seats",
+    "title": "Glasgow, Bothwell Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

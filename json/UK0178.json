@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit Tower Bridge tube. Walk away from Tower of London on Lower Thames Street. Turn right into Byward Street.",
+    "has_opened": true,
+    "location": {
+        "address": "12 Byward Street, London EC3R 5AS",
+        "latitude": "51.5097702172",
+        "longitude": "-0.0785991842118"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 18:00",
+        "monday": "06:00 - 18:00",
+        "saturday": "08:00 - 17:30",
+        "sunday": "08:30 - 17:30",
+        "thursday": "06:00 - 18:00",
+        "tuesday": "06:00 - 18:00",
+        "wednesday": "06:00 - 18:00"
+    },
+    "phone_number": "020 7932 5378",
+    "seating": "Lots of seats",
+    "title": "Byward Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

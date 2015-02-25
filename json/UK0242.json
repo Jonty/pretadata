@@ -1,0 +1,24 @@
+{
+    "getting_there": "You will find this shop, on the corner of Holborn Viaduct and Charterhouse Street",
+    "has_opened": true,
+    "location": {
+        "address": "40 Holborn Viaduct, London EC1N 2PB",
+        "latitude": "51.5178535343",
+        "longitude": "-0.107122827748"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:00",
+        "monday": "06:30 - 19:00",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 19:00",
+        "tuesday": "06:30 - 19:00",
+        "wednesday": "06:30 - 19:00"
+    },
+    "phone_number": "020 7932 5381",
+    "seating": "Lots of seats",
+    "title": "Holborn Circus",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

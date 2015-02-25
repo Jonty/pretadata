@@ -1,0 +1,24 @@
+{
+    "getting_there": "At the top end of New Bridge Street, just around the corner from Ludgate Hill and City Thameslink station. From exit 1 of Blackfriars station, we're about a 2 minute walk.",
+    "has_opened": true,
+    "location": {
+        "address": "101 New Bridge Street, London EC4V 6JJ",
+        "latitude": "51.513599393",
+        "longitude": "-0.104080282454"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:00",
+        "monday": "06:30 - 20:00",
+        "saturday": "08:00 - 17:00",
+        "sunday": "08:00 - 17:00",
+        "thursday": "06:30 - 20:00",
+        "tuesday": "06:30 - 20:00",
+        "wednesday": "06:30 - 20:00"
+    },
+    "phone_number": "020 7932 5268",
+    "seating": "Lots of seats",
+    "title": "New Bridge Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

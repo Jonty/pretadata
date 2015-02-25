@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is at top end of Trafalgar square toward Haymarket near the National Gallery.",
+    "has_opened": true,
+    "location": {
+        "address": "5 Pall Mall East, London SW1Y 5BA",
+        "latitude": "51.5082275732",
+        "longitude": "-0.130089685072"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 21:30",
+        "monday": "06:30 - 21:30",
+        "saturday": "07:00 - 21:30",
+        "sunday": "07:00 - 21:30",
+        "thursday": "06:30 - 21:30",
+        "tuesday": "06:30 - 21:30",
+        "wednesday": "06:30 - 21:30"
+    },
+    "phone_number": "02078393995",
+    "seating": "Lots of seats",
+    "title": "Pall Mall East, 5",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

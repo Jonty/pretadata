@@ -1,0 +1,24 @@
+{
+    "getting_there": "Take the exit from Kings Cross station into Euston Road. Turn left into York Way, on the corner of Wharfdale Road.",
+    "has_opened": true,
+    "location": {
+        "address": "54-60 York Way, Kings Cross, London N1 9AB",
+        "latitude": "51.5334518416",
+        "longitude": "-0.122157178187"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:30",
+        "monday": "06:30 - 19:30",
+        "saturday": "07:00 - 18:30",
+        "sunday": "08:00 - 17:30",
+        "thursday": "06:30 - 19:30",
+        "tuesday": "06:30 - 19:30",
+        "wednesday": "06:30 - 19:30"
+    },
+    "phone_number": "020 7932 5452",
+    "seating": "Some seats",
+    "title": "York Way",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

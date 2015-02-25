@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is located at 25-27 St Peter's Street",
+    "has_opened": true,
+    "location": {
+        "address": "25-27 St Peter's Street, St Albans AL1 3DP",
+        "latitude": "51.753138",
+        "longitude": "-0.338176"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 19:00",
+        "monday": "07:00 - 19:00",
+        "saturday": "07:30 - 19:00",
+        "sunday": "08:30 - 18:00",
+        "thursday": "07:00 - 19:00",
+        "tuesday": "07:00 - 19:00",
+        "wednesday": "07:00 - 19:00"
+    },
+    "phone_number": "01727 839960",
+    "seating": "Lots of seats",
+    "title": "St Albans, St Peter's Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

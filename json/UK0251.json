@@ -1,0 +1,24 @@
+{
+    "getting_there": "The closest tube station is London Bridge. Pass the London Dungeon and down Tooley street and turn left when you see Tower bridge.",
+    "has_opened": true,
+    "location": {
+        "address": "7 More London, London Riverside, London SE1 2RT",
+        "latitude": "51.5045978727",
+        "longitude": "-0.0805611510791"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:00",
+        "monday": "06:30 - 21:00",
+        "saturday": "08:30 - 18:00",
+        "sunday": "08:30 - 18:00",
+        "thursday": "06:30 - 21:00",
+        "tuesday": "06:30 - 21:00",
+        "wednesday": "06:30 - 21:00"
+    },
+    "phone_number": "020 7932 5391",
+    "seating": "Lots of seats",
+    "title": "More London",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

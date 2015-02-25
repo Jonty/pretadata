@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is adjacent to Stratford underground station, Meridian Square.",
+    "has_opened": true,
+    "location": {
+        "address": "21 Station Street, London E15 1DA",
+        "latitude": "51.5412067845",
+        "longitude": "-0.00191829509276"
+    },
+    "opening_hours": {
+        "friday": "05:00 - 23:00",
+        "monday": "05:00 - 23:00",
+        "saturday": "05:30 - 23:00",
+        "sunday": "06:00 - 22:00",
+        "thursday": "05:00 - 23:00",
+        "tuesday": "05:00 - 23:00",
+        "wednesday": "05:00 - 23:00"
+    },
+    "phone_number": "020 85196859",
+    "seating": "Lots of seats",
+    "title": "Stratford Station",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

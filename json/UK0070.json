@@ -1,0 +1,24 @@
+{
+    "getting_there": "On the west side of Leeds main shopping area, just a 5 minute walk from the station.",
+    "has_opened": true,
+    "location": {
+        "address": "32 Bond Street, Leeds LS1 5BQ",
+        "latitude": "53.7975250491",
+        "longitude": "-1.54591140995"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 18:30",
+        "monday": "06:30 - 18:30",
+        "saturday": "08:00 - 18:30",
+        "sunday": "09:00 - 17:30",
+        "thursday": "06:30 - 18:30",
+        "tuesday": "06:30 - 18:30",
+        "wednesday": "06:30 - 18:30"
+    },
+    "phone_number": "020 7932 5270",
+    "seating": "Lots of seats",
+    "title": "Leeds, Bond Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

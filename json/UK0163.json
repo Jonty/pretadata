@@ -1,0 +1,24 @@
+{
+    "getting_there": "From Russell square tube station, cross the street and it is on the left hand side.",
+    "has_opened": true,
+    "location": {
+        "address": "40 Bernard Street, London WC1N 1LE",
+        "latitude": "51.5232591685",
+        "longitude": "-0.124669199952"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 23:00",
+        "monday": "06:00 - 23:00",
+        "saturday": "06:30 - 23:00",
+        "sunday": "06:30 - 23:00",
+        "thursday": "06:00 - 23:00",
+        "tuesday": "06:00 - 23:00",
+        "wednesday": "06:00 - 23:00"
+    },
+    "phone_number": "020 7932 5374",
+    "seating": "Lots of seats",
+    "title": "Russell Square",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

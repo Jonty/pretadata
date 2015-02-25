@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is opposite Wimbledon tube station.",
+    "has_opened": true,
+    "location": {
+        "address": "4 Wimbledon Hill Road, Wimbledon, London SW19 7NS",
+        "latitude": "51.4209625327",
+        "longitude": "-0.207276033761"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 21:00",
+        "monday": "06:00 - 21:00",
+        "saturday": "06:30 - 20:30",
+        "sunday": "07:30 - 20:30",
+        "thursday": "06:00 - 21:00",
+        "tuesday": "06:00 - 21:00",
+        "wednesday": "06:00 - 21:00"
+    },
+    "phone_number": "0207 932 5362",
+    "seating": "Lots of seats",
+    "title": "Wimbledon",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

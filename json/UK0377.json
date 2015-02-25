@@ -1,0 +1,22 @@
+{
+    "getting_there": "The shop is located in the International Departure Lounge.",
+    "has_opened": false,
+    "location": {
+        "address": "Unit ACS9, International Departure Lounge, Stansted Airport CM24 1RW"
+    },
+    "opening_hours": {
+        "friday": "03:00 - 21:00",
+        "monday": "03:00 - 21:00",
+        "saturday": "03:00 - 21:00",
+        "sunday": "03:00 - 21:00",
+        "thursday": "03:00 - 21:00",
+        "tuesday": "03:00 - 21:00",
+        "wednesday": "03:00 - 21:00"
+    },
+    "phone_number": "",
+    "seating": "Lots of seats",
+    "title": "Stansted Airport",
+    "toilets": "Nearby Disabled",
+    "wheelchair_access": true,
+    "wifi": false
+}

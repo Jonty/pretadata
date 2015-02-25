@@ -1,0 +1,24 @@
+{
+    "getting_there": "The other side of Soho Square from Oxford Street, on the corner with Bateman St",
+    "has_opened": true,
+    "location": {
+        "address": "55 Frith Street, London W1D 4SJ",
+        "latitude": "51.5138861617",
+        "longitude": "-0.131918930333"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:00",
+        "monday": "06:30 - 20:00",
+        "saturday": "08:00 - 19:30",
+        "sunday": "09:00 - 18:00",
+        "thursday": "06:30 - 20:00",
+        "tuesday": "06:30 - 20:00",
+        "wednesday": "06:30 - 20:00"
+    },
+    "phone_number": "020 7932 5335",
+    "seating": "Lots of seats",
+    "title": "Frith Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

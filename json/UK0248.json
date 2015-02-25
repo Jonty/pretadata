@@ -1,0 +1,24 @@
+{
+    "getting_there": "Just a few minutes walk from the Koko and the tube station.",
+    "has_opened": true,
+    "location": {
+        "address": "18 Camden High Street, London NW1 0JH",
+        "latitude": "51.535159",
+        "longitude": "-0.138483"
+    },
+    "opening_hours": {
+        "friday": "07:15 - 18:30",
+        "monday": "07:15 - 18:30",
+        "saturday": "09:30 - 16:30",
+        "sunday": "Closed",
+        "thursday": "07:15 - 18:30",
+        "tuesday": "07:15 - 18:30",
+        "wednesday": "07:15 - 18:30"
+    },
+    "phone_number": "020 7932 5292",
+    "seating": "Some seats",
+    "title": "18 Camden High Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

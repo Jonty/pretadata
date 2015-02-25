@@ -1,0 +1,24 @@
+{
+    "getting_there": "At the far end of the shops on Princes Street, by the church.",
+    "has_opened": true,
+    "location": {
+        "address": "56 Shandwick Place, Edinburgh EH2 4RT",
+        "latitude": "55.9493986145",
+        "longitude": "-3.21022069183"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 17:00",
+        "monday": "06:30 - 17:00",
+        "saturday": "09:00 - 16:00",
+        "sunday": "Closed",
+        "thursday": "06:30 - 17:00",
+        "tuesday": "06:30 - 17:00",
+        "wednesday": "06:30 - 17:00"
+    },
+    "phone_number": "020 7932 5313",
+    "seating": "Some seats",
+    "title": "Edinburgh, Shandwick Place",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

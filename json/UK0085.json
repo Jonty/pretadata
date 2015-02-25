@@ -1,0 +1,24 @@
+{
+    "getting_there": "On the ground floor of Bluewater shopping centre.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit L0006, Eastern Mall, Bluewater Shopping Centre DA9 9SH",
+        "latitude": "51.4393232109",
+        "longitude": "0.272502698078"
+    },
+    "opening_hours": {
+        "friday": "08:30 - 21:00",
+        "monday": "08:30 - 21:00",
+        "saturday": "08:30 - 21:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "08:30 - 21:00",
+        "tuesday": "08:30 - 21:00",
+        "wednesday": "08:30 - 21:00"
+    },
+    "phone_number": "020 7932 5285",
+    "seating": "Lots of seats",
+    "title": "Bluewater",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

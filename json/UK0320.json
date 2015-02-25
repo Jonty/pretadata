@@ -1,0 +1,24 @@
+{
+    "getting_there": "A few minutes walk, close to the Westminster and Chelsea Hospital.",
+    "has_opened": true,
+    "location": {
+        "address": "367B Fulham Road, Fulham, London SW10 9TN",
+        "latitude": "51.4854223374",
+        "longitude": "-0.18166511107"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:00",
+        "monday": "06:30 - 20:00",
+        "saturday": "07:00 - 19:00",
+        "sunday": "07:30 - 18:00",
+        "thursday": "06:30 - 20:00",
+        "tuesday": "06:30 - 20:00",
+        "wednesday": "06:30 - 20:00"
+    },
+    "phone_number": "020 7351 0649",
+    "seating": "Some seats",
+    "title": "Fulham Road",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

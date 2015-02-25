@@ -1,0 +1,22 @@
+{
+    "getting_there": "121 Bethnal Green Road",
+    "has_opened": false,
+    "location": {
+        "address": "121 Bethnal Green Road, London E2 7DG"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 19:00",
+        "monday": "07:00 - 19:00",
+        "saturday": "07:00 - 19:00",
+        "sunday": "07:00 - 19:00",
+        "thursday": "07:00 - 19:00",
+        "tuesday": "07:00 - 19:00",
+        "wednesday": "07:00 - 19:00"
+    },
+    "phone_number": "",
+    "seating": "Lots of seats",
+    "title": "Bethnal Green Road, 121",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": false
+}

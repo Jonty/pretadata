@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is located in the main shopping centre square next door to the sports centre and Marks and Spencer.",
+    "has_opened": false,
+    "location": {
+        "address": "Unit 17-19 , Festival Place Shopping Centre, Basingstoke RG21 7LG",
+        "latitude": "51.2655884655",
+        "longitude": "-1.08794869586"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 20:00",
+        "monday": "07:00 - 19:00",
+        "saturday": "07:00 - 19:00",
+        "sunday": "09:00 - 18:00",
+        "thursday": "07:00 - 19:00",
+        "tuesday": "07:00 - 19:00",
+        "wednesday": "07:00 - 19:00"
+    },
+    "phone_number": "",
+    "seating": "Lots of seats",
+    "title": "Basingstoke, Festival Place",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": false
+}

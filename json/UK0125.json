@@ -1,0 +1,24 @@
+{
+    "getting_there": "Mid-way down Albermarle Street (a side-street off Piccadilly); just a few minutes from Green Park tube station.",
+    "has_opened": true,
+    "location": {
+        "address": "40 Albermarle Street, London W1S 4TE",
+        "latitude": "51.5086885436",
+        "longitude": "-0.141732158762"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:00",
+        "monday": "06:30 - 20:00",
+        "saturday": "06:45 - 19:00",
+        "sunday": "08:30 - 18:00",
+        "thursday": "06:30 - 20:00",
+        "tuesday": "06:30 - 20:00",
+        "wednesday": "06:30 - 20:00"
+    },
+    "phone_number": "020 7932 5325",
+    "seating": "Some seats",
+    "title": "Albemarle Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

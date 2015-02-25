@@ -1,0 +1,24 @@
+{
+    "getting_there": "Mid-way along Orchard Street (the street that runs along the left-hand side of Selfridges department store and connects Oxford Street with Wigmore Street).",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 3 Portman Square House, Orchard St, London W1H 6HJ",
+        "latitude": "51.5151087108",
+        "longitude": "-0.15451674396"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:30",
+        "monday": "06:30 - 20:30",
+        "saturday": "08:00 - 20:00",
+        "sunday": "09:00 - 20:00",
+        "thursday": "06:30 - 20:30",
+        "tuesday": "06:30 - 20:30",
+        "wednesday": "06:30 - 20:30"
+    },
+    "phone_number": "020 7932 5300",
+    "seating": "Lots of seats",
+    "title": "Orchard Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

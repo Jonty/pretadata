@@ -1,0 +1,24 @@
+{
+    "getting_there": "Opposite Marble Arch itself, on the very corner of Oxford St and Gt Cumberland Place.",
+    "has_opened": true,
+    "location": {
+        "address": "556 Oxford Street, London W1C 1LZ",
+        "latitude": "51.5138854514",
+        "longitude": "-0.155801890891"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 23:00",
+        "monday": "06:30 - 23:00",
+        "saturday": "06:30 - 23:00",
+        "sunday": "07:00 - 23:00",
+        "thursday": "06:30 - 23:00",
+        "tuesday": "06:30 - 23:00",
+        "wednesday": "06:30 - 23:00"
+    },
+    "phone_number": "020 7932 5240",
+    "seating": "Lots of seats",
+    "title": "Marble Arch",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

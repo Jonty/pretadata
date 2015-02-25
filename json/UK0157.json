@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit East Croydon station, turn right, continue straight over the traffic junction. At the next junction turn right into North End the shop is on the left.",
+    "has_opened": true,
+    "location": {
+        "address": "125 North End, Croydon, Surrey CR0 1TL",
+        "latitude": "51.376034",
+        "longitude": "-0.102337"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 18:00",
+        "monday": "07:00 - 18:00",
+        "saturday": "08:00 - 18:00",
+        "sunday": "09:00 - 18:00",
+        "thursday": "07:00 - 18:30",
+        "tuesday": "07:00 - 18:00",
+        "wednesday": "07:00 - 18:00"
+    },
+    "phone_number": "020 7932 5357",
+    "seating": "Lots of seats",
+    "title": "Croydon, North End",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

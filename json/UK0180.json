@@ -1,0 +1,24 @@
+{
+    "getting_there": "Walk along Percy Street towards Claremont Road. Turn right at Blackett Street. Take second left into Northumberland Street.",
+    "has_opened": true,
+    "location": {
+        "address": "142-145 Northumberland Street, Newcastle NE1 7AG",
+        "latitude": "54.9768877015",
+        "longitude": "-1.6133086005"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 19:00",
+        "monday": "07:00 - 19:00",
+        "saturday": "07:00 - 19:00",
+        "sunday": "08:00 - 18:00",
+        "thursday": "07:00 - 19:00",
+        "tuesday": "07:00 - 19:00",
+        "wednesday": "07:00 - 19:00"
+    },
+    "phone_number": "020 7932 5380",
+    "seating": "Lots of seats",
+    "title": "Newcastle, Northumberland St",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

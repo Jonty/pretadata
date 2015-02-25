@@ -1,0 +1,24 @@
+{
+    "getting_there": "In York city centre, half-way down Parliament Street, opposite the HSBC bank and on the corner of the Jubbergate entrance to the market",
+    "has_opened": true,
+    "location": {
+        "address": "33 Parliament Street, York YO1 8RU",
+        "latitude": "53.959013131",
+        "longitude": "-1.08140319343"
+    },
+    "opening_hours": {
+        "friday": "07:30 - 17:30",
+        "monday": "07:30 - 17:30",
+        "saturday": "07:30 - 18:00",
+        "sunday": "08:30 - 17:00",
+        "thursday": "07:30 - 17:30",
+        "tuesday": "07:30 - 17:30",
+        "wednesday": "07:30 - 17:30"
+    },
+    "phone_number": "020 7932 5334",
+    "seating": "Lots of seats",
+    "title": "York, Parliament Street",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

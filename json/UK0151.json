@@ -1,0 +1,24 @@
+{
+    "getting_there": "Come out of Oxford Circus Tube station work up Regents street To Margaret Street and walk down to Cavendish Square",
+    "has_opened": true,
+    "location": {
+        "address": "31 Cavendish Square, London W1G 0PW",
+        "latitude": "51.5160162325",
+        "longitude": "-0.144161544966"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 21:00",
+        "monday": "06:30 - 21:00",
+        "saturday": "07:30 - 21:00",
+        "sunday": "09:00 - 19:30",
+        "thursday": "06:30 - 21:00",
+        "tuesday": "06:30 - 21:00",
+        "wednesday": "06:30 - 21:00"
+    },
+    "phone_number": "020 7932 5351",
+    "seating": "Lots of seats",
+    "title": "Cavendish Square",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

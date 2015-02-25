@@ -1,0 +1,24 @@
+{
+    "getting_there": "The Shop is right opposite Kentish Town tube station.",
+    "has_opened": true,
+    "location": {
+        "address": "341 Kentish Town Road, London NW5 2TJ",
+        "latitude": "51.5505815462",
+        "longitude": "-0.140895395683"
+    },
+    "opening_hours": {
+        "friday": "06:15 - 20:30",
+        "monday": "06:15 - 20:30",
+        "saturday": "07:30 - 20:00",
+        "sunday": "07:30 - 19:00",
+        "thursday": "06:15 - 20:30",
+        "tuesday": "06:15 - 20:30",
+        "wednesday": "06:15 - 20:30"
+    },
+    "phone_number": "020 7932 5383",
+    "seating": "Lots of seats",
+    "title": "Kentish Town",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

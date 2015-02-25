@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit Tower Hill station. Walk east through St Katherine\u0092s Dock, and the\rThomas More Square is a few minutes away.",
+    "has_opened": true,
+    "location": {
+        "address": "Retail Unit 1, Thomas More Square, London E1W 1YN",
+        "latitude": "51.5080806301",
+        "longitude": "-0.0680799280576"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 17:00",
+        "monday": "06:30 - 17:00",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 17:00",
+        "tuesday": "06:30 - 17:00",
+        "wednesday": "06:30 - 17:00"
+    },
+    "phone_number": "020 7932 5279",
+    "seating": "Lots of seats",
+    "title": "Thomas More Square",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

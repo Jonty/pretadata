@@ -1,0 +1,24 @@
+{
+    "getting_there": "Off St Ann's Square, just down from the Arndale Centre and opposite the Royal Exchange Shopping Centre.",
+    "has_opened": true,
+    "location": {
+        "address": "27 Cross St, Manchester M2 1WL",
+        "latitude": "53.4820912508",
+        "longitude": "-2.24411082265"
+    },
+    "opening_hours": {
+        "friday": "07:15 - 19:00",
+        "monday": "07:15 - 19:00",
+        "saturday": "08:00 - 19:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "07:15 - 19:00",
+        "tuesday": "07:15 - 19:00",
+        "wednesday": "07:15 - 19:00"
+    },
+    "phone_number": "020 7932 5278",
+    "seating": "Lots of seats",
+    "title": "Manchester, Cross St",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

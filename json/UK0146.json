@@ -1,0 +1,24 @@
+{
+    "getting_there": "Canary Wharf Tube",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 13, Canary Wharf RT3, London E14 5NY",
+        "latitude": "51.5025770773",
+        "longitude": "-0.018737034401"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 21:00",
+        "monday": "06:00 - 21:00",
+        "saturday": "08:00 - 19:00",
+        "sunday": "08:30 - 19:00",
+        "thursday": "06:00 - 21:00",
+        "tuesday": "06:00 - 21:00",
+        "wednesday": "06:00 - 21:00"
+    },
+    "phone_number": "020 7932 5346",
+    "seating": "Lots of seats",
+    "title": "Canary Wharf, Jubilee Place",
+    "toilets": "Nearby Disabled",
+    "wheelchair_access": true,
+    "wifi": true
+}

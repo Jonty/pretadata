@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is 5 minutes from the rail way station.  Turn left onto Hythe Bridge St. Walk down George St and turn right onto Cornmarket St at the crossing where Debenhams is . We are in the 16th century building on the left hand side on Cornmarket Street.",
+    "has_opened": true,
+    "location": {
+        "address": "26-27 Cornmarket Street, Oxford OX1 3EY",
+        "latitude": "51.7534511037",
+        "longitude": "-1.25846908215"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 21:00",
+        "monday": "07:00 - 21:00",
+        "saturday": "07:00 - 21:00",
+        "sunday": "08:00 - 21:00",
+        "thursday": "07:00 - 21:00",
+        "tuesday": "07:00 - 21:00",
+        "wednesday": "07:00 - 21:00"
+    },
+    "phone_number": "020 7932 5276",
+    "seating": "Lots of seats",
+    "title": "Oxford, 26-27 Cornmarket",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

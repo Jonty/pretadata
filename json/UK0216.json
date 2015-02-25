@@ -1,0 +1,24 @@
+{
+    "getting_there": "Outside Bank tube station, go towards St. Paul, take 2nd H.R. Side (King St.) at the end of this street: Gresham St.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 3, 30 Gresham Street, London EC2V 7PG",
+        "latitude": "51.5150095573",
+        "longitude": "-0.0923271503978"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 18:30",
+        "monday": "06:30 - 18:30",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 18:30",
+        "tuesday": "06:30 - 18:30",
+        "wednesday": "06:30 - 18:30"
+    },
+    "phone_number": "020 7932 5209",
+    "seating": "Lots of seats",
+    "title": "Gresham Street",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

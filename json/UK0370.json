@@ -1,0 +1,24 @@
+{
+    "getting_there": "Just opposite Snow Hill Station.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 2, 22-24 Colmore Row, Birmingham B3 2QD",
+        "latitude": "52.4821899811",
+        "longitude": "-1.89749560547"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:00",
+        "monday": "06:30 - 19:00",
+        "saturday": "07:00 - 19:00",
+        "sunday": "10:00 - 16:00",
+        "thursday": "06:30 - 19:00",
+        "tuesday": "06:30 - 19:00",
+        "wednesday": "06:30 - 19:00"
+    },
+    "phone_number": "0121 647 5393",
+    "seating": "Lots of seats",
+    "title": "Birmingham, Colmore Row",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

@@ -1,0 +1,24 @@
+{
+    "getting_there": "Mid-way between Piccadilly Circus and Green Park tube stations, just down from the Royal Academy, on the corner of Sackville and opposite BAFTA and the Princess Arcade.",
+    "has_opened": true,
+    "location": {
+        "address": "41/42 Piccadilly, London W1J 0DS",
+        "latitude": "51.5088299163",
+        "longitude": "-0.137826571131"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 21:30",
+        "monday": "06:30 - 21:30",
+        "saturday": "07:30 - 21:30",
+        "sunday": "08:30 - 20:30",
+        "thursday": "06:30 - 21:30",
+        "tuesday": "06:30 - 21:30",
+        "wednesday": "06:30 - 21:30"
+    },
+    "phone_number": "020 7932 5247",
+    "seating": "Lots of seats",
+    "title": "41 Piccadilly",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

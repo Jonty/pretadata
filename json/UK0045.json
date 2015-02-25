@@ -1,0 +1,24 @@
+{
+    "getting_there": "By turning left out of Farringdon station, and we're on the junction of Turnmill Street and Cowcross Street.",
+    "has_opened": true,
+    "location": {
+        "address": "101 Turnmill Street, London EC1M 5QP",
+        "latitude": "51.5202792081",
+        "longitude": "-0.104258097853"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 22:00",
+        "monday": "06:30 - 22:00",
+        "saturday": "08:00 - 16:00",
+        "sunday": "08:00 - 16:00",
+        "thursday": "06:30 - 22:00",
+        "tuesday": "06:30 - 22:00",
+        "wednesday": "06:30 - 22:00"
+    },
+    "phone_number": "020 7932 5245",
+    "seating": "Some seats",
+    "title": "Turnmill Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

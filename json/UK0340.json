@@ -1,0 +1,24 @@
+{
+    "getting_there": "Alight Oxford Road train station and turn left, and walk straight on. You will pass the theatre on your right. You see us on the left-hand side, at a set of traffic lights. Only a five minute walk from the train station.",
+    "has_opened": true,
+    "location": {
+        "address": "34 Oxford Street, Manchester M1 5EL",
+        "latitude": "53.4762759909",
+        "longitude": "-2.2429983397"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 19:00",
+        "monday": "07:00 - 19:00",
+        "saturday": "09:00 - 18:00",
+        "sunday": "09:00 - 16:00",
+        "thursday": "07:00 - 19:00",
+        "tuesday": "07:00 - 19:00",
+        "wednesday": "07:00 - 19:00"
+    },
+    "phone_number": "0161 2287965",
+    "seating": "Lots of seats",
+    "title": "Manchester, Oxford Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

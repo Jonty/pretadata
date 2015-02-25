@@ -1,0 +1,24 @@
+{
+    "getting_there": "On the corner of Great Peter and Great Smith Street. Nearest tube St James's Park.",
+    "has_opened": true,
+    "location": {
+        "address": "47. Great Peter Street, London SW1P 3LT",
+        "latitude": "51.4968336478",
+        "longitude": "-0.129189332938"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:00",
+        "monday": "06:30 - 20:00",
+        "saturday": "07:30 - 18:00",
+        "sunday": "08:00 - 18:00",
+        "thursday": "06:30 - 20:00",
+        "tuesday": "06:30 - 20:00",
+        "wednesday": "06:30 - 20:00"
+    },
+    "phone_number": "020 7932 5401",
+    "seating": "Lots of seats",
+    "title": "Great Peter Street",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

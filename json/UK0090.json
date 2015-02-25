@@ -1,0 +1,24 @@
+{
+    "getting_there": "In the main shopping area of Nottingham city centre.",
+    "has_opened": true,
+    "location": {
+        "address": "10 High Street, Nottingham NG1 2ET",
+        "latitude": "52.9532687322",
+        "longitude": "-1.14756278991"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 18:00",
+        "monday": "07:00 - 18:00",
+        "saturday": "07:30 - 18:00",
+        "sunday": "09:00 - 17:30",
+        "thursday": "07:00 - 18:00",
+        "tuesday": "07:00 - 18:00",
+        "wednesday": "07:00 - 18:00"
+    },
+    "phone_number": "020 7932 5290",
+    "seating": "Some seats",
+    "title": "Nottingham, High Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

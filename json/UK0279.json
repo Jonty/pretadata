@@ -1,0 +1,24 @@
+{
+    "getting_there": "Ten minute walk from Liverpool Street station. Pass the Heron Tower and continue to walk down Houndsditch",
+    "has_opened": true,
+    "location": {
+        "address": "133 Houndsditch, London EC3A 7BX",
+        "latitude": "51.5150952383",
+        "longitude": "-0.0780909416527"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 17:30",
+        "monday": "06:30 - 17:30",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 17:30",
+        "tuesday": "06:30 - 17:30",
+        "wednesday": "06:30 - 17:30"
+    },
+    "phone_number": "020 7932 5448",
+    "seating": "Lots of seats",
+    "title": "Houndsditch",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

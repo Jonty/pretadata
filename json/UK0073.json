@@ -1,0 +1,24 @@
+{
+    "getting_there": "Across the street from Aldgate tube station, on the corner of The Minories.",
+    "has_opened": true,
+    "location": {
+        "address": "85 Aldgate High Street, London EC3N 1LH",
+        "latitude": "51.5135626113",
+        "longitude": "-0.0761899104345"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:00",
+        "monday": "06:30 - 19:00",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 19:00",
+        "tuesday": "06:30 - 19:00",
+        "wednesday": "06:30 - 19:00"
+    },
+    "phone_number": "020 7932 5273",
+    "seating": "Lots of seats",
+    "title": "Aldgate",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

@@ -1,0 +1,24 @@
+{
+    "getting_there": "On the junction of Aldwych, the Strand and Waterloo Bridge. Temple is the closest tube station, about 5 minutes away.",
+    "has_opened": true,
+    "location": {
+        "address": "135 Strand, London WC2R 1HH",
+        "latitude": "51.5112310396",
+        "longitude": "-0.118865231606"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 20:00",
+        "monday": "07:00 - 20:00",
+        "saturday": "08:00 - 20:00",
+        "sunday": "08:00 - 20:00",
+        "thursday": "07:00 - 20:00",
+        "tuesday": "07:00 - 20:00",
+        "wednesday": "07:00 - 20:00"
+    },
+    "phone_number": "020 7932 5271",
+    "seating": "Some seats",
+    "title": "135 Strand",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

@@ -1,0 +1,24 @@
+{
+    "getting_there": "By exiting Temple Station, crossing the road and walking up Arundel Street and we're at the top on the corner with the Strand",
+    "has_opened": true,
+    "location": {
+        "address": "182 Strand, London WC2R 1EA",
+        "latitude": "51.5125954996",
+        "longitude": "-0.114706630988"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 20:00",
+        "monday": "06:30 - 20:00",
+        "saturday": "07:30 - 18:00",
+        "sunday": "08:00 - 17:30",
+        "thursday": "06:30 - 20:00",
+        "tuesday": "06:30 - 20:00",
+        "wednesday": "06:30 - 20:00"
+    },
+    "phone_number": "020 7932 5332",
+    "seating": "Some seats",
+    "title": "182 Strand",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

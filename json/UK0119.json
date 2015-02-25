@@ -1,0 +1,24 @@
+{
+    "getting_there": "Mid-way up Castle St, which is directly opposite Edinburgh Castle and connects Princes Street with George St. Visit at 1pm and we can all hear the world-famous 1 o'clock gun being fired!",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 7, 25 Castle Street, Edinburgh EH2 3DN",
+        "latitude": "55.9519967919",
+        "longitude": "-3.20316332974"
+    },
+    "opening_hours": {
+        "friday": "07:30 - 18:00",
+        "monday": "07:30 - 18:00",
+        "saturday": "08:00 - 17:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "07:30 - 18:00",
+        "tuesday": "07:30 - 18:00",
+        "wednesday": "07:30 - 18:00"
+    },
+    "phone_number": "020 7932 5319",
+    "seating": "Some seats",
+    "title": "Edinburgh, Castle Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

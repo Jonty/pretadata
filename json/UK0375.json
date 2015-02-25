@@ -1,0 +1,24 @@
+{
+    "getting_there": "Enter St Andrews turn left into Market Street. The property is situated half way up Market Street next to Boots the chemist.",
+    "has_opened": true,
+    "location": {
+        "address": "107 - 109 Market Street, St Andrews KY16 9NX",
+        "latitude": "56.3407630416",
+        "longitude": "-2.79586911677"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 19:00",
+        "monday": "07:00 - 19:00",
+        "saturday": "08:00 - 18:00",
+        "sunday": "08:00 - 18:00",
+        "thursday": "07:00 - 19:00",
+        "tuesday": "07:00 - 19:00",
+        "wednesday": "07:00 - 19:00"
+    },
+    "phone_number": "01334478835",
+    "seating": "Lots of seats",
+    "title": "St Andrews",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

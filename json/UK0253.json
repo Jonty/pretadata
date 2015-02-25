@@ -1,0 +1,24 @@
+{
+    "getting_there": "From the station, take the escalators to the shopping centre and the shop is located on left-hand-side.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 2, Victoria Place Shopping Centre, London SW1W 1SJ",
+        "latitude": "51.4941557848",
+        "longitude": "-0.145468489209"
+    },
+    "opening_hours": {
+        "friday": "06:15 - 22:00",
+        "monday": "06:15 - 22:00",
+        "saturday": "07:30 - 22:00",
+        "sunday": "08:00 - 21:00",
+        "thursday": "06:15 - 22:00",
+        "tuesday": "06:15 - 22:00",
+        "wednesday": "06:15 - 22:00"
+    },
+    "phone_number": "020 7932 5449",
+    "seating": "Some seats",
+    "title": "Victoria Place",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

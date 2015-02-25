@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit the train station. Turn  left and cross the street. You'll see the John Lewis shop; the shopping mall is just after this shop. Once inside the mall walk to the other end.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit SU47, West Quay, Southampton SO15 1QE",
+        "latitude": "50.9039500389",
+        "longitude": "-1.40446224143"
+    },
+    "opening_hours": {
+        "friday": "07:30 - 20:00",
+        "monday": "07:30 - 20:00",
+        "saturday": "08:00 - 20:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "07:30 - 20:00",
+        "tuesday": "07:30 - 20:00",
+        "wednesday": "07:30 - 20:00"
+    },
+    "phone_number": "020 7932 5218",
+    "seating": "Lots of seats",
+    "title": "Southampton, West Quay",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

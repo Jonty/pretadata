@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit the station and follow signs for the City Centre following Granby Street. Once you pass Cafe Nero on the right hand side you will be on Gallowtree Gate.  The shop is halfway down the road on the left hand side opposite Marks and Spencer.",
+    "has_opened": true,
+    "location": {
+        "address": "25 -27 Gallowtree Gate, Leicester LE1 5AD",
+        "latitude": "52.635456",
+        "longitude": "-1.132657"
+    },
+    "opening_hours": {
+        "friday": "07:30 - 18:00",
+        "monday": "07:30 - 18:00",
+        "saturday": "08:00 - 19:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "07:30 - 18:00",
+        "tuesday": "07:30 - 18:00",
+        "wednesday": "07:30 - 18:00"
+    },
+    "phone_number": "0116 262 9462",
+    "seating": "Lots of seats",
+    "title": "Leicester, Gallowtree Gate",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

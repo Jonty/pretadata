@@ -1,0 +1,24 @@
+{
+    "getting_there": "Close to Chancery Lane tube. From the station, head towards Holborn Circus. Leather Lane is a parade of shops on the left, and we're next to the Abbey National.",
+    "has_opened": true,
+    "location": {
+        "address": "10 Leather Lane, London EC1N 7SS",
+        "latitude": "51.5188182154",
+        "longitude": "-0.108944785894"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 17:30",
+        "monday": "06:30 - 17:30",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 17:30",
+        "tuesday": "06:30 - 17:30",
+        "wednesday": "06:30 - 17:30"
+    },
+    "phone_number": "020 7932 5232",
+    "seating": "Some seats",
+    "title": "Leather Lane",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

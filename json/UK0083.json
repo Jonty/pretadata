@@ -1,0 +1,24 @@
+{
+    "getting_there": "Just off the main through-road towards West Ferry Circus.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit B2.S.50, 7 West Ferry, West Ferry Circuit, Canary Wharf E14 4HD",
+        "latitude": "51.5063225026",
+        "longitude": "-0.0262944002567"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 18:00",
+        "monday": "06:30 - 18:30",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 18:30",
+        "tuesday": "06:30 - 18:30",
+        "wednesday": "06:30 - 18:30"
+    },
+    "phone_number": "020 7932 5283",
+    "seating": "Some seats",
+    "title": "Canary Wharf, Westferry",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

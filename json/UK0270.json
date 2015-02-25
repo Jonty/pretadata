@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit Bond Street Station and walk to the end of South Molton Street and Avery Row will be in front of you.",
+    "has_opened": true,
+    "location": {
+        "address": "32 Avery Row, London W1K 4BE",
+        "latitude": "51.5127038209",
+        "longitude": "-0.146015100929"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:30",
+        "monday": "06:30 - 19:30",
+        "saturday": "08:30 - 17:30",
+        "sunday": "09:30 - 17:30",
+        "thursday": "06:30 - 19:30",
+        "tuesday": "06:30 - 19:30",
+        "wednesday": "06:30 - 19:30"
+    },
+    "phone_number": "020 7932 5447",
+    "seating": "Some seats",
+    "title": "Avery Row",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

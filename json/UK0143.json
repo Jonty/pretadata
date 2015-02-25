@@ -1,0 +1,24 @@
+{
+    "getting_there": "By taking exit 4 from Old Street tube station, where we're 1 minute along City Road, next to the Angel pub.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 1, Oliver's Yard, City Road, London EC1Y 1HQ",
+        "latitude": "51.5244862466",
+        "longitude": "-0.0873620329688"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 21:00",
+        "monday": "06:30 - 21:00",
+        "saturday": "07:30 - 18:00",
+        "sunday": "07:30 - 18:00",
+        "thursday": "06:30 - 21:00",
+        "tuesday": "06:30 - 21:00",
+        "wednesday": "06:30 - 21:00"
+    },
+    "phone_number": "020 7932 5343",
+    "seating": "Some seats",
+    "title": "City Road",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

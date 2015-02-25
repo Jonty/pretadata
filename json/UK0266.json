@@ -1,0 +1,24 @@
+{
+    "getting_there": "On High Street at Mell Square by entrance to Touch Wood shopping centre.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 29a, High Street, Solihull B91 3TA",
+        "latitude": "52.4128437394",
+        "longitude": "-1.77780366906"
+    },
+    "opening_hours": {
+        "friday": "07:30 - 17:00",
+        "monday": "07:30 - 17:00",
+        "saturday": "07:30 - 17:30",
+        "sunday": "09:00 - 17:00",
+        "thursday": "07:30 - 17:00",
+        "tuesday": "07:30 - 17:00",
+        "wednesday": "07:30 - 17:00"
+    },
+    "phone_number": "020 7932 5411",
+    "seating": "Some seats",
+    "title": "Solihull",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": false
+}

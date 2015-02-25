@@ -1,0 +1,24 @@
+{
+    "getting_there": "On the concourse of Liverpool Street Station opposite the main tube exit",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 58, Broadgate Link, Liverpool St Station, London EC2M 7PY",
+        "latitude": "51.518305",
+        "longitude": "-0.082173"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 19:30",
+        "monday": "06:00 - 19:30",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:00 - 19:30",
+        "tuesday": "06:00 - 19:30",
+        "wednesday": "06:00 - 19:30"
+    },
+    "phone_number": "020 7932 5339",
+    "seating": "Some seats",
+    "title": "Liverpool Street Station",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

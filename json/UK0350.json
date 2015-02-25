@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit Moorgate underground and head towards Bank. At the traffic lights turn left and the shop will be on the left.",
+    "has_opened": true,
+    "location": {
+        "address": "165-166 London Wall, London, EC2A 5QD  EC2A 5QD",
+        "latitude": "51.523690555",
+        "longitude": "-0.0879822618284"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 19:30",
+        "monday": "06:30 - 19:30",
+        "saturday": "08:30 - 17:30",
+        "sunday": "08:30 - 17:30",
+        "thursday": "06:30 - 19:30",
+        "tuesday": "06:30 - 19:30",
+        "wednesday": "06:30 - 19:30"
+    },
+    "phone_number": "020 76280368",
+    "seating": "Lots of seats",
+    "title": "London Wall, 165-166",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": false
+}

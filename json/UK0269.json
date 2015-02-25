@@ -1,0 +1,24 @@
+{
+    "getting_there": "Less than 10 minutes away from the British museum. From Tottenham Court Rd tube, head down New Oxford St and we're a little way along on your left. Alternative Tel Number is 020 7636 5030",
+    "has_opened": true,
+    "location": {
+        "address": "64-68 New Oxford Street, London WC1A 1AZ",
+        "latitude": "51.5170115288",
+        "longitude": "-0.127100108948"
+    },
+    "opening_hours": {
+        "friday": "07:00 - 21:00",
+        "monday": "07:00 - 21:00",
+        "saturday": "07:00 - 21:00",
+        "sunday": "07:00 - 20:00",
+        "thursday": "07:00 - 21:00",
+        "tuesday": "07:00 - 21:00",
+        "wednesday": "07:00 - 21:00"
+    },
+    "phone_number": "020 7932 5308",
+    "seating": "Lots of seats",
+    "title": "64\u009668 New Oxford Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

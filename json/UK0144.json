@@ -1,0 +1,24 @@
+{
+    "getting_there": "Through passport control, turn right and the shop is at the end of the concourse, next to the train to Gates 1-9.",
+    "has_opened": true,
+    "location": {
+        "address": "Stansted Airport, Essex CM24 1RW",
+        "latitude": "51.8904483896",
+        "longitude": "0.261067106244"
+    },
+    "opening_hours": {
+        "friday": "03:00 - 21:00",
+        "monday": "03:00 - 21:00",
+        "saturday": "03:00 - 21:00",
+        "sunday": "03:00 - 21:00",
+        "thursday": "03:00 - 21:00",
+        "tuesday": "03:00 - 21:00",
+        "wednesday": "03:00 - 21:00"
+    },
+    "phone_number": "01279 661911",
+    "seating": "Lots of seats",
+    "title": "Stansted Airport, Airside",
+    "toilets": "Nearby Disabled",
+    "wheelchair_access": true,
+    "wifi": false
+}

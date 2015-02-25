@@ -1,0 +1,24 @@
+{
+    "getting_there": "Just a minute away from New Street station. Exit the Palisades shopping centre, cross the road onto New Street itself, and we're a little way down on your right.",
+    "has_opened": true,
+    "location": {
+        "address": "52 New Street, Birmingham B2 4EG",
+        "latitude": "52.4793032974",
+        "longitude": "-1.8998657079"
+    },
+    "opening_hours": {
+        "friday": "07:30 - 18:00",
+        "monday": "07:30 - 18:00",
+        "saturday": "08:00 - 18:00",
+        "sunday": "10:00 - 16:00",
+        "thursday": "07:30 - 18:00",
+        "tuesday": "07:30 - 18:00",
+        "wednesday": "07:30 - 18:00"
+    },
+    "phone_number": "020 7932 5243",
+    "seating": "Lots of seats",
+    "title": "Birmingham, New Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

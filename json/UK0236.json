@@ -1,0 +1,24 @@
+{
+    "getting_there": "From the train station take a taxi to Market Street then you'll find the shop within 5 mins walking distance.",
+    "has_opened": true,
+    "location": {
+        "address": "22 Market Street\rCambridge, Cambridge CB2 3NZ",
+        "latitude": "52.20582",
+        "longitude": "0.119672"
+    },
+    "opening_hours": {
+        "friday": "07:30 - 19:00",
+        "monday": "07:30 - 19:00",
+        "saturday": "07:30 - 19:30",
+        "sunday": "08:30 - 19:00",
+        "thursday": "07:30 - 19:00",
+        "tuesday": "07:30 - 19:00",
+        "wednesday": "07:30 - 19:30"
+    },
+    "phone_number": "020 7932 5316",
+    "seating": "Lots of seats",
+    "title": "Cambridge, Market Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

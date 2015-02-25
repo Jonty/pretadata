@@ -1,0 +1,24 @@
+{
+    "getting_there": "Take Picadilly line towards Heathrow Terminal 3. The shop is in the departure lounge. Mobile Number: 07946889754",
+    "has_opened": true,
+    "location": {
+        "address": "Terminal 3, Landside, Middlesex TW6 1QG",
+        "latitude": "51.4699996291",
+        "longitude": "-0.457607752504"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 21:00",
+        "monday": "06:00 - 21:00",
+        "saturday": "06:00 - 21:00",
+        "sunday": "06:00 - 21:00",
+        "thursday": "06:00 - 21:00",
+        "tuesday": "06:00 - 21:00",
+        "wednesday": "06:00 - 21:00"
+    },
+    "phone_number": "020 7932 5382",
+    "seating": "Lots of seats",
+    "title": "Heathrow, Terminal 3",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": false
+}

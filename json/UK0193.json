@@ -1,0 +1,24 @@
+{
+    "getting_there": "The shop is located in the Lower level of the St. David's 2 shopping centre on the lower east side arcade. It can be found at the entrance from east side square on the right-hand side.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit KLG08 - St Davids, 3 Bridge Street Arcade, T David Dewi Sant, Caridff CF10 2EF",
+        "latitude": "51.4794889845",
+        "longitude": "-3.17449002608"
+    },
+    "opening_hours": {
+        "friday": "08:00 - 19:30",
+        "monday": "08:00 - 19:30",
+        "saturday": "08:00 - 19:30",
+        "sunday": "09:00 - 18:00",
+        "thursday": "08:00 - 19:30",
+        "tuesday": "08:00 - 19:30",
+        "wednesday": "08:00 - 19:30"
+    },
+    "phone_number": "020 7932 5433",
+    "seating": "Lots of seats",
+    "title": "Cardiff, Bridge Street Arcade",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

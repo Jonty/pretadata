@@ -1,0 +1,24 @@
+{
+    "getting_there": "Five minutes from the railway station, in-between the shopping and worker areas of town. We're directly behind the bus station, between the Post Office and the City Square tower.",
+    "has_opened": true,
+    "location": {
+        "address": "10 Infirmary Street, Leeds LS1 2JP",
+        "latitude": "53.7975402008",
+        "longitude": "-1.54842505686"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 16:30",
+        "monday": "06:30 - 16:30",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "thursday": "06:30 - 16:30",
+        "tuesday": "06:30 - 16:30",
+        "wednesday": "06:30 - 16:30"
+    },
+    "phone_number": "020 7932 5327",
+    "seating": "Some seats",
+    "title": "Leeds, Infirmary Street",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

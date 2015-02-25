@@ -1,0 +1,24 @@
+{
+    "getting_there": "Off junction 10 at the M53 and follow the signs for Cheshire Oaks. Alternatively there are buses from both Chester (5miles) and Liverpool.",
+    "has_opened": true,
+    "location": {
+        "address": "Unit 100 Cheshire Oaks Designer Outlet, Kinsey Road, South Wirral CH65 9JJ",
+        "latitude": "53.2655818108",
+        "longitude": "-2.87939059356"
+    },
+    "opening_hours": {
+        "friday": "09:30 - 20:00",
+        "monday": "09:30 - 20:00",
+        "saturday": "09:00 - 19:00",
+        "sunday": "09:00 - 18:00",
+        "thursday": "09:30 - 20:00",
+        "tuesday": "09:30 - 20:00",
+        "wednesday": "09:30 - 20:00"
+    },
+    "phone_number": "020 7932 5203",
+    "seating": "Lots of seats",
+    "title": "Cheshire Oaks",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

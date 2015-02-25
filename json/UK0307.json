@@ -1,0 +1,24 @@
+{
+    "getting_there": "The store is located on Union Street, opposite Soul Casino, on the crossroads with Bon-Accord Street and Union Row.",
+    "has_opened": true,
+    "location": {
+        "address": "234 Union Street, Aberdeen AB10 1TL",
+        "latitude": "57.1443877785",
+        "longitude": "-2.10710420091"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 18:30",
+        "monday": "06:30 - 18:30",
+        "saturday": "08:00 - 17:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "06:30 - 18:30",
+        "tuesday": "06:30 - 18:30",
+        "wednesday": "06:30 - 18:30"
+    },
+    "phone_number": "020 7932 5468",
+    "seating": "Lots of seats",
+    "title": "Aberdeen, Union Street",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}

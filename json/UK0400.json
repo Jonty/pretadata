@@ -1,0 +1,24 @@
+{
+    "getting_there": "Blackfrairs Road, 240",
+    "has_opened": false,
+    "location": {
+        "address": "240 Blackfriars Road, , London SE1 8NW",
+        "latitude": "51.5057853863",
+        "longitude": "-0.104006671774"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 18:00",
+        "monday": "06:30 - 18:00",
+        "saturday": "09:00 - 17:00",
+        "sunday": "09:00 - 17:00",
+        "thursday": "06:30 - 18:00",
+        "tuesday": "06:30 - 18:00",
+        "wednesday": "06:30 - 18:00"
+    },
+    "phone_number": "02076204580",
+    "seating": "Lots of seats",
+    "title": "Blackfrairs Road, 240",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": false
+}

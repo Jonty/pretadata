@@ -1,0 +1,24 @@
+{
+    "getting_there": "Directly across from Gt Portland Street tube station, on the corner of Great Portland Street and Euston Road.",
+    "has_opened": true,
+    "location": {
+        "address": "244 Great Portland Street, London W1W 5QX",
+        "latitude": "51.5233867862",
+        "longitude": "-0.143861917465"
+    },
+    "opening_hours": {
+        "friday": "06:00 - 22:30",
+        "monday": "06:00 - 22:30",
+        "saturday": "06:30 - 21:00",
+        "sunday": "06:30 - 20:00",
+        "thursday": "06:00 - 22:30",
+        "tuesday": "06:00 - 22:30",
+        "wednesday": "06:00 - 22:30"
+    },
+    "phone_number": "020 7932 5301",
+    "seating": "Some seats",
+    "title": "244 Great Portland St",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

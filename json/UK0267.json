@@ -1,0 +1,24 @@
+{
+    "getting_there": "Exit Oxford Circus tube and walk towards Tottenham Court Road. When you pass Marks and Spencer turn left and walk up the street. Eastcastle Street is on the left corner.",
+    "has_opened": true,
+    "location": {
+        "address": "49 Eastcastle Street, London W1W 8DZ",
+        "latitude": "51.5163854452",
+        "longitude": "-0.13890148555"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 21:00",
+        "monday": "06:30 - 21:00",
+        "saturday": "08:00 - 19:30",
+        "sunday": "09:00 - 18:00",
+        "thursday": "06:30 - 21:00",
+        "tuesday": "06:30 - 21:00",
+        "wednesday": "06:30 - 21:00"
+    },
+    "phone_number": "020 7932 5412",
+    "seating": "Some seats",
+    "title": "Eastcastle Street",
+    "toilets": "Yes",
+    "wheelchair_access": true,
+    "wifi": true
+}

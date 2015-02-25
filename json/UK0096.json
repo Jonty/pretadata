@@ -1,0 +1,24 @@
+{
+    "getting_there": "At the top end of Carnaby Street, on the corner of Gt Marlborough Street; 3 minutes away from Oxford Circus tube station.",
+    "has_opened": true,
+    "location": {
+        "address": "27/28 Great Marlborough Street, London W1F 7HY",
+        "latitude": "51.513769",
+        "longitude": "-0.139679"
+    },
+    "opening_hours": {
+        "friday": "06:30 - 23:00",
+        "monday": "06:30 - 23:00",
+        "saturday": "07:30 - 22:30",
+        "sunday": "08:00 - 21:00",
+        "thursday": "06:30 - 23:00",
+        "tuesday": "06:30 - 23:00",
+        "wednesday": "06:30 - 23:00"
+    },
+    "phone_number": "020 7932 5296",
+    "seating": "Lots of seats",
+    "title": "Great Marlborough Street",
+    "toilets": "None",
+    "wheelchair_access": true,
+    "wifi": true
+}

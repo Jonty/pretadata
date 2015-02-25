@@ -1,0 +1,24 @@
+{
+    "getting_there": "By Hyde Park Corner",
+    "has_opened": true,
+    "location": {
+        "address": "1 Grosvenor Place, London SW1X 7HJ",
+        "latitude": "51.5016810365",
+        "longitude": "-0.151611510791"
+    },
+    "opening_hours": {
+        "friday": "06:15 - 20:30",
+        "monday": "06:15 - 20:30",
+        "saturday": "06:30 - 20:30",
+        "sunday": "07:30 - 19:30",
+        "thursday": "06:15 - 20:30",
+        "tuesday": "06:15 - 20:30",
+        "wednesday": "06:15 - 20:30"
+    },
+    "phone_number": "020 7932 5321",
+    "seating": "Lots of seats",
+    "title": "Grosvenor Place",
+    "toilets": "Disabled Toilets",
+    "wheelchair_access": true,
+    "wifi": true
+}
