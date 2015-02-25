@@ -1,11 +1,22 @@
 {
-    "getting_there": "At the top of Baker Street. Cross the junction outside the tube station, and we're a minute away on your left.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Baker Street",
+        "phone_number": "020 7932 5233"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "120 Baker Street, London W1U 6TU",
+        "getting_there": "At the top of Baker Street. Cross the junction outside the tube station, and we're a minute away on your left.",
         "latitude": "51.5213314271",
         "longitude": "-0.156883515235"
     },
+    "number": "33",
     "opening_hours": {
         "friday": "06:30 - 20:30",
         "monday": "06:30 - 20:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 20:30",
         "tuesday": "06:30 - 20:30",
         "wednesday": "06:30 - 20:30"
-    },
-    "phone_number": "020 7932 5233",
-    "seating": "Some seats",
-    "title": "Baker Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

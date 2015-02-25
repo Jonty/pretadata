@@ -1,11 +1,22 @@
 {
-    "getting_there": "Directly across the road from Angel tube station.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Islington, High Street",
+        "phone_number": "020 7932 5403"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "27 Islington High Street, London N1 9LH",
+        "getting_there": "Directly across the road from Angel tube station.",
         "latitude": "51.5328522715",
         "longitude": "-0.106298262744"
     },
+    "number": "203",
     "opening_hours": {
         "friday": "06:00 - 21:30",
         "monday": "06:00 - 21:30",
@@ -14,11 +25,5 @@
         "thursday": "06:00 - 21:30",
         "tuesday": "06:00 - 21:30",
         "wednesday": "06:00 - 21:30"
-    },
-    "phone_number": "020 7932 5403",
-    "seating": "Some seats",
-    "title": "Islington, High Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

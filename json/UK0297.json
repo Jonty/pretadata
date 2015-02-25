@@ -1,11 +1,22 @@
 {
-    "getting_there": "The shop is a few minutes walk from the Savoy Hotel and opposite the Strand theatre.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "87-88 Strand",
+        "phone_number": "020 7932 5455"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "87-88 Strand, London  WC2R ODW",
+        "getting_there": "The shop is a few minutes walk from the Savoy Hotel and opposite the Strand theatre.",
         "latitude": "51.510322681",
         "longitude": "-0.121430762046"
     },
+    "number": "297",
     "opening_hours": {
         "friday": "06:45 - 23:00",
         "monday": "06:45 - 23:00",
@@ -14,11 +25,5 @@
         "thursday": "06:45 - 23:00",
         "tuesday": "06:45 - 23:00",
         "wednesday": "06:45 - 23:00"
-    },
-    "phone_number": "020 7932 5455",
-    "seating": "Some seats",
-    "title": "87-88 Strand",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

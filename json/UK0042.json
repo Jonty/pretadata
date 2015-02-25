@@ -1,11 +1,22 @@
 {
-    "getting_there": "In the centre of town, on the edge of the Lion Yard shopping centre.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Cambridge",
+        "phone_number": "020 7932 5242"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit 19 Lion Yard, Petty Cury, Cambridge CB2 3NE",
+        "getting_there": "In the centre of town, on the edge of the Lion Yard shopping centre.",
         "latitude": "52.2053237455",
         "longitude": "0.121323232394"
     },
+    "number": "42",
     "opening_hours": {
         "friday": "07:30 - 18:00",
         "monday": "07:30 - 18:00",
@@ -14,11 +25,5 @@
         "thursday": "07:30 - 18:30",
         "tuesday": "07:30 - 18:00",
         "wednesday": "07:30 - 18:30"
-    },
-    "phone_number": "020 7932 5242",
-    "seating": "Some seats",
-    "title": "Cambridge",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

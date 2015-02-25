@@ -1,11 +1,22 @@
 {
-    "getting_there": "Turn right of Angel tube station, cross the road and walk up Upper Street. The N1 shopping centre is on the left. The address 12 Parkfield Street.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Islington , N1 Centre",
+        "phone_number": "02072264292"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "12 Parkfield Street, Islington , London N1 0PS",
+        "getting_there": "Turn right of Angel tube station, cross the road and walk up Upper Street. The N1 shopping centre is on the left. The address 12 Parkfield Street.",
         "latitude": "51.5344058523",
         "longitude": "-0.10658084177"
     },
+    "number": "354",
     "opening_hours": {
         "friday": "07:00 - 21:30",
         "monday": "07:00 - 21:30",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 21:30",
         "tuesday": "07:00 - 21:30",
         "wednesday": "07:00 - 21:30"
-    },
-    "phone_number": "02072264292",
-    "seating": "Lots of seats",
-    "title": "Islington , N1 Centre",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

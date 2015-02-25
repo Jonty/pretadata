@@ -1,11 +1,22 @@
 {
-    "getting_there": "We can be found at 125 High Holborn. Holborn, Central line is the tube.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "125 High Holborn",
+        "phone_number": "020 7932 5375"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "125 High Holborn, London WC1V 6AN",
+        "getting_there": "We can be found at 125 High Holborn. Holborn, Central line is the tube.",
         "latitude": "51.5176520621",
         "longitude": "-0.121191010074"
     },
+    "number": "199",
     "opening_hours": {
         "friday": "06:30 - 20:30",
         "monday": "06:30 - 20:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 20:30",
         "tuesday": "06:30 - 20:30",
         "wednesday": "06:30 - 20:30"
-    },
-    "phone_number": "020 7932 5375",
-    "seating": "Some seats",
-    "title": "125 High Holborn",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

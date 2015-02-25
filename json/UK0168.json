@@ -1,11 +1,22 @@
 {
-    "getting_there": "On exiting South Kensington station to the left, we are directly across the road.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "South Kensington",
+        "phone_number": "020 7932 5368"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "15 Old Brompton Road, London SW7 3HZ",
+        "getting_there": "On exiting South Kensington station to the left, we are directly across the road.",
         "latitude": "51.4933910062",
         "longitude": "-0.174116786884"
     },
+    "number": "168",
     "opening_hours": {
         "friday": "06:00 - 23:00",
         "monday": "06:00 - 23:00",
@@ -14,11 +25,5 @@
         "thursday": "06:00 - 23:00",
         "tuesday": "06:00 - 23:00",
         "wednesday": "06:00 - 23:00"
-    },
-    "phone_number": "020 7932 5368",
-    "seating": "Some seats",
-    "title": "South Kensington",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

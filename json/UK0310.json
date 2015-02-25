@@ -1,11 +1,22 @@
 {
-    "getting_there": "The shop is located by gates A1 to A5",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Heathrow, T5 Kiosk",
+        "phone_number": "020 7932 5471"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Nearby Disabled",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "Terminal 5 \u0096 Airside, London Heathrow Airport, Heathrow Airport TW6 2GA",
+        "getting_there": "The shop is located by gates A1 to A5",
         "latitude": "51.4723563316",
         "longitude": "-0.487861952071"
     },
+    "number": "310",
     "opening_hours": {
         "friday": "06:00 - 20:00",
         "monday": "06:00 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "06:00 - 20:00",
         "tuesday": "06:00 - 20:00",
         "wednesday": "06:00 - 20:00"
-    },
-    "phone_number": "020 7932 5471",
-    "seating": "Some seats",
-    "title": "Heathrow, T5 Kiosk",
-    "toilets": "Nearby Disabled",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

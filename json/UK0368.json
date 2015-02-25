@@ -1,11 +1,22 @@
 {
-    "getting_there": "The Mall is located north of Bristol. Just off the M5, Junction 17. Bristol Parkway is the nearest railway station. There are bus and taxi services to The Mall.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Bristol, Cribbs Causeway",
+        "phone_number": "01179593793"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Cribbs Causeway Shopping Centre, Unit L18, Bristol BS34 5DG",
+        "getting_there": "The Mall is located north of Bristol. Just off the M5, Junction 17. Bristol Parkway is the nearest railway station. There are bus and taxi services to The Mall.",
         "latitude": "51.5251106874",
         "longitude": "-2.5953854962"
     },
+    "number": "368",
     "opening_hours": {
         "friday": "08:00 - 21:00",
         "monday": "08:00 - 21:00",
@@ -14,11 +25,5 @@
         "thursday": "08:00 - 21:00",
         "tuesday": "08:00 - 21:00",
         "wednesday": "08:00 - 21:00"
-    },
-    "phone_number": "01179593793",
-    "seating": "Lots of seats",
-    "title": "Bristol, Cribbs Causeway",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Bromley South, turn right, walk up the road to the pedestrian area, the shop is on the left.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Bromley High Street",
+        "phone_number": "020 7932 5354"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "86 High Street, Bromley, Kent BR1 1EY",
+        "getting_there": "Exit Bromley South, turn right, walk up the road to the pedestrian area, the shop is on the left.",
         "latitude": "51.402843",
         "longitude": "0.015237"
     },
+    "number": "154",
     "opening_hours": {
         "friday": "08:00 - 17:00",
         "monday": "08:00 - 17:00",
@@ -14,11 +25,5 @@
         "thursday": "08:00 - 17:00",
         "tuesday": "08:00 - 17:00",
         "wednesday": "08:00 - 17:00"
-    },
-    "phone_number": "020 7932 5354",
-    "seating": "Some seats",
-    "title": "Bromley High Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

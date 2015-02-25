@@ -1,11 +1,22 @@
 {
-    "getting_there": "Take the Tooley Street exit at  London Bridge Station;  turn left outside the station; the shop is opposite the London Dungeons just across the traffic lights.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Tooley Street",
+        "phone_number": "020 7932 5366"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "47-49 Tooley Street, London SE1 2QN",
+        "getting_there": "Take the Tooley Street exit at  London Bridge Station;  turn left outside the station; the shop is opposite the London Dungeons just across the traffic lights.",
         "latitude": "51.5055614777",
         "longitude": "-0.0849846508957"
     },
+    "number": "166",
     "opening_hours": {
         "friday": "06:00 - 21:30",
         "monday": "06:00 - 21:30",
@@ -14,11 +25,5 @@
         "thursday": "06:00 - 21:30",
         "tuesday": "06:00 - 21:30",
         "wednesday": "06:00 - 21:30"
-    },
-    "phone_number": "020 7932 5366",
-    "seating": "Lots of seats",
-    "title": "Tooley Street",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

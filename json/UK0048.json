@@ -1,11 +1,22 @@
 {
-    "getting_there": "Half-way down Villiers Street, between Embankment tube station and the Strand, opposite the Arches.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Villiers Street",
+        "phone_number": "020 7932 5248"
+    },
+    "facilities": {
+        "seating": "No seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "25 Villiers Street, London WC2N 6ND",
+        "getting_there": "Half-way down Villiers Street, between Embankment tube station and the Strand, opposite the Arches.",
         "latitude": "51.5082070105",
         "longitude": "-0.123735378076"
     },
+    "number": "48",
     "opening_hours": {
         "friday": "06:30 - 20:00",
         "monday": "06:30 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 20:00",
         "tuesday": "06:30 - 20:00",
         "wednesday": "06:30 - 20:00"
-    },
-    "phone_number": "020 7932 5248",
-    "seating": "No seats",
-    "title": "Villiers Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

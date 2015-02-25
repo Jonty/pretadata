@@ -1,11 +1,22 @@
 {
-    "getting_there": "Directly outside Earls Court station",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Earls Court Station",
+        "phone_number": "020 7932 5462"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "230 - 232 Earls Court Road, London SW5 9RD",
+        "getting_there": "Directly outside Earls Court station",
         "latitude": "51.4921508555",
         "longitude": "-0.193071730917"
     },
+    "number": "300",
     "opening_hours": {
         "friday": "06:30 - 22:00",
         "monday": "06:30 - 22:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 22:00",
         "tuesday": "06:30 - 22:00",
         "wednesday": "06:30 - 22:00"
-    },
-    "phone_number": "020 7932 5462",
-    "seating": "Some seats",
-    "title": "Earls Court Station",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

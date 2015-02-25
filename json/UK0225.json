@@ -1,11 +1,22 @@
 {
-    "getting_there": "In the Circle area of the new St. Pancras station, at the end of the Arcade, past the Market, opposite Paul and Yo!Sushi",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "St Pancras International",
+        "phone_number": "020 7932 5225"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Nearby Disabled",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit 17B, The Circle, St Pancras International Station, London NW1 2QP",
+        "getting_there": "In the Circle area of the new St. Pancras station, at the end of the Arcade, past the Market, opposite Paul and Yo!Sushi",
         "latitude": "51.5320129351",
         "longitude": "-0.12615611234"
     },
+    "number": "225",
     "opening_hours": {
         "friday": "05:00 - 01:00",
         "monday": "05:00 - 01:00",
@@ -14,11 +25,5 @@
         "thursday": "05:00 - 01:00",
         "tuesday": "05:00 - 01:00",
         "wednesday": "05:00 - 01:00"
-    },
-    "phone_number": "020 7932 5225",
-    "seating": "Some seats",
-    "title": "St Pancras International",
-    "toilets": "Nearby Disabled",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

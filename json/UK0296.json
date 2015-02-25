@@ -1,11 +1,22 @@
 {
-    "getting_there": "Half way along Horseferry Road, not far from the government offices and the Channel 4's headquarters",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Horseferry Road, 19",
+        "phone_number": "020 7932 5459"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit 12, Great Minster, 19-23 Horseferry Road, London SW1 2AA",
+        "getting_there": "Half way along Horseferry Road, not far from the government offices and the Channel 4's headquarters",
         "latitude": "51.4947927361",
         "longitude": "-0.129721028154"
     },
+    "number": "296",
     "opening_hours": {
         "friday": "06:15 - 22:00",
         "monday": "06:15 - 22:00",
@@ -14,11 +25,5 @@
         "thursday": "06:15 - 22:00",
         "tuesday": "06:15 - 22:00",
         "wednesday": "06:15 - 22:00"
-    },
-    "phone_number": "020 7932 5459",
-    "seating": "Lots of seats",
-    "title": "Horseferry Road, 19",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

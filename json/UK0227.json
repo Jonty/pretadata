@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Barbican tube station. Turn right, and right again. The shop is on Long Lane.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Barbican, Long Lane",
+        "phone_number": "020 7932 5221"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "1 Long Lane, Barbican EC1A 9HA",
+        "getting_there": "Exit Barbican tube station. Turn right, and right again. The shop is on Long Lane.",
         "latitude": "51.5200383003",
         "longitude": "-0.0980754011192"
     },
+    "number": "227",
     "opening_hours": {
         "friday": "06:30 - 19:30",
         "monday": "06:30 - 19:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 19:30",
         "tuesday": "06:30 - 19:30",
         "wednesday": "06:30 - 19:30"
-    },
-    "phone_number": "020 7932 5221",
-    "seating": "Lots of seats",
-    "title": "Barbican, Long Lane",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

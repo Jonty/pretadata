@@ -1,11 +1,22 @@
 {
-    "getting_there": "By taking a right turn out of Putney station, heading up the High Street, and we're on your right, past the library.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Putney High Street",
+        "phone_number": "020 7932 5331"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "121 Putney High Street, London SW15 1SU",
+        "getting_there": "By taking a right turn out of Putney station, heading up the High Street, and we're on your right, past the library.",
         "latitude": "51.462388031",
         "longitude": "-0.21621589399"
     },
+    "number": "131",
     "opening_hours": {
         "friday": "06:30 - 19:00",
         "monday": "06:30 - 19:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 19:00",
         "tuesday": "06:30 - 19:00",
         "wednesday": "06:30 - 19:00"
-    },
-    "phone_number": "020 7932 5331",
-    "seating": "Lots of seats",
-    "title": "Putney High Street",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

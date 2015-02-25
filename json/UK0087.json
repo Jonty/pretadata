@@ -1,11 +1,22 @@
 {
-    "getting_there": "At the St Paul's cathedral end of Ludgate Hill, just across the road from the famous steps.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Ludgate Hill",
+        "phone_number": "020 7932 5287"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "19/21 Ludgate Hill, London EC4M 7AE",
+        "getting_there": "At the St Paul's cathedral end of Ludgate Hill, just across the road from the famous steps.",
         "latitude": "51.5137169107",
         "longitude": "-0.101301266837"
     },
+    "number": "87",
     "opening_hours": {
         "friday": "06:30 - 20:00",
         "monday": "06:30 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 20:00",
         "tuesday": "06:30 - 20:00",
         "wednesday": "06:30 - 20:00"
-    },
-    "phone_number": "020 7932 5287",
-    "seating": "Some seats",
-    "title": "Ludgate Hill",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

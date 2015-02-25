@@ -1,11 +1,22 @@
 {
-    "getting_there": "Within the shopping arcade at High St Kensington tube station.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Kensington Arcade",
+        "phone_number": "020 7932 5254"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit 14, Kensington Arcade, London W8 5SF",
+        "getting_there": "Within the shopping arcade at High St Kensington tube station.",
         "latitude": "51.50071",
         "longitude": "-0.192524"
     },
+    "number": "54",
     "opening_hours": {
         "friday": "06:30 - 23:00",
         "monday": "06:30 - 23:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 23:00",
         "tuesday": "06:30 - 23:00",
         "wednesday": "06:30 - 23:00"
-    },
-    "phone_number": "020 7932 5254",
-    "seating": "Lots of seats",
-    "title": "Kensington Arcade",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

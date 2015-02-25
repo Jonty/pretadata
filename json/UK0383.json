@@ -1,11 +1,22 @@
 {
-    "getting_there": "The shop is located on the ground floor in the platinum mall not far from the escalators.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Gateshead, Metrocentre",
+        "phone_number": "01914603096"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit 19, Lower Platinum Mall, Metrocentre, Gateshead NE11 9YG",
+        "getting_there": "The shop is located on the ground floor in the platinum mall not far from the escalators.",
         "latitude": "54.9576626707",
         "longitude": "-1.66854461253"
     },
+    "number": "383",
     "opening_hours": {
         "friday": "09:00 - 20:00",
         "monday": "09:00 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "09:00 - 20:00",
         "tuesday": "09:00 - 20:00",
         "wednesday": "09:00 - 20:00"
-    },
-    "phone_number": "01914603096",
-    "seating": "Lots of seats",
-    "title": "Gateshead, Metrocentre",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

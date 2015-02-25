@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Liverpool Street station. Walk towards the crossroad. Turn left into Primrose Street and the shop is located between Tower Broadgate and 201 Bishopsgate",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Bishopsgate, 201",
+        "phone_number": "020 7932 5427"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Nearby Disabled",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "Units 1 and 2, 201 Bishopsgate, London EC2M 3AB",
+        "getting_there": "Exit Liverpool Street station. Walk towards the crossroad. Turn left into Primrose Street and the shop is located between Tower Broadgate and 201 Bishopsgate",
         "latitude": "51.5207771836",
         "longitude": "-0.0801375539568"
     },
+    "number": "262",
     "opening_hours": {
         "friday": "06:15 - 18:30",
         "monday": "06:15 - 19:00",
@@ -14,11 +25,5 @@
         "thursday": "06:15 - 19:00",
         "tuesday": "06:15 - 19:00",
         "wednesday": "06:15 - 19:00"
-    },
-    "phone_number": "020 7932 5427",
-    "seating": "Some seats",
-    "title": "Bishopsgate, 201",
-    "toilets": "Nearby Disabled",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

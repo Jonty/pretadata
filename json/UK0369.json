@@ -1,11 +1,22 @@
 {
-    "getting_there": "A few minutes walk from Goodge street station.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Mortimer Street",
+        "phone_number": "02073230832"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "5-11 Mortimer Street, London W1T 3HS",
+        "getting_there": "A few minutes walk from Goodge street station.",
         "latitude": "51.5185825677",
         "longitude": "-0.137146417351"
     },
+    "number": "369",
     "opening_hours": {
         "friday": "07:00 - 18:30",
         "monday": "07:00 - 18:30",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 18:30",
         "tuesday": "07:00 - 18:30",
         "wednesday": "07:00 - 18:30"
-    },
-    "phone_number": "02073230832",
-    "seating": "Lots of seats",
-    "title": "Mortimer Street",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

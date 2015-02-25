@@ -1,11 +1,22 @@
 {
-    "getting_there": "Mid-way down the left-hand side of the Mall as you come from Cabot Place.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Canary Wharf, The Mall",
+        "phone_number": "020 7932 5435"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Nearby Disabled",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "1 Canada Place, Canary Wharf, London E14 5NN",
+        "getting_there": "Mid-way down the left-hand side of the Mall as you come from Cabot Place.",
         "latitude": "51.5048819014",
         "longitude": "-0.0184612095966"
     },
+    "number": "161",
     "opening_hours": {
         "friday": "05:30 - 21:30",
         "monday": "05:30 - 21:30",
@@ -14,11 +25,5 @@
         "thursday": "05:30 - 21:30",
         "tuesday": "05:30 - 21:30",
         "wednesday": "05:30 - 21:30"
-    },
-    "phone_number": "020 7932 5435",
-    "seating": "Some seats",
-    "title": "Canary Wharf, The Mall",
-    "toilets": "Nearby Disabled",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

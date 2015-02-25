@@ -1,11 +1,22 @@
 {
-    "getting_there": "Coleman Street runs parallel to Moorgate and connects Gresham Street with London Wall; Tube Stations: Moorgate or Bank",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Coleman Street",
+        "phone_number": "020 7932 5410"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "67 Coleman Street, London EC2R 5BT",
+        "getting_there": "Coleman Street runs parallel to Moorgate and connects Gresham Street with London Wall; Tube Stations: Moorgate or Bank",
         "latitude": "51.51653",
         "longitude": "-0.089648"
     },
+    "number": "238",
     "opening_hours": {
         "friday": "06:15 - 20:00",
         "monday": "06:15 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "06:15 - 20:00",
         "tuesday": "06:15 - 20:00",
         "wednesday": "06:15 - 20:00"
-    },
-    "phone_number": "020 7932 5410",
-    "seating": "Lots of seats",
-    "title": "Coleman Street",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

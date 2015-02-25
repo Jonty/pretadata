@@ -1,11 +1,22 @@
 {
-    "getting_there": "Mid-way between Oxford St and Soho. Turn off Oxford Street onto Poland Street (the one opposite HMV). Broadwick Street is at the far end.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Broadwick Street",
+        "phone_number": "020 7932 5274"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "35 Broadwick St, London W1F 0DH",
+        "getting_there": "Mid-way between Oxford St and Soho. Turn off Oxford Street onto Poland Street (the one opposite HMV). Broadwick Street is at the far end.",
         "latitude": "51.5133420463",
         "longitude": "-0.136316193364"
     },
+    "number": "74",
     "opening_hours": {
         "friday": "06:30 - 21:00",
         "monday": "06:30 - 21:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 21:00",
         "tuesday": "06:30 - 21:00",
         "wednesday": "06:30 - 21:00"
-    },
-    "phone_number": "020 7932 5274",
-    "seating": "Lots of seats",
-    "title": "Broadwick Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

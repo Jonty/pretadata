@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Monument station, walk up Main Street Eastcheap. Turn right towards Great Tower Street. The shop is on the corner of Philpot Lane.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Eastcheap, 19",
+        "phone_number": "020 7283 7261"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "19 Eastcheap, Unit C, 13-21 , London EC3M 1BU",
+        "getting_there": "Exit Monument station, walk up Main Street Eastcheap. Turn right towards Great Tower Street. The shop is on the corner of Philpot Lane.",
         "latitude": "51.510819114",
         "longitude": "-0.0843961913663"
     },
+    "number": "318",
     "opening_hours": {
         "friday": "06:30 - 19:30",
         "monday": "06:30 - 19:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 19:30",
         "tuesday": "06:30 - 19:30",
         "wednesday": "06:30 - 19:30"
-    },
-    "phone_number": "020 7283 7261",
-    "seating": "Lots of seats",
-    "title": "Eastcheap, 19",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

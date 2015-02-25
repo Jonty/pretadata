@@ -1,11 +1,22 @@
 {
-    "getting_there": "On the corner of Cannon Street and Queen Street, within sight of St Paul's cathedral. If you're coming from the tube, take the Garick Hill exit from Mansion House.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "52 Cannon Street",
+        "phone_number": "020 7932 5266"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "52-54 Cannon Street, London EC4N 6LY",
+        "getting_there": "On the corner of Cannon Street and Queen Street, within sight of St Paul's cathedral. If you're coming from the tube, take the Garick Hill exit from Mansion House.",
         "latitude": "51.5120034153",
         "longitude": "-0.092619838099"
     },
+    "number": "66",
     "opening_hours": {
         "friday": "06:00 - 19:30",
         "monday": "06:00 - 19:30",
@@ -14,11 +25,5 @@
         "thursday": "06:00 - 19:30",
         "tuesday": "06:00 - 19:30",
         "wednesday": "06:00 - 19:30"
-    },
-    "phone_number": "020 7932 5266",
-    "seating": "Lots of seats",
-    "title": "52 Cannon Street",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

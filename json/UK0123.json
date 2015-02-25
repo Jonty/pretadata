@@ -1,11 +1,22 @@
 {
-    "getting_there": "At the Ludgate Hill end of Fleet Street, close to Shoe Lane.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "143 Fleet Street",
+        "phone_number": "020 7932 5323"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "143 Fleet Street, London EC4Y 1HY",
+        "getting_there": "At the Ludgate Hill end of Fleet Street, close to Shoe Lane.",
         "latitude": "51.5143066036",
         "longitude": "-0.107261145686"
     },
+    "number": "123",
     "opening_hours": {
         "friday": "06:30 - 18:30",
         "monday": "06:30 - 19:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 19:00",
         "tuesday": "06:30 - 19:00",
         "wednesday": "06:30 - 19:00"
-    },
-    "phone_number": "020 7932 5323",
-    "seating": "Some seats",
-    "title": "143 Fleet Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

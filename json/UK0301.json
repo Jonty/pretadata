@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Ealing Broadway tube station. Turn left to the High Street. Turn right and cross the road. Continue to walk for 5 minutes. The shop is located on the High Street at the next junction",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Ealing",
+        "phone_number": "020 7932 5460"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "45 High Street, Ealing W5 5AW",
+        "getting_there": "Exit Ealing Broadway tube station. Turn left to the High Street. Turn right and cross the road. Continue to walk for 5 minutes. The shop is located on the High Street at the next junction",
         "latitude": "51.5130184781",
         "longitude": "-0.304561980681"
     },
+    "number": "301",
     "opening_hours": {
         "friday": "07:00 - 19:30",
         "monday": "07:00 - 19:30",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 19:30",
         "tuesday": "07:00 - 19:30",
         "wednesday": "07:00 - 19:30"
-    },
-    "phone_number": "020 7932 5460",
-    "seating": "Lots of seats",
-    "title": "Ealing",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

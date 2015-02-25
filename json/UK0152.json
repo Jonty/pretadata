@@ -1,11 +1,22 @@
 {
-    "getting_there": "Just across from the 'Monument' & near the Metro Station",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Newcastle, Grainger Street",
+        "phone_number": "020 7932 5352"
+    },
+    "facilities": {
+        "seating": "No seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "150 Grainger Street, Newcastle NE1 5AF",
+        "getting_there": "Just across from the 'Monument' & near the Metro Station",
         "latitude": "54.973944",
         "longitude": "-1.613508"
     },
+    "number": "152",
     "opening_hours": {
         "friday": "07:00 - 19:00",
         "monday": "07:00 - 19:00",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 19:00",
         "tuesday": "07:00 - 19:00",
         "wednesday": "07:00 - 19:00"
-    },
-    "phone_number": "020 7932 5352",
-    "seating": "No seats",
-    "title": "Newcastle, Grainger Street",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

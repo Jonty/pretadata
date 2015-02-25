@@ -1,11 +1,22 @@
 {
-    "getting_there": "Leave Farringdon station walk towards Cowcross Street to your left, on Cowcross Street turn left and St Johns Street is at the end of Cowcross Street on the left.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "St John Street, 3-5",
+        "phone_number": "020 7932 5444"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "3-5 St. John Street, Clerkenwell, London EC1M 4AA",
+        "getting_there": "Leave Farringdon station walk towards Cowcross Street to your left, on Cowcross Street turn left and St Johns Street is at the end of Cowcross Street on the left.",
         "latitude": "51.5199840979",
         "longitude": "-0.101993174825"
     },
+    "number": "160",
     "opening_hours": {
         "friday": "06:30 - 18:30",
         "monday": "06:30 - 18:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 18:30",
         "tuesday": "06:30 - 18:30",
         "wednesday": "06:30 - 18:30"
-    },
-    "phone_number": "020 7932 5444",
-    "seating": "Some seats",
-    "title": "St John Street, 3-5",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

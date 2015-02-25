@@ -10,7 +10,7 @@ for pretfile in os.listdir('json'):
         data = json.load(f)
 
     if 'latitude' in data['location']:
-        kml.newpoint(name=data['title'], coords=[
+        kml.newpoint(name=data['details']['name'], coords=[
             (data['location']['longitude'], data['location']['latitude'])
         ])
 

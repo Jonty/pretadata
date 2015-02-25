@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit High Holborn tube, walk  few minutes past 240 High Holborn.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "High Holborn, 280",
+        "phone_number": "02074054290"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "280 High Holborn, London WC1V 7EE",
+        "getting_there": "Exit High Holborn tube, walk  few minutes past 240 High Holborn.",
         "latitude": "51.5176869698",
         "longitude": "-0.117104594327"
     },
+    "number": "344",
     "opening_hours": {
         "friday": "07:00 - 20:30",
         "monday": "07:00 - 20:30",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 20:30",
         "tuesday": "07:00 - 20:30",
         "wednesday": "07:00 - 20:30"
-    },
-    "phone_number": "02074054290",
-    "seating": "Lots of seats",
-    "title": "High Holborn, 280",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

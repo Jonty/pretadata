@@ -1,11 +1,22 @@
 {
-    "getting_there": "The Pret is located at 95 Farringdon Road.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "95 Farringdon Road",
+        "phone_number": "0207 713 8885"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "95 Farringdon Road, London EC1R 3BT",
+        "getting_there": "The Pret is located at 95 Farringdon Road.",
         "latitude": "51.522336",
         "longitude": "-0.107452"
     },
+    "number": "326",
     "opening_hours": {
         "friday": "06:30 - 20:30",
         "monday": "06:30 - 20:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 20:30",
         "tuesday": "06:30 - 20:30",
         "wednesday": "06:30 - 20:30"
-    },
-    "phone_number": "0207 713 8885",
-    "seating": "Lots of seats",
-    "title": "95 Farringdon Road",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

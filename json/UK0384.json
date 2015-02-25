@@ -1,11 +1,22 @@
 {
-    "getting_there": "",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Tavistock Square",
+        "phone_number": "02073872186"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "Unit 2, Lynton House, London  WC1H 9LT",
+        "getting_there": "",
         "latitude": "51.5253378508",
         "longitude": "-0.12822098331"
     },
+    "number": "384",
     "opening_hours": {
         "friday": "07:00 - 20:00",
         "monday": "07:00 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 20:00",
         "tuesday": "07:00 - 20:00",
         "wednesday": "07:00 - 20:00"
-    },
-    "phone_number": "02073872186",
-    "seating": "Lots of seats",
-    "title": "Tavistock Square",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

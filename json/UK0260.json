@@ -1,11 +1,22 @@
 {
-    "getting_there": "The shop is located in the food court.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Westfield, White City",
+        "phone_number": "020 7932 5360"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "Unit 2033, Level 50 Mall South, Westfield London Shopping Centre W12 7GR",
+        "getting_there": "The shop is located in the food court.",
         "latitude": "51.5069895447",
         "longitude": "-0.22078057554"
     },
+    "number": "260",
     "opening_hours": {
         "friday": "09:00 - 22:00",
         "monday": "09:00 - 22:00",
@@ -14,11 +25,5 @@
         "thursday": "09:00 - 22:00",
         "tuesday": "09:00 - 22:00",
         "wednesday": "09:00 - 22:00"
-    },
-    "phone_number": "020 7932 5360",
-    "seating": "Lots of seats",
-    "title": "Westfield, White City",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

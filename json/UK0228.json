@@ -1,11 +1,22 @@
 {
-    "getting_there": "Turn Right from Piccadilly Manchester train station. Walk straight ahead until you get to the main turning on the left. You'll find a big red building, inside  you'll find Pret.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Manchester, Piccadilly Gardens",
+        "phone_number": "020 7932 5223"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit C3, One Piccadilly Gardens, Manchester M1 1RG",
+        "getting_there": "Turn Right from Piccadilly Manchester train station. Walk straight ahead until you get to the main turning on the left. You'll find a big red building, inside  you'll find Pret.",
         "latitude": "53.4806158248",
         "longitude": "-2.23548695281"
     },
+    "number": "228",
     "opening_hours": {
         "friday": "07:00 - 18:00",
         "monday": "07:00 - 18:00",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 18:00",
         "tuesday": "07:00 - 18:00",
         "wednesday": "07:00 - 18:00"
-    },
-    "phone_number": "020 7932 5223",
-    "seating": "Lots of seats",
-    "title": "Manchester, Piccadilly Gardens",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

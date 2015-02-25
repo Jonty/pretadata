@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit the main train station, turn right along by the bus garage. Walk towards Gunwharf, through the tunnel. The shop is on the right.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Portsmouth, Gunwharf Quay",
+        "phone_number": "02392737396"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit 79, Gunwharf Quay, Portsmouth PO1 3TZ",
+        "getting_there": "Exit the main train station, turn right along by the bus garage. Walk towards Gunwharf, through the tunnel. The shop is on the right.",
         "latitude": "50.7963001946",
         "longitude": "-1.10656395649"
     },
+    "number": "376",
     "opening_hours": {
         "friday": "08:30 - 20:30",
         "monday": "08:30 - 20:30",
@@ -14,11 +25,5 @@
         "thursday": "08:30 - 20:30",
         "tuesday": "08:30 - 20:30",
         "wednesday": "08:30 - 20:30"
-    },
-    "phone_number": "02392737396",
-    "seating": "Lots of seats",
-    "title": "Portsmouth, Gunwharf Quay",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

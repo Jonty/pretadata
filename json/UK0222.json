@@ -1,11 +1,22 @@
 {
-    "getting_there": "Located, in Spinningfields, the heart of Manchester\u0092s new business district between Deansgate and the new riverside \u0091Leftbank\u0092 apartments. The shop is next to the HSBC and looks on the open spaces of Hardman Square.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Manchester, Spinningfields",
+        "phone_number": "020 7932 5259"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit R2, 4 Hardman Square, Spinningfields, Manchester M3 3EB",
+        "getting_there": "Located, in Spinningfields, the heart of Manchester\u0092s new business district between Deansgate and the new riverside \u0091Leftbank\u0092 apartments. The shop is next to the HSBC and looks on the open spaces of Hardman Square.",
         "latitude": "53.4796411089",
         "longitude": "-2.25166463751"
     },
+    "number": "222",
     "opening_hours": {
         "friday": "07:00 - 19:00",
         "monday": "07:00 - 19:00",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 19:00",
         "tuesday": "07:00 - 19:00",
         "wednesday": "07:00 - 19:00"
-    },
-    "phone_number": "020 7932 5259",
-    "seating": "Lots of seats",
-    "title": "Manchester, Spinningfields",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

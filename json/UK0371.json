@@ -1,11 +1,22 @@
 {
-    "getting_there": "Silverburn is a large shopping centre outside Glasgow. By Car, M8. Take M77 to Kilmarnock - exit M77 on Pollock cut off. Free parking. The mobile number is: 07825-866786.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Glasgow, Silverburn",
+        "phone_number": "01418805829"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "Unit X6, Silverburn Shopping Centre, Glasgow G53 6AG",
+        "getting_there": "Silverburn is a large shopping centre outside Glasgow. By Car, M8. Take M77 to Kilmarnock - exit M77 on Pollock cut off. Free parking. The mobile number is: 07825-866786.",
         "latitude": "55.8229352624",
         "longitude": "-4.34209621123"
     },
+    "number": "371",
     "opening_hours": {
         "friday": "08:30 - 21:00",
         "monday": "08:30 - 21:00",
@@ -14,11 +25,5 @@
         "thursday": "08:30 - 21:00",
         "tuesday": "08:30 - 21:00",
         "wednesday": "08:30 - 21:00"
-    },
-    "phone_number": "01418805829",
-    "seating": "Lots of seats",
-    "title": "Glasgow, Silverburn",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

@@ -1,11 +1,22 @@
 {
-    "getting_there": "The shop is on the west side of Leeds shopping centre and is 5 minutes from the station. Walk past Leeds Bond Street and then take the second turning on the left.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Leeds, Lands Lane",
+        "phone_number": "020 7932 5376"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "6 Lands Lane, Leeds LS1 6AW",
+        "getting_there": "The shop is on the west side of Leeds shopping centre and is 5 minutes from the station. Walk past Leeds Bond Street and then take the second turning on the left.",
         "latitude": "53.797768702",
         "longitude": "-1.54351787439"
     },
+    "number": "176",
     "opening_hours": {
         "friday": "07:00 - 19:30",
         "monday": "07:00 - 19:00",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 19:30",
         "tuesday": "07:00 - 19:00",
         "wednesday": "07:00 - 19:00"
-    },
-    "phone_number": "020 7932 5376",
-    "seating": "Lots of seats",
-    "title": "Leeds, Lands Lane",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

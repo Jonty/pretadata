@@ -1,11 +1,22 @@
 {
-    "getting_there": "In the airside departure lounge",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Luton Airport",
+        "phone_number": "020 7932 5359"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "Airside Departure Lounge, London-Luton Airport, Airport Way, Luton, Bedfordshire LU2 9LY",
+        "getting_there": "In the airside departure lounge",
         "latitude": "51.8776563895",
         "longitude": "-0.378037203322"
     },
+    "number": "159",
     "opening_hours": {
         "friday": "04:30 - 21:00",
         "monday": "04:30 - 20:30",
@@ -14,11 +25,5 @@
         "thursday": "04:30 - 20:30",
         "tuesday": "04:30 - 20:30",
         "wednesday": "04:30 - 20:30"
-    },
-    "phone_number": "020 7932 5359",
-    "seating": "Some seats",
-    "title": "Luton Airport",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

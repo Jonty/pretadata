@@ -1,11 +1,22 @@
 {
-    "getting_there": "At the bottom of Queens Road as you come from the station. Opposite the clock tower on North Street.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Brighton, North Street",
+        "phone_number": "020 7932 5336"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "77 North Street, Brighton, Brighton BN1 1ZA",
+        "getting_there": "At the bottom of Queens Road as you come from the station. Opposite the clock tower on North Street.",
         "latitude": "50.8236030221",
         "longitude": "-0.144146442052"
     },
+    "number": "136",
     "opening_hours": {
         "friday": "07:30 - 18:30",
         "monday": "07:30 - 18:30",
@@ -14,11 +25,5 @@
         "thursday": "07:30 - 18:30",
         "tuesday": "07:30 - 18:30",
         "wednesday": "07:30 - 18:30"
-    },
-    "phone_number": "020 7932 5336",
-    "seating": "Lots of seats",
-    "title": "Brighton, North Street",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

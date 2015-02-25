@@ -1,11 +1,22 @@
 {
-    "getting_there": "Mid-way along Stamford Street (which connects  Waterloo and Blackfriars bridges on the southern side of the Thames).",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Stamford Street",
+        "phone_number": "020 7932 5295"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "58-60 Stamford Street, London SE1 9LX",
+        "getting_there": "Mid-way along Stamford Street (which connects  Waterloo and Blackfriars bridges on the southern side of the Thames).",
         "latitude": "51.5071090337",
         "longitude": "-0.107730382056"
     },
+    "number": "95",
     "opening_hours": {
         "friday": "06:30 - 18:00",
         "monday": "06:30 - 18:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 18:00",
         "tuesday": "06:30 - 18:00",
         "wednesday": "06:30 - 18:00"
-    },
-    "phone_number": "020 7932 5295",
-    "seating": "Some seats",
-    "title": "Stamford Street",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

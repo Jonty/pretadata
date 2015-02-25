@@ -1,11 +1,22 @@
 {
-    "getting_there": "A few minutes from Sloane Square station.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Kings Road, 35-37",
+        "phone_number": "02033766902"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "35-37 Kings Road, London SW3 4NB",
+        "getting_there": "A few minutes from Sloane Square station.",
         "latitude": "51.4901228556",
         "longitude": "-0.16178706456"
     },
+    "number": "351",
     "opening_hours": {
         "friday": "06:30 - 22:00",
         "monday": "06:30 - 22:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 22:00",
         "tuesday": "06:30 - 22:00",
         "wednesday": "06:30 - 22:00"
-    },
-    "phone_number": "02033766902",
-    "seating": "Lots of seats",
-    "title": "Kings Road, 35-37",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

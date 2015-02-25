@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit the station and walk towards the pedestrianised area. The shop located on Clarence Street.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Kingston, Clarence Street",
+        "phone_number": "020 85415834"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "85-87 Clarence Street, Kingston KT1 1RB",
+        "getting_there": "Exit the station and walk towards the pedestrianised area. The shop located on Clarence Street.",
         "latitude": "51.4109666381",
         "longitude": "-0.302939848311"
     },
+    "number": "337",
     "opening_hours": {
         "friday": "06:30 - 19:30",
         "monday": "06:30 - 19:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 19:30",
         "tuesday": "06:30 - 19:30",
         "wednesday": "06:30 - 19:30"
-    },
-    "phone_number": "020 85415834",
-    "seating": "Lots of seats",
-    "title": "Kingston, Clarence Street",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

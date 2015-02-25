@@ -1,11 +1,22 @@
 {
-    "getting_there": "From the Pret shop at the corner of the shopping centre, turn left and walk a few minutes up Broad Street. The shop is on the right.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Reading, Broad Street",
+        "phone_number": "020 7932 5251"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "60 Broad Street, Reading RG1 2AF",
+        "getting_there": "From the Pret shop at the corner of the shopping centre, turn left and walk a few minutes up Broad Street. The shop is on the right.",
         "latitude": "51.4556324941",
         "longitude": "-0.974266978356"
     },
+    "number": "211",
     "opening_hours": {
         "friday": "07:00 - 19:00",
         "monday": "07:00 - 19:00",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 19:00",
         "tuesday": "07:00 - 19:00",
         "wednesday": "07:00 - 19:00"
-    },
-    "phone_number": "020 7932 5251",
-    "seating": "Some seats",
-    "title": "Reading, Broad Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

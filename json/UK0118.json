@@ -1,11 +1,22 @@
 {
-    "getting_there": "On the outside of Victoria Station, by the taxi rank and opposite the bus station.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Victoria Station",
+        "phone_number": "020 7932 5318"
+    },
+    "facilities": {
+        "seating": "No seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "Unit 36B, Victoria Station, London SW1V 1JU",
+        "getting_there": "On the outside of Victoria Station, by the taxi rank and opposite the bus station.",
         "latitude": "51.4960333925",
         "longitude": "-0.144879634996"
     },
+    "number": "118",
     "opening_hours": {
         "friday": "06:00 - 23:00",
         "monday": "06:00 - 23:00",
@@ -14,11 +25,5 @@
         "thursday": "06:00 - 23:00",
         "tuesday": "06:00 - 23:00",
         "wednesday": "06:00 - 23:00"
-    },
-    "phone_number": "020 7932 5318",
-    "seating": "No seats",
-    "title": "Victoria Station",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

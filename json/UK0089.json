@@ -1,11 +1,22 @@
 {
-    "getting_there": "By exiting Liverpool Street station onto Bishopsgate. Cross the road and head in the direction of Monument. Camomile Street is the first road on your left, and St Mary Axe is a short way down on the right.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "St Mary Axe",
+        "phone_number": "0207 932 5289"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "25 St. Mary Axe, London EC3A 8AA",
+        "getting_there": "By exiting Liverpool Street station onto Bishopsgate. Cross the road and head in the direction of Monument. Camomile Street is the first road on your left, and St Mary Axe is a short way down on the right.",
         "latitude": "51.5145839601",
         "longitude": "-0.0810663332971"
     },
+    "number": "89",
     "opening_hours": {
         "friday": "06:30 - 19:00",
         "monday": "06:30 - 19:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 19:30",
         "tuesday": "06:30 - 19:30",
         "wednesday": "06:30 - 19:30"
-    },
-    "phone_number": "0207 932 5289",
-    "seating": "Lots of seats",
-    "title": "St Mary Axe",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

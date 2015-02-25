@@ -1,11 +1,22 @@
 {
-    "getting_there": "Get off at Monument tube station and take Gracechurch rd, then take 1st right h.side: Fenchurch S",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Cullum Street",
+        "phone_number": "020 7932 5277"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit C, Fountain House, 125-135 Fenchurch Street, London EC3M 5DJ",
+        "getting_there": "Get off at Monument tube station and take Gracechurch rd, then take 1st right h.side: Fenchurch S",
         "latitude": "51.5120503334",
         "longitude": "-0.0821253580441"
     },
+    "number": "223",
     "opening_hours": {
         "friday": "06:30 - 18:00",
         "monday": "06:30 - 18:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 18:00",
         "tuesday": "06:30 - 18:00",
         "wednesday": "06:30 - 18:00"
-    },
-    "phone_number": "020 7932 5277",
-    "seating": "Lots of seats",
-    "title": "Cullum Street",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

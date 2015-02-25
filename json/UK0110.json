@@ -1,11 +1,22 @@
 {
-    "getting_there": "Mid-way along Holborn Viaduct, just outside the entrance to City Thameslink station.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Holborn Viaduct",
+        "phone_number": "020 7932 5310"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Fleetplate House, 11-13 Holborn Viaduct, London EC1A 2AT",
+        "getting_there": "Mid-way along Holborn Viaduct, just outside the entrance to City Thameslink station.",
         "latitude": "51.5166261772",
         "longitude": "-0.103661117399"
     },
+    "number": "110",
     "opening_hours": {
         "friday": "06:45 - 18:00",
         "monday": "06:45 - 19:00",
@@ -14,11 +25,5 @@
         "thursday": "06:45 - 19:00",
         "tuesday": "06:45 - 19:00",
         "wednesday": "06:45 - 19:00"
-    },
-    "phone_number": "020 7932 5310",
-    "seating": "Some seats",
-    "title": "Holborn Viaduct",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

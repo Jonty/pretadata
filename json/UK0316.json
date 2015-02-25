@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Covent Garden tube station. Walk down Neal Street, at the junction of Shelton Street the shop is located on the corner.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Shelton Street",
+        "phone_number": "020 7932 5466"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "37 Shelton Street, London WC2H 9HN",
+        "getting_there": "Exit Covent Garden tube station. Walk down Neal Street, at the junction of Shelton Street the shop is located on the corner.",
         "latitude": "51.5141569144",
         "longitude": "-0.124942126322"
     },
+    "number": "316",
     "opening_hours": {
         "friday": "07:00 - 20:00",
         "monday": "07:00 - 19:30",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 20:00",
         "tuesday": "07:00 - 19:30",
         "wednesday": "07:00 - 19:30"
-    },
-    "phone_number": "020 7932 5466",
-    "seating": "Lots of seats",
-    "title": "Shelton Street",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

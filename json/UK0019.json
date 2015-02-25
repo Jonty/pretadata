@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Oxford Circus station onto Regent Street and walk straight on. You will see our shop just before BBC Broadcasting House.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Regent Street",
+        "phone_number": "020 7932 5219"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "298 Regent Street, London W1B 3AP",
+        "getting_there": "Exit Oxford Circus station onto Regent Street and walk straight on. You will see our shop just before BBC Broadcasting House.",
         "latitude": "51.5162469239",
         "longitude": "-0.142231851844"
     },
+    "number": "19",
     "opening_hours": {
         "friday": "06:30 - 22:30",
         "monday": "06:30 - 22:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 22:30",
         "tuesday": "06:30 - 22:30",
         "wednesday": "06:30 - 22:30"
-    },
-    "phone_number": "020 7932 5219",
-    "seating": "Some seats",
-    "title": "Regent Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

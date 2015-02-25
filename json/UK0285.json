@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Bond Street station, cross the road. Walk down the St. Christopher's Place alleyway by H&M, Pret is located at the end on the right.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "St Christopher's Place",
+        "phone_number": "020 7932 5441"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit 3 and 4, Gees Court, London W1U1JF",
+        "getting_there": "Exit Bond Street station, cross the road. Walk down the St. Christopher's Place alleyway by H&M, Pret is located at the end on the right.",
         "latitude": "51.514903",
         "longitude": "-0.1501597"
     },
+    "number": "285",
     "opening_hours": {
         "friday": "07:00 - 22:30",
         "monday": "07:00 - 21:30",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 22:30",
         "tuesday": "07:00 - 21:30",
         "wednesday": "07:00 - 21:30"
-    },
-    "phone_number": "020 7932 5441",
-    "seating": "Lots of seats",
-    "title": "St Christopher's Place",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

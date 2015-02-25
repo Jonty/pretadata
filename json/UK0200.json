@@ -1,11 +1,22 @@
 {
-    "getting_there": "Just a minute away from East Croydon station.  Turn right as you come out of the station, and it's on your right as you head towards the centre of Croydon.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Croydon, George Street",
+        "phone_number": "020 7932 5400"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "93a George Street, Surrey CR0 1LD",
+        "getting_there": "Just a minute away from East Croydon station.  Turn right as you come out of the station, and it's on your right as you head towards the centre of Croydon.",
         "latitude": "51.3747186945",
         "longitude": "-0.093695659222"
     },
+    "number": "200",
     "opening_hours": {
         "friday": "06:00 - 18:30",
         "monday": "06:00 - 18:30",
@@ -14,11 +25,5 @@
         "thursday": "06:00 - 18:30",
         "tuesday": "06:00 - 18:30",
         "wednesday": "06:00 - 18:30"
-    },
-    "phone_number": "020 7932 5400",
-    "seating": "Some seats",
-    "title": "Croydon, George Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

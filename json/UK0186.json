@@ -1,11 +1,22 @@
 {
-    "getting_there": "At the Trafalgar Square end of Whitehall, on the corner with Northumberland Avenue.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Whitehall",
+        "phone_number": "020 7932 5216"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "1 Whitehall, London SW1A 2DD",
+        "getting_there": "At the Trafalgar Square end of Whitehall, on the corner with Northumberland Avenue.",
         "latitude": "51.507207",
         "longitude": "-0.127282"
     },
+    "number": "186",
     "opening_hours": {
         "friday": "06:30 - 20:30",
         "monday": "06:30 - 20:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 20:30",
         "tuesday": "06:30 - 20:30",
         "wednesday": "06:30 - 20:30"
-    },
-    "phone_number": "020 7932 5216",
-    "seating": "Some seats",
-    "title": "Whitehall",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

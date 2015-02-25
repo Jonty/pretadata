@@ -1,11 +1,22 @@
 {
-    "getting_there": "Pret is located on the first floor\rlocated next to Sports Direct.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Westfield Stratford City",
+        "phone_number": "020 7932 5454"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "SU 2054, 202 The Gallery, Westfield Stratford City E20 1ES",
+        "getting_there": "Pret is located on the first floor\rlocated next to Sports Direct.",
         "latitude": "51.5438470567",
         "longitude": "-0.00532877697844"
     },
+    "number": "298",
     "opening_hours": {
         "friday": "08:30 - 21:00",
         "monday": "08:30 - 21:00",
@@ -14,11 +25,5 @@
         "thursday": "08:30 - 21:00",
         "tuesday": "08:30 - 21:00",
         "wednesday": "08:30 - 21:00"
-    },
-    "phone_number": "020 7932 5454",
-    "seating": "Lots of seats",
-    "title": "Westfield Stratford City",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

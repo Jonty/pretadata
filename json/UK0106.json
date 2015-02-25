@@ -1,11 +1,22 @@
 {
-    "getting_there": "In the new Midsummer Boulevard shopping centre, close to M&S.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Milton Keynes, Intu",
+        "phone_number": "020 7932 5306"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit SU2, Midsummer Place, Milton Keynes MK9 3GB",
+        "getting_there": "In the new Midsummer Boulevard shopping centre, close to M&S.",
         "latitude": "52.0412541902",
         "longitude": "-0.758403421342"
     },
+    "number": "106",
     "opening_hours": {
         "friday": "08:00 - 19:00",
         "monday": "08:00 - 18:30",
@@ -14,11 +25,5 @@
         "thursday": "08:00 - 19:00",
         "tuesday": "08:00 - 18:30",
         "wednesday": "08:00 - 18:30"
-    },
-    "phone_number": "020 7932 5306",
-    "seating": "Lots of seats",
-    "title": "Milton Keynes, Intu",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

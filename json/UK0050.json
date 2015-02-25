@@ -1,11 +1,22 @@
 {
-    "getting_there": "Towards the Tottenham Court Road end of Oxford Street, on the corner of Rathbone Place and opposite Soho Square.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Oxford Street",
+        "phone_number": "020 7932 5250"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "54 Oxford Street, London W1D 1BQ",
+        "getting_there": "Towards the Tottenham Court Road end of Oxford Street, on the corner of Rathbone Place and opposite Soho Square.",
         "latitude": "51.5163351758",
         "longitude": "-0.133106703885"
     },
+    "number": "50",
     "opening_hours": {
         "friday": "06:30 - 22:30",
         "monday": "06:30 - 22:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 22:30",
         "tuesday": "06:30 - 22:30",
         "wednesday": "06:30 - 22:30"
-    },
-    "phone_number": "020 7932 5250",
-    "seating": "Lots of seats",
-    "title": "Oxford Street",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

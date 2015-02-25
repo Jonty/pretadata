@@ -1,11 +1,22 @@
 {
-    "getting_there": "About 5 minutes from Barbican tube station. Take a left along Aldersgate Street, and we're at the junction with Clerkenwell Road and Old Street.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Goswell Road",
+        "phone_number": "020 7932 5302"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "9/10 Charterhouse Buildings, Goswell Rd, London EC1M 7AN",
+        "getting_there": "About 5 minutes from Barbican tube station. Take a left along Aldersgate Street, and we're at the junction with Clerkenwell Road and Old Street.",
         "latitude": "51.5231749121",
         "longitude": "-0.0984783304686"
     },
+    "number": "102",
     "opening_hours": {
         "friday": "06:30 - 20:00",
         "monday": "06:30 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 20:00",
         "tuesday": "06:30 - 20:00",
         "wednesday": "06:30 - 20:00"
-    },
-    "phone_number": "020 7932 5302",
-    "seating": "Some seats",
-    "title": "Goswell Road",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

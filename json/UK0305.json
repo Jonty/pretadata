@@ -1,11 +1,22 @@
 {
-    "getting_there": "The shop is situated just off Oxford St, Hare Wood Place which is a side street to Oxford St, opposite of John Lewis. It is on the north side of Hanover Square.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Hanover Square",
+        "phone_number": "020 7932 5464"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "13 Hanover Square, London W1S 1HN",
+        "getting_there": "The shop is situated just off Oxford St, Hare Wood Place which is a side street to Oxford St, opposite of John Lewis. It is on the north side of Hanover Square.",
         "latitude": "51.5144550479",
         "longitude": "-0.143819092648"
     },
+    "number": "305",
     "opening_hours": {
         "friday": "06:30 - 21:30",
         "monday": "06:30 - 21:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 21:30",
         "tuesday": "06:30 - 21:30",
         "wednesday": "06:30 - 21:30"
-    },
-    "phone_number": "020 7932 5464",
-    "seating": "Lots of seats",
-    "title": "Hanover Square",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Oxford Circus station, walk down Regent Street. Conduit Street is located opposite Hamleys.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Conduit Street",
+        "phone_number": "020 7932 5315"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "61-65 Conduit Street, London W1S 2GB",
+        "getting_there": "Exit Oxford Circus station, walk down Regent Street. Conduit Street is located opposite Hamleys.",
         "latitude": "51.5128",
         "longitude": "-0.141144"
     },
+    "number": "252",
     "opening_hours": {
         "friday": "06:30 - 20:00",
         "monday": "06:30 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 20:00",
         "tuesday": "06:30 - 20:00",
         "wednesday": "06:30 - 20:00"
-    },
-    "phone_number": "020 7932 5315",
-    "seating": "Lots of seats",
-    "title": "Conduit Street",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

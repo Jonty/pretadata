@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit St Johns Wood station, walk down towards Circus Road, turn left. The shop is 3 minutes walk.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "St John's Wood",
+        "phone_number": "020 7483 3433"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Yes",
+        "wheelchair_access": false,
+        "wifi": true
+    },
     "location": {
         "address": "2-4 Circus Road, London NW8 6PG",
+        "getting_there": "Exit St Johns Wood station, walk down towards Circus Road, turn left. The shop is 3 minutes walk.",
         "latitude": "51.534058",
         "longitude": "-0.171474"
     },
+    "number": "327",
     "opening_hours": {
         "friday": "06:30 - 20:30",
         "monday": "06:30 - 20:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 21:00",
         "tuesday": "06:30 - 20:30",
         "wednesday": "06:30 - 20:30"
-    },
-    "phone_number": "020 7483 3433",
-    "seating": "Some seats",
-    "title": "St John's Wood",
-    "toilets": "Yes",
-    "wheelchair_access": false,
-    "wifi": true
+    }
 }

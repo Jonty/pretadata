@@ -1,11 +1,22 @@
 {
-    "getting_there": "Half way down Gt Portland St, on the corner with New Cavendish St.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "136 Great Portland Street",
+        "phone_number": "02073230090"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "136 Great Portland Street, London W1W 6PY",
+        "getting_there": "Half way down Gt Portland St, on the corner with New Cavendish St.",
         "latitude": "51.5202340187",
         "longitude": "-0.142614204267"
     },
+    "number": "140",
     "opening_hours": {
         "friday": "06:30 - 21:30",
         "monday": "06:30 - 21:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 21:30",
         "tuesday": "06:30 - 21:30",
         "wednesday": "06:30 - 21:30"
-    },
-    "phone_number": "02073230090",
-    "seating": "Some seats",
-    "title": "136 Great Portland Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

@@ -1,11 +1,22 @@
 {
-    "getting_there": "The shop is located opposite the entrance to the Swan Walk shopping centre on West Street.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Horsham",
+        "phone_number": "01403 243356"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "14-15 West Street, Horsham, West Sussex RH12 1PB",
+        "getting_there": "The shop is located opposite the entrance to the Swan Walk shopping centre on West Street.",
         "latitude": "51.0626849209",
         "longitude": "-0.330907370666"
     },
+    "number": "303",
     "opening_hours": {
         "friday": "07:30 - 18:00",
         "monday": "07:30 - 18:00",
@@ -14,11 +25,5 @@
         "thursday": "07:30 - 18:00",
         "tuesday": "07:30 - 18:00",
         "wednesday": "07:30 - 18:00"
-    },
-    "phone_number": "01403 243356",
-    "seating": "Lots of seats",
-    "title": "Horsham",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

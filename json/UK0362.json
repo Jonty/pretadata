@@ -1,11 +1,22 @@
 {
-    "getting_there": "The shop is located at th Hammersmith (H&C line) Station, Metropolitan building.",
-    "has_opened": false,
+    "details": {
+        "has_opened": false,
+        "name": "Hammersmith Station",
+        "phone_number": "02087489842"
+    },
+    "facilities": {
+        "seating": "No seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "Unit  1 Hammersmith (H&C line) , Metropolitan building, Beadon Road, Hammersmith W6 7AA",
+        "getting_there": "The shop is located at th Hammersmith (H&C line) Station, Metropolitan building.",
         "latitude": "51.4933713042",
         "longitude": "-0.224956191315"
     },
+    "number": "362",
     "opening_hours": {
         "friday": "06:30 - 21:30",
         "monday": "06:30 - 21:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 21:30",
         "tuesday": "06:30 - 21:30",
         "wednesday": "06:30 - 21:30"
-    },
-    "phone_number": "02087489842",
-    "seating": "No seats",
-    "title": "Hammersmith Station",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

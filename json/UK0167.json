@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Victoria Station and turn left and turn left at the traffic lights into Buckingham Palace Road. Walk past Victoria Place Shopping Centre on your left and the shop is on the right-hand side at the next intersection.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Buckingham Palace Road",
+        "phone_number": "020 7932 5367"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "92 Buckingham Palace Road, London SW1W 0SS",
+        "getting_there": "Exit Victoria Station and turn left and turn left at the traffic lights into Buckingham Palace Road. Walk past Victoria Place Shopping Centre on your left and the shop is on the right-hand side at the next intersection.",
         "latitude": "51.4943733095",
         "longitude": "-0.146790556227"
     },
+    "number": "167",
     "opening_hours": {
         "friday": "06:30 - 19:30",
         "monday": "06:30 - 19:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 19:30",
         "tuesday": "06:30 - 19:30",
         "wednesday": "06:30 - 19:30"
-    },
-    "phone_number": "020 7932 5367",
-    "seating": "Some seats",
-    "title": "Buckingham Palace Road",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

@@ -1,11 +1,22 @@
 {
-    "getting_there": "Towards the Warren Street end of Tottenham Court Road.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "100 Tottenham Court Road",
+        "phone_number": "020 7932 5238"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "100 Tottenham Court Road, London W1T 4TT",
+        "getting_there": "Towards the Warren Street end of Tottenham Court Road.",
         "latitude": "51.5225242079",
         "longitude": "-0.136345463723"
     },
+    "number": "38",
     "opening_hours": {
         "friday": "06:30 - 22:00",
         "monday": "06:30 - 22:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 22:00",
         "tuesday": "06:30 - 22:00",
         "wednesday": "06:30 - 22:00"
-    },
-    "phone_number": "020 7932 5238",
-    "seating": "Lots of seats",
-    "title": "100 Tottenham Court Road",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

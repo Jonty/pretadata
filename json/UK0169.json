@@ -1,11 +1,22 @@
 {
-    "getting_there": "A few minutes walk from Kings Cross station.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Pentonville Road",
+        "phone_number": "020 7932 5369"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "296 Pentonville Road, Kings Cross, London N1 9NR",
+        "getting_there": "A few minutes walk from Kings Cross station.",
         "latitude": "51.5309058843",
         "longitude": "-0.122085115293"
     },
+    "number": "169",
     "opening_hours": {
         "friday": "06:30 - 22:00",
         "monday": "06:30 - 22:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 22:00",
         "tuesday": "06:30 - 22:00",
         "wednesday": "06:30 - 22:00"
-    },
-    "phone_number": "020 7932 5369",
-    "seating": "Some seats",
-    "title": "Pentonville Road",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

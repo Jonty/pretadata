@@ -1,11 +1,22 @@
 {
-    "getting_there": "The shop is located inside the station's  Western Concourse You can also call us on 020 7932 5465.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Kings Cross, Station",
+        "phone_number": "020 7932 5465"
+    },
+    "facilities": {
+        "seating": "No seats",
+        "toilets": "Nearby Disabled",
+        "wheelchair_access": false,
+        "wifi": true
+    },
     "location": {
         "address": "Unit CG08, Western Range, Kings Cross Station, Euston Road, London N1 9AP",
+        "getting_there": "The shop is located inside the station's  Western Concourse You can also call us on 020 7932 5465.",
         "latitude": "51.531541138",
         "longitude": "-0.12501188972"
     },
+    "number": "311",
     "opening_hours": {
         "friday": "05:30 - 23:30",
         "monday": "05:30 - 23:30",
@@ -14,11 +25,5 @@
         "thursday": "05:30 - 23:30",
         "tuesday": "05:30 - 23:30",
         "wednesday": "05:30 - 23:30"
-    },
-    "phone_number": "020 7932 5465",
-    "seating": "No seats",
-    "title": "Kings Cross, Station",
-    "toilets": "Nearby Disabled",
-    "wheelchair_access": false,
-    "wifi": true
+    }
 }

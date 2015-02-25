@@ -1,11 +1,22 @@
 {
-    "getting_there": "On the main concourse of Waterloo Station. The remote kitchen can be contacted on 0207 633 9594.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Waterloo Station",
+        "phone_number": "020 7633 9233"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "The Lozenge GO1A, Main Concourse, Waterloo Station SE1 7NQ",
+        "getting_there": "On the main concourse of Waterloo Station. The remote kitchen can be contacted on 0207 633 9594.",
         "latitude": "51.503293",
         "longitude": "-0.11245"
     },
+    "number": "328",
     "opening_hours": {
         "friday": "05:00 - 23:30",
         "monday": "05:00 - 23:30",
@@ -14,11 +25,5 @@
         "thursday": "05:00 - 23:30",
         "tuesday": "05:00 - 23:30",
         "wednesday": "05:00 - 23:30"
-    },
-    "phone_number": "020 7633 9233",
-    "seating": "Lots of seats",
-    "title": "Waterloo Station",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

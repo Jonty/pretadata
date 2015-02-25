@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Oxford Street tube, walk towards Debenhams. Turn right after Carphone Warehouse and the shop is opposite.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Vere Street",
+        "phone_number": "0207 4950 840"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "5 Vere Street, London W1G 0DJ",
+        "getting_there": "Exit Oxford Street tube, walk towards Debenhams. Turn right after Carphone Warehouse and the shop is opposite.",
         "latitude": "51.5151868826",
         "longitude": "-0.147231046657"
     },
+    "number": "345",
     "opening_hours": {
         "friday": "06:45 - 21:00",
         "monday": "06:45 - 21:00",
@@ -14,11 +25,5 @@
         "thursday": "06:45 - 21:00",
         "tuesday": "06:45 - 21:00",
         "wednesday": "06:45 - 21:00"
-    },
-    "phone_number": "0207 4950 840",
-    "seating": "Lots of seats",
-    "title": "Vere Street",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

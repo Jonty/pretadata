@@ -1,11 +1,22 @@
 {
-    "getting_there": "Opposite John Lewis the in new Liverpool One shopping complex.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Liverpool, Paradise Street",
+        "phone_number": "020 7932 5413"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit 56a, 4 Paradise Street, Liverpool L1 8BQ",
+        "getting_there": "Opposite John Lewis the in new Liverpool One shopping complex.",
         "latitude": "53.4033360921",
         "longitude": "-2.98687608817"
     },
+    "number": "243",
     "opening_hours": {
         "friday": "08:00 - 20:00",
         "monday": "08:00 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "08:00 - 20:00",
         "tuesday": "08:00 - 20:00",
         "wednesday": "08:00 - 20:00"
-    },
-    "phone_number": "020 7932 5413",
-    "seating": "Some seats",
-    "title": "Liverpool, Paradise Street",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

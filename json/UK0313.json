@@ -1,11 +1,22 @@
 {
-    "getting_there": "Directly opposite Green Park tube station.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Piccadilly, 81",
+        "phone_number": "020 7932 5469"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "81 Piccadilly, London W1J 8HY",
+        "getting_there": "Directly opposite Green Park tube station.",
         "latitude": "51.5065966946",
         "longitude": "-0.143525769056"
     },
+    "number": "313",
     "opening_hours": {
         "friday": "06:00 - 23:00",
         "monday": "06:00 - 23:00",
@@ -14,11 +25,5 @@
         "thursday": "06:00 - 23:00",
         "tuesday": "06:00 - 23:00",
         "wednesday": "06:00 - 23:00"
-    },
-    "phone_number": "020 7932 5469",
-    "seating": "Lots of seats",
-    "title": "Piccadilly, 81",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

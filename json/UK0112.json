@@ -1,11 +1,22 @@
 {
-    "getting_there": "By exiting Moorgate station and heading in the opposite direction to London Wall. Ropemaker St is a left turn at the top of Moorgate, and we're across the plaza.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Ropemaker Street",
+        "phone_number": "020 7932 5312"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit 3, City Point, London EC2Y 9AW",
+        "getting_there": "By exiting Moorgate station and heading in the opposite direction to London Wall. Ropemaker St is a left turn at the top of Moorgate, and we're across the plaza.",
         "latitude": "51.518985",
         "longitude": "-0.089758"
     },
+    "number": "112",
     "opening_hours": {
         "friday": "06:30 - 18:00",
         "monday": "06:30 - 18:00",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 18:00",
         "tuesday": "06:30 - 18:00",
         "wednesday": "06:30 - 18:00"
-    },
-    "phone_number": "020 7932 5312",
-    "seating": "Lots of seats",
-    "title": "Ropemaker Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

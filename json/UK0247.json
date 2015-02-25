@@ -1,11 +1,22 @@
 {
-    "getting_there": "Situated directly opposite Liverpool Crown Courts. 2 minutes up the road from James Street Station.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Liverpool, Derby Square",
+        "phone_number": "020 7932 5372"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "3 Derby Square\rLiverpool, Liverpool L2 9UJ",
+        "getting_there": "Situated directly opposite Liverpool Crown Courts. 2 minutes up the road from James Street Station.",
         "latitude": "53.4053506161",
         "longitude": "-2.99004905763"
     },
+    "number": "247",
     "opening_hours": {
         "friday": "07:30 - 17:00",
         "monday": "07:30 - 17:00",
@@ -14,11 +25,5 @@
         "thursday": "07:30 - 17:00",
         "tuesday": "07:30 - 17:00",
         "wednesday": "07:30 - 17:00"
-    },
-    "phone_number": "020 7932 5372",
-    "seating": "Lots of seats",
-    "title": "Liverpool, Derby Square",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

@@ -1,11 +1,22 @@
 {
-    "getting_there": "On the junction of Grays Inn Road, Theobalds Road and Clerkenwell; about a 3 minute walk from Chancery Lane tube.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Grays Inn Road",
+        "phone_number": "020 7932 5298"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "100-108 Gray's Inn Road, London WC1X 8AJ",
+        "getting_there": "On the junction of Grays Inn Road, Theobalds Road and Clerkenwell; about a 3 minute walk from Chancery Lane tube.",
         "latitude": "51.521492263",
         "longitude": "-0.113031365446"
     },
+    "number": "98",
     "opening_hours": {
         "friday": "06:30 - 20:30",
         "monday": "06:30 - 20:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 20:30",
         "tuesday": "06:30 - 20:30",
         "wednesday": "06:30 - 20:30"
-    },
-    "phone_number": "020 7932 5298",
-    "seating": "Lots of seats",
-    "title": "Grays Inn Road",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

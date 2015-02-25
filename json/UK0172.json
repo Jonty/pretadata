@@ -1,11 +1,22 @@
 {
-    "getting_there": "Through the first set of doors as you enter Canary Wharf having come from the Jubilee line, directly beneath the Tower.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Canary Wharf, Tower Kiosk",
+        "phone_number": "020 7516 0323"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Nearby Disabled",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "1 Canada Square, London E14  4QS",
+        "getting_there": "Through the first set of doors as you enter Canary Wharf having come from the Jubilee line, directly beneath the Tower.",
         "latitude": "51.5049077429",
         "longitude": "-0.0190242926923"
     },
+    "number": "172",
     "opening_hours": {
         "friday": "06:00 - 20:00",
         "monday": "06:00 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "06:00 - 20:00",
         "tuesday": "06:00 - 20:00",
         "wednesday": "06:00 - 20:00"
-    },
-    "phone_number": "020 7516 0323",
-    "seating": "Some seats",
-    "title": "Canary Wharf, Tower Kiosk",
-    "toilets": "Nearby Disabled",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

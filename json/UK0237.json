@@ -1,11 +1,22 @@
 {
-    "getting_there": "On the corner of Wigmore Street and Wimpole Street.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Wigmore Street",
+        "phone_number": "020 7932 5291"
+    },
+    "facilities": {
+        "seating": "No seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "24 Wigmore Street, London W1U 2RJ",
+        "getting_there": "On the corner of Wigmore Street and Wimpole Street.",
         "latitude": "51.5167004505",
         "longitude": "-0.147389283831"
     },
+    "number": "237",
     "opening_hours": {
         "friday": "07:00 - 21:00",
         "monday": "07:00 - 21:00",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 21:00",
         "tuesday": "07:00 - 21:00",
         "wednesday": "07:00 - 21:00"
-    },
-    "phone_number": "020 7932 5291",
-    "seating": "No seats",
-    "title": "Wigmore Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

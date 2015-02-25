@@ -1,11 +1,22 @@
 {
-    "getting_there": "From the Western Concourse of Kings Cross Station take the escalator behind the Pret a Manger down to the Underground and the Northern Ticket Hall .",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Kings Cross Station, Kiosk",
+        "phone_number": "020 7713 9512"
+    },
+    "facilities": {
+        "seating": "No seats",
+        "toilets": "None",
+        "wheelchair_access": false,
+        "wifi": false
+    },
     "location": {
         "address": "Kings Cross Station, Northern Ticket Hall, Euston Road, London N1 9AP",
+        "getting_there": "From the Western Concourse of Kings Cross Station take the escalator behind the Pret a Manger down to the Underground and the Northern Ticket Hall .",
         "latitude": "51.5313401773",
         "longitude": "-0.124342824972"
     },
+    "number": "314",
     "opening_hours": {
         "friday": "06:00 - 20:00",
         "monday": "06:00 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "06:00 - 20:00",
         "tuesday": "06:00 - 20:00",
         "wednesday": "06:00 - 20:00"
-    },
-    "phone_number": "020 7713 9512",
-    "seating": "No seats",
-    "title": "Kings Cross Station, Kiosk",
-    "toilets": "None",
-    "wheelchair_access": false,
-    "wifi": false
+    }
 }

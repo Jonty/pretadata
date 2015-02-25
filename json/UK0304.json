@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Woking station from the exit adjacent to Platform one. Follow signs to the shops and the Peacock shopping centre .The Shop located on the newly refurbished town square.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Woking, Wolsey Walk",
+        "phone_number": "020 7932 5461"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit 41 (1), Wolsey Walk Shopping Centre, Woking GU21 2XX",
+        "getting_there": "Exit Woking station from the exit adjacent to Platform one. Follow signs to the shops and the Peacock shopping centre .The Shop located on the newly refurbished town square.",
         "latitude": "51.3197958664",
         "longitude": "-0.558564553539"
     },
+    "number": "304",
     "opening_hours": {
         "friday": "07:00 - 19:00",
         "monday": "07:00 - 19:00",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 19:00",
         "tuesday": "07:00 - 19:00",
         "wednesday": "07:00 - 19:00"
-    },
-    "phone_number": "020 7932 5461",
-    "seating": "Lots of seats",
-    "title": "Woking, Wolsey Walk",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

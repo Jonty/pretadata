@@ -1,11 +1,22 @@
 {
-    "getting_there": "Ground Floor of the Fenwick department store",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Newcastle, Fenwick",
+        "phone_number": "020 7932 5222"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "G/F Fenwick Department Store, 39 Northumberland Street, Newcastle NE99 1AR",
+        "getting_there": "Ground Floor of the Fenwick department store",
         "latitude": "54.975295",
         "longitude": "-1.612899"
     },
+    "number": "221",
     "opening_hours": {
         "friday": "09:00 - 19:30",
         "monday": "09:00 - 19:30",
@@ -14,11 +25,5 @@
         "thursday": "09:00 - 19:30",
         "tuesday": "09:00 - 19:30",
         "wednesday": "09:00 - 19:30"
-    },
-    "phone_number": "020 7932 5222",
-    "seating": "Lots of seats",
-    "title": "Newcastle, Fenwick",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

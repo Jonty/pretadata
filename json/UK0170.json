@@ -1,11 +1,22 @@
 {
-    "getting_there": "You can find the shop on the corner of Stall Street and Cheap Street.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Bath, Stall Street",
+        "phone_number": "020 7932 5370"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "2 Stall Street, Bath BA1 1QL",
+        "getting_there": "You can find the shop on the corner of Stall Street and Cheap Street.",
         "latitude": "51.3814582011",
         "longitude": "-2.36034846703"
     },
+    "number": "170",
     "opening_hours": {
         "friday": "07:30 - 19:00",
         "monday": "07:30 - 19:00",
@@ -14,11 +25,5 @@
         "thursday": "07:30 - 19:00",
         "tuesday": "07:30 - 19:00",
         "wednesday": "07:30 - 19:00"
-    },
-    "phone_number": "020 7932 5370",
-    "seating": "Lots of seats",
-    "title": "Bath, Stall Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

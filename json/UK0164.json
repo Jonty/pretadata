@@ -1,11 +1,22 @@
 {
-    "getting_there": "Come out of the first set of escalators, take the entrance to Canada Square, the shop is on the right side of the corridor.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Canary Wharf, Canada Place",
+        "phone_number": "02075131963"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit 7, Building DS4, Canada Place, Canary Wharf E14 5NN",
+        "getting_there": "Come out of the first set of escalators, take the entrance to Canada Square, the shop is on the right side of the corridor.",
         "latitude": "51.5038899627",
         "longitude": "-0.0166050944887"
     },
+    "number": "164",
     "opening_hours": {
         "friday": "05:30 - 20:00",
         "monday": "05:30 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "05:30 - 20:00",
         "tuesday": "05:30 - 20:00",
         "wednesday": "05:30 - 20:00"
-    },
-    "phone_number": "02075131963",
-    "seating": "Some seats",
-    "title": "Canary Wharf, Canada Place",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

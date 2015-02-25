@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Monument Tube station (District Line). Head towards the Monument on your right. Turn right into King William Street. Turn left towards the river. The shop is on the north end of London Bridge.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "King William Street",
+        "phone_number": "020 7932 5217"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "43 King William Street, London EC4R 9AN",
+        "getting_there": "Exit Monument Tube station (District Line). Head towards the Monument on your right. Turn right into King William Street. Turn left towards the river. The shop is on the north end of London Bridge.",
         "latitude": "51.5098928055",
         "longitude": "-0.0867964172662"
     },
+    "number": "217",
     "opening_hours": {
         "friday": "06:00 - 21:00",
         "monday": "06:00 - 21:00",
@@ -14,11 +25,5 @@
         "thursday": "06:00 - 21:00",
         "tuesday": "06:00 - 21:00",
         "wednesday": "06:00 - 21:00"
-    },
-    "phone_number": "020 7932 5217",
-    "seating": "Some seats",
-    "title": "King William Street",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Edgware Tube station. Walk towards the Hilton Metropole Hotel and the shop is opposite.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Praed St",
+        "phone_number": "020 7932 5445"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "3-5 Praed Street, London W2 1NJ",
+        "getting_there": "Exit Edgware Tube station. Walk towards the Hilton Metropole Hotel and the shop is opposite.",
         "latitude": "51.51913",
         "longitude": "-0.169928"
     },
+    "number": "288",
     "opening_hours": {
         "friday": "06:30 - 20:30",
         "monday": "06:30 - 20:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 20:30",
         "tuesday": "06:30 - 20:30",
         "wednesday": "06:30 - 20:30"
-    },
-    "phone_number": "020 7932 5445",
-    "seating": "Lots of seats",
-    "title": "Praed St",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

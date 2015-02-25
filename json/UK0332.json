@@ -1,11 +1,22 @@
 {
-    "getting_there": "Follow the signs for Middleton Hall and John Lewis.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Milton Keynes, Eagle Walk",
+        "phone_number": "01908 665649"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "27-29 Eagle Walk, Centre Milton Keynes, Milton Keynes MK9 3AJ",
+        "getting_there": "Follow the signs for Middleton Hall and John Lewis.",
         "latitude": "52.043052",
         "longitude": "-0.751272"
     },
+    "number": "332",
     "opening_hours": {
         "friday": "08:00 - 20:00",
         "monday": "08:00 - 19:00",
@@ -14,11 +25,5 @@
         "thursday": "08:00 - 20:00",
         "tuesday": "08:00 - 19:00",
         "wednesday": "08:00 - 19:30"
-    },
-    "phone_number": "01908 665649",
-    "seating": "Lots of seats",
-    "title": "Milton Keynes, Eagle Walk",
-    "toilets": "Yes",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

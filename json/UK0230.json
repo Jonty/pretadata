@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Goodge Street station and turn right. The shop is a few minutes walk away.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "67 Tottenham Court Road",
+        "phone_number": "020 7932 5205"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Yes",
+        "wheelchair_access": false,
+        "wifi": true
+    },
     "location": {
         "address": "67 Tottenham Court Road, London W1T 2EY",
+        "getting_there": "Exit Goodge Street station and turn right. The shop is a few minutes walk away.",
         "latitude": "51.5203021134",
         "longitude": "-0.134187399986"
     },
+    "number": "230",
     "opening_hours": {
         "friday": "06:30 - 20:30",
         "monday": "06:30 - 20:30",
@@ -14,11 +25,5 @@
         "thursday": "06:30 - 20:30",
         "tuesday": "06:30 - 20:30",
         "wednesday": "06:30 - 20:30"
-    },
-    "phone_number": "020 7932 5205",
-    "seating": "Lots of seats",
-    "title": "67 Tottenham Court Road",
-    "toilets": "Yes",
-    "wheelchair_access": false,
-    "wifi": true
+    }
 }

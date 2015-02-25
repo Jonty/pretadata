@@ -1,11 +1,22 @@
 {
-    "getting_there": "Turn onto London Wall heading towards the London Museum and Barbican.\rNearest tube is Moorgate.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Aldermanbury Square",
+        "phone_number": "0207 726 6323"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "Unit 2, 5 Aldermanbury Square, London EC2V 7HR",
+        "getting_there": "Turn onto London Wall heading towards the London Museum and Barbican.\rNearest tube is Moorgate.",
         "latitude": "51.5173027321",
         "longitude": "-0.0936362156782"
     },
+    "number": "246",
     "opening_hours": {
         "friday": "06:15 - 20:00",
         "monday": "06:15 - 20:00",
@@ -14,11 +25,5 @@
         "thursday": "06:15 - 20:00",
         "tuesday": "06:15 - 20:00",
         "wednesday": "06:15 - 20:00"
-    },
-    "phone_number": "0207 726 6323",
-    "seating": "Some seats",
-    "title": "Aldermanbury Square",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

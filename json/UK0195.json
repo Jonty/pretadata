@@ -1,11 +1,22 @@
 {
-    "getting_there": "From the main train station walk outside and take the right hand side. Keep walking for 100 yards and you'll find the shop.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Glasgow, Gordon Street",
+        "phone_number": "020 7932 5311"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "None",
+        "wheelchair_access": true,
+        "wifi": false
+    },
     "location": {
         "address": "27 Gordon Street, Glasgow G1 3PL",
+        "getting_there": "From the main train station walk outside and take the right hand side. Keep walking for 100 yards and you'll find the shop.",
         "latitude": "55.8603991844",
         "longitude": "-4.25543019258"
     },
+    "number": "195",
     "opening_hours": {
         "friday": "07:00 - 19:00",
         "monday": "07:00 - 18:00",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 19:00",
         "tuesday": "07:00 - 18:00",
         "wednesday": "07:00 - 19:00"
-    },
-    "phone_number": "020 7932 5311",
-    "seating": "Some seats",
-    "title": "Glasgow, Gordon Street",
-    "toilets": "None",
-    "wheelchair_access": true,
-    "wifi": false
+    }
 }

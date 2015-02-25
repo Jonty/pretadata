@@ -1,11 +1,22 @@
 {
-    "getting_there": "Exit Oxford Circus tube and walk down Regents Street, past Hamleys to Regent Place.",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Regent Place",
+        "phone_number": "0207 494 4872"
+    },
+    "facilities": {
+        "seating": "Lots of seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "4 Regent Place, London W1B 5EA",
+        "getting_there": "Exit Oxford Circus tube and walk down Regents Street, past Hamleys to Regent Place.",
         "latitude": "51.5111065694",
         "longitude": "-0.138352751784"
     },
+    "number": "325",
     "opening_hours": {
         "friday": "06:45 - 21:00",
         "monday": "06:45 - 20:30",
@@ -14,11 +25,5 @@
         "thursday": "06:45 - 21:00",
         "tuesday": "06:45 - 20:30",
         "wednesday": "06:45 - 20:30"
-    },
-    "phone_number": "0207 494 4872",
-    "seating": "Lots of seats",
-    "title": "Regent Place",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }

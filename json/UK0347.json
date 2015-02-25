@@ -1,11 +1,22 @@
 {
-    "getting_there": "93 Northbrook Street",
-    "has_opened": true,
+    "details": {
+        "has_opened": true,
+        "name": "Newbury, 93 Northbrook Street",
+        "phone_number": "01635 581630"
+    },
+    "facilities": {
+        "seating": "Some seats",
+        "toilets": "Disabled Toilets",
+        "wheelchair_access": true,
+        "wifi": true
+    },
     "location": {
         "address": "93 Northbrook Street, Newbury RG14 1AA",
+        "getting_there": "93 Northbrook Street",
         "latitude": "51.4019656099",
         "longitude": "-1.32459797433"
     },
+    "number": "347",
     "opening_hours": {
         "friday": "07:00 - 18:30",
         "monday": "07:00 - 18:30",
@@ -14,11 +25,5 @@
         "thursday": "07:00 - 18:30",
         "tuesday": "07:00 - 18:30",
         "wednesday": "07:00 - 18:30"
-    },
-    "phone_number": "01635 581630",
-    "seating": "Some seats",
-    "title": "Newbury, 93 Northbrook Street",
-    "toilets": "Disabled Toilets",
-    "wheelchair_access": true,
-    "wifi": true
+    }
 }
