@@ -6,8 +6,8 @@ And [a map](https://maps.google.com/maps?q=https://raw.githubusercontent.com/jon
 
 Data
 ----
-You probably want [the json](json/) files, but there's also [a kml file of all pret locations](prets.kml) that you can look at in [google maps](https://maps.google.com/maps?q=https://raw.githubusercontent.com/jonty/pretadata/master/prets.kml).
+You probably want [the JSON](json/) files, but there's also [a KML file of all Pret locations](prets.kml) that you can look at in [Google Maps](https://maps.google.com/maps?q=https://raw.githubusercontent.com/jonty/pretadata/master/prets.kml).
 
 Code
 ----
-```scrapeprets.py``` grabs all the html pages about each pret into ```raw_prets```, ```extractprets.py``` extracts the information from the html pages and drops json files into ```json```, ```pretkml.py``` uses the json files to generate ```prets.kml```.
+```scrapeprets.py``` grabs all the HTML pages about each Pret into ```raw_prets```, ```extractprets.py``` extracts the information from the HTML pages and drops JSON files into ```json```, ```pretkml.py``` uses the JSON files to generate ```prets.kml```.
