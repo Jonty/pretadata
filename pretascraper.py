@@ -10,8 +10,8 @@ prets = []
 
 root = lxml.html.document_fromstring(root_page)
 links = root.xpath('//*[@id="content"]/table/tr/td[1]/a')
-for item in links:
-    prets.append('http://www.pret.com' + item.attrib['href'])
+prefix = 'http://www.pret.com'
+prets = (prefix + item.attrib['href'] for item in links)
 
 for pret in prets:
     print pret
