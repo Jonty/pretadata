@@ -2,8 +2,23 @@
 import os
 import json
 import simplekml
+from shapely.geometry import mapping
+from shapely.geometry import Point
+
+
+def make_geojson(lon, lat, location_name):
+    """ create a Point and convert it into a dict suitable for GeoJSON output"""
+    p = mapping(Point(float(lon), float(lat)))
+    return {
+        'type': 'feature',
+        'properties': {
+            'name': location_name},
+            'geometry': p
+        }
+
 
 kml = simplekml.Kml()
+features = []
 
 for pretfile in os.listdir('json'):
     with open('json/' + pretfile) as f:
@@ -13,5 +28,25 @@ for pretfile in os.listdir('json'):
         kml.newpoint(name=data['details']['name'], coords=[
             (data['location']['longitude'], data['location']['latitude'])
         ])
+        # create GeoJSON output dict
+        features.append(make_geojson(
+            data['location']['longitude'],
+            data['location']['latitude'],
+            data['details']['name'])
+        )
+
+# GeoJSON FeatureCollection output schema
+schema = {
+    "type": "FeatureCollection",
+    "features": features,
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+        }
+    }
+
+with open('prets.geojson', 'w') as outfile:
+    outfile.write(json.dumps(schema))
 
 kml.save("prets.kml")
