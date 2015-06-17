@@ -6,7 +6,7 @@ And [a map](https://maps.google.com/maps?q=https://raw.githubusercontent.com/jon
 
 Data
 ----
-You probably want [the JSON](json/) files, but there's also [a KML file](prets.kml) of all Pret locations that you can look at in [Google Maps](https://maps.google.com/maps?q=https://raw.githubusercontent.com/jonty/pretadata/master/prets.kml), and [a GeoJSON file](prets.geojson) that Github renders natively. Which is nice.
+You probably want [the JSON](json/) files, but there's also [a KML file](prets.kml) of all Pret locations, and [a GeoJSON file](prets.geojson) that Github renders a map of natively. Which is nice.
 
 Code
 ----
