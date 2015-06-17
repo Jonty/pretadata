@@ -2,7 +2,7 @@ Pretadata
 =========
 This repository contains a lovely JSON representation of data about every Pret A Manger fast food restaurant, and the code used to extract it from their website.
 
-And [a map](https://maps.google.com/maps?q=https://raw.githubusercontent.com/jonty/pretadata/master/prets.kml). Which was the reason for doing this.
+And [a map](prets.geojson). Which was the reason for doing this.
 
 Data
 ----
