@@ -1,5 +1,7 @@
-lxml==3.4.2
-requests==2.5.3
-simplekml==1.2.7
-shapely==1.5.6
+lxml==4.5.0
+requests==2.22.0
+fiona==1.8.13
+shapely==1.7.0
+pandas==1.0.0
+geopandas==0.6.2
 
