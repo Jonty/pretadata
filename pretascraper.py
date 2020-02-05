@@ -6,8 +6,12 @@ from shapely.geometry import Point
 import geopandas as gp
 import pandas as pd
 import numpy as np
+import os
 import re
 import bs4
+
+# TODO: populate this value using an encrypted env var within CircleCI
+OPENCAGE_KEY = os.environ["OPENCAGE"]
 
 # See https://api.ratings.food.gov.uk/help for all API endpoints
 base_url = "https://api.ratings.food.gov.uk"
@@ -54,6 +58,22 @@ def dict_to_point(value):
         return Point(float(value["longitude"]), float(value["latitude"]))
 
 
+def geocode(df):
+    """
+    Attempt to geocode a concatenated string,
+    assigning the result coordinates to a Point,
+    or returning NaN
+    """
+    cols = ["AddressLine1", "AddressLine2", "AddressLine3", "AddressLine4", "PostCode"]
+    to_join = []
+    # only join non-empty address fields
+    for col in cols:
+        if df[col] != "":
+            to_join.append(df[col])
+    to_join.append("UK")
+    return ", ".join(to_join)
+
+
 def scrape(postcode):
     """
     Accepts a UK post code string, and attempts to scrape
@@ -95,13 +115,25 @@ def scrape(postcode):
 
 
 df_pret["geometry"] = df_pret["geocode"].apply(dict_to_point)
-df_pret["OpeningHours"] = df_pret["PostCode"].apply(scrape)
-# missing data are transformed into NA values, so drop those rows
-df_pret.dropna(inplace=True)
 # drop now-redundant geocoding columns
 df_pret.drop(columns=["geocode"], inplace=True)
 # create GeoDataFrame, and dump to GeoJSON
 gdf = gp.GeoDataFrame(df_pret, geometry="geometry")
+
+# attempt to geocode branches whose FHRS data is missing coordinates
+geocoded = gp.tools.geocode(
+    gdf[gdf.isnull().any(axis=1)].apply(geocode, axis=1),
+    provider="opencage",
+    api_key=OPENCAGE_KEY,
+    timeout=10,
+)
+# update dataframe with newly-geocoded values
+gdf.update(geocoded["geometry"])
+# missing data are transformed into NA values, so drop those rows
+gdf.dropna(inplace=True)
+# Add opening hours to remaining records
+df_pret["OpeningHours"] = df_pret["PostCode"].apply(scrape)
+# dump to GeoJSON
 gdf.to_file("prets.geojson", driver="GeoJSON")
 
 # set up fiona with a KML driver, and use it to write the DataFrame
