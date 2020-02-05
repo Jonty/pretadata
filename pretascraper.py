@@ -6,6 +6,8 @@ from shapely.geometry import Point
 import geopandas as gp
 import pandas as pd
 import numpy as np
+import re
+import bs4
 
 # See https://api.ratings.food.gov.uk/help for all API endpoints
 base_url = "https://api.ratings.food.gov.uk"
@@ -15,6 +17,7 @@ headers = {"x-api-version": "2"}
 r = requests.get(
     base_url + establishments, params={"name": "pret a manger"}, headers=headers
 )
+r.raise_for_status()
 
 df_pret = pd.DataFrame(r.json()["establishments"])
 # We don't really need these columns, so drop them
@@ -51,13 +54,54 @@ def dict_to_point(value):
         return Point(float(value["longitude"]), float(value["latitude"]))
 
 
-df_pret["point_geo"] = df_pret["geocode"].apply(dict_to_point)
+def scrape(postcode):
+    """
+    Accepts a UK post code string, and attempts to scrape
+    the Pret A Manger site for the opening hours of the nearest branch
+    """
+    base = "https://www.pret.co.uk/en-gb/find-a-pret/"
+    rp = requests.get(base + postcode)
+    # template to use if we have to bail out
+    unknown = {
+        "Monday": "unknown",
+        "Tuesday": "unknown",
+        "Wednesday": "unknown",
+        "Thursday": "unknown",
+        "Friday": "unknown",
+        "Saturday": "unknown",
+        "Sunday": "unknown",
+    }
+    try:
+        rp.raise_for_status()
+    # bail out early if something goes wrong with "the internet"
+    except requests.exceptions.HTTPError:
+        return unknown
+    soup = BeautifulSoup(rp.content, "lxml")
+    reg = re.compile("OPENING HOURS")
+    # if we can't find opening hours, bail out
+    try:
+        opening_raw = soup.find("h4", text=reg).find_next("dl")
+    except AttributeError:
+        return unknown
+    opening_times = {}
+    for day, times in zip(
+        opening_raw.findChildren("dt"), opening_raw.findChildren("dd")
+    ):
+        spl = times.text.split(" - ")
+        if spl[0] == "Closed":
+            continue
+        opening_times[day.text] = {"open": spl[0], "close": spl[1]}
+    return opening_times
+
+
+df_pret["geometry"] = df_pret["geocode"].apply(dict_to_point)
+df_pret["OpeningHours"] = df_pret["PostCode"].apply(scrape)
 # missing data are transformed into NA values, so drop those rows
 df_pret.dropna(inplace=True)
 # drop now-redundant geocoding columns
 df_pret.drop(columns=["geocode"], inplace=True)
 # create GeoDataFrame, and dump to GeoJSON
-gdf = gp.GeoDataFrame(df_pret, geometry="point_geo")
+gdf = gp.GeoDataFrame(df_pret, geometry="geometry")
 gdf.to_file("prets.geojson", driver="GeoJSON")
 
 # set up fiona with a KML driver, and use it to write the DataFrame
