@@ -2,8 +2,7 @@
 
 import fiona
 import requests
-from shapely.geometry import Point, mapping
-import geojson
+from shapely.geometry import Point
 import geopandas as gp
 import pandas as pd
 import numpy as np
@@ -29,8 +28,6 @@ df_pret.drop(
         "NewRatingPending",
         "meta",
         "Phone",
-        "RatingValue",
-        "RatingKey",
         "RatingDate",
         "LocalAuthorityCode",
         "LocalAuthorityBusinessID",
@@ -41,8 +38,21 @@ df_pret.drop(
     inplace=True,
 )
 
+
+def dict_to_point(value):
+    """
+    Create a Point from a dict value containing lon / lat
+    str values.
+    If either of the values are None, return NaN
+    """
+    if value["longitude"] is None or value["latitude"] is None:
+        return np.nan
+    else:
+        return Point(float(value["longitude"]), float(value["latitude"]))
+
+
 df_pret["point_geo"] = df_pret["geocode"].apply(dict_to_point)
-# Missing data resulted in NA values, so drop those rows
+# missing data are transformed into NA values, so drop those rows
 df_pret.dropna(inplace=True)
 # drop now-redundant geocoding columns
 df_pret.drop(columns=["geocode"], inplace=True)
@@ -54,15 +64,3 @@ gdf.to_file("prets.geojson", driver="GeoJSON")
 gp.io.file.fiona.drvsupport.supported_drivers["KML"] = "rw"
 with fiona.drivers():
     gdf.to_file("prets.kml", driver="KML")
-
-
-def dict_to_point(value):
-    """ 
-    Create a Point from a dict value containing lon / lat
-    str values.
-    If either of the values are None, return NaN
-    """
-    if value["longitude"] == None or value["latitude"] == None:
-        return np.nan
-    else:
-        return Point(float(value["longitude"]), float(value["latitude"]))
