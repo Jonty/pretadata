@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "aberdeen-234-union-street",
+        "url": "https://locations.pret.co.uk/aberdeen/234-union-street",
+        "open": true,
+        "name": "Aberdeen, Union Street",
+        "phone_number": "+441224212652",
+        "data_last_updated": "2021-07-10T20:26:16.725006"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "234 Union Street",
+        "city": "Aberdeen",
+        "postal_code": "AB10 1TL",
+        "country": "GB",
+        "latitude": "57.144422593475156",
+        "longitude": "-2.107164916206785"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

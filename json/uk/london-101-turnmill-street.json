@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-101-turnmill-street",
+        "url": "https://locations.pret.co.uk/london/101-turnmill-street",
+        "open": true,
+        "name": "Turnmill Street",
+        "phone_number": "+442079325245",
+        "data_last_updated": "2021-07-10T20:26:38.793952"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "101 Turnmill Street",
+        "city": "London",
+        "postal_code": "EC1M 5QP",
+        "country": "GB",
+        "latitude": "51.520337310311284",
+        "longitude": "-0.10430518650818676"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

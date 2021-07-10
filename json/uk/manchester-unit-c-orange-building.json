@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-unit-c-orange-building",
+        "url": "https://locations.pret.co.uk/manchester/unit-c-orange-building",
+        "open": true,
+        "name": "Manchester, Media City",
+        "phone_number": "+441617133829",
+        "data_last_updated": "2021-07-10T20:27:42.748877"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit C, Orange Building Media City, Salford",
+        "city": "Manchester",
+        "postal_code": "M50 2HE",
+        "country": "GB",
+        "latitude": "53.47283850176951",
+        "longitude": "-2.2967703282243823"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

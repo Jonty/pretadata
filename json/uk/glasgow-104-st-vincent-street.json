@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "glasgow-104-st-vincent-street",
+        "url": "https://locations.pret.co.uk/glasgow/104-st-vincent-street",
+        "open": true,
+        "name": "Glasgow, St Vincent Street",
+        "phone_number": "+442079325315",
+        "data_last_updated": "2021-07-10T20:26:28.444965"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "104 St Vincent Street",
+        "city": "Glasgow",
+        "postal_code": "G2 5UB",
+        "country": "GB",
+        "latitude": "55.86163463173209",
+        "longitude": "-4.256303668880905"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-1-grosvenor-place",
+        "url": "https://locations.pret.co.uk/london/1-grosvenor-place",
+        "open": true,
+        "name": "Grosvenor Place",
+        "phone_number": "+442079325321",
+        "data_last_updated": "2021-07-10T20:26:35.991612"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 Grosvenor Place",
+        "city": "London",
+        "postal_code": "SW1X 7HJ",
+        "country": "GB",
+        "latitude": "51.5017137",
+        "longitude": "-0.1517904"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:15",
+            "close": "20:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:15",
+            "close": "20:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:15",
+            "close": "20:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:15",
+            "close": "20:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:15",
+            "close": "20:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "20:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        }
+    }
+}

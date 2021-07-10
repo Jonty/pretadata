@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-67-coleman-street",
+        "url": "https://locations.pret.co.uk/london/67-coleman-street",
+        "open": true,
+        "name": "Coleman Street",
+        "phone_number": "+442079325410",
+        "data_last_updated": "2021-07-10T20:27:11.255794"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "67 Coleman Street",
+        "city": "London",
+        "postal_code": "EC2R 5BT",
+        "country": "GB",
+        "latitude": "51.516419948646146",
+        "longitude": "-0.08952976074791286"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

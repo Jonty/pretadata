@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-821-broadway",
+        "url": "https://locations.pret.com/../ny/new-york/821-broadway",
+        "open": true,
+        "name": "12th and Broadway",
+        "phone_number": "+12126736898",
+        "data_last_updated": "2021-07-10T20:28:47.472497"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "821 Broadway",
+        "city": "New York",
+        "postal_code": "10003",
+        "country": "US",
+        "latitude": "40.733483316509385",
+        "longitude": "-73.9912688036088"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

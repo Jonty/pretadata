@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-two-rivers-shopping-centre",
+        "url": "https://locations.pret.co.uk/london/two-rivers-shopping-centre",
+        "open": true,
+        "name": "Staines",
+        "phone_number": "+441784454863",
+        "data_last_updated": "2021-07-10T20:27:25.884945"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Two Rivers Shopping Centre Unit SUK2",
+        "city": "London",
+        "postal_code": "TW18 4UP",
+        "country": "GB",
+        "latitude": "51.434398",
+        "longitude": "-0.510448"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "birmingham-unit-32a",
+        "url": "https://locations.pret.co.uk/birmingham/unit-32a",
+        "open": true,
+        "name": "Birmingham New Street Station",
+        "phone_number": "+441216436943",
+        "data_last_updated": "2021-07-10T20:26:20.360991"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit 32A Birmingham New Street Station",
+        "city": "Birmingham",
+        "postal_code": "B2 4PX",
+        "country": "GB",
+        "latitude": "52.4776198",
+        "longitude": "-1.8993359"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "21:00",
+            "closed": false
+        }
+    }
+}

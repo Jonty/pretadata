@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "brighton-unit-2-3-brighton-station",
+        "url": "https://locations.pret.co.uk/brighton/unit-2-3-brighton-station",
+        "open": true,
+        "name": "Brighton Station",
+        "phone_number": "+441273738992",
+        "data_last_updated": "2021-07-10T20:26:21.707190"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 2 & 3 Brighton Station Queen's Road",
+        "city": "Brighton",
+        "postal_code": "BN1 3XP",
+        "country": "GB",
+        "latitude": "50.82885355231289",
+        "longitude": "-0.14067525100590839"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

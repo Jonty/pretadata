@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-182-strand",
+        "url": "https://locations.pret.co.uk/london/182-strand",
+        "open": true,
+        "name": "Strand,182",
+        "phone_number": "+442079325332",
+        "data_last_updated": "2021-07-10T20:26:49.630245"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "182 Strand",
+        "city": "London",
+        "postal_code": "WC2R 1EA",
+        "country": "GB",
+        "latitude": "51.5125041",
+        "longitude": "-0.1145918"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:15",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:15",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:15",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:15",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:15",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

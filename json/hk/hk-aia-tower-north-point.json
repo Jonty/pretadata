@@ -1,0 +1,20 @@
+{
+    "details": {
+        "id": "hk-aia-tower-north-point",
+        "url": "https://www.pret.hk/en-HK/find-a-pret",
+        "open": null,
+        "name": "AIA Tower (North Point)",
+        "phone_number": "+852 2545 7908",
+        "data_last_updated": "2021-07-10T20:48:13.966770"
+    },
+    "facilities": {},
+    "location": {
+        "street": "Shop S1, G/F, AIA Tower, 183 Electric Road, North Point, Hong Kong",
+        "city": "Hong Kong Island",
+        "postal_code": null,
+        "country": "Hong Kong",
+        "latitude": 22.2884204,
+        "longitude": 114.1924708
+    },
+    "opening_hours": {}
+}

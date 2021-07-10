@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-29-eurostar-departure-lounge",
+        "url": "https://locations.pret.co.uk/london/unit-29-eurostar-departure-lounge",
+        "open": true,
+        "name": "Eurostar, St Pancras",
+        "phone_number": "+442078334095",
+        "data_last_updated": "2021-07-10T20:27:31.034930"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit 29, Eurostar Departure Lounge",
+        "city": "London",
+        "postal_code": "NW1 2QP",
+        "country": "GB",
+        "latitude": "51.5317168",
+        "longitude": "-0.1264464"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

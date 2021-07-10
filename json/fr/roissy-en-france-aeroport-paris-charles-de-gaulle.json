@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "roissy-en-france-aeroport-paris-charles-de-gaulle",
+        "url": "https://locations.pretamanger.fr/roissy-en-france/a\u00e9roport-paris-charles-de-gaulle",
+        "open": true,
+        "name": "Paris-CDG, T2 L5",
+        "phone_number": "+33148622648",
+        "data_last_updated": "2021-07-10T20:28:06.955676"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "A\u00e9roport Paris-Charles-de-Gaulle Hall des D\u00e9parts T2",
+        "city": "Roissy-en-France",
+        "postal_code": "95700",
+        "country": "FR",
+        "latitude": "49.00527112371667",
+        "longitude": "2.5779588699854044"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "5:30",
+            "close": "23:30",
+            "closed": false
+        },
+        "mardi": {
+            "open": "5:30",
+            "close": "23:30",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "5:30",
+            "close": "23:30",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "5:30",
+            "close": "23:30",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "5:30",
+            "close": "23:30",
+            "closed": false
+        },
+        "samedi": {
+            "open": "5:30",
+            "close": "23:30",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "5:30",
+            "close": "23:30",
+            "closed": false
+        }
+    }
+}

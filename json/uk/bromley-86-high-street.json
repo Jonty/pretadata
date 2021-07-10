@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "bromley-86-high-street",
+        "url": "https://locations.pret.co.uk/bromley/86-high-street",
+        "open": true,
+        "name": "Bromley High Street",
+        "phone_number": "+442082905376",
+        "data_last_updated": "2021-07-10T20:26:23.647760"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "86 High Street",
+        "city": "Bromley",
+        "postal_code": "BR1 1EY",
+        "country": "GB",
+        "latitude": "51.402864379703814",
+        "longitude": "0.015056096160654953"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

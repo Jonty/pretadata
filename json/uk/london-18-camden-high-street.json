@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-18-camden-high-street",
+        "url": "https://locations.pret.co.uk/london/18-camden-high-street",
+        "open": true,
+        "name": "18 Camden High Street",
+        "phone_number": "+442073830523",
+        "data_last_updated": "2021-07-10T20:26:49.138992"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "18 Camden High Street",
+        "city": "London",
+        "postal_code": "NW1 0JH",
+        "country": "GB",
+        "latitude": "51.534865877361355",
+        "longitude": "-0.1384461271824211"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-endeavour-square",
+        "url": "https://locations.pret.co.uk/london/endeavour-square",
+        "open": true,
+        "name": "Stratford InternationalQuarter",
+        "phone_number": "+442085346310",
+        "data_last_updated": "2021-07-10T20:27:21.206245"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Endeavour Square Stratford International Quarter",
+        "city": "London",
+        "postal_code": "E20 1GL",
+        "country": "GB",
+        "latitude": "51.5413728",
+        "longitude": "-0.0093168"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

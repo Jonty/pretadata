@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-110-avenue-de-france",
+        "url": "https://locations.pretamanger.fr/paris/110-avenue-de-france",
+        "open": true,
+        "name": "Avenue de France",
+        "phone_number": "+33145821607",
+        "data_last_updated": "2021-07-10T20:27:57.238924"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "110 avenue de France",
+        "city": "Paris",
+        "postal_code": "75013",
+        "country": "FR",
+        "latitude": "48.8303226",
+        "longitude": "2.3774067"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

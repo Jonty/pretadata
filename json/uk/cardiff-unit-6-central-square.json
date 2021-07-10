@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "cardiff-unit-6-central-square",
+        "url": "https://locations.pret.co.uk/cardiff/unit-6-central-square",
+        "open": true,
+        "name": "Cardiff, Central Square",
+        "phone_number": "+442920224736",
+        "data_last_updated": "2021-07-10T20:26:24.250518"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 6, Central Square",
+        "city": "Cardiff",
+        "postal_code": "CF10 1FS",
+        "country": "GB",
+        "latitude": "51.4763488",
+        "longitude": "-3.1794782"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

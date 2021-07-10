@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-1-long-lane",
+        "url": "https://locations.pret.co.uk/london/1-long-lane",
+        "open": true,
+        "name": "Barbican, Long Lane",
+        "phone_number": "+442079325221",
+        "data_last_updated": "2021-07-10T20:26:36.192933"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 Long Lane Barbican",
+        "city": "London",
+        "postal_code": "EC1A 9HA",
+        "country": "GB",
+        "latitude": "51.52004836364118",
+        "longitude": "-0.09813119190338337"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

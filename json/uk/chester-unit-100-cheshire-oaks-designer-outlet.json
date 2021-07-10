@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "chester-unit-100-cheshire-oaks-designer-outlet",
+        "url": "https://locations.pret.co.uk/chester/unit-100-cheshire-oaks-designer-outlet",
+        "open": true,
+        "name": "Cheshire Oaks",
+        "phone_number": "+441513559162",
+        "data_last_updated": "2021-07-10T20:26:25.638350"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 100 Cheshire Oaks Designer Outlet Kinsey Road",
+        "city": "Chester",
+        "postal_code": "CH65 9JJ",
+        "country": "GB",
+        "latitude": "53.26578",
+        "longitude": "-2.879158"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

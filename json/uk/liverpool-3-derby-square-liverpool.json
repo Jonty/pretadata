@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "liverpool-3-derby-square-liverpool",
+        "url": "https://locations.pret.co.uk/liverpool/3-derby-square-liverpool",
+        "open": true,
+        "name": "Liverpool, Derby Square",
+        "phone_number": "+441512369964",
+        "data_last_updated": "2021-07-10T20:26:34.471225"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "3 Derby Square Liverpool",
+        "city": "Liverpool",
+        "postal_code": "L2 9UJ",
+        "country": "GB",
+        "latitude": "53.405424246966696",
+        "longitude": "-2.9896092781433548"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-5-11-mortimer-street",
+        "url": "https://locations.pret.co.uk/london/5-11-mortimer-street",
+        "open": true,
+        "name": "Mortimer Street",
+        "phone_number": "+442073230832",
+        "data_last_updated": "2021-07-10T20:27:07.180413"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "5-11 Mortimer Street Network House",
+        "city": "London",
+        "postal_code": "W1T 3JB",
+        "country": "GB",
+        "latitude": "51.51866382636684",
+        "longitude": "-0.13724907324986324"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

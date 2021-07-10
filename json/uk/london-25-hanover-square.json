@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-25-hanover-square",
+        "url": "https://locations.pret.co.uk/london/25-hanover-square",
+        "open": true,
+        "name": "Hanover SQ, St George Street",
+        "phone_number": "+442074093224",
+        "data_last_updated": "2021-07-10T20:26:55.206881"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "25 Hanover Square London",
+        "city": "London",
+        "postal_code": "W1S 1JF",
+        "country": "GB",
+        "latitude": "51.51320622473589",
+        "longitude": "-0.14382221654616556"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

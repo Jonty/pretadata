@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "nice-317-avenue-eugene-donadei",
+        "url": "https://locations.pretamanger.fr/nice/317-avenue-eugene-donadei",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+33492277848",
+        "data_last_updated": "2021-07-10T20:27:55.137855"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "317 Avenue Eugene Donadei Quartier du Lac",
+        "city": "Nice",
+        "postal_code": "06700",
+        "country": "FR",
+        "latitude": "43.6578354",
+        "longitude": "7.1968484"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "10:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "10:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "harrow-68-70-st-ann-road",
+        "url": "https://locations.pret.co.uk/harrow/68-70-st-ann-road",
+        "open": true,
+        "name": "Harrow, St Anns Road",
+        "phone_number": "+442084242698",
+        "data_last_updated": "2021-07-10T20:26:30.612493"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "68 - 70 St Ann Road",
+        "city": "Harrow",
+        "postal_code": "HA1 1JX",
+        "country": "GB",
+        "latitude": "51.581599",
+        "longitude": "-0.336802"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-95-city-road",
+        "url": "https://locations.pret.co.uk/london/95-city-road",
+        "open": true,
+        "name": "Old Street Roundabout",
+        "phone_number": "",
+        "data_last_updated": "2021-07-10T20:27:19.338325"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "95 City Road",
+        "city": "London",
+        "postal_code": "EC1Y 1BD",
+        "country": "GB",
+        "latitude": "51.524432217265876",
+        "longitude": "-0.08723740244675149"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

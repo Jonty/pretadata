@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-29-33-kingsway",
+        "url": "https://locations.pret.co.uk/london/29-33-kingsway",
+        "open": true,
+        "name": "Kingsway",
+        "phone_number": "+442079325262",
+        "data_last_updated": "2021-07-10T20:26:58.155348"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "29-33 Kingsway",
+        "city": "London",
+        "postal_code": "WC2B 6UF",
+        "country": "GB",
+        "latitude": "51.51415841942515",
+        "longitude": "-0.11853195031453101"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-58-60-stamford-street",
+        "url": "https://locations.pret.co.uk/london/58-60-stamford-street",
+        "open": true,
+        "name": "Stamford Street",
+        "phone_number": "+442079325295",
+        "data_last_updated": "2021-07-10T20:27:09.647173"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "58-60 Stamford Street",
+        "city": "London",
+        "postal_code": "SE1 9LX",
+        "country": "GB",
+        "latitude": "51.50716994991792",
+        "longitude": "-0.10785446772731522"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

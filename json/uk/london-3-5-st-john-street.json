@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-3-5-st-john-street",
+        "url": "https://locations.pret.co.uk/london/3-5-st-john-street",
+        "open": true,
+        "name": "St John Street, 3-5",
+        "phone_number": "+442079325444",
+        "data_last_updated": "2021-07-10T20:27:00.179860"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "3-5 St John Street Clerkenwell",
+        "city": "London",
+        "postal_code": "EC1M 4AA",
+        "country": "GB",
+        "latitude": "51.52004151063137",
+        "longitude": "-0.10191765214959014"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

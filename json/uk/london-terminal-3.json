@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-terminal-3",
+        "url": "https://locations.pret.co.uk/london/terminal-3",
+        "open": true,
+        "name": "Heathrow, Terminal 3",
+        "phone_number": "+442087596716",
+        "data_last_updated": "2021-07-10T20:27:25.125329"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Terminal 3 Landside",
+        "city": "London",
+        "postal_code": "TW6 1QG",
+        "country": "GB",
+        "latitude": "51.470614",
+        "longitude": "-0.459387"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

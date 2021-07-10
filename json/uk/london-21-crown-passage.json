@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-21-crown-passage",
+        "url": "https://locations.pret.co.uk/london/21-crown-passage",
+        "open": false,
+        "name": "Crown Passage",
+        "phone_number": "+442079325206",
+        "data_last_updated": "2021-07-10T20:26:52.313235"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "21 Crown Passage",
+        "city": "London",
+        "postal_code": "SW1Y 6PP",
+        "country": "GB",
+        "latitude": "51.5057851",
+        "longitude": "-0.13803"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

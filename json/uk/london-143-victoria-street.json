@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-143-victoria-street",
+        "url": "https://locations.pret.co.uk/london/143-victoria-street",
+        "open": true,
+        "name": "Victoria Street, 143",
+        "phone_number": "+442078210028",
+        "data_last_updated": "2021-07-10T20:26:45.669316"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "143 Victoria Street",
+        "city": "London",
+        "postal_code": "SW1E 6RD",
+        "country": "GB",
+        "latitude": "51.49683487679748",
+        "longitude": "-0.13939994871295935"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-unit-r1-arndale-centre",
+        "url": "https://locations.pret.co.uk/manchester/unit-r1-arndale-centre",
+        "open": true,
+        "name": "Manchester Arndale Centre",
+        "phone_number": "+441618322014",
+        "data_last_updated": "2021-07-10T20:27:42.914949"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit R1, Arndale Centre Manchester",
+        "city": "Manchester",
+        "postal_code": "M4 3AQ",
+        "country": "GB",
+        "latitude": "53.48319016631978",
+        "longitude": "-2.241690746032705"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

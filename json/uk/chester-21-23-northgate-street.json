@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "chester-21-23-northgate-street",
+        "url": "https://locations.pret.co.uk/chester/21-23-northgate-street",
+        "open": true,
+        "name": "Chester, Northgate Street",
+        "phone_number": "+441244400982",
+        "data_last_updated": "2021-07-10T20:26:25.381881"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "21-23 Northgate Street",
+        "city": "Chester",
+        "postal_code": "CH1 2HA",
+        "country": "GB",
+        "latitude": "53.1911588",
+        "longitude": "-2.8917043"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

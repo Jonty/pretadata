@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-1-canada-place",
+        "url": "https://locations.pret.co.uk/london/unit-1-canada-place",
+        "open": true,
+        "name": "Canary Wharf Veggie Pret",
+        "phone_number": "+442077191667",
+        "data_last_updated": "2021-07-10T20:27:27.122346"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 1, Canada Place Canary Wharf",
+        "city": "London",
+        "postal_code": "E14 5AH",
+        "country": "GB",
+        "latitude": "51.5049085",
+        "longitude": "-0.0187255"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "tunbridge-wells-121-123-mount-pleasant-road",
+        "url": "https://locations.pret.co.uk/tunbridge-wells/121-123-mount-pleasant-road",
+        "open": true,
+        "name": "Tunbridge Wells",
+        "phone_number": "+441892575392",
+        "data_last_updated": "2021-07-10T20:27:49.601430"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "121-123 Mount Pleasant Road",
+        "city": "Tunbridge Wells",
+        "postal_code": "TN1 1QR",
+        "country": "GB",
+        "latitude": "51.134280135379555",
+        "longitude": "0.26358341773788485"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

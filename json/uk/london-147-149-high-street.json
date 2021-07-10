@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-147-149-high-street",
+        "url": "https://locations.pret.co.uk/london/147-149-high-street",
+        "open": true,
+        "name": "Kensington High Street",
+        "phone_number": "+442079325355",
+        "data_last_updated": "2021-07-10T20:26:45.753530"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "147-149 High Street Kensington",
+        "city": "London",
+        "postal_code": "W8 6SU",
+        "country": "GB",
+        "latitude": "51.500449632209715",
+        "longitude": "-0.19407278734010713"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

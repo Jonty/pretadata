@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-342-seventh-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/342-seventh-avenue",
+        "open": true,
+        "name": "29th & Seventh",
+        "phone_number": "+12125647579",
+        "data_last_updated": "2021-07-10T20:28:36.883886"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "342 Seventh Avenue",
+        "city": "New York",
+        "postal_code": "10001",
+        "country": "US",
+        "latitude": "40.748101882081684",
+        "longitude": "-73.99309642169295"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-1-hammersmith-station",
+        "url": "https://locations.pret.co.uk/london/unit-1-hammersmith-station",
+        "open": true,
+        "name": "Hammersmith Station (H&C) Line",
+        "phone_number": "+442036321390",
+        "data_last_updated": "2021-07-10T20:27:27.472006"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 1, Hammersmith Station Beadon Road",
+        "city": "London",
+        "postal_code": "W6 7AA",
+        "country": "GB",
+        "latitude": "51.49351",
+        "longitude": "-0.224847"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "14:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "14:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "14:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "14:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "14:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

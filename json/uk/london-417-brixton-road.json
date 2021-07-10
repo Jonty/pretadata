@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-417-brixton-road",
+        "url": "https://locations.pret.co.uk/london/417-brixton-road",
+        "open": true,
+        "name": "Brixton Road",
+        "phone_number": "+442077373809",
+        "data_last_updated": "2021-07-10T20:27:04.207046"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "417 Brixton Road",
+        "city": "London",
+        "postal_code": "SW9 8HE",
+        "country": "GB",
+        "latitude": "51.4630530959274",
+        "longitude": "-0.1145677171792947"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "19:30",
+            "closed": false
+        }
+    }
+}

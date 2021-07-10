@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "cambridge-unit-4-1-station-square",
+        "url": "https://locations.pret.co.uk/cambridge/unit-4-1-station-square",
+        "open": true,
+        "name": "Cambridge, One Station Square",
+        "phone_number": "+441223357641",
+        "data_last_updated": "2021-07-10T20:26:23.902633"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 4, 1 Station Square",
+        "city": "Cambridge",
+        "postal_code": "CB1 2GA",
+        "country": "GB",
+        "latitude": "52.194828129839344",
+        "longitude": "0.1366594627812745"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "15:30",
+            "closed": false
+        }
+    }
+}

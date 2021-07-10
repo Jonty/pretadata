@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-2-park-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/2-park-avenue",
+        "open": true,
+        "name": "32nd and Park",
+        "phone_number": "+12125322416",
+        "data_last_updated": "2021-07-10T20:28:31.205859"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "2 Park Avenue",
+        "city": "New York",
+        "postal_code": "10016",
+        "country": "US",
+        "latitude": "40.746214",
+        "longitude": "-73.982395"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

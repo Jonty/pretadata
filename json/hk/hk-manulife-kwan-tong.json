@@ -1,0 +1,20 @@
+{
+    "details": {
+        "id": "hk-manulife-kwan-tong",
+        "url": "https://www.pret.hk/en-HK/find-a-pret",
+        "open": null,
+        "name": "Manulife  (Kwan Tong)",
+        "phone_number": "+852 2110 4807",
+        "data_last_updated": "2021-07-10T20:48:25.521858"
+    },
+    "facilities": {},
+    "location": {
+        "street": "Shop No.5, 1/F, Manulife Financial Centre, 223 - 231 Wai Yip Street, Kwun Tong",
+        "city": "Kowloon",
+        "postal_code": null,
+        "country": "Hong Kong",
+        "latitude": 22.307534,
+        "longitude": 114.2237669
+    },
+    "opening_hours": {}
+}

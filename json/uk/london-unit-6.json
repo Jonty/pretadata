@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-6",
+        "url": "https://locations.pret.co.uk/london/unit-6",
+        "open": true,
+        "name": "81 Chancery Lane",
+        "phone_number": "+442072425627",
+        "data_last_updated": "2021-07-10T20:27:34.712882"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 6 83 Chancery Lane",
+        "city": "London",
+        "postal_code": "WC2A 1DD",
+        "country": "GB",
+        "latitude": "51.51582015099418",
+        "longitude": "-0.11203120330929073"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

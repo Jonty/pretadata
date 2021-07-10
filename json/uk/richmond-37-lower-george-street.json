@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "richmond-37-lower-george-street",
+        "url": "https://locations.pret.co.uk/richmond/37-lower-george-street",
+        "open": true,
+        "name": "Richmond, Lower George Street",
+        "phone_number": "+442083321012",
+        "data_last_updated": "2021-07-10T20:27:46.548898"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "37 Lower George Street",
+        "city": "Richmond",
+        "postal_code": "TW9 1HY",
+        "country": "GB",
+        "latitude": "51.46092948783122",
+        "longitude": "-0.3035200877159605"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

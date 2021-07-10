@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-165-166-london-wall",
+        "url": "https://locations.pret.co.uk/london/165-166-london-wall",
+        "open": true,
+        "name": "London Wall, 165-166",
+        "phone_number": "+442076280368",
+        "data_last_updated": "2021-07-10T20:26:47.347130"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "165-166 London Wall",
+        "city": "London",
+        "postal_code": "EC2M 5QD",
+        "country": "GB",
+        "latitude": "51.51732652607391",
+        "longitude": "-0.08799462094023935"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

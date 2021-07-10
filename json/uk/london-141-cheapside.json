@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-141-cheapside",
+        "url": "https://locations.pret.co.uk/london/141-cheapside",
+        "open": true,
+        "name": "141 Cheapside",
+        "phone_number": "+442076001649",
+        "data_last_updated": "2021-07-10T20:26:45.286229"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "141 Cheapside",
+        "city": "London",
+        "postal_code": "EC2V 6BJ",
+        "country": "GB",
+        "latitude": "51.51456921034324",
+        "longitude": "-0.09601759281669286"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

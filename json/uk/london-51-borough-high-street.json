@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-51-borough-high-street",
+        "url": "https://locations.pret.co.uk/london/51-borough-high-street",
+        "open": true,
+        "name": "Borough High Street, 51",
+        "phone_number": "+442079325392",
+        "data_last_updated": "2021-07-10T20:27:07.402763"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "51 Borough High Street",
+        "city": "London",
+        "postal_code": "SE1 1NB",
+        "country": "GB",
+        "latitude": "51.50475537238937",
+        "longitude": "-0.08979445821651666"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

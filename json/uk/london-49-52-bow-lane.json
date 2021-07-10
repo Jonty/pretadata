@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-49-52-bow-lane",
+        "url": "https://locations.pret.co.uk/london/49-52-bow-lane",
+        "open": true,
+        "name": "Bow Lane, 49-52",
+        "phone_number": "+442072482190",
+        "data_last_updated": "2021-07-10T20:27:06.410065"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "49-52 Bow Lane",
+        "city": "London",
+        "postal_code": "EC4M 9DJ",
+        "country": "GB",
+        "latitude": "51.5133069",
+        "longitude": "-0.0931815"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

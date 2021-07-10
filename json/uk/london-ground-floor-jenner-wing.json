@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-ground-floor-jenner-wing",
+        "url": "https://locations.pret.co.uk/london/ground-floor-jenner-wing",
+        "open": true,
+        "name": "St George's University London",
+        "phone_number": "+442086728734",
+        "data_last_updated": "2021-07-10T20:27:21.699214"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Ground Floor, Jenner Wing St George's University of London",
+        "city": "London",
+        "postal_code": "SW17 0RE",
+        "country": "GB",
+        "latitude": "51.4268898",
+        "longitude": "-0.1747506"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

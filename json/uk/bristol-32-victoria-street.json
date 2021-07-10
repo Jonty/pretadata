@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "bristol-32-victoria-street",
+        "url": "https://locations.pret.co.uk/bristol/32-victoria-street",
+        "open": true,
+        "name": "Bristol, Victoria Street",
+        "phone_number": "+441173169238",
+        "data_last_updated": "2021-07-10T20:26:22.039929"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "32 Victoria Street",
+        "city": "Bristol",
+        "postal_code": "BS1 6BX",
+        "country": "GB",
+        "latitude": "51.45270137874605",
+        "longitude": "-2.588545757724181"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

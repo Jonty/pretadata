@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "birmingham-rootes-building-warwickshire",
+        "url": "https://locations.pret.co.uk/birmingham/rootes-building-warwickshire",
+        "open": true,
+        "name": "University of Warwick",
+        "phone_number": "+442476414067",
+        "data_last_updated": "2021-07-10T20:26:20.104847"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "Rootes Building, Warwickshire Coventry",
+        "city": "Birmingham",
+        "postal_code": "CV4 7AL",
+        "country": "GB",
+        "latitude": "52.3786157",
+        "longitude": "-1.5610927"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-shop-2-southern-ticket-hall",
+        "url": "https://locations.pret.co.uk/london/shop-2-southern-ticket-hall",
+        "open": true,
+        "name": "Stratford Station, Petit Pret",
+        "phone_number": "+442085194030",
+        "data_last_updated": "2021-07-10T20:27:24.789939"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "Shop 2, Southern Ticket Hall Stratford Station",
+        "city": "London",
+        "postal_code": "E15 1AZ",
+        "country": "GB",
+        "latitude": "51.540981",
+        "longitude": "-0.003702"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        }
+    }
+}

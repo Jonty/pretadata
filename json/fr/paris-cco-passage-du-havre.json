@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-cco-passage-du-havre",
+        "url": "https://locations.pretamanger.fr/paris/cco-passage-du-havre",
+        "open": true,
+        "name": "Passage du Havre",
+        "phone_number": "+33144847269",
+        "data_last_updated": "2021-07-10T20:28:05.404803"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "CCO Passage du Havre 109 rue Saint Lazare",
+        "city": "Paris",
+        "postal_code": "75009",
+        "country": "FR",
+        "latitude": "48.87524087323788",
+        "longitude": "2.3275860907527868"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "9:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "9:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "9:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "9:30",
+            "close": "20:30",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "9:30",
+            "close": "20:30",
+            "closed": false
+        },
+        "samedi": {
+            "open": "9:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "11:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

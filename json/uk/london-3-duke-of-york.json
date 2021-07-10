@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-3-duke-of-york",
+        "url": "https://locations.pret.co.uk/london/3-duke-of-york",
+        "open": true,
+        "name": "Duke of York",
+        "phone_number": "+442078396390",
+        "data_last_updated": "2021-07-10T20:26:59.506481"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "3 Duke of York",
+        "city": "London",
+        "postal_code": "SW1Y 6JP",
+        "country": "GB",
+        "latitude": "51.5088749",
+        "longitude": "-0.1378556"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

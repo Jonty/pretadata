@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-92-buckingham-palace-road",
+        "url": "https://locations.pret.co.uk/london/92-buckingham-palace-road",
+        "open": true,
+        "name": "Buckingham Palace Road",
+        "phone_number": "+442079325367",
+        "data_last_updated": "2021-07-10T20:27:18.830293"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "92 Buckingham Palace Road",
+        "city": "London",
+        "postal_code": "SW1W 0SS",
+        "country": "GB",
+        "latitude": "51.494390433739476",
+        "longitude": "-0.14684142223468477"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

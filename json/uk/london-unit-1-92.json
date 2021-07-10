@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-1-92",
+        "url": "https://locations.pret.co.uk/london/unit-1-92",
+        "open": true,
+        "name": "Euston Tower",
+        "phone_number": "+442073887462",
+        "data_last_updated": "2021-07-10T20:27:26.755936"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 1 Euston Tower Podium",
+        "city": "London",
+        "postal_code": "NW1 3DP",
+        "country": "GB",
+        "latitude": "51.52516940687165",
+        "longitude": "-0.13925526862748727"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

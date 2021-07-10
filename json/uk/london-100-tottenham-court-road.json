@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-100-tottenham-court-road",
+        "url": "https://locations.pret.co.uk/london/100-tottenham-court-road",
+        "open": true,
+        "name": "100 Tottenham Court Road",
+        "phone_number": "+442079325238",
+        "data_last_updated": "2021-07-10T20:26:37.935385"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "100 Tottenham Court Road",
+        "city": "London",
+        "postal_code": "W1T 4TT",
+        "country": "GB",
+        "latitude": "51.522439",
+        "longitude": "-0.136406"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:45",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:45",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:45",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:45",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:45",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

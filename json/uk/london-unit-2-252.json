@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-2-252",
+        "url": "https://locations.pret.co.uk/london/unit-2-252",
+        "open": true,
+        "name": "Finsbury Square",
+        "phone_number": "+442079325365",
+        "data_last_updated": "2021-07-10T20:27:30.050500"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 2 1 Finsbury Square",
+        "city": "London",
+        "postal_code": "EC2A 1AE",
+        "country": "GB",
+        "latitude": "51.52074396137315",
+        "longitude": "-0.08752607713682359"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

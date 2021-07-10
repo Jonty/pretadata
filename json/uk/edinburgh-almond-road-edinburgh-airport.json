@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "edinburgh-almond-road-edinburgh-airport",
+        "url": "https://locations.pret.co.uk/edinburgh/almond-road-edinburgh-airport",
+        "open": true,
+        "name": "Edinburgh Airport Gate 6",
+        "phone_number": "",
+        "data_last_updated": "2021-07-10T20:26:26.736082"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Almond Road, Edinburgh Airport",
+        "city": "Edinburgh",
+        "postal_code": "EH12 9DN",
+        "country": "GB",
+        "latitude": "55.94863",
+        "longitude": "-3.362545"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        }
+    }
+}

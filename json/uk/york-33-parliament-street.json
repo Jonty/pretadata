@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "york-33-parliament-street",
+        "url": "https://locations.pret.co.uk/york/33-parliament-street",
+        "open": true,
+        "name": "York, Parliament Street",
+        "phone_number": "+441904627003",
+        "data_last_updated": "2021-07-10T20:27:50.470368"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "33 Parliament Street",
+        "city": "York",
+        "postal_code": "YO1 8RU",
+        "country": "GB",
+        "latitude": "53.9591926257215",
+        "longitude": "-1.0811165885940865"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

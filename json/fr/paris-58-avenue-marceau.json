@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-58-avenue-marceau",
+        "url": "https://locations.pretamanger.fr/paris/58-avenue-marceau",
+        "open": true,
+        "name": "Marceau",
+        "phone_number": "+33142893803",
+        "data_last_updated": "2021-07-10T20:28:04.024562"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "58 avenue Marceau",
+        "city": "Paris",
+        "postal_code": "75008",
+        "country": "FR",
+        "latitude": "48.8701384",
+        "longitude": "2.2983874"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

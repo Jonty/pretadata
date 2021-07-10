@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "liverpool-1-old-hall-street",
+        "url": "https://locations.pret.co.uk/liverpool/1-old-hall-street",
+        "open": true,
+        "name": "Liverpool, Old Hall Street",
+        "phone_number": "+441512369933",
+        "data_last_updated": "2021-07-10T20:26:34.292891"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 Old Hall Street",
+        "city": "Liverpool",
+        "postal_code": "L3 9SX",
+        "country": "GB",
+        "latitude": "53.40818011715437",
+        "longitude": "-2.9930610787723833"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

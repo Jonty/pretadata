@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-79-81-deansgate",
+        "url": "https://locations.pret.co.uk/manchester/79-81-deansgate",
+        "open": true,
+        "name": "Manchester, Deansgate",
+        "phone_number": "+441618328292",
+        "data_last_updated": "2021-07-10T20:27:41.713597"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "79-81 Deansgate",
+        "city": "Manchester",
+        "postal_code": "M3 2BW",
+        "country": "GB",
+        "latitude": "53.48210568822833",
+        "longitude": "-2.2468389932367305"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

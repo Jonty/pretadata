@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-192-shoreditch-high-street",
+        "url": "https://locations.pret.co.uk/london/192-shoreditch-high-street",
+        "open": true,
+        "name": "Shoreditch High Street, 192",
+        "phone_number": "+442070330209",
+        "data_last_updated": "2021-07-10T20:26:50.886751"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "192 Shoreditch High Street",
+        "city": "London",
+        "postal_code": "E1 6HU",
+        "country": "GB",
+        "latitude": "51.523916446748814",
+        "longitude": "-0.07748270766708254"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:30",
+            "close": "18:30",
+            "closed": false
+        }
+    }
+}

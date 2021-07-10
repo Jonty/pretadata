@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "nice-aeroport-nice-cote-d-azur",
+        "url": "https://locations.pretamanger.fr/nice/a\u00e9roport-nice-c\u00f4te-d'azur",
+        "open": true,
+        "name": "A\u00e9roport de Nice - Terminal 1",
+        "phone_number": "+33493712997",
+        "data_last_updated": "2021-07-10T20:27:55.664074"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "A\u00e9roport Nice C\u00f4te d'Azur Terminal 1, rue Costes et Bellonte",
+        "city": "Nice",
+        "postal_code": "06200",
+        "country": "FR",
+        "latitude": "43.664893",
+        "longitude": "7.213475"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        }
+    }
+}

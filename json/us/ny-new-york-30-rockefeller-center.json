@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-30-rockefeller-center",
+        "url": "https://locations.pret.com/../ny/new-york/30-rockefeller-center",
+        "open": false,
+        "name": "Rockefeller Center (The Rock)",
+        "phone_number": "+12122466944",
+        "data_last_updated": "2021-07-10T20:28:34.753274"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "30 Rockefeller Center Concourse Level",
+        "city": "New York",
+        "postal_code": "10111",
+        "country": "US",
+        "latitude": "40.7587402",
+        "longitude": "-73.9786736"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

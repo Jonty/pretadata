@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-202-206-union-street",
+        "url": "https://locations.pret.co.uk/london/202-206-union-street",
+        "open": true,
+        "name": "London, Union Street",
+        "phone_number": "+442076202085",
+        "data_last_updated": "2021-07-10T20:26:52.148888"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "202-206 Union Street",
+        "city": "London",
+        "postal_code": "SE10LX",
+        "country": "GB",
+        "latitude": "51.5038548",
+        "longitude": "-0.1025325"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

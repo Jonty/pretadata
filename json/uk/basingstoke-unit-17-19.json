@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "basingstoke-unit-17-19",
+        "url": "https://locations.pret.co.uk/basingstoke/unit-17-19",
+        "open": true,
+        "name": "Basingstoke, Festival Place",
+        "phone_number": "+441256353808",
+        "data_last_updated": "2021-07-10T20:26:17.684137"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 17-19 Festival Place Shopping Centre",
+        "city": "Basingstoke",
+        "postal_code": "RG21 7LG",
+        "country": "GB",
+        "latitude": "51.265531",
+        "longitude": "-1.0878256"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

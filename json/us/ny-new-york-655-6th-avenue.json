@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-655-6th-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/655-6th-avenue",
+        "open": true,
+        "name": "20th and Sixth",
+        "phone_number": "+12122552087",
+        "data_last_updated": "2021-07-10T20:28:46.195888"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "655 6th Avenue",
+        "city": "New York",
+        "postal_code": "10010",
+        "country": "US",
+        "latitude": "40.74143411198912",
+        "longitude": "-73.99421050031451"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

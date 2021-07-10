@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "windsor-jubilee-arch",
+        "url": "https://locations.pret.co.uk/windsor/jubilee-arch",
+        "open": true,
+        "name": "Windsor Royal Station",
+        "phone_number": "",
+        "data_last_updated": "2021-07-10T20:27:50.222050"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Jubilee Arch Windsor",
+        "city": "Windsor",
+        "postal_code": "SL4 1PJ",
+        "country": "GB",
+        "latitude": "51.48310874439486",
+        "longitude": "-0.6098998348480666"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

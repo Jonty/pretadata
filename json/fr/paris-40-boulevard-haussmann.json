@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-40-boulevard-haussmann",
+        "url": "https://locations.pretamanger.fr/paris/40-boulevard-haussmann",
+        "open": true,
+        "name": "Lafayette Gourmet Haussmann",
+        "phone_number": "+33142654365",
+        "data_last_updated": "2021-07-10T20:28:01.734500"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "40 boulevard Haussmann",
+        "city": "Paris",
+        "postal_code": "75009",
+        "country": "FR",
+        "latitude": "48.87342577352677",
+        "longitude": "2.332151306987509"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "9:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "9:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "9:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "9:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "9:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "9:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "11:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

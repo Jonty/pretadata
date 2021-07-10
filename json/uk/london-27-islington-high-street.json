@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-27-islington-high-street",
+        "url": "https://locations.pret.co.uk/london/27-islington-high-street",
+        "open": true,
+        "name": "Islington, High Street",
+        "phone_number": "+442079325403",
+        "data_last_updated": "2021-07-10T20:26:56.404016"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "27 Islington High Street",
+        "city": "London",
+        "postal_code": "N1 9LH",
+        "country": "GB",
+        "latitude": "51.532857623194275",
+        "longitude": "-0.10634927974490171"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

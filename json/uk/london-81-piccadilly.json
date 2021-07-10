@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-81-piccadilly",
+        "url": "https://locations.pret.co.uk/london/81-piccadilly",
+        "open": true,
+        "name": "Piccadilly, 81",
+        "phone_number": "+442074956264",
+        "data_last_updated": "2021-07-10T20:27:16.731972"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "81 Piccadilly",
+        "city": "London",
+        "postal_code": "W1J 8HY",
+        "country": "GB",
+        "latitude": "51.506654680070476",
+        "longitude": "-0.14350760986841626"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

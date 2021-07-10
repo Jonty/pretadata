@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "neuilly-sur-seine-118-avenue-charles-de-gaulle",
+        "url": "https://locations.pretamanger.fr/neuilly-sur-seine/118-avenue-charles-de-gaulle",
+        "open": true,
+        "name": "Neuilly",
+        "phone_number": "+33146248056",
+        "data_last_updated": "2021-07-10T20:27:54.631475"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "118 avenue Charles de Gaulle",
+        "city": "Neuilly-sur-Seine",
+        "postal_code": "92200",
+        "country": "FR",
+        "latitude": "48.88286650825823",
+        "longitude": "2.267634037687616"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "10:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

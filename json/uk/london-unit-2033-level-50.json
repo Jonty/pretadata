@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-2033-level-50",
+        "url": "https://locations.pret.co.uk/london/unit-2033-level-50",
+        "open": true,
+        "name": "Westfield White City",
+        "phone_number": "+442087491681",
+        "data_last_updated": "2021-07-10T20:27:30.126442"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit 2033, Level 50 Westfield, Mall South",
+        "city": "London",
+        "postal_code": "W12 7GR",
+        "country": "GB",
+        "latitude": "51.5072",
+        "longitude": "-0.220304"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "18:30",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-34-oxford-street",
+        "url": "https://locations.pret.co.uk/manchester/34-oxford-street",
+        "open": true,
+        "name": "Manchester, Oxford Street",
+        "phone_number": "+441612287965",
+        "data_last_updated": "2021-07-10T20:27:41.439893"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "34 Oxford Street",
+        "city": "Manchester",
+        "postal_code": "M1 5EL",
+        "country": "GB",
+        "latitude": "53.476292551386656",
+        "longitude": "-2.242898560744011"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

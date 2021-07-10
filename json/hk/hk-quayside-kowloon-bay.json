@@ -1,0 +1,20 @@
+{
+    "details": {
+        "id": "hk-quayside-kowloon-bay",
+        "url": "https://www.pret.hk/en-HK/find-a-pret",
+        "open": null,
+        "name": "Quayside (Kowloon Bay)",
+        "phone_number": "+852 2638 5942",
+        "data_last_updated": "2021-07-10T20:48:26.762164"
+    },
+    "facilities": {},
+    "location": {
+        "street": "Shop Nos. 1 and 3 on Ground Floor, Tower 2, The Quayside, 77 Hoi Bun Road, Kwun Tong, Kowloon, Hong Kong",
+        "city": "Kowloon",
+        "postal_code": null,
+        "country": "Hong Kong",
+        "latitude": 22.3164515,
+        "longitude": 114.2137006
+    },
+    "opening_hours": {}
+}

@@ -1,0 +1,20 @@
+{
+    "details": {
+        "id": "hk-festival-walk-kowloon-tong",
+        "url": "https://www.pret.hk/en-HK/find-a-pret",
+        "open": null,
+        "name": "Festival Walk (Kowloon Tong)",
+        "phone_number": "+852 3974 5795",
+        "data_last_updated": "2021-07-10T20:48:19.061750"
+    },
+    "facilities": {},
+    "location": {
+        "street": "Kiosk S1 and S2 on Level G (Half Landing), Festival Walk, 80 Tat Chee Avenue, Kowloon Tong",
+        "city": "Kowloon",
+        "postal_code": null,
+        "country": "Hong Kong",
+        "latitude": 22.33688,
+        "longitude": 114.1753096
+    },
+    "opening_hours": {}
+}

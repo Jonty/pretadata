@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "richmond-2-the-square",
+        "url": "https://locations.pret.co.uk/richmond/2-the-square",
+        "open": false,
+        "name": "Richmond, 2 The Square",
+        "phone_number": "+442079325237",
+        "data_last_updated": "2021-07-10T20:27:46.387483"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "2 The Square Richmond",
+        "city": "Richmond",
+        "postal_code": "TW9 1DY",
+        "country": "GB",
+        "latitude": "51.4612236529948",
+        "longitude": "-0.3032060836338646"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

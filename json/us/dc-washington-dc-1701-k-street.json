@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "dc-washington-dc-1701-k-street",
+        "url": "https://locations.pret.com/../dc/washington-dc/1701-k-street",
+        "open": true,
+        "name": "17th and K",
+        "phone_number": "+12028577945",
+        "data_last_updated": "2021-07-10T20:28:17.064008"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "1701 K Street",
+        "city": "Washington, DC",
+        "postal_code": "20006",
+        "country": "US",
+        "latitude": "38.90281914642475",
+        "longitude": "-77.03880267577762"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-35-broadwick-street",
+        "url": "https://locations.pret.co.uk/london/35-broadwick-street",
+        "open": true,
+        "name": "Broadwick Street",
+        "phone_number": "+442079325274",
+        "data_last_updated": "2021-07-10T20:27:01.313527"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "35 Broadwick Street",
+        "city": "London",
+        "postal_code": "W1F 0DH",
+        "country": "GB",
+        "latitude": "51.51326996686659",
+        "longitude": "-0.13622846516683662"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

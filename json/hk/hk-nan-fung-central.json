@@ -1,0 +1,20 @@
+{
+    "details": {
+        "id": "hk-nan-fung-central",
+        "url": "https://www.pret.hk/en-HK/find-a-pret",
+        "open": null,
+        "name": "Nan Fung (Central)",
+        "phone_number": "+852 2539 8168",
+        "data_last_updated": "2021-07-10T20:48:25.910318"
+    },
+    "facilities": {},
+    "location": {
+        "street": "No. G6, G/F, Nan Fung Tower, 88 Connaught Road, Central",
+        "city": "Hong Kong Island",
+        "postal_code": null,
+        "country": "Hong Kong",
+        "latitude": 22.2860549,
+        "longitude": 114.1545485
+    },
+    "opening_hours": {}
+}

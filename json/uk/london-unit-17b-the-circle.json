@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-17b-the-circle",
+        "url": "https://locations.pret.co.uk/london/unit-17b-the-circle",
+        "open": true,
+        "name": "St Pancras International",
+        "phone_number": "+442079325225",
+        "data_last_updated": "2021-07-10T20:27:29.231408"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 17B, The Circle St Pancras International Station",
+        "city": "London",
+        "postal_code": "NW1 2QP",
+        "country": "GB",
+        "latitude": "51.532241",
+        "longitude": "-0.126594"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:00",
+            "close": "1:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:00",
+            "close": "1:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:00",
+            "close": "1:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:00",
+            "close": "1:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:00",
+            "close": "1:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "5:00",
+            "close": "1:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "5:00",
+            "close": "1:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "reading-39-holy-brook-walk",
+        "url": "https://locations.pret.co.uk/reading/39-holy-brook-walk",
+        "open": true,
+        "name": "Reading, The Oracle Centre",
+        "phone_number": "+441189582942",
+        "data_last_updated": "2021-07-10T20:27:46.055208"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "39 Holy Brook Walk The Oracle",
+        "city": "Reading",
+        "postal_code": "RG1 2AQ",
+        "country": "GB",
+        "latitude": "51.45511794926961",
+        "longitude": "-0.970573665658756"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

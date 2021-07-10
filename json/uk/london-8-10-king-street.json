@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-8-10-king-street",
+        "url": "https://locations.pret.co.uk/london/8-10-king-street",
+        "open": true,
+        "name": "Hammersmith, King Street",
+        "phone_number": "+442079325252",
+        "data_last_updated": "2021-07-10T20:27:15.740604"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "8-10 King Street Hammersmith",
+        "city": "London",
+        "postal_code": "W6 0QA",
+        "country": "GB",
+        "latitude": "51.4930722",
+        "longitude": "-0.2256144"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "18:30",
+            "closed": false
+        }
+    }
+}

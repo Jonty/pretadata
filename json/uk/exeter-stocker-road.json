@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "exeter-stocker-road",
+        "url": "https://locations.pret.co.uk/exeter/stocker-road",
+        "open": true,
+        "name": "Exeter University",
+        "phone_number": "+441392271691",
+        "data_last_updated": "2021-07-10T20:26:27.806135"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Stocker Road",
+        "city": "Exeter",
+        "postal_code": "EX4 4SZ",
+        "country": "GB",
+        "latitude": "50.7351509",
+        "longitude": "-3.5338046"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

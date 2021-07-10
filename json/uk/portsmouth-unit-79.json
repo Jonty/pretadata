@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "portsmouth-unit-79",
+        "url": "https://locations.pret.co.uk/portsmouth/unit-79",
+        "open": true,
+        "name": "Portsmouth, Gunwharf Quays",
+        "phone_number": "+442392737396",
+        "data_last_updated": "2021-07-10T20:27:45.972915"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 79 Gunwharf Quays",
+        "city": "Portsmouth",
+        "postal_code": "PO1 3TZ",
+        "country": "GB",
+        "latitude": "50.7966482",
+        "longitude": "-1.1059718"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

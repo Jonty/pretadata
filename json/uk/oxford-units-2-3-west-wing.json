@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "oxford-units-2-3-west-wing",
+        "url": "https://locations.pret.co.uk/oxford/units-2-3-west-wing",
+        "open": true,
+        "name": "Oxford John Radcliffe Hospital",
+        "phone_number": "+441865760910",
+        "data_last_updated": "2021-07-10T20:27:45.818821"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Units 2 & 3, West Wing John Radcliffe Hospital",
+        "city": "Oxford",
+        "postal_code": "OX3 9DU",
+        "country": "GB",
+        "latitude": "51.763884241651596",
+        "longitude": "-1.2196068018674855"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

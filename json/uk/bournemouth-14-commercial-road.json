@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "bournemouth-14-commercial-road",
+        "url": "https://locations.pret.co.uk/bournemouth/14-commercial-road",
+        "open": true,
+        "name": "Bournemouth",
+        "phone_number": "+441202290417",
+        "data_last_updated": "2021-07-10T20:26:21.202416"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "14 Commercial Road",
+        "city": "Bournemouth",
+        "postal_code": "BH2 5LP",
+        "country": "GB",
+        "latitude": "50.72014507947452",
+        "longitude": "-1.8808371560496484"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-vitro-building",
+        "url": "https://locations.pret.co.uk/london/vitro-building",
+        "open": true,
+        "name": "Fenchurch Street, 63",
+        "phone_number": "+442079325348",
+        "data_last_updated": "2021-07-10T20:27:39.773610"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Vitro Building 62-63 Fenchurch Street",
+        "city": "London",
+        "postal_code": "EC3M 4AQ",
+        "country": "GB",
+        "latitude": "51.512121444521185",
+        "longitude": "-0.07960598786604489"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

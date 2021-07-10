@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-5-pall-mall-east",
+        "url": "https://locations.pret.co.uk/london/5-pall-mall-east",
+        "open": true,
+        "name": "Pall Mall East, 5",
+        "phone_number": "+442078393995",
+        "data_last_updated": "2021-07-10T20:27:06.739944"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "5 Pall Mall East",
+        "city": "London",
+        "postal_code": "SW1Y 5BA",
+        "country": "GB",
+        "latitude": "51.50823205214699",
+        "longitude": "-0.13006201848673848"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "details": {
+        "id": "hk-hk-international-airport-chek-lap-kok",
+        "url": "https://www.pret.hk/en-HK/find-a-pret",
+        "open": null,
+        "name": "HK International Airport (Chek Lap Kok)",
+        "phone_number": "+852 2523 1772",
+        "data_last_updated": "2021-07-10T20:48:14.543051"
+    },
+    "facilities": {},
+    "location": {
+        "street": "Unit 5T028, Level 5, Arrivals Meeters & Greeters Hall, Passenger Terminal Building, Terminal 1, HKIA",
+        "city": "New Territories",
+        "postal_code": null,
+        "country": "Hong Kong",
+        "latitude": 22.3163273,
+        "longitude": 113.9377162
+    },
+    "opening_hours": {}
+}

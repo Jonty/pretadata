@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-1-southern-square",
+        "url": "https://locations.pret.co.uk/london/unit-1-southern-square",
+        "open": true,
+        "name": "Kings Cross Petit Pret",
+        "phone_number": "+442072788054",
+        "data_last_updated": "2021-07-10T20:27:26.943163"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit 1 Southern Square Euston Road",
+        "city": "London",
+        "postal_code": "N1C 4AP",
+        "country": "GB",
+        "latitude": "51.532382",
+        "longitude": "-0.123293"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": ":0",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

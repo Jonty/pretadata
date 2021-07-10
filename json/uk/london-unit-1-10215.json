@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-1-10215",
+        "url": "https://locations.pret.co.uk/london/unit-1-10215",
+        "open": true,
+        "name": "Aldersgate",
+        "phone_number": "+442079325437",
+        "data_last_updated": "2021-07-10T20:27:26.269581"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 1 200 Aldersgate",
+        "city": "London",
+        "postal_code": "EC1A 4HD",
+        "country": "GB",
+        "latitude": "51.5172007",
+        "longitude": "-0.0970299"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

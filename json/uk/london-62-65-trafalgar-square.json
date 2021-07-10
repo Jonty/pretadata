@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-62-65-trafalgar-square",
+        "url": "https://locations.pret.co.uk/london/62-65-trafalgar-square",
+        "open": true,
+        "name": "Trafalgar Square South",
+        "phone_number": "+442079325350",
+        "data_last_updated": "2021-07-10T20:27:10.077609"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "62-65 Trafalgar Square",
+        "city": "London",
+        "postal_code": "WC2N 5DS",
+        "country": "GB",
+        "latitude": "51.507336499206914",
+        "longitude": "-0.12859132140611962"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

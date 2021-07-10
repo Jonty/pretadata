@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "birmingham-1-newhall-street",
+        "url": "https://locations.pret.co.uk/birmingham/1-newhall-street",
+        "open": true,
+        "name": "Birmingham Newhall Street",
+        "phone_number": "+441212330976",
+        "data_last_updated": "2021-07-10T20:26:18.989216"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 Newhall Street",
+        "city": "Birmingham",
+        "postal_code": "B3 3NH",
+        "country": "GB",
+        "latitude": "52.481280261448426",
+        "longitude": "-1.9011156822090158"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

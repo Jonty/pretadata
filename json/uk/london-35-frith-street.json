@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-35-frith-street",
+        "url": "https://locations.pret.co.uk/london/35-frith-street",
+        "open": true,
+        "name": "35 Frith Street",
+        "phone_number": "+442072876729",
+        "data_last_updated": "2021-07-10T20:27:01.496611"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "35 Frith Street",
+        "city": "London",
+        "postal_code": "W1D 5LQ",
+        "country": "GB",
+        "latitude": "51.51269350933148",
+        "longitude": "-0.1310826937364773"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "15:30",
+            "closed": false
+        }
+    }
+}

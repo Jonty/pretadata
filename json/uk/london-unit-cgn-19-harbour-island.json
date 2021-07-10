@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-cgn-19-harbour-island",
+        "url": "https://locations.pret.co.uk/london/unit-cgn-19-harbour-island",
+        "open": true,
+        "name": "Harbour Island",
+        "phone_number": "+442075379672",
+        "data_last_updated": "2021-07-10T20:27:37.278202"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit CGN, 19 Harbour Island Millwall Dock, Docklands",
+        "city": "London",
+        "postal_code": "E14 9GE",
+        "country": "GB",
+        "latitude": "51.4990544",
+        "longitude": "-0.0156908"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

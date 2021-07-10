@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "bracknell-unit-5k-block-5",
+        "url": "https://locations.pret.co.uk/bracknell/unit-5k-block-5",
+        "open": true,
+        "name": "Bracknell, The Lexicon",
+        "phone_number": "+441344864775",
+        "data_last_updated": "2021-07-10T20:26:21.289042"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 5K, Block 5 The Avenue, The Lexicon",
+        "city": "Bracknell",
+        "postal_code": "RG12 1AP",
+        "country": "GB",
+        "latitude": "51.4176208",
+        "longitude": "-0.7503005"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

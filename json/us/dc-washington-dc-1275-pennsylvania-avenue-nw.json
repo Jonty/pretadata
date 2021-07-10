@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "dc-washington-dc-1275-pennsylvania-avenue-nw",
+        "url": "https://locations.pret.com/../dc/washington-dc/1275-pennsylvania-avenue-nw",
+        "open": true,
+        "name": "13th and Penn",
+        "phone_number": "+12026218284",
+        "data_last_updated": "2021-07-10T20:28:15.610068"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1275 Pennsylvania Avenue NW",
+        "city": "Washington, DC",
+        "postal_code": "20004",
+        "country": "US",
+        "latitude": "38.8959723",
+        "longitude": "-77.0293316"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-190-strand",
+        "url": "https://locations.pret.co.uk/london/190-strand",
+        "open": true,
+        "name": "Strand, 190",
+        "phone_number": "+442072409925",
+        "data_last_updated": "2021-07-10T20:26:50.510709"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "190 Strand London",
+        "city": "London",
+        "postal_code": "WC2R 1DP",
+        "country": "GB",
+        "latitude": "51.51187581123323",
+        "longitude": "-0.11329531511028668"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

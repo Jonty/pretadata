@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-55-spring-gardens",
+        "url": "https://locations.pret.co.uk/manchester/55-spring-gardens",
+        "open": true,
+        "name": "Spring Gardens",
+        "phone_number": "+441612282032",
+        "data_last_updated": "2021-07-10T20:27:41.634699"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "55 Spring Gardens",
+        "city": "Manchester",
+        "postal_code": "M2 2BY",
+        "country": "GB",
+        "latitude": "53.48014655805025",
+        "longitude": "-2.2411518134918307"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

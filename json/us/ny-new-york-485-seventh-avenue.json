@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-485-seventh-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/485-seventh-avenue",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+12122442151",
+        "data_last_updated": "2021-07-10T20:28:41.736752"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "485 Seventh Avenue",
+        "city": "New York",
+        "postal_code": "10018",
+        "country": "US",
+        "latitude": "40.752402400973075",
+        "longitude": "-73.98914941527195"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-60-broad-street",
+        "url": "https://locations.pret.com/../ny/new-york/60-broad-street",
+        "open": false,
+        "name": "Broad Street",
+        "phone_number": "+12123440176",
+        "data_last_updated": "2021-07-10T20:28:42.952031"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "60 Broad Street",
+        "city": "New York",
+        "postal_code": "10004",
+        "country": "US",
+        "latitude": "40.705202",
+        "longitude": "-74.011811"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

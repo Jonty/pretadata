@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "brighton-77-north-street",
+        "url": "https://locations.pret.co.uk/brighton/77-north-street",
+        "open": true,
+        "name": "Brighton, North Street",
+        "phone_number": "+441273894391",
+        "data_last_updated": "2021-07-10T20:26:21.621777"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "77 North Street",
+        "city": "Brighton",
+        "postal_code": "BN1 1ZA",
+        "country": "GB",
+        "latitude": "50.823596210883714",
+        "longitude": "-0.14404084196705247"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-11-west-42nd-street",
+        "url": "https://locations.pret.com/../ny/new-york/11-west-42nd-street",
+        "open": false,
+        "name": "42nd and 5th",
+        "phone_number": "+16468610474",
+        "data_last_updated": "2021-07-10T20:28:24.612114"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "11 West 42nd Street",
+        "city": "New York",
+        "postal_code": "10036",
+        "country": "US",
+        "latitude": "40.754247190932674",
+        "longitude": "-73.98169889007104"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

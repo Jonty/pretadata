@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-1-the-parade",
+        "url": "https://locations.pret.co.uk/london/1-the-parade",
+        "open": true,
+        "name": "Watford",
+        "phone_number": "+441923805285",
+        "data_last_updated": "2021-07-10T20:26:36.857750"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 The Parade",
+        "city": "London",
+        "postal_code": "WD17 1LQ",
+        "country": "GB",
+        "latitude": "51.65686562485034",
+        "longitude": "-0.397947932506173"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

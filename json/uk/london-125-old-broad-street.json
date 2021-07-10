@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-125-old-broad-street",
+        "url": "https://locations.pret.co.uk/london/125-old-broad-street",
+        "open": true,
+        "name": "125 Old Broad Street",
+        "phone_number": "+442073744550",
+        "data_last_updated": "2021-07-10T20:26:42.510748"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "125 Old Broad Street",
+        "city": "London",
+        "postal_code": "EC2N 1DW",
+        "country": "GB",
+        "latitude": "51.5148297",
+        "longitude": "-0.0856681"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

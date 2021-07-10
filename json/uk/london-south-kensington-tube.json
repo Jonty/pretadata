@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-south-kensington-tube",
+        "url": "https://locations.pret.co.uk/london/south-kensington-tube",
+        "open": true,
+        "name": "South Kensington Tube station",
+        "phone_number": "+442075910437",
+        "data_last_updated": "2021-07-10T20:27:24.953575"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "South Kensington tube",
+        "city": "London",
+        "postal_code": "SW7 2NB",
+        "country": "GB",
+        "latitude": "51.49353254075149",
+        "longitude": "-0.17420968683487636"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

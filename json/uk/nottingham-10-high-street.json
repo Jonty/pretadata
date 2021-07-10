@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "nottingham-10-high-street",
+        "url": "https://locations.pret.co.uk/nottingham/10-high-street",
+        "open": true,
+        "name": "Nottingham, High Street",
+        "phone_number": "+441159419883",
+        "data_last_updated": "2021-07-10T20:27:44.804520"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "10 High Street",
+        "city": "Nottingham",
+        "postal_code": "NG1 2ET",
+        "country": "GB",
+        "latitude": "52.953399526976426",
+        "longitude": "-1.1477178307297775"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

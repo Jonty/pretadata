@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-3-winchester-house",
+        "url": "https://locations.pret.co.uk/london/unit-3-winchester-house",
+        "open": true,
+        "name": "Winchester House",
+        "phone_number": "+442072567817",
+        "data_last_updated": "2021-07-10T20:27:32.670031"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 3, Winchester House Old Broad St",
+        "city": "London",
+        "postal_code": "EC2M 5NG",
+        "country": "GB",
+        "latitude": "51.5164275",
+        "longitude": "-0.0835495"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

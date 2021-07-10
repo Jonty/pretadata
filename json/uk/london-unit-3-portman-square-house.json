@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-3-portman-square-house",
+        "url": "https://locations.pret.co.uk/london/unit-3-portman-square-house",
+        "open": true,
+        "name": "Orchard Street",
+        "phone_number": "+442079325300",
+        "data_last_updated": "2021-07-10T20:27:32.290959"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 3, Portman Square House Orchard Street",
+        "city": "London",
+        "postal_code": "W1H 6HJ",
+        "country": "GB",
+        "latitude": "51.51501385564173",
+        "longitude": "-0.15447854665251448"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:30",
+            "close": "18:30",
+            "closed": false
+        }
+    }
+}

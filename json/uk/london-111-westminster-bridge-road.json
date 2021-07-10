@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-111-westminster-bridge-road",
+        "url": "https://locations.pret.co.uk/london/111-westminster-bridge-road",
+        "open": true,
+        "name": "Westminster Bridge Road",
+        "phone_number": "+442076339650",
+        "data_last_updated": "2021-07-10T20:26:40.342047"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "111 Westminster Bridge Road",
+        "city": "London",
+        "postal_code": "SE1 7HR",
+        "country": "GB",
+        "latitude": "51.49916971705142",
+        "longitude": "-0.11335834116060539"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

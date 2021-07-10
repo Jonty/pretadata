@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-110-fetter-lane",
+        "url": "https://locations.pret.co.uk/london/110-fetter-lane",
+        "open": true,
+        "name": "Fetter Lane, 110",
+        "phone_number": "+442079325453",
+        "data_last_updated": "2021-07-10T20:26:40.175412"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "110 Fetter Lane",
+        "city": "London",
+        "postal_code": "EC4A 1ES",
+        "country": "GB",
+        "latitude": "51.51596571391176",
+        "longitude": "-0.10939125371669967"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

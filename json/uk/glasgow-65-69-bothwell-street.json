@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "glasgow-65-69-bothwell-street",
+        "url": "https://locations.pret.co.uk/glasgow/65-69-bothwell-street",
+        "open": true,
+        "name": "Glasgow, Bothwell Street",
+        "phone_number": "+441412486335",
+        "data_last_updated": "2021-07-10T20:26:29.363776"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "65-69 Bothwell Street",
+        "city": "Glasgow",
+        "postal_code": "G2 6TS",
+        "country": "GB",
+        "latitude": "55.8610978971388",
+        "longitude": "-4.261286571061118"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

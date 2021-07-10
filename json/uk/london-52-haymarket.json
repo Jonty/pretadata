@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-52-haymarket",
+        "url": "https://locations.pret.co.uk/london/52-haymarket",
+        "open": false,
+        "name": "Haymarket",
+        "phone_number": "+442079325246",
+        "data_last_updated": "2021-07-10T20:27:07.596572"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "52 Haymarket",
+        "city": "London",
+        "postal_code": "SW1Y 4RP",
+        "country": "GB",
+        "latitude": "51.50929016254944",
+        "longitude": "-0.13300277546311134"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

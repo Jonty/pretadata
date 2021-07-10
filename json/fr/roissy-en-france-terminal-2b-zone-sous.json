@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "roissy-en-france-terminal-2b-zone-sous",
+        "url": "https://locations.pretamanger.fr/roissy-en-france/terminal-2b-zone-sous",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+33607912557",
+        "data_last_updated": "2021-07-10T20:28:08.503570"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "Terminal 2B - Zone sous Carroyage 4-E-107",
+        "city": "Roissy-en-France",
+        "postal_code": "95700",
+        "country": "FR",
+        "latitude": "49.00410461425781",
+        "longitude": "2.515554904937744"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "4:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "4:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "4:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "4:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "4:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "4:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "4:00",
+            "close": "22:00",
+            "closed": false
+        }
+    }
+}

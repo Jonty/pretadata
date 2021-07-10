@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-280-high-holborn",
+        "url": "https://locations.pret.co.uk/london/280-high-holborn",
+        "open": true,
+        "name": "High Holborn, 280",
+        "phone_number": "+442074054290",
+        "data_last_updated": "2021-07-10T20:26:57.977273"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "280 High Holborn",
+        "city": "London",
+        "postal_code": "WC1V 7EE",
+        "country": "GB",
+        "latitude": "51.51787834447453",
+        "longitude": "-0.11598939219992221"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

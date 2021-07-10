@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-10-leather-lane",
+        "url": "https://locations.pret.co.uk/london/10-leather-lane",
+        "open": true,
+        "name": "Leather Lane",
+        "phone_number": "+442079325232",
+        "data_last_updated": "2021-07-10T20:26:37.760620"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "10 Leather Lane",
+        "city": "London",
+        "postal_code": "EC1N 7SS",
+        "country": "GB",
+        "latitude": "51.51860004039792",
+        "longitude": "-0.1087699914016671"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

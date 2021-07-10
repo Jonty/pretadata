@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "roissy-en-france-hall-des-departs-k-niveau-2",
+        "url": "https://locations.pretamanger.fr/roissy-en-france/hall-des-d\u00e9parts-k-niveau-2",
+        "open": true,
+        "name": "A\u00e9roport de Paris CDG T2E",
+        "phone_number": "+33148622647",
+        "data_last_updated": "2021-07-10T20:28:08.004593"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Hall des D\u00e9parts K Niveau 2 A\u00e9roport Paris-Charles-de-Gaulle",
+        "city": "Roissy-en-France",
+        "postal_code": "95527",
+        "country": "FR",
+        "latitude": "49.00515122198742",
+        "longitude": "2.5779006421133404"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "5:00",
+            "close": "23:30",
+            "closed": false
+        },
+        "mardi": {
+            "open": "5:00",
+            "close": "23:30",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "5:00",
+            "close": "23:30",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "5:00",
+            "close": "23:30",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "5:00",
+            "close": "23:30",
+            "closed": false
+        },
+        "samedi": {
+            "open": "5:00",
+            "close": "23:30",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "5:00",
+            "close": "23:30",
+            "closed": false
+        }
+    }
+}

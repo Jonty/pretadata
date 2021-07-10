@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "windsor-52-king-edward-court",
+        "url": "https://locations.pret.co.uk/windsor/52-king-edward-court",
+        "open": true,
+        "name": "Windsor, 52 King Edward Court",
+        "phone_number": "+441753857298",
+        "data_last_updated": "2021-07-10T20:27:50.046105"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "52 King Edward Court Windsor",
+        "city": "Windsor",
+        "postal_code": "SL4 1TG",
+        "country": "GB",
+        "latitude": "51.48206664492991",
+        "longitude": "-0.6103773969636594"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

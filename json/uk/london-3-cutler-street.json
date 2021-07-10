@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-3-cutler-street",
+        "url": "https://locations.pret.co.uk/london/3-cutler-street",
+        "open": true,
+        "name": "Cutler Street",
+        "phone_number": "+442079325377",
+        "data_last_updated": "2021-07-10T20:26:59.303768"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "3 Cutler Street",
+        "city": "London",
+        "postal_code": "E1 7DJ",
+        "country": "GB",
+        "latitude": "51.5157082",
+        "longitude": "-0.0789877"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

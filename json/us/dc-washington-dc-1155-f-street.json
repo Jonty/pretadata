@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "dc-washington-dc-1155-f-street",
+        "url": "https://locations.pret.com/../dc/washington-dc/1155-f-street",
+        "open": true,
+        "name": "11th and F Street",
+        "phone_number": "+12024642791",
+        "data_last_updated": "2021-07-10T20:28:15.452421"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1155 F Street",
+        "city": "Washington, DC",
+        "postal_code": "20004",
+        "country": "US",
+        "latitude": "38.89754282060578",
+        "longitude": "-77.02745719204808"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

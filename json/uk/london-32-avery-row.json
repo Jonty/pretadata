@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-32-avery-row",
+        "url": "https://locations.pret.co.uk/london/32-avery-row",
+        "open": true,
+        "name": "Avery Row",
+        "phone_number": "+442079325447",
+        "data_last_updated": "2021-07-10T20:27:01.054266"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "32 Avery Row",
+        "city": "London",
+        "postal_code": "W1K 4BE",
+        "country": "GB",
+        "latitude": "51.51224725578439",
+        "longitude": "-0.14549749146195667"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

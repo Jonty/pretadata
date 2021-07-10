@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-1-penn-plaza-10478",
+        "url": "https://locations.pret.com/../ny/new-york/1-penn-plaza-10478",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+12122442820",
+        "data_last_updated": "2021-07-10T20:28:21.062623"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 Penn Plaza",
+        "city": "New York",
+        "postal_code": "10119",
+        "country": "US",
+        "latitude": "40.75160020670252",
+        "longitude": "-73.99240014804255"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:00",
+            "close": "1:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:00",
+            "close": "1:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:00",
+            "close": "1:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:00",
+            "close": "1:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:00",
+            "close": "1:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "1:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:00",
+            "close": ":0",
+            "closed": false
+        }
+    }
+}

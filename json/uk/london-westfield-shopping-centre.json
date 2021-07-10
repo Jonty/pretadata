@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-westfield-shopping-centre",
+        "url": "https://locations.pret.co.uk/london/westfield-shopping-centre",
+        "open": true,
+        "name": "Westfield, Shopping Centre",
+        "phone_number": "+442087495499",
+        "data_last_updated": "2021-07-10T20:27:40.150197"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "Westfield Shopping Centre Unit Su2203a",
+        "city": "London",
+        "postal_code": "W12 7HT",
+        "country": "GB",
+        "latitude": "51.510101318359375",
+        "longitude": "-0.2217170000076294"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "18:30",
+            "closed": false
+        }
+    }
+}

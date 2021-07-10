@@ -1,0 +1,20 @@
+{
+    "details": {
+        "id": "hk-causeway-bay-mtr-petit-pret-causeway-bay",
+        "url": "https://www.pret.hk/en-HK/find-a-pret",
+        "open": null,
+        "name": "Causeway Bay MTR Petit Pret (Causeway Bay)",
+        "phone_number": "+852 2640 2900",
+        "data_last_updated": "2021-07-10T20:48:15.510974"
+    },
+    "facilities": {},
+    "location": {
+        "street": "Kiosk No. CAB E6, Causeway Bay MTR Station",
+        "city": "Hong Kong Island",
+        "postal_code": null,
+        "country": "Hong Kong",
+        "latitude": 22.2803747,
+        "longitude": 114.1850421
+    },
+    "opening_hours": {}
+}

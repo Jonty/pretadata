@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-65-fenchurch-street",
+        "url": "https://locations.pret.co.uk/london/65-fenchurch-street",
+        "open": true,
+        "name": "Fenchurch Street, 65",
+        "phone_number": "+442077021151",
+        "data_last_updated": "2021-07-10T20:27:10.653033"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "65 Fenchurch Street London",
+        "city": "London",
+        "postal_code": "EC3M 4BE",
+        "country": "GB",
+        "latitude": "51.512247850227766",
+        "longitude": "-0.07929740244674743"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

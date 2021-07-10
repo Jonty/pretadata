@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-7-8-new-london-street",
+        "url": "https://locations.pret.co.uk/london/7/8-new-london-street",
+        "open": true,
+        "name": "New London Street",
+        "phone_number": "+442079325264",
+        "data_last_updated": "2021-07-10T20:27:13.466479"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "7/8 New London Street",
+        "city": "London",
+        "postal_code": "EC3R 7NA",
+        "country": "GB",
+        "latitude": "51.511298322798865",
+        "longitude": "-0.07962983068848128"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

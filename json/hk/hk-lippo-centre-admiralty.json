@@ -1,0 +1,20 @@
+{
+    "details": {
+        "id": "hk-lippo-centre-admiralty",
+        "url": "https://www.pret.hk/en-HK/find-a-pret",
+        "open": null,
+        "name": "Lippo Centre (Admiralty)",
+        "phone_number": "+852 2537 4200",
+        "data_last_updated": "2021-07-10T20:48:24.210126"
+    },
+    "facilities": {},
+    "location": {
+        "street": "Shop 2AA & 2AB, 1/F, Lippo Centre, 89 Queensway, Admiralty",
+        "city": "Hong Kong Island",
+        "postal_code": null,
+        "country": "Hong Kong",
+        "latitude": 22.2795049,
+        "longitude": 114.1632952
+    },
+    "opening_hours": {}
+}

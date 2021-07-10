@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-17-boulevard-vaugirard",
+        "url": "https://locations.pretamanger.fr/paris/17-boulevard-vaugirard",
+        "open": true,
+        "name": "Montparnasse",
+        "phone_number": "",
+        "data_last_updated": "2021-07-10T20:27:58.911828"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "17 Boulevard Vaugirard",
+        "city": "Paris",
+        "postal_code": "75015",
+        "country": "FR",
+        "latitude": "48.84084736223994",
+        "longitude": "2.3199472730219473"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "6:30",
+            "close": "21:30",
+            "closed": false
+        },
+        "mardi": {
+            "open": "6:30",
+            "close": "21:30",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "6:30",
+            "close": "21:30",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "6:30",
+            "close": "21:30",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "6:30",
+            "close": "21:30",
+            "closed": false
+        },
+        "samedi": {
+            "open": "6:30",
+            "close": "21:30",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "6:30",
+            "close": "21:30",
+            "closed": false
+        }
+    }
+}

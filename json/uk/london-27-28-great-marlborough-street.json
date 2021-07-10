@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-27-28-great-marlborough-street",
+        "url": "https://locations.pret.co.uk/london/27-28-great-marlborough-street",
+        "open": true,
+        "name": "Great Marlborough Street",
+        "phone_number": "+442079325296",
+        "data_last_updated": "2021-07-10T20:26:56.594051"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "27-28 Great Marlborough Street",
+        "city": "London",
+        "postal_code": "W1F 7HY",
+        "country": "GB",
+        "latitude": "51.51375606921039",
+        "longitude": "-0.13969716810549704"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

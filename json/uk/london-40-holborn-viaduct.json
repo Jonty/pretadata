@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-40-holborn-viaduct",
+        "url": "https://locations.pret.co.uk/london/40-holborn-viaduct",
+        "open": true,
+        "name": "Holborn Circus",
+        "phone_number": "+442079325381",
+        "data_last_updated": "2021-07-10T20:27:03.460909"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "40 Holborn Viaduct",
+        "city": "London",
+        "postal_code": "EC1N 2PB",
+        "country": "GB",
+        "latitude": "51.517967196784",
+        "longitude": "-0.10661594613990744"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

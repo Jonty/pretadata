@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-victoria-coach-station",
+        "url": "https://locations.pret.co.uk/london/victoria-coach-station",
+        "open": true,
+        "name": "Victoria Coach Station",
+        "phone_number": "+442077308267",
+        "data_last_updated": "2021-07-10T20:27:39.194221"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Victoria Coach Station 164 Buckingham Palace Road",
+        "city": "London",
+        "postal_code": "SW1W 9TP",
+        "country": "GB",
+        "latitude": "51.492443",
+        "longitude": "-0.1483999"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

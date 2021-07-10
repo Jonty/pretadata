@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "reading-ground-floor",
+        "url": "https://locations.pret.co.uk/reading/ground-floor",
+        "open": true,
+        "name": "Reading, Thames Tower",
+        "phone_number": "+441189588020",
+        "data_last_updated": "2021-07-10T20:27:46.220067"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Ground Floor Thames Tower, Station Approach",
+        "city": "Reading",
+        "postal_code": "RG1 1LX",
+        "country": "GB",
+        "latitude": "51.45836004873776",
+        "longitude": "-0.9730238076099229"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

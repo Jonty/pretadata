@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-unit-r2-4-hardman-square",
+        "url": "https://locations.pret.co.uk/manchester/unit-r2-4-hardman-square",
+        "open": true,
+        "name": "Manchester, Spinningfields",
+        "phone_number": "+441618321471",
+        "data_last_updated": "2021-07-10T20:27:43.093691"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit R2, 4 Hardman Square Spinningfields",
+        "city": "Manchester",
+        "postal_code": "M3 3EB",
+        "country": "GB",
+        "latitude": "53.4797196",
+        "longitude": "-2.2517956"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

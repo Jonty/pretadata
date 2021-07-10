@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-angel-central-shopping-centre",
+        "url": "https://locations.pret.co.uk/london/angel-central-shopping-centre",
+        "open": true,
+        "name": "Islington, Angel Central",
+        "phone_number": "+442072264292",
+        "data_last_updated": "2021-07-10T20:27:19.839718"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Angel Central Shopping Centre 12 Parkfield Street, Islington",
+        "city": "London",
+        "postal_code": "N1 0PS",
+        "country": "GB",
+        "latitude": "51.5341831",
+        "longitude": "-0.1059454"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

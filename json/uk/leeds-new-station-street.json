@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "leeds-new-station-street",
+        "url": "https://locations.pret.co.uk/leeds/new-station-street",
+        "open": true,
+        "name": "Leeds Station",
+        "phone_number": "+441132442612",
+        "data_last_updated": "2021-07-10T20:26:33.949784"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "New Station Street",
+        "city": "Leeds",
+        "postal_code": "LS1 5DL",
+        "country": "GB",
+        "latitude": "53.79540792150731",
+        "longitude": "-1.5474923558196974"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

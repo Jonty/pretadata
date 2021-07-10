@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-10-canada-place-mall-rt2",
+        "url": "https://locations.pret.co.uk/london/unit-10-canada-place-mall-(rt2)",
+        "open": true,
+        "name": "Canary Wharf, The Mall",
+        "phone_number": "+442079325435",
+        "data_last_updated": "2021-07-10T20:27:28.011468"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit 10, Canada Place Mall (RT2) Canary Wharf",
+        "city": "London",
+        "postal_code": "E14 5NN",
+        "country": "GB",
+        "latitude": "51.5066381446608",
+        "longitude": "-0.02783794067654277"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

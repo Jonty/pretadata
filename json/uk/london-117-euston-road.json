@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-117-euston-road",
+        "url": "https://locations.pret.co.uk/london/117-euston-road",
+        "open": true,
+        "name": "Euston Road",
+        "phone_number": "+442079325256",
+        "data_last_updated": "2021-07-10T20:26:40.500392"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "117 Euston Road",
+        "city": "London",
+        "postal_code": "NW1 2SX",
+        "country": "GB",
+        "latitude": "51.5283340478084",
+        "longitude": "-0.12756583067111027"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

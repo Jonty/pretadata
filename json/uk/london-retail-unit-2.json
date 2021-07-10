@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-retail-unit-2",
+        "url": "https://locations.pret.co.uk/london/retail-unit-2",
+        "open": true,
+        "name": "Lower Regent Street",
+        "phone_number": "+442079325309",
+        "data_last_updated": "2021-07-10T20:27:24.267803"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Retail Unit 2 2 Regent Street",
+        "city": "London",
+        "postal_code": "SW1Y 4PE",
+        "country": "GB",
+        "latitude": "51.5081595",
+        "longitude": "-0.1330565"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

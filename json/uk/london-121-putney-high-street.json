@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-121-putney-high-street",
+        "url": "https://locations.pret.co.uk/london/121-putney-high-street",
+        "open": true,
+        "name": "Putney High Street",
+        "phone_number": "+442087803150",
+        "data_last_updated": "2021-07-10T20:26:41.396555"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "121 Putney High Street",
+        "city": "London",
+        "postal_code": "SW15 1SU",
+        "country": "GB",
+        "latitude": "51.46236695160908",
+        "longitude": "-0.21615664786777344"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

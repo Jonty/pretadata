@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "creteil-avenue-de-la-france-libre",
+        "url": "https://locations.pretamanger.fr/cr\u00e9teil/avenue-de-la-france-libre",
+        "open": true,
+        "name": "Cr\u00e9teil Soleil",
+        "phone_number": "+33149803741",
+        "data_last_updated": "2021-07-10T20:27:51.115003"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Avenue de la France libre Cr\u00e9teil",
+        "city": "Cr\u00e9teil",
+        "postal_code": "94000",
+        "country": "FR",
+        "latitude": "48.779353291498985",
+        "longitude": "2.454696436542565"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "10:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "11:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

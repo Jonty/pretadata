@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-units-1-and-2",
+        "url": "https://locations.pret.co.uk/london/units-1-and-2",
+        "open": true,
+        "name": "Bishopsgate, 201",
+        "phone_number": "+442079325427",
+        "data_last_updated": "2021-07-10T20:27:38.848313"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Units 1 and 2 201 Bishopsgate",
+        "city": "London",
+        "postal_code": "EC2M 3AB",
+        "country": "GB",
+        "latitude": "51.52117438597946",
+        "longitude": "-0.07934179078998849"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

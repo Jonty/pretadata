@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-34-brazennose-street",
+        "url": "https://locations.pret.co.uk/manchester/34-brazennose-street",
+        "open": true,
+        "name": "Manchester, Brazenose Street",
+        "phone_number": "+442079325322",
+        "data_last_updated": "2021-07-10T20:27:41.273680"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "34  Brazennose Street",
+        "city": "Manchester",
+        "postal_code": "M2 5EA",
+        "country": "GB",
+        "latitude": "53.47923962457013",
+        "longitude": "-2.246125908812142"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

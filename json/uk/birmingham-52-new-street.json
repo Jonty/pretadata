@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "birmingham-52-new-street",
+        "url": "https://locations.pret.co.uk/birmingham/52-new-street",
+        "open": true,
+        "name": "Birmingham, New Street",
+        "phone_number": "+441216432359",
+        "data_last_updated": "2021-07-10T20:26:19.247567"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "52 New Street",
+        "city": "Birmingham",
+        "postal_code": "B2 4EG",
+        "country": "GB",
+        "latitude": "52.47943376522608",
+        "longitude": "-1.899846261144531"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

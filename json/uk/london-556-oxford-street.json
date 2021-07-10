@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-556-oxford-street",
+        "url": "https://locations.pret.co.uk/london/556-oxford-street",
+        "open": true,
+        "name": "Marble Arch",
+        "phone_number": "+442079325240",
+        "data_last_updated": "2021-07-10T20:27:09.269657"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "556 Oxford Street",
+        "city": "London",
+        "postal_code": "W1C 1LZ",
+        "country": "GB",
+        "latitude": "51.513579138803",
+        "longitude": "-0.15858605668223946"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-125-chambers-street",
+        "url": "https://locations.pret.com/../ny/new-york/125-chambers-street",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+12126082761",
+        "data_last_updated": "2021-07-10T20:28:26.109407"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "125 Chambers Street New York",
+        "city": "New York",
+        "postal_code": "10007",
+        "country": "US",
+        "latitude": "40.71554588107436",
+        "longitude": "-74.0087938744014"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

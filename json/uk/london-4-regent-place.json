@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-4-regent-place",
+        "url": "https://locations.pret.co.uk/london/4-regent-place",
+        "open": true,
+        "name": "Regent Place",
+        "phone_number": "+442074944760",
+        "data_last_updated": "2021-07-10T20:27:02.714436"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "4 Regent Place",
+        "city": "London",
+        "postal_code": "W1B 5EA",
+        "country": "GB",
+        "latitude": "51.51115857392186",
+        "longitude": "-0.13834452086677995"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "14:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "14:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "14:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "14:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "14:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

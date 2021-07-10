@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "bristol-the-mall-cribbs-causeway",
+        "url": "https://locations.pret.co.uk/bristol/the-mall-cribbs-causeway",
+        "open": true,
+        "name": "Bristol, Cribbs Causeway",
+        "phone_number": "+441179590326",
+        "data_last_updated": "2021-07-10T20:26:22.453261"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "The Mall, Cribbs Causeway",
+        "city": "Bristol",
+        "postal_code": "BS34 5DG",
+        "country": "GB",
+        "latitude": "51.525576",
+        "longitude": "-2.595577"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

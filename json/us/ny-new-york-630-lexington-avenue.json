@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-630-lexington-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/630-lexington-avenue",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+16464970510",
+        "data_last_updated": "2021-07-10T20:28:45.201873"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "630 Lexington Avenue New York,  NY",
+        "city": "New York",
+        "postal_code": "10017",
+        "country": "US",
+        "latitude": "40.75866161497577",
+        "longitude": "-73.97113652105061"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

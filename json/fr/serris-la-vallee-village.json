@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "serris-la-vallee-village",
+        "url": "https://locations.pretamanger.fr/serris/la-vall\u00e9e-village",
+        "open": true,
+        "name": "La Vall\u00e9e Village",
+        "phone_number": "+33164634218",
+        "data_last_updated": "2021-07-10T20:28:10.032824"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "La Vall\u00e9e Village 3 cours de la Garonne",
+        "city": "Serris",
+        "postal_code": "77700",
+        "country": "FR",
+        "latitude": "48.85256960584121",
+        "longitude": "2.7849681940096582"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "8:30",
+            "close": "20:30",
+            "closed": false
+        },
+        "mardi": {
+            "open": "8:30",
+            "close": "20:30",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "8:30",
+            "close": "20:30",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "8:30",
+            "close": "20:30",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "8:30",
+            "close": "20:30",
+            "closed": false
+        },
+        "samedi": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        }
+    }
+}

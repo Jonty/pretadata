@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "oxford-2-cornmarket-street",
+        "url": "https://locations.pret.co.uk/oxford/2-cornmarket-street",
+        "open": true,
+        "name": "Oxford, 2 Cornmarket",
+        "phone_number": "+441865242006",
+        "data_last_updated": "2021-07-10T20:27:45.286690"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "2 Cornmarket Street",
+        "city": "Oxford",
+        "postal_code": "OX1 3EX",
+        "country": "GB",
+        "latitude": "51.7521972",
+        "longitude": "-1.2577075"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

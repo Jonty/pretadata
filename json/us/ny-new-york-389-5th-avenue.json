@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-389-5th-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/389-5th-avenue",
+        "open": true,
+        "name": "36th and 5th",
+        "phone_number": "+12126842849",
+        "data_last_updated": "2021-07-10T20:28:38.757239"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "389 5th Avenue",
+        "city": "New York",
+        "postal_code": "10016",
+        "country": "US",
+        "latitude": "40.74982597950586",
+        "longitude": "-73.98335233719176"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

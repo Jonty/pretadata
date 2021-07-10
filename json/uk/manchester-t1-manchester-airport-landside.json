@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-t1-manchester-airport-landside",
+        "url": "https://locations.pret.co.uk/manchester/t1-manchester-airport-landside",
+        "open": true,
+        "name": "Manchester Airport, Landside",
+        "phone_number": "+441614376967",
+        "data_last_updated": "2021-07-10T20:27:42.207266"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "T1, Manchester Airport landside Manchester",
+        "city": "Manchester",
+        "postal_code": "M90 3FE",
+        "country": "GB",
+        "latitude": "53.36193084716797",
+        "longitude": "-2.2718780040740967"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        }
+    }
+}

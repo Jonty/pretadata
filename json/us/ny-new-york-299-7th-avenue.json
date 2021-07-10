@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-299-7th-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/299-7th-avenue",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+16468337340",
+        "data_last_updated": "2021-07-10T20:28:34.259445"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "299 7th Avenue New York",
+        "city": "New York",
+        "postal_code": "10001",
+        "country": "US",
+        "latitude": "40.74643395033941",
+        "longitude": "-73.99365001524824"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

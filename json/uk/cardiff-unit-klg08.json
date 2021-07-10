@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "cardiff-unit-klg08",
+        "url": "https://locations.pret.co.uk/cardiff/unit-klg08",
+        "open": true,
+        "name": "Cardiff, Bridge Street Arcade",
+        "phone_number": "+442920224657",
+        "data_last_updated": "2021-07-10T20:26:24.768915"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit KLG08 3 Bridge Street Arcade",
+        "city": "Cardiff",
+        "postal_code": "CF10 2EF",
+        "country": "GB",
+        "latitude": "51.47936304443174",
+        "longitude": "-3.1743360343933014"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

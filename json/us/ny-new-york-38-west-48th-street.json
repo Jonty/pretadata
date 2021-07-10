@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-38-west-48th-street",
+        "url": "https://locations.pret.com/../ny/new-york/38-west-48th-street",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+12125752540",
+        "data_last_updated": "2021-07-10T20:28:38.414950"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "38 West 48th Street",
+        "city": "New York",
+        "postal_code": "10036",
+        "country": "US",
+        "latitude": "40.75790044796793",
+        "longitude": "-73.9800117307798"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

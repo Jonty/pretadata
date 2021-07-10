@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-88-wood-street",
+        "url": "https://locations.pret.co.uk/london/88-wood-street",
+        "open": true,
+        "name": "Wood Street",
+        "phone_number": "+442077960869",
+        "data_last_updated": "2021-07-10T20:27:17.987802"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "88 Wood Street London",
+        "city": "London",
+        "postal_code": "EC2V 7AJ",
+        "country": "GB",
+        "latitude": "51.517107591155536",
+        "longitude": "-0.09433478162519826"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

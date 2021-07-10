@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-49-tothill-street",
+        "url": "https://locations.pret.co.uk/london/49-tothill-street",
+        "open": true,
+        "name": "Tothill Street",
+        "phone_number": "+442079325328",
+        "data_last_updated": "2021-07-10T20:27:06.164199"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "49 Tothill Street",
+        "city": "London",
+        "postal_code": "SW1H 9LQ",
+        "country": "GB",
+        "latitude": "51.499603859724836",
+        "longitude": "-0.13250157055225698"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

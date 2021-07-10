@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-136-great-portland-street",
+        "url": "https://locations.pret.co.uk/london/136-great-portland-street",
+        "open": true,
+        "name": "136 Great Portland Street",
+        "phone_number": "+442073239440",
+        "data_last_updated": "2021-07-10T20:26:44.441801"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "136 Great Portland Street",
+        "city": "London",
+        "postal_code": "W1W 6PY",
+        "country": "GB",
+        "latitude": "51.52027076301299",
+        "longitude": "-0.14264124185672467"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

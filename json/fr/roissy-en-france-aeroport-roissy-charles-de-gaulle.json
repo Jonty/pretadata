@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "roissy-en-france-aeroport-roissy-charles-de-gaulle",
+        "url": "https://locations.pretamanger.fr/roissy-en-france/a\u00e9roport-roissy-charles-de-gaulle",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+33607912557",
+        "data_last_updated": "2021-07-10T20:28:07.469162"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "A\u00e9roport Roissy Charles de Gaulle Terminal 2B - Zone publique",
+        "city": "Roissy-en-France",
+        "postal_code": "95700",
+        "country": "FR",
+        "latitude": "49.00410461425781",
+        "longitude": "2.515554904937744"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        }
+    }
+}

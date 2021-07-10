@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-28-fenchurch-avenue",
+        "url": "https://locations.pret.co.uk/london/28-fenchurch-avenue",
+        "open": true,
+        "name": "28 Fenchurch Avenue",
+        "phone_number": "+442079325344",
+        "data_last_updated": "2021-07-10T20:26:56.943432"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "28 Fenchurch Avenue",
+        "city": "London",
+        "postal_code": "EC3M 5AD",
+        "country": "GB",
+        "latitude": "51.5128717",
+        "longitude": "-0.0812546"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

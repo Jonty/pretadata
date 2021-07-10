@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "birmingham-22-24-colmore-row",
+        "url": "https://locations.pret.co.uk/birmingham/22-24-colmore-row",
+        "open": true,
+        "name": "Birmingham, Colmore Row",
+        "phone_number": "+441212369394",
+        "data_last_updated": "2021-07-10T20:26:19.154539"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "22-24 Colmore Row",
+        "city": "Birmingham",
+        "postal_code": "B3 2QD",
+        "country": "GB",
+        "latitude": "52.482049579803515",
+        "longitude": "-1.897934339678684"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

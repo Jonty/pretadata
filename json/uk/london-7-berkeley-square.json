@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-7-berkeley-square",
+        "url": "https://locations.pret.co.uk/london/7-berkeley-square",
+        "open": true,
+        "name": "Berkeley Square",
+        "phone_number": "+442079325408",
+        "data_last_updated": "2021-07-10T20:27:12.170098"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "7 Berkeley Square",
+        "city": "London",
+        "postal_code": "W1J 6ES",
+        "country": "GB",
+        "latitude": "51.50949099190037",
+        "longitude": "-0.14458304662704258"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "15:30",
+            "closed": false
+        }
+    }
+}

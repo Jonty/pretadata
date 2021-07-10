@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "exeter-247-249-high-street",
+        "url": "https://locations.pret.co.uk/exeter/247-249-high-street",
+        "open": true,
+        "name": "Exeter High Street",
+        "phone_number": "+441392459661",
+        "data_last_updated": "2021-07-10T20:26:27.604707"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "247-249 High Street",
+        "city": "Exeter",
+        "postal_code": "EX4 3PZ",
+        "country": "GB",
+        "latitude": "50.7250512",
+        "longitude": "-3.5285727"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

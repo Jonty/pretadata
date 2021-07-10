@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-14-cathedral-walk",
+        "url": "https://locations.pret.co.uk/london/unit-14-cathedral-walk",
+        "open": true,
+        "name": "Cardinal Place",
+        "phone_number": "+442076308162",
+        "data_last_updated": "2021-07-10T20:27:28.887689"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 14, Cathedral Walk",
+        "city": "London",
+        "postal_code": "SW1E 5JH",
+        "country": "GB",
+        "latitude": "51.496998",
+        "longitude": "-0.140907"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

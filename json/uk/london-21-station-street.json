@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-21-station-street",
+        "url": "https://locations.pret.co.uk/london/21-station-street",
+        "open": true,
+        "name": "Stratford Station",
+        "phone_number": "+442085196859",
+        "data_last_updated": "2021-07-10T20:26:52.853010"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "21 Station Street",
+        "city": "London",
+        "postal_code": "E15 1DA",
+        "country": "GB",
+        "latitude": "51.54168098003299",
+        "longitude": "-0.00262895046638123"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

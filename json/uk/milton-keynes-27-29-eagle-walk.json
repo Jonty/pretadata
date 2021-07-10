@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "milton-keynes-27-29-eagle-walk",
+        "url": "https://locations.pret.co.uk/milton-keynes/27-29-eagle-walk",
+        "open": true,
+        "name": "Milton Keynes, Eagle Walk",
+        "phone_number": "+441908665811",
+        "data_last_updated": "2021-07-10T20:27:43.196049"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "27-29 Eagle Walk Intu Shopping Centre",
+        "city": "Milton Keynes",
+        "postal_code": "MK9 3AJ",
+        "country": "GB",
+        "latitude": "52.04420008851004",
+        "longitude": "-0.7535242758828042"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

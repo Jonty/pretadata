@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-10-bressenden-place",
+        "url": "https://locations.pret.co.uk/london/10-bressenden-place",
+        "open": true,
+        "name": "Verde,Bressenden Place",
+        "phone_number": "+442076301034",
+        "data_last_updated": "2021-07-10T20:26:37.586282"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "10 Bressenden Place",
+        "city": "London",
+        "postal_code": "SW1E 5DU",
+        "country": "GB",
+        "latitude": "51.49812017806727",
+        "longitude": "-0.14249444872115768"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

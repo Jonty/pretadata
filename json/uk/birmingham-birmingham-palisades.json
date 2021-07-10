@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "birmingham-birmingham-palisades",
+        "url": "https://locations.pret.co.uk/birmingham/birmingham-palisades",
+        "open": true,
+        "name": "Pret Pod",
+        "phone_number": "+442079325226",
+        "data_last_updated": "2021-07-10T20:26:19.907103"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Birmingham Palisades North Walk Mall, The Palisades Shopping Centre,",
+        "city": "Birmingham",
+        "postal_code": "B2 4XJ",
+        "country": "GB",
+        "latitude": "52.477740906841284",
+        "longitude": "-1.8988331603530528"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

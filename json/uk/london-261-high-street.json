@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-261-high-street",
+        "url": "https://locations.pret.co.uk/london/261-high-street",
+        "open": true,
+        "name": "Camden Market",
+        "phone_number": "+442079325409",
+        "data_last_updated": "2021-07-10T20:26:55.990856"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "261 High Street Camden",
+        "city": "London",
+        "postal_code": "NW1 7BU",
+        "country": "GB",
+        "latitude": "51.53999207758291",
+        "longitude": "-0.14379795959527764"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "20:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "20:30",
+            "closed": false
+        }
+    }
+}

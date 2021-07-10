@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-61",
+        "url": "https://locations.pret.co.uk/london/unit-61",
+        "open": true,
+        "name": "St Pancras, Kiosk",
+        "phone_number": "+442072786134",
+        "data_last_updated": "2021-07-10T20:27:35.044802"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit 61 St Pancras International Station",
+        "city": "London",
+        "postal_code": "N1C 4QL",
+        "country": "GB",
+        "latitude": "51.5309782",
+        "longitude": "-0.126762"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

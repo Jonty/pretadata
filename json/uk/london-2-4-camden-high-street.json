@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-2-4-camden-high-street",
+        "url": "https://locations.pret.co.uk/london/2-4-camden-high-street",
+        "open": true,
+        "name": "Mornington Crescent, Camden",
+        "phone_number": "+442073878730",
+        "data_last_updated": "2021-07-10T20:26:51.399256"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "2-4 Camden High Street London",
+        "city": "London",
+        "postal_code": "NW1 0JH",
+        "country": "GB",
+        "latitude": "51.53484481828376",
+        "longitude": "-0.13842669999999835"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

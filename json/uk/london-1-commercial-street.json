@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-1-commercial-street",
+        "url": "https://locations.pret.co.uk/london/1-commercial-street",
+        "open": true,
+        "name": "Aldgate East Tube Station",
+        "phone_number": "+442070929114",
+        "data_last_updated": "2021-07-10T20:26:35.149104"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 Commercial Street",
+        "city": "London",
+        "postal_code": "E1 6BF",
+        "country": "GB",
+        "latitude": "51.515244416635255",
+        "longitude": "-0.0725588804260302"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

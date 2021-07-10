@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-13-rt3",
+        "url": "https://locations.pret.co.uk/london/unit-13-(rt3)",
+        "open": true,
+        "name": "Canary Wharf, Jubilee Place",
+        "phone_number": "+442079325346",
+        "data_last_updated": "2021-07-10T20:27:28.352419"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 13 (RT3) Canary Wharf",
+        "city": "London",
+        "postal_code": "E14 5NY",
+        "country": "GB",
+        "latitude": "51.5030777",
+        "longitude": "-0.0182551"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

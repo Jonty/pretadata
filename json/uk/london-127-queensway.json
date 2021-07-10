@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-127-queensway",
+        "url": "https://locations.pret.co.uk/london/127-queensway",
+        "open": true,
+        "name": "Queensway",
+        "phone_number": "+442079325212",
+        "data_last_updated": "2021-07-10T20:26:42.667733"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "127 Queensway",
+        "city": "London",
+        "postal_code": "W2 4SJ",
+        "country": "GB",
+        "latitude": "51.513469625435775",
+        "longitude": "-0.1879592828207044"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

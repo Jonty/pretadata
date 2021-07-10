@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "horsham-14-15-west-street",
+        "url": "https://locations.pret.co.uk/horsham/14-15-west-street",
+        "open": true,
+        "name": "Horsham",
+        "phone_number": "+441403241280",
+        "data_last_updated": "2021-07-10T20:26:31.828025"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "14-15 West Street Horsham",
+        "city": "Horsham",
+        "postal_code": "RH12 1PB",
+        "country": "GB",
+        "latitude": "51.06269370242551",
+        "longitude": "-0.33053154379760086"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-the-circle-st-pancras-international",
+        "url": "https://locations.pret.co.uk/london/the-circle-st-pancras-international",
+        "open": true,
+        "name": "St Pancras International",
+        "phone_number": "+442072782563",
+        "data_last_updated": "2021-07-10T20:27:25.384858"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "The Circle, St Pancras International Retail Unit 26 & 27",
+        "city": "London",
+        "postal_code": "N1C 4QP",
+        "country": "GB",
+        "latitude": "51.531644",
+        "longitude": "-0.12624"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "5:30",
+            "close": "23:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:00",
+            "close": "23:00",
+            "closed": false
+        }
+    }
+}

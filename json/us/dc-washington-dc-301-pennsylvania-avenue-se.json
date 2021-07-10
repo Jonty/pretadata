@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "dc-washington-dc-301-pennsylvania-avenue-se",
+        "url": "https://locations.pret.com/../dc/washington-dc/301-pennsylvania-avenue-se",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+12025471025",
+        "data_last_updated": "2021-07-10T20:28:19.513936"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "301 Pennsylvania Avenue SE",
+        "city": "Washington, DC",
+        "postal_code": "20003",
+        "country": "US",
+        "latitude": "38.8866831139499",
+        "longitude": "-77.00190278612914"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

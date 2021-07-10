@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-4-sheldon-square",
+        "url": "https://locations.pret.co.uk/london/4-sheldon-square",
+        "open": true,
+        "name": "Paddington, 8 Sheldon Square",
+        "phone_number": "+442079325451",
+        "data_last_updated": "2021-07-10T20:27:02.895728"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "4 Sheldon Square Unit 8 Terrace Level",
+        "city": "London",
+        "postal_code": "W2 6EZ",
+        "country": "GB",
+        "latitude": "51.51969891703982",
+        "longitude": "-0.1799000124754202"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

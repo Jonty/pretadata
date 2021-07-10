@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-182-st-john-street",
+        "url": "https://locations.pret.co.uk/london/182-st-john-street",
+        "open": true,
+        "name": "St John Street, 182",
+        "phone_number": "+442079325467",
+        "data_last_updated": "2021-07-10T20:26:49.469346"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "182 St John Street",
+        "city": "London",
+        "postal_code": "EC1V 4JZ",
+        "country": "GB",
+        "latitude": "51.524572247903286",
+        "longitude": "-0.10309657447323373"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

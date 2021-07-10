@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "birmingham-unit-cu533-bullring",
+        "url": "https://locations.pret.co.uk/birmingham/unit-cu533-bullring",
+        "open": true,
+        "name": "Birmingham Bullring",
+        "phone_number": "+442079325375",
+        "data_last_updated": "2021-07-10T20:26:20.935715"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit CU533 Bullring",
+        "city": "Birmingham",
+        "postal_code": "B5 4QL",
+        "country": "GB",
+        "latitude": "52.478024",
+        "longitude": "-1.892318"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "11:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "11:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "11:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "11:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "11:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "11:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-287-madison-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/287-madison-avenue",
+        "open": false,
+        "name": "Pret a Manger",
+        "phone_number": "+12128670400",
+        "data_last_updated": "2021-07-10T20:28:33.748527"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "287 Madison Avenue New York,  NY",
+        "city": "New York",
+        "postal_code": "10017",
+        "country": "US",
+        "latitude": "40.751841067745644",
+        "longitude": "-73.97995948791504"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

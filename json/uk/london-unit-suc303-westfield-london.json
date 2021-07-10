@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-suc303-westfield-london",
+        "url": "https://locations.pret.co.uk/london/unit-suc303-westfield-london",
+        "open": true,
+        "name": "Westfield Petit Pret",
+        "phone_number": "+442087492215",
+        "data_last_updated": "2021-07-10T20:27:38.683364"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit SUC303 Westfield London Southern Interchange, Ariel Way",
+        "city": "London",
+        "postal_code": "W12 7GA",
+        "country": "GB",
+        "latitude": "51.509556",
+        "longitude": "-0.221628"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "19:30",
+            "closed": false
+        }
+    }
+}

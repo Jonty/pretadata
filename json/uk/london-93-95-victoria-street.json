@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-93-95-victoria-street",
+        "url": "https://locations.pret.co.uk/london/93-95-victoria-street",
+        "open": true,
+        "name": "Victoria Street, 95",
+        "phone_number": "+442072226293",
+        "data_last_updated": "2021-07-10T20:27:18.992059"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "93-95 Victoria Street",
+        "city": "London",
+        "postal_code": "SW1H 0HW",
+        "country": "GB",
+        "latitude": "51.49737142534822",
+        "longitude": "-0.13538748948628276"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

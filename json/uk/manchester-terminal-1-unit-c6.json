@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-terminal-1-unit-c6",
+        "url": "https://locations.pret.co.uk/manchester/terminal-1-unit-c6",
+        "open": true,
+        "name": "Manchester Airport T1 Airside",
+        "phone_number": "+441614373453",
+        "data_last_updated": "2021-07-10T20:27:42.377897"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Terminal 1, Unit C6",
+        "city": "Manchester",
+        "postal_code": "M90 1QX",
+        "country": "GB",
+        "latitude": "53.361943038683975",
+        "longitude": "-2.2729863914328696"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

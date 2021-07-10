@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-26-edgware-road",
+        "url": "https://locations.pret.co.uk/london/26-edgware-road",
+        "open": true,
+        "name": "Edgware Road, 26",
+        "phone_number": "+442077231141",
+        "data_last_updated": "2021-07-10T20:26:55.807785"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "26 Edgware Road",
+        "city": "London",
+        "postal_code": "W2 2EH",
+        "country": "GB",
+        "latitude": "51.5140927",
+        "longitude": "-0.1606288"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

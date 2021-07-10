@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-2-pennsylvania-plaza",
+        "url": "https://locations.pret.com/../ny/new-york/2-pennsylvania-plaza",
+        "open": false,
+        "name": "Penn Station, 7th Ave",
+        "phone_number": "+16465901382",
+        "data_last_updated": "2021-07-10T20:28:31.716297"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "2 Pennsylvania Plaza Penn Station Lower Level",
+        "city": "New York",
+        "postal_code": "10001",
+        "country": "US",
+        "latitude": "40.750069",
+        "longitude": "-73.992212"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

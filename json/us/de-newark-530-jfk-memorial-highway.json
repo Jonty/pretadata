@@ -1,0 +1,24 @@
+{
+    "details": {
+        "id": "de-newark-530-jfk-memorial-highway",
+        "url": "https://locations.pret.com/de/newark/530-jfk-memorial-highway",
+        "open": false,
+        "name": "Pret a Manger",
+        "phone_number": "+13027318599",
+        "data_last_updated": "2021-07-10T20:28:11.707012"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "530 JFK Memorial Highway",
+        "city": "Newark",
+        "postal_code": "19702",
+        "country": "US",
+        "latitude": "39.66195618728134",
+        "longitude": "-75.69141341292172"
+    },
+    "opening_hours": {}
+}

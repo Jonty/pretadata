@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-1-george-street",
+        "url": "https://locations.pret.co.uk/london/1-george-street",
+        "open": true,
+        "name": "London, George Street",
+        "phone_number": "+442072244730",
+        "data_last_updated": "2021-07-10T20:26:35.311512"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 George Street Ariel Way",
+        "city": "London",
+        "postal_code": "W1U 3QF",
+        "country": "GB",
+        "latitude": "51.5179265",
+        "longitude": "-0.151637"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "15:30",
+            "closed": false
+        }
+    }
+}

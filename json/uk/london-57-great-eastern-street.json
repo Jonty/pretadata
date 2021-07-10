@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-57-great-eastern-street",
+        "url": "https://locations.pret.co.uk/london/57-great-eastern-street",
+        "open": true,
+        "name": "Great Eastern Street",
+        "phone_number": "+442079325393",
+        "data_last_updated": "2021-07-10T20:27:09.455007"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "57, Great Eastern Street",
+        "city": "London",
+        "postal_code": "EC2A 3QD",
+        "country": "GB",
+        "latitude": "51.52461108592588",
+        "longitude": "-0.08112871532688803"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

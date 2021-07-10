@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-319-high-holborn",
+        "url": "https://locations.pret.co.uk/london/319-high-holborn",
+        "open": true,
+        "name": "High Holborn, 319",
+        "phone_number": "+442079325202",
+        "data_last_updated": "2021-07-10T20:27:00.561142"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "319 High Holborn",
+        "city": "London",
+        "postal_code": "WC1V 7PU",
+        "country": "GB",
+        "latitude": "51.518183732165305",
+        "longitude": "-0.11271347393128961"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

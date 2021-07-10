@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-350-hudson-street",
+        "url": "https://locations.pret.com/../ny/new-york/350-hudson-street",
+        "open": true,
+        "name": "Hudson and Charlton",
+        "phone_number": "+16463700820",
+        "data_last_updated": "2021-07-10T20:28:37.381473"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "350 Hudson Street",
+        "city": "New York",
+        "postal_code": "10014",
+        "country": "US",
+        "latitude": "40.72753735314815",
+        "longitude": "-74.00693823202624"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

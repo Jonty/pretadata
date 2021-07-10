@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-c-fountain-house",
+        "url": "https://locations.pret.co.uk/london/unit-c-fountain-house",
+        "open": true,
+        "name": "Cullum Street",
+        "phone_number": "+442079325277",
+        "data_last_updated": "2021-07-10T20:27:36.482962"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit C, Fountain House 125-135 Fenchurch Street",
+        "city": "London",
+        "postal_code": "EC3M 5DJ",
+        "country": "GB",
+        "latitude": "51.512089",
+        "longitude": "-0.082048"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

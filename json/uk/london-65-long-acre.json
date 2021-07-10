@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-65-long-acre",
+        "url": "https://locations.pret.co.uk/london/65-long-acre",
+        "open": true,
+        "name": "Long Acre",
+        "phone_number": "+442079325324",
+        "data_last_updated": "2021-07-10T20:27:10.839662"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "65 Long Acre",
+        "city": "London",
+        "postal_code": "WC2E 9JD",
+        "country": "GB",
+        "latitude": "51.5139274228391",
+        "longitude": "-0.12281079816494733"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "aberdeen-food-unit-3",
+        "url": "https://locations.pret.co.uk/aberdeen/food-unit-3",
+        "open": true,
+        "name": "Aberdeen, Bon Accord",
+        "phone_number": "+441224620020",
+        "data_last_updated": "2021-07-10T20:26:16.931678"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Food Unit 3 Bon Accord Shopping Centre",
+        "city": "Aberdeen",
+        "postal_code": "AB25 1HJ",
+        "country": "GB",
+        "latitude": "57.1487357",
+        "longitude": "-2.0997538"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

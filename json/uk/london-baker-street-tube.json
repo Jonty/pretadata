@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-baker-street-tube",
+        "url": "https://locations.pret.co.uk/london/baker-street-tube",
+        "open": true,
+        "name": "Baker Street Tube Station",
+        "phone_number": "+442074862023",
+        "data_last_updated": "2021-07-10T20:27:20.675722"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "Baker Street Tube Marylebone Road, London",
+        "city": "London",
+        "postal_code": "NW1 5LA",
+        "country": "GB",
+        "latitude": "51.52265",
+        "longitude": "-0.156297"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "15:00",
+            "closed": false
+        }
+    }
+}

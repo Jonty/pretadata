@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "bicester-unit-450",
+        "url": "https://locations.pret.co.uk/bicester/unit-450",
+        "open": true,
+        "name": "Bicester Village",
+        "phone_number": "+441869241069",
+        "data_last_updated": "2021-07-10T20:26:18.770176"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 450 Pingle Drive",
+        "city": "Bicester",
+        "postal_code": "OX26 6WD",
+        "country": "GB",
+        "latitude": "51.89206140578291",
+        "longitude": "-1.1563998434642975"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

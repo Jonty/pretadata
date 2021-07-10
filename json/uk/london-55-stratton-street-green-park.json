@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-55-stratton-street-green-park",
+        "url": "https://locations.pret.co.uk/london/55-stratton-street-green-park",
+        "open": true,
+        "name": "Stratton Street",
+        "phone_number": "",
+        "data_last_updated": "2021-07-10T20:27:08.709368"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "55 Stratton Street, Green Park",
+        "city": "London",
+        "postal_code": "W1J 8LR",
+        "country": "GB",
+        "latitude": "51.507087",
+        "longitude": "-0.143182"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

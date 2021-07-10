@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-2-canvey-street",
+        "url": "https://locations.pret.co.uk/london/2-canvey-street",
+        "open": true,
+        "name": "Canvey Street",
+        "phone_number": "+442079325257",
+        "data_last_updated": "2021-07-10T20:26:51.071743"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "2 Canvey Street",
+        "city": "London",
+        "postal_code": "SE1 9AN",
+        "country": "GB",
+        "latitude": "51.5056753",
+        "longitude": "-0.0992742"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

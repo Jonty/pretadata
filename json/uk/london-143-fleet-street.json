@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-143-fleet-street",
+        "url": "https://locations.pret.co.uk/london/143-fleet-street",
+        "open": true,
+        "name": "143 Fleet Street",
+        "phone_number": "+442079325323",
+        "data_last_updated": "2021-07-10T20:26:45.504217"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "143 Fleet Street",
+        "city": "London",
+        "postal_code": "EC4Y 1HY",
+        "country": "GB",
+        "latitude": "51.51435165729374",
+        "longitude": "-0.10708513067111403"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-95-farringdon-road",
+        "url": "https://locations.pret.co.uk/london/95-farringdon-road",
+        "open": true,
+        "name": "95 Farringdon Road",
+        "phone_number": "+442077138885",
+        "data_last_updated": "2021-07-10T20:27:19.504003"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "95 Farringdon Road",
+        "city": "London",
+        "postal_code": "EC1R 3BT",
+        "country": "GB",
+        "latitude": "51.52242013942615",
+        "longitude": "-0.10750385007758156"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

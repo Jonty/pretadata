@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-17-eldon-street",
+        "url": "https://locations.pret.co.uk/london/17-eldon-street",
+        "open": true,
+        "name": "Eldon Street",
+        "phone_number": "+442079325210",
+        "data_last_updated": "2021-07-10T20:26:48.430919"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "17 Eldon Street",
+        "city": "London",
+        "postal_code": "EC2M 7LA",
+        "country": "GB",
+        "latitude": "51.51828588930101",
+        "longitude": "-0.0847991705522455"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

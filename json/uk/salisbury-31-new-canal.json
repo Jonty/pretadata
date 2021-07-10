@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "salisbury-31-new-canal",
+        "url": "https://locations.pret.co.uk/salisbury/31-new-canal",
+        "open": true,
+        "name": "Salisbury, New Canal",
+        "phone_number": "+441722325448",
+        "data_last_updated": "2021-07-10T20:27:46.751361"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "31 New Canal",
+        "city": "Salisbury",
+        "postal_code": "SP1 2AA",
+        "country": "GB",
+        "latitude": "51.06824355772686",
+        "longitude": "-1.7956589703752956"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

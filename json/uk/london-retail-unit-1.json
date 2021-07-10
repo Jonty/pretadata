@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-retail-unit-1",
+        "url": "https://locations.pret.co.uk/london/retail-unit-1",
+        "open": true,
+        "name": "Thomas More Square",
+        "phone_number": "+442079325279",
+        "data_last_updated": "2021-07-10T20:27:24.062534"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Retail Unit 1 Thomas More Square",
+        "city": "London",
+        "postal_code": "E1W 1YN",
+        "country": "GB",
+        "latitude": "51.5081405",
+        "longitude": "-0.0681224"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

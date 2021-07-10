@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-75b-victoria-street",
+        "url": "https://locations.pret.co.uk/london/75b-victoria-street",
+        "open": true,
+        "name": "75B Victoria Street",
+        "phone_number": "+442079325201",
+        "data_last_updated": "2021-07-10T20:27:14.313412"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "75B Victoria Street",
+        "city": "London",
+        "postal_code": "SW1H 0HW",
+        "country": "GB",
+        "latitude": "51.497506577769805",
+        "longitude": "-0.13474393440919386"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "19:30",
+            "closed": false
+        }
+    }
+}

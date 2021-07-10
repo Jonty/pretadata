@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "rennes-19-place-de-la-gare",
+        "url": "https://locations.pretamanger.fr/rennes/19-place-de-la-gare",
+        "open": true,
+        "name": "Gare de Rennes",
+        "phone_number": "+33299052372",
+        "data_last_updated": "2021-07-10T20:28:06.403299"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "19 place de la Gare",
+        "city": "Rennes",
+        "postal_code": "35005",
+        "country": "FR",
+        "latitude": "48.103500240677214",
+        "longitude": "-1.672607147073779"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "8:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "7:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

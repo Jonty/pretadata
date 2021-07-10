@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-1-278",
+        "url": "https://locations.pret.co.uk/london/unit-1-278",
+        "open": true,
+        "name": "Paternoster Square",
+        "phone_number": "+442079325379",
+        "data_last_updated": "2021-07-10T20:27:26.466118"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 1 10 Paternoster Square",
+        "city": "London",
+        "postal_code": "EC4M 7DY",
+        "country": "GB",
+        "latitude": "51.514882908911815",
+        "longitude": "-0.09917797551517449"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

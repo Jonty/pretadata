@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-3-america-square",
+        "url": "https://locations.pret.co.uk/london/3-america-square",
+        "open": true,
+        "name": "America Square",
+        "phone_number": "+442079325342",
+        "data_last_updated": "2021-07-10T20:26:59.137139"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "3 America Square",
+        "city": "London",
+        "postal_code": "EC3N 2LR",
+        "country": "GB",
+        "latitude": "51.51152456158087",
+        "longitude": "-0.07566041717929517"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

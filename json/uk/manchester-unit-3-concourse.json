@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-unit-3-concourse",
+        "url": "https://locations.pret.co.uk/manchester/unit-3-concourse",
+        "open": true,
+        "name": "Manchester, Piccadilly Station",
+        "phone_number": "+441612286511",
+        "data_last_updated": "2021-07-10T20:27:42.574751"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 3 Concourse Manchester Piccadilly Station",
+        "city": "Manchester",
+        "postal_code": "M1 2BN",
+        "country": "GB",
+        "latitude": "53.4775666",
+        "longitude": "-2.231479"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

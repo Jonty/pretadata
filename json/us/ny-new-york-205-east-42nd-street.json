@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-205-east-42nd-street",
+        "url": "https://locations.pret.com/../ny/new-york/205-east-42nd-street",
+        "open": false,
+        "name": "42nd and 3rd",
+        "phone_number": "+12129222805",
+        "data_last_updated": "2021-07-10T20:28:32.249595"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "205 East 42nd Street",
+        "city": "New York",
+        "postal_code": "10017",
+        "country": "US",
+        "latitude": "40.750576601590566",
+        "longitude": "-73.97349378468022"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

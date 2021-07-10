@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "tremblay-en-france-coque-ndeg159-centre-commercial-d-aeroville",
+        "url": "https://locations.pretamanger.fr/tremblay-en-france/coque-n\u00b0159-centre-commercial-d'a\u00e9roville",
+        "open": true,
+        "name": "A\u00e9roville",
+        "phone_number": "+33174257422",
+        "data_last_updated": "2021-07-10T20:28:11.119050"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Coque n\u00b0159 Centre Commercial d'A\u00e9roville Rue des Buissons",
+        "city": "Tremblay-en-France",
+        "postal_code": "95700",
+        "country": "FR",
+        "latitude": "48.99101075989472",
+        "longitude": "2.5230196201162336"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

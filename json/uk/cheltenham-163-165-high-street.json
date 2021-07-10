@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "cheltenham-163-165-high-street",
+        "url": "https://locations.pret.co.uk/cheltenham/163-165-high-street",
+        "open": true,
+        "name": "Cheltenham, High Street",
+        "phone_number": "+441242220378",
+        "data_last_updated": "2021-07-10T20:26:24.850461"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "163-165 High Street Cheltenham",
+        "city": "Cheltenham",
+        "postal_code": "GL50 1DF",
+        "country": "GB",
+        "latitude": "51.900381114965484",
+        "longitude": "-2.0734147938657665"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-7-8-rathbone-place",
+        "url": "https://locations.pret.co.uk/london/7-8-rathbone-place",
+        "open": true,
+        "name": "Oxford Street, Rathbone Place",
+        "phone_number": "+442076313195",
+        "data_last_updated": "2021-07-10T20:27:12.701265"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "7-8 Rathbone Place",
+        "city": "London",
+        "postal_code": "W1T 1HN",
+        "country": "GB",
+        "latitude": "51.51683223362477",
+        "longitude": "-0.13308281743014572"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

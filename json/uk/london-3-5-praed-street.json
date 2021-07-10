@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-3-5-praed-street",
+        "url": "https://locations.pret.co.uk/london/3-5-praed-street",
+        "open": true,
+        "name": "Praed St",
+        "phone_number": "+442079325445",
+        "data_last_updated": "2021-07-10T20:27:00.005140"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "3-5 Praed Street",
+        "city": "London",
+        "postal_code": "W2 1NJ",
+        "country": "GB",
+        "latitude": "51.51891336710919",
+        "longitude": "-0.16928658649082662"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

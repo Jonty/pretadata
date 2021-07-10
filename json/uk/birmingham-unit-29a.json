@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "birmingham-unit-29a",
+        "url": "https://locations.pret.co.uk/birmingham/unit-29a",
+        "open": true,
+        "name": "Solihull",
+        "phone_number": "+441217090751",
+        "data_last_updated": "2021-07-10T20:26:20.278319"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 29a High Street",
+        "city": "Birmingham",
+        "postal_code": "B91 3TA",
+        "country": "GB",
+        "latitude": "52.4128451",
+        "longitude": "-1.7779453"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

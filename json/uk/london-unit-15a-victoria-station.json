@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-15a-victoria-station",
+        "url": "https://locations.pret.co.uk/london/unit-15a-victoria-station",
+        "open": true,
+        "name": "Victoria Station, Petit Pret",
+        "phone_number": "+442078284347",
+        "data_last_updated": "2021-07-10T20:27:29.053798"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit 15a, Victoria Station",
+        "city": "London",
+        "postal_code": "SW1E 5ND",
+        "country": "GB",
+        "latitude": "51.4959835",
+        "longitude": "-0.1449202"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

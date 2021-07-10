@@ -1,0 +1,22 @@
+{
+    "details": {
+        "id": "copenhagen-copenhagen-airport",
+        "url": "https://www.pret.dk/en-gb/find-us",
+        "open": true,
+        "name": "Copenhagen Airport",
+        "phone_number": null,
+        "data_last_updated": "2021-07-10T20:27:00.561142"
+    },
+    "facilities": {
+    },
+    "location": {
+        "street": "Copenhagen Airport",
+        "city": "Copenhagen",
+        "postal_code": "2770",
+        "country": "DK",
+        "latitude": "55.6180236",
+        "longitude": "12.6507628"
+    },
+    "opening_hours": {
+    }
+}

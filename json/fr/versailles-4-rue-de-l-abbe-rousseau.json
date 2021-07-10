@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "versailles-4-rue-de-l-abbe-rousseau",
+        "url": "https://locations.pretamanger.fr/versailles/4-rue-de-l'abbe-rousseau",
+        "open": true,
+        "name": "Versailles Chantiers",
+        "phone_number": "+33139436820",
+        "data_last_updated": "2021-07-10T20:28:11.629978"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "4 Rue De L'Abbe Rousseau",
+        "city": "Versailles",
+        "postal_code": "78000",
+        "country": "FR",
+        "latitude": "48.796211019115766",
+        "longitude": "2.1355371385536337"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "10:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

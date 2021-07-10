@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-r06-centre-point",
+        "url": "https://locations.pret.co.uk/london/unit-r06-centre-point",
+        "open": true,
+        "name": "London, Centre Point",
+        "phone_number": "+442078365323",
+        "data_last_updated": "2021-07-10T20:27:38.187319"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit R06, Centre Point",
+        "city": "London",
+        "postal_code": "WC1A 1DD",
+        "country": "GB",
+        "latitude": "51.5159149",
+        "longitude": "-0.1288387"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "9:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "9:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

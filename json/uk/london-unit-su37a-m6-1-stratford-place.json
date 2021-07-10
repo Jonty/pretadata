@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-su37a-m6-1-stratford-place",
+        "url": "https://locations.pret.co.uk/london/unit-su37a-m6-1-stratford-place",
+        "open": true,
+        "name": "Westfield Stratford Place",
+        "phone_number": "+442085558809",
+        "data_last_updated": "2021-07-10T20:27:38.520962"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit SU37A-M6, 1 Stratford Place Westfield Stratford City",
+        "city": "London",
+        "postal_code": "E20 1EJ",
+        "country": "GB",
+        "latitude": "51.544049",
+        "longitude": "-0.005362"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

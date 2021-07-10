@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-26-platform-1",
+        "url": "https://locations.pret.co.uk/london/unit-26-platform-1",
+        "open": true,
+        "name": "Paddington Station, Platform 1",
+        "phone_number": "+442072629784",
+        "data_last_updated": "2021-07-10T20:27:30.878791"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 26, Platform 1 Paddington Station",
+        "city": "London",
+        "postal_code": "W2 1HB",
+        "country": "GB",
+        "latitude": "51.516417",
+        "longitude": "-0.1776"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

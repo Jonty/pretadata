@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "dc-washington-dc-1432-k-street-nw",
+        "url": "https://locations.pret.com/../dc/washington-dc/1432-k-street-nw",
+        "open": false,
+        "name": "15th and K",
+        "phone_number": "+12025598000",
+        "data_last_updated": "2021-07-10T20:28:16.881696"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "1432 K Street NW",
+        "city": "Washington, DC",
+        "postal_code": "20005",
+        "country": "US",
+        "latitude": "38.90228807717146",
+        "longitude": "-77.03340672122812"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

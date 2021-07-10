@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "sheffield-unit-5-the-arcade",
+        "url": "https://locations.pret.co.uk/sheffield/unit-5-the-arcade",
+        "open": true,
+        "name": "Sheffield, Meadow Hall",
+        "phone_number": "+441142569181",
+        "data_last_updated": "2021-07-10T20:27:46.833062"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 5, The Arcade",
+        "city": "Sheffield",
+        "postal_code": "S9 1EH",
+        "country": "GB",
+        "latitude": "53.4145052",
+        "longitude": "-1.4115983"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-80-82-st-john-s-road",
+        "url": "https://locations.pret.co.uk/london/80-82-st-john's-road",
+        "open": true,
+        "name": "Battersea, St John's Road",
+        "phone_number": "+442072285413",
+        "data_last_updated": "2021-07-10T20:27:16.198913"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "80-82 St John's Road",
+        "city": "London",
+        "postal_code": "SW11 1PX",
+        "country": "GB",
+        "latitude": "51.461342706695476",
+        "longitude": "-0.1674914705522501"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

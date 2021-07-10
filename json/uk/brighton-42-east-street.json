@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "brighton-42-east-street",
+        "url": "https://locations.pret.co.uk/brighton/42-east-street",
+        "open": true,
+        "name": "Brighton, 42 East Street",
+        "phone_number": "+441273779478",
+        "data_last_updated": "2021-07-10T20:26:21.458128"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "42 East Street",
+        "city": "Brighton",
+        "postal_code": "BN1 1HL",
+        "country": "GB",
+        "latitude": "50.82163140712395",
+        "longitude": "-0.13907054319042045"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

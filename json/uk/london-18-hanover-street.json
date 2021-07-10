@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-18-hanover-street",
+        "url": "https://locations.pret.co.uk/london/18-hanover-street",
+        "open": true,
+        "name": "Hanover Street",
+        "phone_number": "+442079325404",
+        "data_last_updated": "2021-07-10T20:26:49.303945"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "18 Hanover Street",
+        "city": "London",
+        "postal_code": "W1S 1YN",
+        "country": "GB",
+        "latitude": "51.5145072",
+        "longitude": "-0.1438859"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

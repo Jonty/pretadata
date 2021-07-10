@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-14",
+        "url": "https://locations.pret.co.uk/london/unit-14",
+        "open": true,
+        "name": "Kensington Arcade",
+        "phone_number": "+442079325254",
+        "data_last_updated": "2021-07-10T20:27:28.716524"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 14 Kensington Arcade",
+        "city": "London",
+        "postal_code": "W8 5SF",
+        "country": "GB",
+        "latitude": "51.5007560677825",
+        "longitude": "-0.19274935659787218"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "20:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "20:30",
+            "closed": false
+        }
+    }
+}

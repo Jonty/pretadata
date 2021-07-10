@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-3-2a-southwark-bridge-road",
+        "url": "https://locations.pret.co.uk/london/unit-3-2a-southwark-bridge-road",
+        "open": true,
+        "name": "Riverside",
+        "phone_number": "+442079282472",
+        "data_last_updated": "2021-07-10T20:27:32.110970"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 3, 2A Southwark Bridge Road Bankside",
+        "city": "London",
+        "postal_code": "SE1 9HA",
+        "country": "GB",
+        "latitude": "51.50748220405181",
+        "longitude": "-0.09527126519618845"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": "9:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

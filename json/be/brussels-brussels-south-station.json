@@ -1,0 +1,57 @@
+{
+    "details": {
+        "id": "brussels-brussels-south-station",
+        "url": "https://pretamanger.be/fr-be/nous-trouver",
+        "open": true,
+        "name": "Brussels-South Station",
+        "phone_number": null,
+        "data_last_updated": "2021-07-10T20:27:07.973943"
+    },
+    "facilities": {
+    },
+    "location": {
+        "street": "Avenue Fonsny 47Bs",
+        "city": "Brussels",
+        "postal_code": "1060",
+        "country": "BE",
+        "latitude": "50.8354127",
+        "longitude": "4.3370845"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "5:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        }
+    }
+}

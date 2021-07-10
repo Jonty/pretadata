@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-116th-and-broadway",
+        "url": "https://locations.pret.com/../ny/new-york/116th-and-broadway",
+        "open": true,
+        "name": "116th and Broadway",
+        "phone_number": "+12126662545",
+        "data_last_updated": "2021-07-10T20:28:25.120354"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "116th and Broadway 2955 Broadway",
+        "city": "New York",
+        "postal_code": "10025",
+        "country": "US",
+        "latitude": "40.80783747452057",
+        "longitude": "-73.96443688874767"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

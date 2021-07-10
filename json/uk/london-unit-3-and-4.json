@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-3-and-4",
+        "url": "https://locations.pret.co.uk/london/unit-3-and-4",
+        "open": true,
+        "name": "St Christopher's Place",
+        "phone_number": "+442079325441",
+        "data_last_updated": "2021-07-10T20:27:31.942025"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 3 and 4 Gees Court",
+        "city": "London",
+        "postal_code": "W1U1JF",
+        "country": "GB",
+        "latitude": "51.515032409800405",
+        "longitude": "-0.1500154840440704"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

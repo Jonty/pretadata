@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-21-st-george-s-wharf",
+        "url": "https://locations.pret.co.uk/london/unit-21-st-george's-wharf",
+        "open": true,
+        "name": "Vauxhall, St George's Wharf",
+        "phone_number": "+442079325415",
+        "data_last_updated": "2021-07-10T20:27:30.308526"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 21, St George's Wharf Vauxhall",
+        "city": "London",
+        "postal_code": "SW8 2JW",
+        "country": "GB",
+        "latitude": "51.486243543916615",
+        "longitude": "-0.12483731327522785"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:30",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

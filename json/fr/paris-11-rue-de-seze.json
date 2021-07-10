@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-11-rue-de-seze",
+        "url": "https://locations.pretamanger.fr/paris/11-rue-de-s\u00e8ze",
+        "open": true,
+        "name": "Rue de S\u00e8ze",
+        "phone_number": "+33142935630",
+        "data_last_updated": "2021-07-10T20:27:56.727981"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "11 Rue de S\u00e8ze angle Rue de S\u00e8ze",
+        "city": "Paris",
+        "postal_code": "75009",
+        "country": "FR",
+        "latitude": "48.8703909",
+        "longitude": "2.326302"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "10:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "10:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-5-kennedy-house",
+        "url": "https://locations.pret.co.uk/london/unit-5-kennedy-house",
+        "open": true,
+        "name": "Hammersmith Road",
+        "phone_number": "+442076028772",
+        "data_last_updated": "2021-07-10T20:27:34.051443"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 5, Kennedy House 99-119 Hammersmith Road",
+        "city": "London",
+        "postal_code": "W14 0QH",
+        "country": "GB",
+        "latitude": "51.4944688",
+        "longitude": "-0.2125084"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

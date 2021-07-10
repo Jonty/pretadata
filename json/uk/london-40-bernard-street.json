@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-40-bernard-street",
+        "url": "https://locations.pret.co.uk/london/40-bernard-street",
+        "open": true,
+        "name": "Russell Square",
+        "phone_number": "+442079325374",
+        "data_last_updated": "2021-07-10T20:27:03.273741"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "40 Bernard Street",
+        "city": "London",
+        "postal_code": "WC1N 1LE",
+        "country": "GB",
+        "latitude": "51.52330787663489",
+        "longitude": "-0.12481673515310154"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

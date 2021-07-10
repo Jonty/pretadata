@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-regent-s-place-350-euston-road",
+        "url": "https://locations.pret.co.uk/london/regent's-place-350-euston-road",
+        "open": true,
+        "name": "Triton Square",
+        "phone_number": "+442073871284",
+        "data_last_updated": "2021-07-10T20:27:23.732343"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "Regent's Place, 350 Euston Road London",
+        "city": "London",
+        "postal_code": "NW1 3AX",
+        "country": "GB",
+        "latitude": "51.52439359906322",
+        "longitude": "-0.1423942090793906"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

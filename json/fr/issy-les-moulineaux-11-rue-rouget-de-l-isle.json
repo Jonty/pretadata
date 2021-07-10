@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "issy-les-moulineaux-11-rue-rouget-de-l-isle",
+        "url": "https://locations.pretamanger.fr/issy-les-moulineaux/11-rue-rouget-de-l'isle",
+        "open": true,
+        "name": "Issy-Les-Moulineaux",
+        "phone_number": "+33147659702",
+        "data_last_updated": "2021-07-10T20:27:51.612968"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "11 rue Rouget de l'Isle",
+        "city": "Issy-les-Moulineaux",
+        "postal_code": "92130",
+        "country": "FR",
+        "latitude": "48.829073468148735",
+        "longitude": "2.2645601218539824"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

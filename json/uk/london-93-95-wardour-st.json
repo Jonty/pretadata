@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-93-95-wardour-st",
+        "url": "https://locations.pret.co.uk/london/93-95-wardour-st",
+        "open": true,
+        "name": "Soho",
+        "phone_number": "+442079325261",
+        "data_last_updated": "2021-07-10T20:27:19.168225"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "93-95 Wardour St Soho",
+        "city": "London",
+        "postal_code": "W1F 0UE",
+        "country": "GB",
+        "latitude": "51.51279525138039",
+        "longitude": "-0.1336828973349724"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "10:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

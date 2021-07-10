@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-7-more-london",
+        "url": "https://locations.pret.co.uk/london/7-more-london",
+        "open": true,
+        "name": "More London",
+        "phone_number": "+442079325391",
+        "data_last_updated": "2021-07-10T20:27:12.523853"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "7 More London London Riverside",
+        "city": "London",
+        "postal_code": "SE1 2RT",
+        "country": "GB",
+        "latitude": "51.504384594057704",
+        "longitude": "-0.08114191161582962"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

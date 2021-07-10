@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-57-rue-des-petits-champs",
+        "url": "https://locations.pretamanger.fr/paris/57-rue-des-petits-champs",
+        "open": true,
+        "name": "Petits-Champs",
+        "phone_number": "+33142616756",
+        "data_last_updated": "2021-07-10T20:28:03.490963"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "57 rue des Petits Champs",
+        "city": "Paris",
+        "postal_code": "75001",
+        "country": "FR",
+        "latitude": "48.86713781593038",
+        "longitude": "2.3345802921091474"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "8:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "8:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "jeudi": {
+            "open": "8:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "8:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "dimanche": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

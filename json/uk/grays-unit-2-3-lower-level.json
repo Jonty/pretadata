@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "grays-unit-2-3-lower-level",
+        "url": "https://locations.pret.co.uk/grays/unit-2-3-lower-level",
+        "open": true,
+        "name": "Lakeside Shopping Centre",
+        "phone_number": "+441708680748",
+        "data_last_updated": "2021-07-10T20:26:30.254298"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 2-3 Lower Level Lakeside Shopping Centre",
+        "city": "Grays",
+        "postal_code": "RM20 2ZP",
+        "country": "GB",
+        "latitude": "51.4856358",
+        "longitude": "0.2836254"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-102-southhampton-row",
+        "url": "https://locations.pret.co.uk/london/102-southhampton-row",
+        "open": true,
+        "name": "Southampton Row",
+        "phone_number": "+442079325260",
+        "data_last_updated": "2021-07-10T20:26:38.969367"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "102 Southhampton Row",
+        "city": "London",
+        "postal_code": "WC1B 4BL",
+        "country": "GB",
+        "latitude": "51.522131",
+        "longitude": "-0.124601"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

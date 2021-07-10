@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-2-10244",
+        "url": "https://locations.pret.co.uk/london/unit-2-10244",
+        "open": true,
+        "name": "Victoria Place",
+        "phone_number": "+442075920046",
+        "data_last_updated": "2021-07-10T20:27:29.734161"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 2 Victoria Place Shopping Centre",
+        "city": "London",
+        "postal_code": "SW1W 1SJ",
+        "country": "GB",
+        "latitude": "51.4948211",
+        "longitude": "-0.1452295"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        }
+    }
+}

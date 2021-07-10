@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-78-hatton-garden",
+        "url": "https://locations.pret.co.uk/london/78-hatton-garden",
+        "open": true,
+        "name": "Hatton Garden",
+        "phone_number": "+442072423062",
+        "data_last_updated": "2021-07-10T20:27:15.344101"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "78 Hatton Garden London",
+        "city": "London",
+        "postal_code": "EC1N 8JS",
+        "country": "GB",
+        "latitude": "51.5203496",
+        "longitude": "-0.1087114"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

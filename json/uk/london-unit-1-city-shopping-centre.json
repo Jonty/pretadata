@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-1-city-shopping-centre",
+        "url": "https://locations.pret.co.uk/london/unit-1-city-shopping-centre",
+        "open": true,
+        "name": "Whitecross Street",
+        "phone_number": "+442072568280",
+        "data_last_updated": "2021-07-10T20:27:27.302943"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 1, City Shopping Centre Whitecross Street",
+        "city": "London",
+        "postal_code": "EC1Y 8NX",
+        "country": "GB",
+        "latitude": "51.52202266218528",
+        "longitude": "-0.09242606134223008"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

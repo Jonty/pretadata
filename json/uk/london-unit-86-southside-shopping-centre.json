@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-86-southside-shopping-centre",
+        "url": "https://locations.pret.co.uk/london/unit-86-southside-shopping-centre",
+        "open": true,
+        "name": "Wandsworth",
+        "phone_number": "+442088748039",
+        "data_last_updated": "2021-07-10T20:27:35.960854"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 86 Southside Shopping Centre 2 Garrett Lane, Wandsworth",
+        "city": "London",
+        "postal_code": "SW18 4TF",
+        "country": "GB",
+        "latitude": "51.45653248333089",
+        "longitude": "-0.19314060858965698"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

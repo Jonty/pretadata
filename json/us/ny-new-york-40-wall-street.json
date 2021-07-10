@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-40-wall-street",
+        "url": "https://locations.pret.com/../ny/new-york/40-wall-street",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+19172616362",
+        "data_last_updated": "2021-07-10T20:28:39.416732"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "40 Wall Street New York",
+        "city": "New York",
+        "postal_code": "10005",
+        "country": "US",
+        "latitude": "40.70686663174746",
+        "longitude": "-74.00970408877215"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

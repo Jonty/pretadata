@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-106-108-brompton-road",
+        "url": "https://locations.pret.co.uk/london/106-108-brompton-road",
+        "open": true,
+        "name": "Brompton Road 106-108",
+        "phone_number": "+442075895306",
+        "data_last_updated": "2021-07-10T20:26:39.130389"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "106-108 Brompton Road London",
+        "city": "London",
+        "postal_code": "SW3 1JJ",
+        "country": "GB",
+        "latitude": "51.4993401",
+        "longitude": "-0.1645592"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

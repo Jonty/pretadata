@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-1020-6th-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/1020-6th-avenue",
+        "open": true,
+        "name": "38th and Sixth",
+        "phone_number": "+16466924349",
+        "data_last_updated": "2021-07-10T20:28:23.582300"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "1020 6th Avenue",
+        "city": "New York",
+        "postal_code": "10018",
+        "country": "US",
+        "latitude": "40.75235989100527",
+        "longitude": "-73.98568238951589"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-37-shelton-street",
+        "url": "https://locations.pret.co.uk/london/37-shelton-street",
+        "open": true,
+        "name": "Shelton Street",
+        "phone_number": "+442079325466",
+        "data_last_updated": "2021-07-10T20:27:02.426389"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "37 Shelton Street",
+        "city": "London",
+        "postal_code": "WC2H 9HN",
+        "country": "GB",
+        "latitude": "51.5140878030722",
+        "longitude": "-0.12487943459210227"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

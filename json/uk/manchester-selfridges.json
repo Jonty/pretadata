@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-selfridges",
+        "url": "https://locations.pret.co.uk/manchester/selfridges",
+        "open": true,
+        "name": "Manchester, Trafford Centre",
+        "phone_number": "+441617550942",
+        "data_last_updated": "2021-07-10T20:27:42.047688"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Selfridges Trafford Centre",
+        "city": "Manchester",
+        "postal_code": "M17 8DA",
+        "country": "GB",
+        "latitude": "53.466167",
+        "longitude": "-2.347748"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

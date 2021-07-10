@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-70-chiswell-street",
+        "url": "https://locations.pret.co.uk/london/70-chiswell-street",
+        "open": true,
+        "name": "Chiswell Street",
+        "phone_number": "+442072569686",
+        "data_last_updated": "2021-07-10T20:27:13.644462"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "70 Chiswell Street London",
+        "city": "London",
+        "postal_code": "EC1Y 4AB",
+        "country": "GB",
+        "latitude": "51.5205175",
+        "longitude": "-0.0894169"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

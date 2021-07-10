@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "newbury-93-northbrook-street",
+        "url": "https://locations.pret.co.uk/newbury/93-northbrook-street",
+        "open": true,
+        "name": "Newbury, 93 Northbrook Street",
+        "phone_number": "+441635581630",
+        "data_last_updated": "2021-07-10T20:27:43.949063"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "93 Northbrook Street",
+        "city": "Newbury",
+        "postal_code": "RG14 1AA",
+        "country": "GB",
+        "latitude": "51.40234196345289",
+        "longitude": "-1.3245215013925904"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

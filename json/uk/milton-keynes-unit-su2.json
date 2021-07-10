@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "milton-keynes-unit-su2",
+        "url": "https://locations.pret.co.uk/milton-keynes/unit-su2",
+        "open": true,
+        "name": "Milton Keynes, Intu",
+        "phone_number": "+441908236106",
+        "data_last_updated": "2021-07-10T20:27:43.785104"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit SU2 Midsummer Place",
+        "city": "Milton Keynes",
+        "postal_code": "MK9 3GB",
+        "country": "GB",
+        "latitude": "52.044207",
+        "longitude": "-0.75352"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-45-high-street",
+        "url": "https://locations.pret.co.uk/london/45-high-street",
+        "open": true,
+        "name": "Ealing",
+        "phone_number": "+442085794615",
+        "data_last_updated": "2021-07-10T20:27:04.707933"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "45 High Street Ealing",
+        "city": "London",
+        "postal_code": "W5 5AW",
+        "country": "GB",
+        "latitude": "51.51295730393433",
+        "longitude": "-0.304616584889259"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        }
+    }
+}

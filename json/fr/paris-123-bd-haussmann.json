@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-123-bd-haussmann",
+        "url": "https://locations.pretamanger.fr/paris/123-bd-haussmann",
+        "open": true,
+        "name": "Miromesnil",
+        "phone_number": "+33142896166",
+        "data_last_updated": "2021-07-10T20:27:57.943033"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "123 Bd Haussmann Paris",
+        "city": "Paris",
+        "postal_code": "75008",
+        "country": "FR",
+        "latitude": "48.87495768802003",
+        "longitude": "2.314043838594646"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

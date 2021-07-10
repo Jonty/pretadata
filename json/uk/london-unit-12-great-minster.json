@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-12-great-minster",
+        "url": "https://locations.pret.co.uk/london/unit-12-great-minster",
+        "open": true,
+        "name": "Horseferry Road, 19",
+        "phone_number": "+442079325459",
+        "data_last_updated": "2021-07-10T20:27:28.181612"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 12, Great Minster 19-23 Horseferry Road",
+        "city": "London",
+        "postal_code": "SW1P 2AA",
+        "country": "GB",
+        "latitude": "51.49471453965544",
+        "longitude": "-0.12953172042135863"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

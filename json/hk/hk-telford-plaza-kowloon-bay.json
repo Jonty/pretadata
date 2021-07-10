@@ -1,0 +1,20 @@
+{
+    "details": {
+        "id": "hk-telford-plaza-kowloon-bay",
+        "url": "https://www.pret.hk/en-HK/find-a-pret",
+        "open": null,
+        "name": "Telford Plaza (Kowloon Bay)",
+        "phone_number": "+852 3188 9114",
+        "data_last_updated": "2021-07-10T20:48:28.047525"
+    },
+    "facilities": {},
+    "location": {
+        "street": "Shop P18, Telford Plaza Phase 1, 33 Wai Yip Street, Kowloon Bay",
+        "city": "Kowloon",
+        "postal_code": null,
+        "country": "Hong Kong",
+        "latitude": 22.3238143,
+        "longitude": 114.2135246
+    },
+    "opening_hours": {}
+}

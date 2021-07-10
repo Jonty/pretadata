@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-39-51-avenue-pierre-mendes-france",
+        "url": "https://locations.pretamanger.fr/paris/39-51-avenue-pierre-mend\u00e8s-france",
+        "open": true,
+        "name": "Biblioth\u00e8que Nationale",
+        "phone_number": "+33143448887",
+        "data_last_updated": "2021-07-10T20:28:01.191737"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "39-51 avenue Pierre Mend\u00e8s-France",
+        "city": "Paris",
+        "postal_code": "75013",
+        "country": "FR",
+        "latitude": "48.839412",
+        "longitude": "2.369124"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "dimanche": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

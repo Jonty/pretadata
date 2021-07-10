@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-19-20-liverpool-street-52",
+        "url": "https://locations.pret.co.uk/london/19-20-liverpool-street-52",
+        "open": true,
+        "name": "Liverpool Street",
+        "phone_number": "+442079325267",
+        "data_last_updated": "2021-07-10T20:26:50.319412"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "19-20 Liverpool Street",
+        "city": "London",
+        "postal_code": "EC2M 7PD",
+        "country": "GB",
+        "latitude": "51.51735806184343",
+        "longitude": "-0.08251140674590873"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

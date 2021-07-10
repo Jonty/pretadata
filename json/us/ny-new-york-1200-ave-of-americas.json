@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-1200-ave-of-americas",
+        "url": "https://locations.pret.com/../ny/new-york/1200-ave-of-americas",
+        "open": true,
+        "name": "47th and 6th",
+        "phone_number": "+12129972480",
+        "data_last_updated": "2021-07-10T20:28:25.609409"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "1200 Ave of Americas",
+        "city": "New York",
+        "postal_code": "10036",
+        "country": "US",
+        "latitude": "40.758139300273605",
+        "longitude": "-73.98143484218241"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

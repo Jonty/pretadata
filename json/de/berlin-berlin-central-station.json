@@ -1,0 +1,22 @@
+{
+    "details": {
+        "id": "berlin-berlin-central-station",
+        "url": "https://www.pretamanger.de/en-gb/find-us",
+        "open": false,
+        "name": "Berlin Central Station",
+        "phone_number": null,
+        "data_last_updated": "2021-07-10T20:27:00.561142"
+    },
+    "facilities": {
+    },
+    "location": {
+        "street": "Hauptbahnhof, 1 Europaplatz, Mitte",
+        "city": "Berlin",
+        "postal_code": "10557",
+        "country": "DE",
+        "latitude": "52.5250839",
+        "longitude": "13.369402"
+    },
+    "opening_hours": {
+    }
+}

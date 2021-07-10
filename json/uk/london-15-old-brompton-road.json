@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-15-old-brompton-road",
+        "url": "https://locations.pret.co.uk/london/15-old-brompton-road",
+        "open": true,
+        "name": "South Kensington",
+        "phone_number": "+442079325368",
+        "data_last_updated": "2021-07-10T20:26:45.918502"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "15 Old Brompton Road",
+        "city": "London",
+        "postal_code": "SW7 3HZ",
+        "country": "GB",
+        "latitude": "51.49347034821103",
+        "longitude": "-0.17421190016921217"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "22:00",
+            "closed": false
+        }
+    }
+}

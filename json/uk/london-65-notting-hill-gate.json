@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-65-notting-hill-gate",
+        "url": "https://locations.pret.co.uk/london/65-notting-hill-gate",
+        "open": true,
+        "name": "Notting Hill Gate",
+        "phone_number": "+442079325320",
+        "data_last_updated": "2021-07-10T20:27:11.049236"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "65 Notting Hill Gate",
+        "city": "London",
+        "postal_code": "W11 3JS",
+        "country": "GB",
+        "latitude": "51.508821507361624",
+        "longitude": "-0.19673534383273017"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

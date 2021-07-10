@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-320-rt1-cabot-place",
+        "url": "https://locations.pret.co.uk/london/unit-320-(rt1)-cabot-place",
+        "open": true,
+        "name": "Canary Wharf, Cabot Place",
+        "phone_number": "+442079325249",
+        "data_last_updated": "2021-07-10T20:27:32.918879"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 320, (RT1) Cabot Place Canary Wharf",
+        "city": "London",
+        "postal_code": "E14 4QS",
+        "country": "GB",
+        "latitude": "51.505167230475",
+        "longitude": "-0.02018926823727396"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-7-building-ds4-canada-place",
+        "url": "https://locations.pret.co.uk/london/unit-7-building-ds4-canada-place",
+        "open": true,
+        "name": "Canary Wharf, Canada Place",
+        "phone_number": "+442075131963",
+        "data_last_updated": "2021-07-10T20:27:35.401050"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 7, Building DS4, Canada Place Canary Wharf",
+        "city": "London",
+        "postal_code": "E14 5NN",
+        "country": "GB",
+        "latitude": "51.505043",
+        "longitude": "-0.01904"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

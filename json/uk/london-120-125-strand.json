@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-120-125-strand",
+        "url": "https://locations.pret.co.uk/london/120-125-strand",
+        "open": true,
+        "name": "Strand, 120",
+        "phone_number": "+442072402689",
+        "data_last_updated": "2021-07-10T20:26:41.069253"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "120-125 Strand",
+        "city": "London",
+        "postal_code": "WC2R 0AP",
+        "country": "GB",
+        "latitude": "51.51136579691424",
+        "longitude": "-0.11870223138349623"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "19:30",
+            "closed": false
+        }
+    }
+}

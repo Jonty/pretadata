@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-157-168-blackfriars-road",
+        "url": "https://locations.pret.co.uk/london/157-168-blackfriars-road",
+        "open": true,
+        "name": "Blackfriars Road,157",
+        "phone_number": "+442076200689",
+        "data_last_updated": "2021-07-10T20:26:46.625047"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "157-168 Blackfriars Road",
+        "city": "London",
+        "postal_code": "SE1 8EZ",
+        "country": "GB",
+        "latitude": "51.501791468482075",
+        "longitude": "-0.10428091090210145"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

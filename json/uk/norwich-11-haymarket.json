@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "norwich-11-haymarket",
+        "url": "https://locations.pret.co.uk/norwich/11-haymarket",
+        "open": true,
+        "name": "Norwich, Haymarket",
+        "phone_number": "+441603763896",
+        "data_last_updated": "2021-07-10T20:27:44.454740"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "11 Haymarket",
+        "city": "Norwich",
+        "postal_code": "NR2 1QD",
+        "country": "GB",
+        "latitude": "52.6271482",
+        "longitude": "1.2934836"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

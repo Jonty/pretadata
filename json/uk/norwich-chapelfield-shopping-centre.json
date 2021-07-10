@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "norwich-chapelfield-shopping-centre",
+        "url": "https://locations.pret.co.uk/norwich/chapelfield-shopping-centre",
+        "open": true,
+        "name": "Norwich, Chapelfield",
+        "phone_number": "+441603615263",
+        "data_last_updated": "2021-07-10T20:27:44.721901"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Chapelfield Shopping Centre Unit 210",
+        "city": "Norwich",
+        "postal_code": "NR2 1SU",
+        "country": "GB",
+        "latitude": "52.625541",
+        "longitude": "1.290077"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "15:30",
+            "closed": false
+        }
+    }
+}

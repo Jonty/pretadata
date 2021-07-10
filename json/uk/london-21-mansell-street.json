@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-21-mansell-street",
+        "url": "https://locations.pret.co.uk/london/21-mansell-street",
+        "open": true,
+        "name": "Mansell Street",
+        "phone_number": "+442079325456",
+        "data_last_updated": "2021-07-10T20:26:52.648314"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "21 Mansell Street",
+        "city": "London",
+        "postal_code": "E1 8AA",
+        "country": "GB",
+        "latitude": "51.51379285160225",
+        "longitude": "-0.0732796577778938"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

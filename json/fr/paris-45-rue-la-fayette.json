@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-45-rue-la-fayette",
+        "url": "https://locations.pretamanger.fr/paris/45-rue-la-fayette",
+        "open": true,
+        "name": "Le Peletier",
+        "phone_number": "+33142412235",
+        "data_last_updated": "2021-07-10T20:28:02.481882"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "45 rue La Fayette",
+        "city": "Paris",
+        "postal_code": "75009",
+        "country": "FR",
+        "latitude": "48.8751552",
+        "longitude": "2.3406418"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "10:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "10:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

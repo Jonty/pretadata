@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-750-8th-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/750-8th-avenue",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+12123823491",
+        "data_last_updated": "2021-07-10T20:28:46.721768"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "750 8th Avenue",
+        "city": "New York",
+        "postal_code": "10036",
+        "country": "US",
+        "latitude": "40.76012407551626",
+        "longitude": "-73.9874063769003"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-b2-s-50-7-west-ferry",
+        "url": "https://locations.pret.co.uk/london/unit-b2.s.50-7-west-ferry",
+        "open": true,
+        "name": "Canary Wharf, Westferry",
+        "phone_number": "+442032290248",
+        "data_last_updated": "2021-07-10T20:27:36.306071"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit B2.S.50, 7 West Ferry West Ferry Circuit",
+        "city": "London",
+        "postal_code": "E14 4HD",
+        "country": "GB",
+        "latitude": "51.5061721",
+        "longitude": "-0.0258994"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

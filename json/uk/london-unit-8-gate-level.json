@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-8-gate-level",
+        "url": "https://locations.pret.co.uk/london/unit-8-gate-level",
+        "open": true,
+        "name": "Heathrow, Terminal 5",
+        "phone_number": "+442082838120",
+        "data_last_updated": "2021-07-10T20:27:35.564566"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit 8 Gate Level Terminal 5, Heathrow Airport",
+        "city": "London",
+        "postal_code": "TW6 2GA",
+        "country": "GB",
+        "latitude": "51.471644744816075",
+        "longitude": "-0.4874724759330107"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "5:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

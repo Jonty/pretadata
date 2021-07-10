@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "luton-airside-departure-lounge",
+        "url": "https://locations.pret.co.uk/luton/airside-departure-lounge",
+        "open": true,
+        "name": "Luton Airport Airside",
+        "phone_number": "+441582453398",
+        "data_last_updated": "2021-07-10T20:27:40.478600"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Airside Departure Lounge London-Luton Airport, Airport Way",
+        "city": "Luton",
+        "postal_code": "LU2 9LY",
+        "country": "GB",
+        "latitude": "51.8807817",
+        "longitude": "-0.3751439"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "4:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "4:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "4:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "4:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "4:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "4:00",
+            "close": "12:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "4:00",
+            "close": "21:00",
+            "closed": false
+        }
+    }
+}

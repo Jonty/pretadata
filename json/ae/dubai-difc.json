@@ -1,0 +1,57 @@
+{
+    "details": {
+        "id": "dubai-difc",
+        "url": "https://www.pret.ae/en-ae/find-us",
+        "open": true,
+        "name": "DIFC",
+        "phone_number": null,
+        "data_last_updated": "2021-07-10T20:27:00.561142"
+    },
+    "facilities": {
+    },
+    "location": {
+        "street": "DIFC",
+        "city": "Dubai",
+        "postal_code": null,
+        "country": "AE",
+        "latitude": "25.2105814",
+        "longitude": "55.2794068"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "07:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "07:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "07:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "07:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": "07:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

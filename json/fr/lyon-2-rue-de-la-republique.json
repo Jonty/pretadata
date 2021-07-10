@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "lyon-2-rue-de-la-republique",
+        "url": "https://locations.pretamanger.fr/lyon/2-rue-de-la-republique",
+        "open": true,
+        "name": "Lyon Opera",
+        "phone_number": "+33487242974",
+        "data_last_updated": "2021-07-10T20:27:52.616484"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "2 Rue de la Republique",
+        "city": "Lyon",
+        "postal_code": "69001",
+        "country": "FR",
+        "latitude": "45.767386743152805",
+        "longitude": "4.835827480985633"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

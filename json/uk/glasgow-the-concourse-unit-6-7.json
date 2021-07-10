@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "glasgow-the-concourse-unit-6-7",
+        "url": "https://locations.pret.co.uk/glasgow/the-concourse-unit-6-7",
+        "open": true,
+        "name": "Glasgow, Central Station",
+        "phone_number": "+441412217331",
+        "data_last_updated": "2021-07-10T20:26:29.709166"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "The Concourse, Unit 6&7",
+        "city": "Glasgow",
+        "postal_code": "G1 3SL",
+        "country": "GB",
+        "latitude": "55.85992008487575",
+        "longitude": "-4.261038652778635"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

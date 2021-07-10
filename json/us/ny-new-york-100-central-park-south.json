@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-100-central-park-south",
+        "url": "https://locations.pret.com/../ny/new-york/100-central-park-south",
+        "open": true,
+        "name": "Central Park South and Sixth",
+        "phone_number": "+16467915860",
+        "data_last_updated": "2021-07-10T20:28:22.559892"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "100 Central Park South",
+        "city": "New York",
+        "postal_code": "10019",
+        "country": "US",
+        "latitude": "40.76560733160098",
+        "longitude": "-73.97664700001388"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

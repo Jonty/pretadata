@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-147-fulton-street",
+        "url": "https://locations.pret.com/../ny/new-york/147-fulton-street",
+        "open": false,
+        "name": "Fulton and Broadway",
+        "phone_number": "+16467073894",
+        "data_last_updated": "2021-07-10T20:28:28.663609"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "147 Fulton Street",
+        "city": "New York",
+        "postal_code": "10038",
+        "country": "US",
+        "latitude": "40.71072275393468",
+        "longitude": "-74.00826356315373"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

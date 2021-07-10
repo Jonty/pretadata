@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "bristol-unit-su50g",
+        "url": "https://locations.pret.co.uk/bristol/unit-su50g",
+        "open": true,
+        "name": "Bristol, Cabot Circus",
+        "phone_number": "+441179299201",
+        "data_last_updated": "2021-07-10T20:26:22.955653"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit SU50G Cabot Circus",
+        "city": "Bristol",
+        "postal_code": "BS1 3BD",
+        "country": "GB",
+        "latitude": "51.458887",
+        "longitude": "-2.584915"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "9:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "9:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "birmingham-unit-3a",
+        "url": "https://locations.pret.co.uk/birmingham/unit-3a",
+        "open": true,
+        "name": "Birmingham, Cherry Street",
+        "phone_number": "+441216337300",
+        "data_last_updated": "2021-07-10T20:26:20.588919"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 3A 55A Temple Row",
+        "city": "Birmingham",
+        "postal_code": "B2 5LE",
+        "country": "GB",
+        "latitude": "52.48063601550636",
+        "longitude": "-1.8975361398811286"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "nanterre-centre-commercial-westfield-les-quatre-temps",
+        "url": "https://locations.pretamanger.fr/nanterre/centre-commercial-westfield-les-quatre-temps",
+        "open": true,
+        "name": "La D\u00e9fense",
+        "phone_number": "+33140909646",
+        "data_last_updated": "2021-07-10T20:27:53.090129"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Centre Commercial Westfield Les Quatre Temps Le D\u00f4me (niveau 3)",
+        "city": "Nanterre",
+        "postal_code": "92800",
+        "country": "FR",
+        "latitude": "48.89042618994783",
+        "longitude": "2.2375047589208874"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "samedi": {
+            "open": "10:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "10:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-163-piccadilly",
+        "url": "https://locations.pret.co.uk/london/163-piccadilly",
+        "open": true,
+        "name": "163 Piccadilly",
+        "phone_number": "+442079325229",
+        "data_last_updated": "2021-07-10T20:26:47.164391"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "163 Piccadilly",
+        "city": "London",
+        "postal_code": "W1J 9ED",
+        "country": "GB",
+        "latitude": "51.50781575294651",
+        "longitude": "-0.1400834002348561"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "21:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "21:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "21:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "21:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "21:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "15:00",
+            "closed": false
+        }
+    }
+}

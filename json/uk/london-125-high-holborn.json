@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-125-high-holborn",
+        "url": "https://locations.pret.co.uk/london/125-high-holborn",
+        "open": true,
+        "name": "125 High Holborn",
+        "phone_number": "+442079325375",
+        "data_last_updated": "2021-07-10T20:26:42.143722"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "125 High Holborn",
+        "city": "London",
+        "postal_code": "WC1V 6AN",
+        "country": "GB",
+        "latitude": "51.51768653600167",
+        "longitude": "-0.12117503376427585"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

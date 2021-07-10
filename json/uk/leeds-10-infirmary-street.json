@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "leeds-10-infirmary-street",
+        "url": "https://locations.pret.co.uk/leeds/10-infirmary-street",
+        "open": true,
+        "name": "Leeds, Infirmary Street",
+        "phone_number": "+441132438839",
+        "data_last_updated": "2021-07-10T20:26:33.529998"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "10 Infirmary Street",
+        "city": "Leeds",
+        "postal_code": "LS1 2JP",
+        "country": "GB",
+        "latitude": "53.7978586",
+        "longitude": "-1.5486232"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

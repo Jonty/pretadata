@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-211-213-baker-street",
+        "url": "https://locations.pret.co.uk/london/211-213-baker-street",
+        "open": true,
+        "name": "Baker Street, 211-213",
+        "phone_number": "+442074872712",
+        "data_last_updated": "2021-07-10T20:26:53.055330"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "211-213 Baker Street",
+        "city": "London",
+        "postal_code": "NW1 6UY",
+        "country": "GB",
+        "latitude": "51.522956",
+        "longitude": "-0.1580871"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

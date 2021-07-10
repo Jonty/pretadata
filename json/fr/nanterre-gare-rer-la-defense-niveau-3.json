@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "nanterre-gare-rer-la-defense-niveau-3",
+        "url": "https://locations.pretamanger.fr/nanterre/gare-rer-la-d\u00e9fense-niveau-3",
+        "open": true,
+        "name": "RER La D\u00e9fense",
+        "phone_number": "+33140810747",
+        "data_last_updated": "2021-07-10T20:27:53.574647"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "Gare RER La D\u00e9fense Niveau 3 Avenue Perronet",
+        "city": "Nanterre",
+        "postal_code": "92800",
+        "country": "FR",
+        "latitude": "48.89118029999999",
+        "longitude": "2.2402181"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "10:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "10:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

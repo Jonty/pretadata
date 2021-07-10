@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "shrewsbury-2-3-pride-hill",
+        "url": "https://locations.pret.co.uk/shrewsbury/2-3-pride-hill",
+        "open": true,
+        "name": "Shrewsbury",
+        "phone_number": "+441743231623",
+        "data_last_updated": "2021-07-10T20:27:47.212462"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "2-3 Pride Hill",
+        "city": "Shrewsbury",
+        "postal_code": "SY1 1DB",
+        "country": "GB",
+        "latitude": "52.708304",
+        "longitude": "-2.7543087"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

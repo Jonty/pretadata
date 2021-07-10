@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "heathrow-heathrow-terminal-4",
+        "url": "https://locations.pret.co.uk/heathrow/heathrow-terminal-4",
+        "open": true,
+        "name": "Heathrow Terminal 4",
+        "phone_number": "+442079325284",
+        "data_last_updated": "2021-07-10T20:26:30.799154"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Heathrow Terminal 4 Airside",
+        "city": "Heathrow",
+        "postal_code": "TW6 3XA",
+        "country": "GB",
+        "latitude": "51.45982448512367",
+        "longitude": "-0.4470289552368989"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "21:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "21:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "21:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "21:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "21:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "21:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:00",
+            "close": "21:30",
+            "closed": false
+        }
+    }
+}

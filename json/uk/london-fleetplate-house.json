@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-fleetplate-house",
+        "url": "https://locations.pret.co.uk/london/fleetplate-house",
+        "open": true,
+        "name": "Holborn Viaduct",
+        "phone_number": "+442032010046",
+        "data_last_updated": "2021-07-10T20:27:21.530823"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Fleetplate House 11-13 Holborn Viaduct",
+        "city": "London",
+        "postal_code": "EC1A 2AT",
+        "country": "GB",
+        "latitude": "51.516675760304736",
+        "longitude": "-0.10374159836271435"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

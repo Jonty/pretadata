@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-39-rue-mstislav-rostropovitch",
+        "url": "https://locations.pretamanger.fr/paris/39-rue-mstislav-rostropovitch",
+        "open": true,
+        "name": "Batignolles",
+        "phone_number": "+33142265820",
+        "data_last_updated": "2021-07-10T20:28:00.672642"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "39 rue mstislav rostropovitch ZAC Les Batignolles",
+        "city": "Paris",
+        "postal_code": "75017",
+        "country": "FR",
+        "latitude": "48.8896368179176",
+        "longitude": "2.3129786122684592"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "10:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

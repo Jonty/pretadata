@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-39-coventry-street",
+        "url": "https://locations.pret.co.uk/london/39-coventry-street",
+        "open": true,
+        "name": "Coventry Street",
+        "phone_number": "+442032720090",
+        "data_last_updated": "2021-07-10T20:27:02.545760"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "39 Coventry Street",
+        "city": "London",
+        "postal_code": "W1D 6BZ",
+        "country": "GB",
+        "latitude": "51.51029730895234",
+        "longitude": "-0.13161341865353116"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

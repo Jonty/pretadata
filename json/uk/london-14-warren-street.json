@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-14-warren-street",
+        "url": "https://locations.pret.co.uk/london/14-warren-street",
+        "open": true,
+        "name": "Warren Street, 14",
+        "phone_number": "+442073876661",
+        "data_last_updated": "2021-07-10T20:26:44.773812"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "14 Warren Street",
+        "city": "London",
+        "postal_code": "W1T 5LL",
+        "country": "GB",
+        "latitude": "51.52414594046222",
+        "longitude": "-0.13897881966076886"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "15:30",
+            "closed": false
+        }
+    }
+}

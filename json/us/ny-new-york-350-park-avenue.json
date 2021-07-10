@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-350-park-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/350-park-avenue",
+        "open": true,
+        "name": "51st and Park",
+        "phone_number": "+12123717540",
+        "data_last_updated": "2021-07-10T20:28:37.929020"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "350 Park Avenue",
+        "city": "New York",
+        "postal_code": "10016",
+        "country": "US",
+        "latitude": "40.758231240975476",
+        "longitude": "-73.97389100580769"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

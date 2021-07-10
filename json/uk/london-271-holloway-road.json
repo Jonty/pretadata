@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-271-holloway-road",
+        "url": "https://locations.pret.co.uk/london/271-holloway-road",
+        "open": true,
+        "name": "Holloway Road",
+        "phone_number": "+442076078307",
+        "data_last_updated": "2021-07-10T20:26:56.761901"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "271 Holloway Road",
+        "city": "London",
+        "postal_code": "N7 8FB",
+        "country": "GB",
+        "latitude": "51.55197322395636",
+        "longitude": "-0.11184686439689617"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

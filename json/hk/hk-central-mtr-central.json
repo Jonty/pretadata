@@ -1,0 +1,20 @@
+{
+    "details": {
+        "id": "hk-central-mtr-central",
+        "url": "https://www.pret.hk/en-HK/find-a-pret",
+        "open": null,
+        "name": "Central MTR (Central)",
+        "phone_number": "+852 2537 9230",
+        "data_last_updated": "2021-07-10T20:48:16.532481"
+    },
+    "facilities": {},
+    "location": {
+        "street": "Kiosk No. CEN W6, MTR Central Station",
+        "city": "Hong Kong Island",
+        "postal_code": null,
+        "country": "Hong Kong",
+        "latitude": 22.2818557,
+        "longitude": 114.1574078
+    },
+    "opening_hours": {}
+}

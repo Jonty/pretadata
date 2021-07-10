@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-84-fetter-lane",
+        "url": "https://locations.pret.co.uk/london/84-fetter-lane",
+        "open": true,
+        "name": "Fetter Lane",
+        "phone_number": "+442079325330",
+        "data_last_updated": "2021-07-10T20:27:16.910882"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "84 Fetter Lane",
+        "city": "London",
+        "postal_code": "EC4A 1EQ",
+        "country": "GB",
+        "latitude": "51.51724",
+        "longitude": "-0.1092455"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

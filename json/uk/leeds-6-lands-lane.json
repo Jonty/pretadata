@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "leeds-6-lands-lane",
+        "url": "https://locations.pret.co.uk/leeds/6-lands-lane",
+        "open": true,
+        "name": "Leeds, Lands Lane",
+        "phone_number": "+441132422147",
+        "data_last_updated": "2021-07-10T20:26:33.861711"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "6 Lands Lane",
+        "city": "Leeds",
+        "postal_code": "LS1 6AW",
+        "country": "GB",
+        "latitude": "53.79772420973496",
+        "longitude": "-1.5434545335230765"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

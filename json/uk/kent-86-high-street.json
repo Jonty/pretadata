@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "kent-86-high-street",
+        "url": "https://locations.pret.co.uk/kent/86-high-street",
+        "open": true,
+        "name": "Bromley High Street",
+        "phone_number": "+442082905376",
+        "data_last_updated": "2021-07-10T20:26:32.101775"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "86 High Street Bromley",
+        "city": "Kent",
+        "postal_code": "BR1 1EY",
+        "country": "GB",
+        "latitude": "51.402855176714105",
+        "longitude": "0.015056096160654953"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

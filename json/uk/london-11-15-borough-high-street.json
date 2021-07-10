@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-11-15-borough-high-street",
+        "url": "https://locations.pret.co.uk/london/11-15-borough-high-street",
+        "open": true,
+        "name": "Borough High Street, 11-13",
+        "phone_number": "+442070899067",
+        "data_last_updated": "2021-07-10T20:26:40.014674"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "11-15 Borough High Street",
+        "city": "London",
+        "postal_code": "SE1 9SE",
+        "country": "GB",
+        "latitude": "51.50546080972629",
+        "longitude": "-0.08879559952245986"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-9",
+        "url": "https://locations.pret.co.uk/london/unit-9",
+        "open": true,
+        "name": "Paddington",
+        "phone_number": "+442079325258",
+        "data_last_updated": "2021-07-10T20:27:36.131573"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 9 Sheldon Square",
+        "city": "London",
+        "postal_code": "W2 6EZ",
+        "country": "GB",
+        "latitude": "51.519167",
+        "longitude": "-0.180062"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

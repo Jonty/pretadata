@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "leeds-32-bond-street",
+        "url": "https://locations.pret.co.uk/leeds/32-bond-street",
+        "open": true,
+        "name": "Leeds, Bond Street",
+        "phone_number": "+441132421126",
+        "data_last_updated": "2021-07-10T20:26:33.693160"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "32 Bond Street",
+        "city": "Leeds",
+        "postal_code": "LS1 5BQ",
+        "country": "GB",
+        "latitude": "53.79762616242583",
+        "longitude": "-1.5459458973294327"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "edinburgh-135-princes-street",
+        "url": "https://locations.pret.co.uk/edinburgh/135-princes-street",
+        "open": true,
+        "name": "Edinburgh, Princes Street",
+        "phone_number": "+441312256761",
+        "data_last_updated": "2021-07-10T20:26:26.231093"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "135 Princes Street",
+        "city": "Edinburgh",
+        "postal_code": "EH2 4BL",
+        "country": "GB",
+        "latitude": "55.9505387",
+        "longitude": "-3.2062223"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "st-andrews-107-109-market-street",
+        "url": "https://locations.pret.co.uk/st-andrews/107-109-market-street",
+        "open": true,
+        "name": "St Andrews",
+        "phone_number": "+441334478835",
+        "data_last_updated": "2021-07-10T20:27:47.912839"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "107-109 Market Street",
+        "city": "St Andrews",
+        "postal_code": "KY16 9NX",
+        "country": "GB",
+        "latitude": "56.34060286307677",
+        "longitude": "-2.796646398164946"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

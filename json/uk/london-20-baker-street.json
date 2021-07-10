@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-20-baker-street",
+        "url": "https://locations.pret.co.uk/london/20-baker-street",
+        "open": true,
+        "name": "20 Baker Street",
+        "phone_number": "+442074861713",
+        "data_last_updated": "2021-07-10T20:26:51.762367"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "20 Baker Street",
+        "city": "London",
+        "postal_code": "W1U 3BY",
+        "country": "GB",
+        "latitude": "51.517377",
+        "longitude": "-0.1551648"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

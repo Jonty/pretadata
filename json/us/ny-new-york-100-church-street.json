@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-100-church-street",
+        "url": "https://locations.pret.com/../ny/new-york/100-church-street",
+        "open": true,
+        "name": "100 Church Street",
+        "phone_number": "+12122273108",
+        "data_last_updated": "2021-07-10T20:28:23.073563"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "100 Church Street",
+        "city": "New York",
+        "postal_code": "10007",
+        "country": "US",
+        "latitude": "40.71328246429484",
+        "longitude": "-74.00974920351864"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

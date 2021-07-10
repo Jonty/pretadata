@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-217-strand",
+        "url": "https://locations.pret.co.uk/london/217-strand",
+        "open": true,
+        "name": "Strand, 217",
+        "phone_number": "+442079364839",
+        "data_last_updated": "2021-07-10T20:26:53.155487"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "217 Strand",
+        "city": "London",
+        "postal_code": "WC2R 1AT",
+        "country": "GB",
+        "latitude": "51.51328070772542",
+        "longitude": "-0.11277454785041163"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

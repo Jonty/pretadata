@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-231-camden-high-street",
+        "url": "https://locations.pret.co.uk/london/231-camden-high-street",
+        "open": true,
+        "name": "Camden High Street,231",
+        "phone_number": "+442072671845",
+        "data_last_updated": "2021-07-10T20:26:53.888173"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "231 Camden High Street",
+        "city": "London",
+        "postal_code": "NW1 7BU",
+        "country": "GB",
+        "latitude": "51.539956343626926",
+        "longitude": "-0.14376631840267162"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

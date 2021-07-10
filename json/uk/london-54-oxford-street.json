@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-54-oxford-street",
+        "url": "https://locations.pret.co.uk/london/54-oxford-street",
+        "open": true,
+        "name": "Oxford Street",
+        "phone_number": "+442079325250",
+        "data_last_updated": "2021-07-10T20:27:07.973943"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "54 Oxford Street",
+        "city": "London",
+        "postal_code": "W1D 1BQ",
+        "country": "GB",
+        "latitude": "51.51684371722105",
+        "longitude": "-0.13312286011887053"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "21:30",
+            "closed": false
+        }
+    }
+}

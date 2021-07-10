@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-p1-euston-piazza",
+        "url": "https://locations.pret.co.uk/london/p1-euston-piazza",
+        "open": true,
+        "name": "Euston Station Piazza",
+        "phone_number": "+442079325432",
+        "data_last_updated": "2021-07-10T20:27:23.345247"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "P1, Euston Piazza Euston Station",
+        "city": "London",
+        "postal_code": "NW1 2DY",
+        "country": "GB",
+        "latitude": "51.5275203",
+        "longitude": "-0.133146"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "5:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:00",
+            "close": "22:00",
+            "closed": false
+        }
+    }
+}

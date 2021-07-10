@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-1-canada-square-ds7",
+        "url": "https://locations.pret.co.uk/london/1-canada-square-(ds7)",
+        "open": true,
+        "name": "Canary Wharf, Tower Kiosk",
+        "phone_number": "+442075160323",
+        "data_last_updated": "2021-07-10T20:26:34.812442"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "1 Canada Square, (DS7) Canary Wharf",
+        "city": "London",
+        "postal_code": "E14 4QS",
+        "country": "GB",
+        "latitude": "51.505158879988834",
+        "longitude": "-0.02018563558197739"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-1-oliver-s-yard",
+        "url": "https://locations.pret.co.uk/london/unit-1-oliver's-yard",
+        "open": true,
+        "name": "City Road, Oliver's Yard",
+        "phone_number": "+442079325343",
+        "data_last_updated": "2021-07-10T20:27:27.663492"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit 1, Oliver's Yard City Road",
+        "city": "London",
+        "postal_code": "EC1Y 1HQ",
+        "country": "GB",
+        "latitude": "51.52441500122353",
+        "longitude": "-0.08730112184574867"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        }
+    }
+}

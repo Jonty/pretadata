@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "epsom-93-95-high-street",
+        "url": "https://locations.pret.co.uk/epsom/93-95-high-street",
+        "open": true,
+        "name": "Epsom",
+        "phone_number": "+441372722458",
+        "data_last_updated": "2021-07-10T20:26:27.427823"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "93 -95 High Street",
+        "city": "Epsom",
+        "postal_code": "KT18 5DA",
+        "country": "GB",
+        "latitude": "51.33313951176907",
+        "longitude": "-0.26731499411662085"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

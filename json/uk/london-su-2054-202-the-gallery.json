@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-su-2054-202-the-gallery",
+        "url": "https://locations.pret.co.uk/london/su-2054-202-the-gallery",
+        "open": true,
+        "name": "Westfield Stratford City",
+        "phone_number": "+442082212335",
+        "data_last_updated": "2021-07-10T20:27:24.619938"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "SU 2054, 202 The Gallery Westfield, Stratford City",
+        "city": "London",
+        "postal_code": "E20 1ES",
+        "country": "GB",
+        "latitude": "51.543251",
+        "longitude": "-0.007338"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "levallois-perret-centre-commercial-so-ouest",
+        "url": "https://locations.pretamanger.fr/levallois-perret/centre-commercial-so-ouest",
+        "open": true,
+        "name": "So Ouest",
+        "phone_number": "+33141050859",
+        "data_last_updated": "2021-07-10T20:27:52.139497"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "Centre commercial So Ouest 31 rue d'Alsace",
+        "city": "Levallois-Perret",
+        "postal_code": "92300",
+        "country": "FR",
+        "latitude": "48.8928418",
+        "longitude": "2.2970211"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "9:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "mardi": {
+            "open": "9:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "9:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "9:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "9:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "samedi": {
+            "open": "9:00",
+            "close": "20:30",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "9:00",
+            "close": "20:30",
+            "closed": false
+        }
+    }
+}

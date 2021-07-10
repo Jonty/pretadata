@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-1-three-quays-walk",
+        "url": "https://locations.pret.co.uk/london/1-three-quays-walk",
+        "open": true,
+        "name": "Tower Hill",
+        "phone_number": "+442079297408",
+        "data_last_updated": "2021-07-10T20:26:37.035005"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 Three Quays Walk Lower Thames Street",
+        "city": "London",
+        "postal_code": "EC3R 6AH",
+        "country": "GB",
+        "latitude": "51.50813068491801",
+        "longitude": "-0.07928814414012608"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

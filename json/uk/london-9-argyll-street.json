@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-9-argyll-street",
+        "url": "https://locations.pret.co.uk/london/9-argyll-street",
+        "open": true,
+        "name": "Argyll Street",
+        "phone_number": "+442077345117",
+        "data_last_updated": "2021-07-10T20:27:18.323500"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "9 Argyll Street",
+        "city": "London",
+        "postal_code": "W1F 7TG",
+        "country": "GB",
+        "latitude": "51.514751444781425",
+        "longitude": "-0.14059978589648692"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

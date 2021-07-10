@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "birmingham-upper-mall-east",
+        "url": "https://locations.pret.co.uk/birmingham/upper-mall-east",
+        "open": true,
+        "name": "Birmingham, Selfridges",
+        "phone_number": "+441216006957",
+        "data_last_updated": "2021-07-10T20:26:21.110842"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Upper Mall East",
+        "city": "Birmingham",
+        "postal_code": "B5 4BP",
+        "country": "GB",
+        "latitude": "52.4780701",
+        "longitude": "-1.8928407"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "9:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "9:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "11:00",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

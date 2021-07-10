@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-2-metrotech",
+        "url": "https://locations.pret.com/../ny/new-york/2-metrotech",
+        "open": true,
+        "name": "MetroTech",
+        "phone_number": "+13477253758",
+        "data_last_updated": "2021-07-10T20:28:30.693833"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "2 MetroTech Brooklyn, NY",
+        "city": "New York",
+        "postal_code": "11201",
+        "country": "US",
+        "latitude": "40.69331461408332",
+        "longitude": "-73.9856874518524"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

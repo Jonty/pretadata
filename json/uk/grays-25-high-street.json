@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "grays-25-high-street",
+        "url": "https://locations.pret.co.uk/grays/25-high-street",
+        "open": true,
+        "name": "Winchester High Street",
+        "phone_number": "+441962860284",
+        "data_last_updated": "2021-07-10T20:26:30.065253"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "25 High Street",
+        "city": "Grays",
+        "postal_code": "SO23 9BL",
+        "country": "GB",
+        "latitude": "51.47733652942231",
+        "longitude": "0.3231708503410724"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

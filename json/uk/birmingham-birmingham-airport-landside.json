@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "birmingham-birmingham-airport-landside",
+        "url": "https://locations.pret.co.uk/birmingham/birmingham-airport-landside",
+        "open": true,
+        "name": "Birmingham Airport, Landside",
+        "phone_number": "+442079325388",
+        "data_last_updated": "2021-07-10T20:26:19.695818"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Birmingham Airport, Landside Birmingham",
+        "city": "Birmingham",
+        "postal_code": "B26 3QJ",
+        "country": "GB",
+        "latitude": "52.453184",
+        "longitude": "-1.734294"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        }
+    }
+}

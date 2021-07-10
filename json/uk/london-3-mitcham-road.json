@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-3-mitcham-road",
+        "url": "https://locations.pret.co.uk/london/3-mitcham-road",
+        "open": true,
+        "name": "Tooting Broadway",
+        "phone_number": "+442086726215",
+        "data_last_updated": "2021-07-10T20:26:59.618660"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "3 Mitcham Road",
+        "city": "London",
+        "postal_code": "SW17 9PA",
+        "country": "GB",
+        "latitude": "51.42800443458881",
+        "longitude": "-0.1675331120212431"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

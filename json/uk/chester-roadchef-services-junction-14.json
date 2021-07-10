@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "chester-roadchef-services-junction-14",
+        "url": "https://locations.pret.co.uk/chester/roadchef-services-junction-14",
+        "open": true,
+        "name": "Chester Roadchef Services",
+        "phone_number": "+441928728500",
+        "data_last_updated": "2021-07-10T20:26:25.552614"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Roadchef Services, Junction 14 M56 Motorway",
+        "city": "Chester",
+        "postal_code": "CH2 4QZ",
+        "country": "GB",
+        "latitude": "53.26848321960689",
+        "longitude": "-2.803308771925226"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

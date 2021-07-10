@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-40-vauxhall-bridge-road",
+        "url": "https://locations.pret.co.uk/london/40-vauxhall-bridge-road",
+        "open": true,
+        "name": "Vauxhall Bridge Road, 40",
+        "phone_number": "+442078282102",
+        "data_last_updated": "2021-07-10T20:27:03.846282"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "40 Vauxhall Bridge Road",
+        "city": "London",
+        "postal_code": "SW1V 2RX",
+        "country": "GB",
+        "latitude": "51.49032399690882",
+        "longitude": "-0.13261112910041062"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

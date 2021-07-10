@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-296-pentonville-road",
+        "url": "https://locations.pret.co.uk/london/296-pentonville-road",
+        "open": true,
+        "name": "Pentonville Road",
+        "phone_number": "+442079325369",
+        "data_last_updated": "2021-07-10T20:26:58.327148"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "296 Pentonville Road Kings Cross",
+        "city": "London",
+        "postal_code": "N1 9NR",
+        "country": "GB",
+        "latitude": "51.53092671315646",
+        "longitude": "-0.12211597383123829"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        }
+    }
+}

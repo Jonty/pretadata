@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-192-bishopsgate",
+        "url": "https://locations.pret.co.uk/london/192-bishopsgate",
+        "open": true,
+        "name": "192 Bishopsgate",
+        "phone_number": "+442079325272",
+        "data_last_updated": "2021-07-10T20:26:50.688736"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "192 Bishopsgate",
+        "city": "London",
+        "postal_code": "EC2M 4NR",
+        "country": "GB",
+        "latitude": "51.5179121",
+        "longitude": "-0.0797526"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

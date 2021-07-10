@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-7-9-queensway",
+        "url": "https://locations.pret.co.uk/london/7-9-queensway",
+        "open": true,
+        "name": "Queensway Station",
+        "phone_number": "+442072210656",
+        "data_last_updated": "2021-07-10T20:27:13.294271"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "7-9 Queensway London",
+        "city": "London",
+        "postal_code": "W2 4QJ",
+        "country": "GB",
+        "latitude": "51.5106698",
+        "longitude": "-0.1873739"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

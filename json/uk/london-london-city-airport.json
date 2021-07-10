@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-london-city-airport",
+        "url": "https://locations.pret.co.uk/london/london-city-airport",
+        "open": false,
+        "name": "City Airport",
+        "phone_number": "+442079325389",
+        "data_last_updated": "2021-07-10T20:27:21.979390"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "London City Airport Royal Docks",
+        "city": "London",
+        "postal_code": "E16 2PB",
+        "country": "GB",
+        "latitude": "51.50361560837418",
+        "longitude": "0.04976593254091277"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

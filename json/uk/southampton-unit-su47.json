@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "southampton-unit-su47",
+        "url": "https://locations.pret.co.uk/southampton/unit-su47",
+        "open": true,
+        "name": "Southampton, West Quay",
+        "phone_number": "+442380829741",
+        "data_last_updated": "2021-07-10T20:27:47.710640"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit SU47 West Quay",
+        "city": "Southampton",
+        "postal_code": "SO15 1QE",
+        "country": "GB",
+        "latitude": "50.90408705329234",
+        "longitude": "-1.4046357686231126"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": ":0",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

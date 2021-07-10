@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "york-unit-f8",
+        "url": "https://locations.pret.co.uk/york/unit-f8",
+        "open": true,
+        "name": "York, Designer Outlet",
+        "phone_number": "+441904639899",
+        "data_last_updated": "2021-07-10T20:27:50.637347"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit F8 McArthur Glen Designer Outlet",
+        "city": "York",
+        "postal_code": "YO19 4TA",
+        "country": "GB",
+        "latitude": "53.9222232",
+        "longitude": "-1.077677"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "9:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "9:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

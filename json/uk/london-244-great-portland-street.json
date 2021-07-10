@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-244-great-portland-street",
+        "url": "https://locations.pret.co.uk/london/244-great-portland-street",
+        "open": true,
+        "name": "244 Great Portland St",
+        "phone_number": "+442079325301",
+        "data_last_updated": "2021-07-10T20:26:55.016960"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "244 Great Portland Street",
+        "city": "London",
+        "postal_code": "W1W 5QX",
+        "country": "GB",
+        "latitude": "51.52342509841868",
+        "longitude": "-0.14384956013621775"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

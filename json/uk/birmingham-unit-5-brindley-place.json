@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "birmingham-unit-5-brindley-place",
+        "url": "https://locations.pret.co.uk/birmingham/unit-5-brindley-place",
+        "open": true,
+        "name": "Birmingham Brindley Place",
+        "phone_number": "+441216431904",
+        "data_last_updated": "2021-07-10T20:26:20.758518"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit 5 Brindley Place Birmingham",
+        "city": "Birmingham",
+        "postal_code": "B1 2JB",
+        "country": "GB",
+        "latitude": "52.477561352448554",
+        "longitude": "-1.914337774293624"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

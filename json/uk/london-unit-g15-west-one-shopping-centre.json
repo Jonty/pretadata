@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-g15-west-one-shopping-centre",
+        "url": "https://locations.pret.co.uk/london/unit-g15-west-one-shopping-centre",
+        "open": true,
+        "name": "Oxford St, West One",
+        "phone_number": "+442079325280",
+        "data_last_updated": "2021-07-10T20:27:37.848789"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit G15, West One Shopping Centre 381 Oxford Street",
+        "city": "London",
+        "postal_code": "W1C 2JS",
+        "country": "GB",
+        "latitude": "51.5139158",
+        "longitude": "-0.1492465"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:00",
+            "close": "20:30",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-34-36-rue-du-louvre",
+        "url": "https://locations.pretamanger.fr/paris/34-36-rue-du-louvre",
+        "open": true,
+        "name": "Louvre Rivoli",
+        "phone_number": "+33140262902",
+        "data_last_updated": "2021-07-10T20:28:00.473018"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "34-36 rue du Louvre Paris",
+        "city": "Paris",
+        "postal_code": "75001",
+        "country": "FR",
+        "latitude": "48.861823919850835",
+        "longitude": "2.3414673998508917"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

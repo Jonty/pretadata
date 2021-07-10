@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-49-boulevard",
+        "url": "https://locations.pretamanger.fr/paris/49-boulevard",
+        "open": true,
+        "name": "Sorbonne",
+        "phone_number": "+33142018196",
+        "data_last_updated": "2021-07-10T20:28:02.968289"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "49 boulevard Saint-Michel",
+        "city": "Paris",
+        "postal_code": "75005",
+        "country": "FR",
+        "latitude": "48.84855728956041",
+        "longitude": "2.3418616822090144"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "7:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

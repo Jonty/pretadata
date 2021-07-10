@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-237-tottenham-court-road",
+        "url": "https://locations.pret.co.uk/london/237-tottenham-court-road",
+        "open": true,
+        "name": "Tottenham Court Road, 237",
+        "phone_number": "+442079325258",
+        "data_last_updated": "2021-07-10T20:26:54.053012"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "237 Tottenham Court Road",
+        "city": "London",
+        "postal_code": "W1T 7QW",
+        "country": "GB",
+        "latitude": "51.518497547484614",
+        "longitude": "-0.1319090762852082"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

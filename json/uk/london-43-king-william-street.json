@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-43-king-william-street",
+        "url": "https://locations.pret.co.uk/london/43-king-william-street",
+        "open": true,
+        "name": "King William Street",
+        "phone_number": "+442079325217",
+        "data_last_updated": "2021-07-10T20:27:04.376708"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "43 King William Street",
+        "city": "London",
+        "postal_code": "EC4R 9AN",
+        "country": "GB",
+        "latitude": "51.50984092134838",
+        "longitude": "-0.08665421333161172"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

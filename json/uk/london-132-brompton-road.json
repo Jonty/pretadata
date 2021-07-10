@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-132-brompton-road",
+        "url": "https://locations.pret.co.uk/london/132-brompton-road",
+        "open": true,
+        "name": "Brompton Road",
+        "phone_number": "+442079325337",
+        "data_last_updated": "2021-07-10T20:26:43.771734"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "132 Brompton Road",
+        "city": "London",
+        "postal_code": "SW3 1HY",
+        "country": "GB",
+        "latitude": "51.4987559514889",
+        "longitude": "-0.16570165240581858"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "15:00",
+            "closed": false
+        }
+    }
+}

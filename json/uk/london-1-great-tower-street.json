@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-1-great-tower-street",
+        "url": "https://locations.pret.co.uk/london/1-great-tower-street",
+        "open": true,
+        "name": "Great Tower Street",
+        "phone_number": "+442079325265",
+        "data_last_updated": "2021-07-10T20:26:35.835873"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 Great Tower Street",
+        "city": "London",
+        "postal_code": "EC3R 5AA",
+        "country": "GB",
+        "latitude": "51.51021196391272",
+        "longitude": "-0.08258439571819487"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

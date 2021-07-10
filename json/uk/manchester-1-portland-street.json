@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-1-portland-street",
+        "url": "https://locations.pret.co.uk/manchester/1-portland-street",
+        "open": true,
+        "name": "Manchester, Portland Street",
+        "phone_number": "+441612286797",
+        "data_last_updated": "2021-07-10T20:27:40.898190"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 Portland Street",
+        "city": "Manchester",
+        "postal_code": "M1 1RG",
+        "country": "GB",
+        "latitude": "53.4805379",
+        "longitude": "-2.2359663"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

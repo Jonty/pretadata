@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-olympia-exhibition-centre",
+        "url": "https://locations.pret.co.uk/london/olympia-exhibition-centre",
+        "open": true,
+        "name": "Olympia",
+        "phone_number": "+442079325309",
+        "data_last_updated": "2021-07-10T20:27:23.180856"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Olympia Exhibition Centre",
+        "city": "London",
+        "postal_code": "SW5 9TA",
+        "country": "GB",
+        "latitude": "51.49636",
+        "longitude": "-0.210763"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

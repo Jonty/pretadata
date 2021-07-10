@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-59-60-the-mall",
+        "url": "https://locations.pret.co.uk/london/unit-59-60-the-mall",
+        "open": true,
+        "name": "Walthamstow",
+        "phone_number": "+442085203630",
+        "data_last_updated": "2021-07-10T20:27:34.550827"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 59-60 The Mall Walthamstow",
+        "city": "London",
+        "postal_code": "E17 7JR",
+        "country": "GB",
+        "latitude": "51.583617999694056",
+        "longitude": "-0.022393169311532013"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

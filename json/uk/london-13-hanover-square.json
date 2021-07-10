@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-13-hanover-square",
+        "url": "https://locations.pret.co.uk/london/13-hanover-square",
+        "open": true,
+        "name": "Hanover Square",
+        "phone_number": "+442079325464",
+        "data_last_updated": "2021-07-10T20:26:43.225530"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "13 Hanover Square",
+        "city": "London",
+        "postal_code": "W1S 1HN",
+        "country": "GB",
+        "latitude": "51.514517838996944",
+        "longitude": "-0.14390311717929816"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

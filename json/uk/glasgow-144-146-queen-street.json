@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "glasgow-144-146-queen-street",
+        "url": "https://locations.pret.co.uk/glasgow/144-146-queen-street",
+        "open": true,
+        "name": "Glasgow, Queen Street",
+        "phone_number": "+441412217602",
+        "data_last_updated": "2021-07-10T20:26:28.608572"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "144-146 Queen Street",
+        "city": "Glasgow",
+        "postal_code": "G1 3BS",
+        "country": "GB",
+        "latitude": "55.86070365296784",
+        "longitude": "-4.251379101852422"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        }
+    }
+}

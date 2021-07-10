@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-168-188-fulham-palace-road",
+        "url": "https://locations.pret.co.uk/london/168-188-fulham-palace-road",
+        "open": true,
+        "name": "Fulham Palace Road",
+        "phone_number": "+442073810906",
+        "data_last_updated": "2021-07-10T20:26:47.874919"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "168-188 Fulham Palace Road",
+        "city": "London",
+        "postal_code": "W6 9PA",
+        "country": "GB",
+        "latitude": "51.48543527952368",
+        "longitude": "-0.22040826378897815"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

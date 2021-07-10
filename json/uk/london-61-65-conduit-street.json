@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-61-65-conduit-street",
+        "url": "https://locations.pret.co.uk/london/61-65-conduit-street",
+        "open": true,
+        "name": "Conduit Street",
+        "phone_number": "+442074344324",
+        "data_last_updated": "2021-07-10T20:27:09.907680"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "61-65 Conduit Street",
+        "city": "London",
+        "postal_code": "W1S 2GB",
+        "country": "GB",
+        "latitude": "51.51279231577972",
+        "longitude": "-0.14095635287582953"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

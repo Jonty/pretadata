@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-1-ticket-hall",
+        "url": "https://locations.pret.co.uk/london/unit-1-ticket-hall",
+        "open": true,
+        "name": "Tottenham Court Road Tube",
+        "phone_number": "+442072871472",
+        "data_last_updated": "2021-07-10T20:27:27.832197"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit 1, Ticket Hall Tottenham Court Road Tube Station",
+        "city": "London",
+        "postal_code": "W1D 1AN",
+        "country": "GB",
+        "latitude": "51.516558",
+        "longitude": "-0.130813"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "13:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "13:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "13:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "13:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "13:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

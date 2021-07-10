@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-24-farringdon-street-nexus-place",
+        "url": "https://locations.pret.co.uk/london/24-farringdon-street-nexus-place",
+        "open": true,
+        "name": "Farringdon Street",
+        "phone_number": "+442079325450",
+        "data_last_updated": "2021-07-10T20:26:54.219699"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "24 Farringdon Street, Nexus Place",
+        "city": "London",
+        "postal_code": "EC4A 4AB",
+        "country": "GB",
+        "latitude": "51.5157327",
+        "longitude": "-0.1044659"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-old-change-house",
+        "url": "https://locations.pret.co.uk/london/old-change-house",
+        "open": true,
+        "name": "Queen Victoria Street",
+        "phone_number": "+442079325386",
+        "data_last_updated": "2021-07-10T20:27:23.012120"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Old Change House 128 Queen Victoria Street",
+        "city": "London",
+        "postal_code": "EC4V 4BY",
+        "country": "GB",
+        "latitude": "51.51204167709313",
+        "longitude": "-0.0975709766864874"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "dc-washington-dc-1800-m-street-nw",
+        "url": "https://locations.pret.com/../dc/washington-dc/1800-m-street-nw",
+        "open": true,
+        "name": "18th and M",
+        "phone_number": "+12022963648",
+        "data_last_updated": "2021-07-10T20:28:17.568520"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1800 M street, NW",
+        "city": "Washington, DC",
+        "postal_code": "20036",
+        "country": "US",
+        "latitude": "38.9053185",
+        "longitude": "-77.0419495"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

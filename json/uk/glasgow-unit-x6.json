@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "glasgow-unit-x6",
+        "url": "https://locations.pret.co.uk/glasgow/unit-x6",
+        "open": true,
+        "name": "Glasgow, Silverburn",
+        "phone_number": "+441418805829",
+        "data_last_updated": "2021-07-10T20:26:29.893809"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit X6 Silverburn Shopping Centre",
+        "city": "Glasgow",
+        "postal_code": "G53 6AG",
+        "country": "GB",
+        "latitude": "55.823042",
+        "longitude": "-4.342081"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "kent-roadchef-services",
+        "url": "https://locations.pret.co.uk/kent/roadchef-services",
+        "open": true,
+        "name": "Clackett Lane Westbound",
+        "phone_number": "+441959565577",
+        "data_last_updated": "2021-07-10T20:26:32.774177"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Roadchef Services Clacket Lane Westbound,",
+        "city": "Kent",
+        "postal_code": "TN16 2ER",
+        "country": "GB",
+        "latitude": "51.27103193792456",
+        "longitude": "0.03986953527935544"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "21:00",
+            "closed": false
+        }
+    }
+}

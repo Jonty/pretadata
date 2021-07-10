@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "kent-central-hub-nugent-shopping-park",
+        "url": "https://locations.pret.co.uk/kent/central-hub-nugent-shopping-park",
+        "open": true,
+        "name": "Orpington Nugent Shopping Park",
+        "phone_number": "+441689820172",
+        "data_last_updated": "2021-07-10T20:26:32.604016"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Central Hub, Nugent Shopping Park Cray Avenue, Orpington,",
+        "city": "Kent",
+        "postal_code": "BR5 3RP",
+        "country": "GB",
+        "latitude": "51.392985734027015",
+        "longitude": "0.11251064313666959"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-retail-unit-sqp3",
+        "url": "https://locations.pret.co.uk/london/retail-unit-sqp3",
+        "open": true,
+        "name": "South Quay Plaza, Marsh Wall",
+        "phone_number": "+442075311648",
+        "data_last_updated": "2021-07-10T20:27:24.439613"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Retail Unit, SQP3 South Quay Marsh Wall",
+        "city": "London",
+        "postal_code": "E14 9SH",
+        "country": "GB",
+        "latitude": "51.501167703188926",
+        "longitude": "-0.01726570328276722"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

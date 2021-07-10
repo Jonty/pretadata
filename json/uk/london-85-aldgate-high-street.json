@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-85-aldgate-high-street",
+        "url": "https://locations.pret.co.uk/london/85-aldgate-high-street",
+        "open": true,
+        "name": "Aldgate",
+        "phone_number": "+442079325273",
+        "data_last_updated": "2021-07-10T20:27:17.293660"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "85 Aldgate High Street",
+        "city": "London",
+        "postal_code": "EC3N 1LH",
+        "country": "GB",
+        "latitude": "51.51358706750593",
+        "longitude": "-0.07621490698142885"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

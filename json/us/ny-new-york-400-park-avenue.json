@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-400-park-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/400-park-avenue",
+        "open": true,
+        "name": "54th and Park",
+        "phone_number": "+12122074101",
+        "data_last_updated": "2021-07-10T20:28:39.591248"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "400 Park Avenue",
+        "city": "New York",
+        "postal_code": "10022",
+        "country": "US",
+        "latitude": "40.76004960843555",
+        "longitude": "-73.9723335894395"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

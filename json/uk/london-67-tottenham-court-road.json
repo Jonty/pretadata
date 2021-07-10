@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-67-tottenham-court-road",
+        "url": "https://locations.pret.co.uk/london/67-tottenham-court-road",
+        "open": true,
+        "name": "67 Tottenham Court Road",
+        "phone_number": "+442079325205",
+        "data_last_updated": "2021-07-10T20:27:11.770057"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "67 Tottenham Court Road",
+        "city": "London",
+        "postal_code": "W1T 2EY",
+        "country": "GB",
+        "latitude": "51.52026271228158",
+        "longitude": "-0.13423968752992232"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "10:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

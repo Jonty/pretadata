@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-manchester-business-school",
+        "url": "https://locations.pret.co.uk/manchester/manchester-business-school",
+        "open": true,
+        "name": "Manchester, University Square",
+        "phone_number": "+441612731815",
+        "data_last_updated": "2021-07-10T20:27:41.880755"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Manchester Business School Unit 8 University Green",
+        "city": "Manchester",
+        "postal_code": "M13 9GP",
+        "country": "GB",
+        "latitude": "53.4679322",
+        "longitude": "-2.2353228"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

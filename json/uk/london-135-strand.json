@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-135-strand",
+        "url": "https://locations.pret.co.uk/london/135-strand",
+        "open": true,
+        "name": "135 Strand",
+        "phone_number": "+442079325271",
+        "data_last_updated": "2021-07-10T20:26:44.270430"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "135 Strand",
+        "city": "London",
+        "postal_code": "WC2R 1HH",
+        "country": "GB",
+        "latitude": "51.51133765262855",
+        "longitude": "-0.11865647299899473"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "21:00",
+            "closed": false
+        }
+    }
+}

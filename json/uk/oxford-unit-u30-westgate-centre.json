@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "oxford-unit-u30-westgate-centre",
+        "url": "https://locations.pret.co.uk/oxford/unit-u30-westgate-centre",
+        "open": true,
+        "name": "Oxford, Westgate Centre",
+        "phone_number": "+441865721055",
+        "data_last_updated": "2021-07-10T20:27:45.643528"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit U30, Westgate Centre",
+        "city": "Oxford",
+        "postal_code": "OX1 1NZ",
+        "country": "GB",
+        "latitude": "51.74968916515069",
+        "longitude": "-1.2615181398811282"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

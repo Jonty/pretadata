@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-london-bridge-station",
+        "url": "https://locations.pret.co.uk/london/london-bridge-station",
+        "open": true,
+        "name": "London Bridge Station",
+        "phone_number": "+442073780366",
+        "data_last_updated": "2021-07-10T20:27:21.815505"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "London Bridge Station Railway Approach",
+        "city": "London",
+        "postal_code": "SE1 9SP",
+        "country": "GB",
+        "latitude": "51.50418396837323",
+        "longitude": "-0.08473699438337201"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "22:00",
+            "closed": false
+        }
+    }
+}

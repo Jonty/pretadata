@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "il-chicago-5706-s-university-ave",
+        "url": "https://locations.pret.com/il/chicago/5706-s-university-ave",
+        "open": true,
+        "name": "University of Chicago",
+        "phone_number": "+17737026745",
+        "data_last_updated": "2021-07-10T20:28:12.225383"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "5706 S University Ave",
+        "city": "Chicago",
+        "postal_code": "60637",
+        "country": "US",
+        "latitude": "41.791142",
+        "longitude": "-87.598305"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

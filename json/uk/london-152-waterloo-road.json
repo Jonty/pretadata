@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-152-waterloo-road",
+        "url": "https://locations.pret.co.uk/london/152-waterloo-road",
+        "open": true,
+        "name": "Waterloo Road",
+        "phone_number": "+442072611768",
+        "data_last_updated": "2021-07-10T20:26:46.288024"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "152 Waterloo Road",
+        "city": "London",
+        "postal_code": "SE1 7AA",
+        "country": "GB",
+        "latitude": "51.5023315",
+        "longitude": "-0.1104033"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "19:30",
+            "closed": false
+        }
+    }
+}

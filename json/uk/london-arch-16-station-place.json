@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-arch-16-station-place",
+        "url": "https://locations.pret.co.uk/london/arch-16-station-place",
+        "open": true,
+        "name": "Finsbury Park",
+        "phone_number": "+442072637598",
+        "data_last_updated": "2021-07-10T20:27:20.226192"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Arch 16 Station Place",
+        "city": "London",
+        "postal_code": "N4 2DQ",
+        "country": "GB",
+        "latitude": "51.5649852",
+        "longitude": "-0.1058042"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

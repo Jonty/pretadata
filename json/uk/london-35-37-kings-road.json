@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-35-37-kings-road",
+        "url": "https://locations.pret.co.uk/london/35-37-kings-road",
+        "open": true,
+        "name": "Kings Road, 35-37",
+        "phone_number": "+442077309655",
+        "data_last_updated": "2021-07-10T20:27:01.725024"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "35-37 Kings Road",
+        "city": "London",
+        "postal_code": "SW3 4NB",
+        "country": "GB",
+        "latitude": "51.4902682652849",
+        "longitude": "-0.16183322774719455"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

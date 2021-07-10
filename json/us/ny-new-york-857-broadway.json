@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-857-broadway",
+        "url": "https://locations.pret.com/../ny/new-york/857-broadway",
+        "open": true,
+        "name": "Union Square",
+        "phone_number": "+16468385526",
+        "data_last_updated": "2021-07-10T20:28:48.481978"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "857 Broadway",
+        "city": "New York",
+        "postal_code": "10003",
+        "country": "US",
+        "latitude": "40.73737440656133",
+        "longitude": "-73.99055598235815"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

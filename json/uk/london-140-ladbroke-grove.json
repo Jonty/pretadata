@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-140-ladbroke-grove",
+        "url": "https://locations.pret.co.uk/london/140-ladbroke-grove",
+        "open": true,
+        "name": "Ladbroke Grove",
+        "phone_number": "+442089604281",
+        "data_last_updated": "2021-07-10T20:26:45.110086"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "140 Ladbroke Grove",
+        "city": "London",
+        "postal_code": "W10 5NE",
+        "country": "GB",
+        "latitude": "51.51796366045833",
+        "longitude": "-0.21011169839249222"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "15:30",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-128-shoreditch-high-street",
+        "url": "https://locations.pret.co.uk/london/128-shoreditch-high-street",
+        "open": true,
+        "name": "Shoreditch High Street, 128",
+        "phone_number": "+442077292713",
+        "data_last_updated": "2021-07-10T20:26:42.850882"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "128 Shoreditch High Street",
+        "city": "London",
+        "postal_code": "E1 6JE",
+        "country": "GB",
+        "latitude": "51.526773343667266",
+        "longitude": "-0.07831551901436695"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

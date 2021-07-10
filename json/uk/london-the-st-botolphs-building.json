@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-the-st-botolphs-building",
+        "url": "https://locations.pret.co.uk/london/the-st-botolphs-building",
+        "open": true,
+        "name": "St Botolph",
+        "phone_number": "+442072831118",
+        "data_last_updated": "2021-07-10T20:27:25.544260"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "The St Botolphs Building 2 White Kennett Street, London",
+        "city": "London",
+        "postal_code": "E1 7BS",
+        "country": "GB",
+        "latitude": "51.5150023",
+        "longitude": "-0.076766"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

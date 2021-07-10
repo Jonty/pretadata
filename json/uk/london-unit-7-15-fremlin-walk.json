@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-7-15-fremlin-walk",
+        "url": "https://locations.pret.co.uk/london/unit-7-(15-fremlin-walk)",
+        "open": true,
+        "name": "Maidstone",
+        "phone_number": "+441622664747",
+        "data_last_updated": "2021-07-10T20:27:35.230295"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 7 (15 Fremlin Walk) Fremlin Walk Shopping Centre",
+        "city": "London",
+        "postal_code": "ME14 1QG",
+        "country": "GB",
+        "latitude": "51.275208025791095",
+        "longitude": "0.5212304141034929"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

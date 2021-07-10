@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "manchester-27-cross-street",
+        "url": "https://locations.pret.co.uk/manchester/27-cross-street",
+        "open": true,
+        "name": "Manchester, Cross St",
+        "phone_number": "+441618395602",
+        "data_last_updated": "2021-07-10T20:27:41.110853"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "27 Cross Street",
+        "city": "Manchester",
+        "postal_code": "M2 1WL",
+        "country": "GB",
+        "latitude": "53.48183781882207",
+        "longitude": "-2.2442539168011177"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

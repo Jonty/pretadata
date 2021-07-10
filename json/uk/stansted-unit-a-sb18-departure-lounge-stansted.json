@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "stansted-unit-a-sb18-departure-lounge-stansted",
+        "url": "https://locations.pret.co.uk/stansted/unit-a-sb18-departure-lounge-stansted",
+        "open": false,
+        "name": "Stansted Airport Airside",
+        "phone_number": "+441279681950",
+        "data_last_updated": "2021-07-10T20:27:48.404650"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit A SB18, Departure Lounge Stansted",
+        "city": "Stansted",
+        "postal_code": "CM24 8QW",
+        "country": "GB",
+        "latitude": "51.8860181",
+        "longitude": "0.2388661"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

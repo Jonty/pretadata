@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "hull-4-king-edward-street",
+        "url": "https://locations.pret.co.uk/hull/4-king-edward-street",
+        "open": true,
+        "name": "Hull",
+        "phone_number": "",
+        "data_last_updated": "2021-07-10T20:26:31.928744"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "4 King Edward Street",
+        "city": "Hull",
+        "postal_code": "HU1 3SS",
+        "country": "GB",
+        "latitude": "53.74437117422093",
+        "longitude": "-0.33935985616528885"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

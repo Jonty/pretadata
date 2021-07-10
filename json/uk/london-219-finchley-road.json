@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-219-finchley-road",
+        "url": "https://locations.pret.co.uk/london/219-finchley-road",
+        "open": true,
+        "name": "Finchley Road",
+        "phone_number": "+442073723010",
+        "data_last_updated": "2021-07-10T20:26:53.246996"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "219 Finchley Road",
+        "city": "London",
+        "postal_code": "NW3 6LP",
+        "country": "GB",
+        "latitude": "51.54688842995243",
+        "longitude": "-0.18003544434951557"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

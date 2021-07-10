@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-300-park-ave",
+        "url": "https://locations.pret.com/../ny/new-york/300-park-ave",
+        "open": false,
+        "name": "49th and Park",
+        "phone_number": "+19176757050",
+        "data_last_updated": "2021-07-10T20:28:35.270138"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "300 Park Ave",
+        "city": "New York",
+        "postal_code": "10022",
+        "country": "US",
+        "latitude": "40.757183304519245",
+        "longitude": "-73.97466297677572"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

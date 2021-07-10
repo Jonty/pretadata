@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-47-49-tooley-street",
+        "url": "https://locations.pret.co.uk/london/47-49-tooley-street",
+        "open": true,
+        "name": "Tooley Street",
+        "phone_number": "+442079325366",
+        "data_last_updated": "2021-07-10T20:27:05.295423"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "47-49 Tooley Street",
+        "city": "London",
+        "postal_code": "SE1 2QN",
+        "country": "GB",
+        "latitude": "51.5055231",
+        "longitude": "-0.0850881"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

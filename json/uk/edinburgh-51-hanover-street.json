@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "edinburgh-51-hanover-street",
+        "url": "https://locations.pret.co.uk/edinburgh/51-hanover-street",
+        "open": true,
+        "name": "Edinburgh, Hanover Street",
+        "phone_number": "+441312609727",
+        "data_last_updated": "2021-07-10T20:26:26.567268"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "51 Hanover Street",
+        "city": "Edinburgh",
+        "postal_code": "EH2 2PJ",
+        "country": "GB",
+        "latitude": "55.95317600168902",
+        "longitude": "-3.196821527132756"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

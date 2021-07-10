@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-blackfriars-station",
+        "url": "https://locations.pret.co.uk/london/blackfriars-station",
+        "open": true,
+        "name": "Blackfriars Station Petit Pret",
+        "phone_number": "+442072364660",
+        "data_last_updated": "2021-07-10T20:27:20.862677"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "Blackfriars Station",
+        "city": "London",
+        "postal_code": "EC4V 4DD",
+        "country": "GB",
+        "latitude": "51.51165422590373",
+        "longitude": "-0.10374705860775046"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "14:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

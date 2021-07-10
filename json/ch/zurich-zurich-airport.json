@@ -1,0 +1,57 @@
+{
+    "details": {
+        "id": "zurich-zurich-airport",
+        "url": "https://www.pret.ch/en-ch/find-us",
+        "open": true,
+        "name": "Zürich Airport",
+        "phone_number": null,
+        "data_last_updated": "2021-07-10T20:27:00.561142"
+    },
+    "facilities": {
+    },
+    "location": {
+        "street": "Flughafen, Bülach",
+        "city": "Zürich",
+        "postal_code": null,
+        "country": "CH",
+        "latitude": "47.4510877",
+        "longitude": "8.5666925"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "5:30",
+            "close": "22:00",
+            "closed": false
+        }
+    }
+}

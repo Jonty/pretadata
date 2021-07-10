@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "glasgow-34-sauchiehall-street",
+        "url": "https://locations.pret.co.uk/glasgow/34-sauchiehall-street",
+        "open": true,
+        "name": "Glasgow, Sauchiehall Street",
+        "phone_number": "+441413339647",
+        "data_last_updated": "2021-07-10T20:26:29.203588"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "34 Sauchiehall Street",
+        "city": "Glasgow",
+        "postal_code": "G2 3AH",
+        "country": "GB",
+        "latitude": "55.86452707176634",
+        "longitude": "-4.25432350429916"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

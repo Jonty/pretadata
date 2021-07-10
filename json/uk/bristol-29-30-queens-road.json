@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "bristol-29-30-queens-road",
+        "url": "https://locations.pret.co.uk/bristol/29-30-queens-road",
+        "open": true,
+        "name": "Bristol, Queens Road",
+        "phone_number": "+441179293885",
+        "data_last_updated": "2021-07-10T20:26:21.876266"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "29-30 Queens Road",
+        "city": "Bristol",
+        "postal_code": "BS8 1QE",
+        "country": "GB",
+        "latitude": "51.4556914",
+        "longitude": "-2.6051882"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

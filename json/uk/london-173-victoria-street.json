@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-173-victoria-street",
+        "url": "https://locations.pret.co.uk/london/173-victoria-street",
+        "open": true,
+        "name": "173 Victoria Street",
+        "phone_number": "+442079325224",
+        "data_last_updated": "2021-07-10T20:26:48.973505"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "173 Victoria Street",
+        "city": "London",
+        "postal_code": "SW1E 5NA",
+        "country": "GB",
+        "latitude": "51.4963595",
+        "longitude": "-0.1421133"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:30",
+            "close": "19:00",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-1-charlotte-place",
+        "url": "https://locations.pret.co.uk/london/1-charlotte-place",
+        "open": true,
+        "name": "Charlotte Place",
+        "phone_number": "+442079325239",
+        "data_last_updated": "2021-07-10T20:26:34.981079"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 Charlotte Place",
+        "city": "London",
+        "postal_code": "W1T 1SA",
+        "country": "GB",
+        "latitude": "51.519036314034565",
+        "longitude": "-0.13626194728909136"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-129a-wilton-road",
+        "url": "https://locations.pret.co.uk/london/129a-wilton-road",
+        "open": true,
+        "name": "Wilton Road",
+        "phone_number": "+442076300146",
+        "data_last_updated": "2021-07-10T20:26:43.029915"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "129a Wilton Road",
+        "city": "London",
+        "postal_code": "SW1V 1JZ",
+        "country": "GB",
+        "latitude": "51.49432907315133",
+        "longitude": "-0.14248478538548603"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:30",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

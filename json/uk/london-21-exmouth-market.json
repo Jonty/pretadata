@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-21-exmouth-market",
+        "url": "https://locations.pret.co.uk/london/21-exmouth-market",
+        "open": true,
+        "name": "Exmouth Market",
+        "phone_number": "+442078377189",
+        "data_last_updated": "2021-07-10T20:26:52.475247"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "21 Exmouth Market London",
+        "city": "London",
+        "postal_code": "EC1R 4QD",
+        "country": "GB",
+        "latitude": "51.525653896189745",
+        "longitude": "-0.10992050089086547"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "wednesday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "thursday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

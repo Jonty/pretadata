@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "roissy-en-france-terminal-3-10532",
+        "url": "https://locations.pretamanger.fr/roissy-en-france/terminal-3-10532",
+        "open": true,
+        "name": "Paris-CDG, T3 Schengen",
+        "phone_number": "+33174371076",
+        "data_last_updated": "2021-07-10T20:28:09.532711"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Terminal 3 A\u00e9roport de Paris-Charles-de-Gaulle",
+        "city": "Roissy-en-France",
+        "postal_code": "95700",
+        "country": "FR",
+        "latitude": "49.0096739",
+        "longitude": "2.547966"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "5:00",
+            "close": "23:59",
+            "closed": false
+        },
+        "mardi": {
+            "open": "5:00",
+            "close": "23:59",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "5:00",
+            "close": "23:59",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "5:00",
+            "close": "23:59",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "5:00",
+            "close": "23:59",
+            "closed": false
+        },
+        "samedi": {
+            "open": "5:00",
+            "close": "23:59",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "5:00",
+            "close": "23:59",
+            "closed": false
+        }
+    }
+}

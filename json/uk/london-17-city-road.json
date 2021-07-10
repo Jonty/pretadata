@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-17-city-road",
+        "url": "https://locations.pret.co.uk/london/17-city-road",
+        "open": true,
+        "name": "City Road, 17",
+        "phone_number": "+442073746634",
+        "data_last_updated": "2021-07-10T20:26:48.257400"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": false,
+        "wifi": false
+    },
+    "location": {
+        "street": "17 City Road London",
+        "city": "London",
+        "postal_code": "EC1Y 1AG",
+        "country": "GB",
+        "latitude": "51.52274943475013",
+        "longitude": "-0.0869309671472962"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

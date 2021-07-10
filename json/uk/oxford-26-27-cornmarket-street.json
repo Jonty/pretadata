@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "oxford-26-27-cornmarket-street",
+        "url": "https://locations.pret.co.uk/oxford/26-27-cornmarket-street",
+        "open": true,
+        "name": "Oxford, 26-27 Cornmarket",
+        "phone_number": "+441865251864",
+        "data_last_updated": "2021-07-10T20:27:45.462280"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "26-27 Cornmarket Street",
+        "city": "Oxford",
+        "postal_code": "OX1 3EY",
+        "country": "GB",
+        "latitude": "51.75343488155511",
+        "longitude": "-1.2583502918362255"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "19:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

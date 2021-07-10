@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "greenhithe-unit-l0006",
+        "url": "https://locations.pret.co.uk/greenhithe/unit-l0006",
+        "open": true,
+        "name": "Bluewater",
+        "phone_number": "+441322624988",
+        "data_last_updated": "2021-07-10T20:26:30.442234"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit L0006 Eastern Mall",
+        "city": "Greenhithe",
+        "postal_code": "DA9 9SH",
+        "country": "GB",
+        "latitude": "51.4396474",
+        "longitude": "0.2720937"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

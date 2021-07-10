@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-13-14-high-street",
+        "url": "https://locations.pret.co.uk/london/13-14-high-street",
+        "open": true,
+        "name": "Chelmsford",
+        "phone_number": "+441245269224",
+        "data_last_updated": "2021-07-10T20:26:43.383570"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "13-14 High Street",
+        "city": "London",
+        "postal_code": "CM1 1BE",
+        "country": "GB",
+        "latitude": "51.73379056158017",
+        "longitude": "0.47372350429917276"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

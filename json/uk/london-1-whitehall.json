@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-1-whitehall",
+        "url": "https://locations.pret.co.uk/london/1-whitehall",
+        "open": true,
+        "name": "Whitehall",
+        "phone_number": "+442079325216",
+        "data_last_updated": "2021-07-10T20:26:37.205369"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "1 Whitehall",
+        "city": "London",
+        "postal_code": "SW1A 2DD",
+        "country": "GB",
+        "latitude": "51.507187501094535",
+        "longitude": "-0.12724391095206844"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

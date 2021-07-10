@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "glasgow-braehead-shopping-centre-unit-c6",
+        "url": "https://locations.pret.co.uk/glasgow/braehead-shopping-centre-unit-c6",
+        "open": true,
+        "name": "Glasgow, Braehead",
+        "phone_number": "+441418867312",
+        "data_last_updated": "2021-07-10T20:26:29.530578"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Braehead Shopping Centre, Unit C6",
+        "city": "Glasgow",
+        "postal_code": "G51 4BP",
+        "country": "GB",
+        "latitude": "55.87597972358765",
+        "longitude": "-4.364834186805204"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:30",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

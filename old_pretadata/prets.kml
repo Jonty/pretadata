@@ -1,0 +1,1763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>319 High Holborn</name>
+            <Point id="geom_0">
+                <coordinates>-0.112728300111,51.5181546133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>Crown Passage</name>
+            <Point id="geom_1">
+                <coordinates>-0.137658432518,51.5056174817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>Eldon Street</name>
+            <Point id="geom_2">
+                <coordinates>-0.0846410241461,51.5181940066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>Bow Lane</name>
+            <Point id="geom_3">
+                <coordinates>-0.0934478403844,51.5133224034,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>St Martins Lane</name>
+            <Point id="geom_4">
+                <coordinates>-0.127354845825,51.5116176617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>Regent Street</name>
+            <Point id="geom_5">
+                <coordinates>-0.142231851844,51.5162469239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>Marylebone High Street</name>
+            <Point id="geom_6">
+                <coordinates>-0.151498428449,51.5188478347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>Heathrow, Terminal 1</name>
+            <Point id="geom_7">
+                <coordinates>-0.449426243793,51.4720362572,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>163 Piccadilly</name>
+            <Point id="geom_8">
+                <coordinates>-0.139914558156,51.5079720448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>Oxford, 2 Cornmarket</name>
+            <Point id="geom_9">
+                <coordinates>-1.25769948858,51.752146191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>240 High Holborn</name>
+            <Point id="geom_10">
+                <coordinates>-0.119036661608,51.5175588662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>Leather Lane</name>
+            <Point id="geom_11">
+                <coordinates>-0.108944785894,51.5188182154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>Baker Street</name>
+            <Point id="geom_12">
+                <coordinates>-0.156883515235,51.5213314271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>100 Tottenham Court Road</name>
+            <Point id="geom_13">
+                <coordinates>-0.136345463723,51.5225242079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>Marble Arch</name>
+            <Point id="geom_14">
+                <coordinates>-0.155801890891,51.5138854514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>Cambridge</name>
+            <Point id="geom_15">
+                <coordinates>0.121323232394,52.2053237455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>Birmingham, New Street</name>
+            <Point id="geom_16">
+                <coordinates>-1.8998657079,52.4793032974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>Turnmill Street</name>
+            <Point id="geom_17">
+                <coordinates>-0.104258097853,51.5202792081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>41 Piccadilly</name>
+            <Point id="geom_18">
+                <coordinates>-0.137826571131,51.5088299163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>Villiers Street</name>
+            <Point id="geom_19">
+                <coordinates>-0.123735378076,51.5082070105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>Canary Wharf, Cabot Place</name>
+            <Point id="geom_20">
+                <coordinates>-0.0203192567211,51.5050283818,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>Oxford Street</name>
+            <Point id="geom_21">
+                <coordinates>-0.133106703885,51.5163351758,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>Hammersmith, Kings Street</name>
+            <Point id="geom_22">
+                <coordinates>-0.22568071795,51.4930091549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>Kensington Arcade</name>
+            <Point id="geom_23">
+                <coordinates>-0.192524,51.50071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>421 Strand</name>
+            <Point id="geom_24">
+                <coordinates>-0.12337114745,51.509870454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>Soho</name>
+            <Point id="geom_25">
+                <coordinates>-0.133622081494,51.5126660523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>Kingsway</name>
+            <Point id="geom_26">
+                <coordinates>-0.118378222039,51.5140859312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>Great Tower Street</name>
+            <Point id="geom_27">
+                <coordinates>-0.0825319718049,51.5102262018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>52 Cannon Street</name>
+            <Point id="geom_28">
+                <coordinates>-0.092619838099,51.5120034153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>Liverpool Street</name>
+            <Point id="geom_29">
+                <coordinates>-0.082559,51.517399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>New Bridge Street</name>
+            <Point id="geom_30">
+                <coordinates>-0.104080282454,51.513599393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>Bicester Village</name>
+            <Point id="geom_31">
+                <coordinates>-1.1565427091,51.8923665989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>Leeds, Bond Street</name>
+            <Point id="geom_32">
+                <coordinates>-1.54591140995,53.7975250491,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>135 Strand</name>
+            <Point id="geom_33">
+                <coordinates>-0.118865231606,51.5112310396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>192 Bishopsgate</name>
+            <Point id="geom_34">
+                <coordinates>-0.0796516968261,51.5181032313,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>Aldgate</name>
+            <Point id="geom_35">
+                <coordinates>-0.0761899104345,51.5135626113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>Broadwick Street</name>
+            <Point id="geom_36">
+                <coordinates>-0.136316193364,51.5133420463,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>Broadgate</name>
+            <Point id="geom_37">
+                <coordinates>-0.0795350438882,51.5195253979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>Manchester, Cross St</name>
+            <Point id="geom_38">
+                <coordinates>-2.24411082265,53.4820912508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>Oxford St, West One</name>
+            <Point id="geom_39">
+                <coordinates>-0.149232604637,51.514092946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>York, Designer Outlet</name>
+            <Point id="geom_40">
+                <coordinates>-1.077609,53.922081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>Winchester House</name>
+            <Point id="geom_41">
+                <coordinates>-0.0841262610144,51.5160047651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>Canary Wharf, Westferry</name>
+            <Point id="geom_42">
+                <coordinates>-0.0262944002567,51.5063225026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>Bluewater</name>
+            <Point id="geom_43">
+                <coordinates>0.272502698078,51.4393232109,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>135 Cannon Street</name>
+            <Point id="geom_44">
+                <coordinates>-0.0881874972307,51.5113117596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>Ludgate Hill</name>
+            <Point id="geom_45">
+                <coordinates>-0.101301266837,51.5137169107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>St Mary Axe</name>
+            <Point id="geom_46">
+                <coordinates>-0.0810663332971,51.5145839601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>Nottingham, High Street</name>
+            <Point id="geom_47">
+                <coordinates>-1.14756278991,52.9532687322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>Bristol, Queens Road</name>
+            <Point id="geom_48">
+                <coordinates>-2.605707,51.455921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>Stamford Street</name>
+            <Point id="geom_49">
+                <coordinates>-0.107730382056,51.5071090337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>Great Marlborough Street</name>
+            <Point id="geom_50">
+                <coordinates>-0.139679,51.513769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>Birmingham, Cherry Street</name>
+            <Point id="geom_51">
+                <coordinates>-1.89738193478,52.480601413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>Grays Inn Road</name>
+            <Point id="geom_52">
+                <coordinates>-0.113031365446,51.521492263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>Glasgow, Sauchiehall Street</name>
+            <Point id="geom_53">
+                <coordinates>-4.25423759641,55.8643927272,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>Orchard Street</name>
+            <Point id="geom_54">
+                <coordinates>-0.15451674396,51.5151087108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>244 Great Portland St</name>
+            <Point id="geom_55">
+                <coordinates>-0.143861917465,51.5233867862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>Goswell Road</name>
+            <Point id="geom_56">
+                <coordinates>-0.0984783304686,51.5231749121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>Theobalds Road</name>
+            <Point id="geom_57">
+                <coordinates>-0.117173,51.520408,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>Glasgow, Bothwell Street</name>
+            <Point id="geom_58">
+                <coordinates>-4.261258,55.86115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>Milton Keynes, Intu</name>
+            <Point id="geom_59">
+                <coordinates>-0.758403421342,52.0412541902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>Euston Tower</name>
+            <Point id="geom_60">
+                <coordinates>-0.139629843885,51.525077162,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>Holborn Viaduct</name>
+            <Point id="geom_61">
+                <coordinates>-0.103661117399,51.5166261772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>Ropemaker Street</name>
+            <Point id="geom_62">
+                <coordinates>-0.089758,51.518985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>Edinburgh, Shandwick Place</name>
+            <Point id="geom_63">
+                <coordinates>-3.21022069183,55.9493986145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>Reading, The Oracle Centre</name>
+            <Point id="geom_64">
+                <coordinates>-0.970643581074,51.4552030839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>Victoria Station</name>
+            <Point id="geom_65">
+                <coordinates>-0.144879634996,51.4960333925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>Edinburgh, Castle Street</name>
+            <Point id="geom_66">
+                <coordinates>-3.20316332974,55.9519967919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>Notting Hill Gate</name>
+            <Point id="geom_67">
+                <coordinates>-0.196808,51.508891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>143 Fleet Street</name>
+            <Point id="geom_68">
+                <coordinates>-0.107261145686,51.5143066036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>Long Acre</name>
+            <Point id="geom_69">
+                <coordinates>-0.122915,51.513926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>Albemarle Street</name>
+            <Point id="geom_70">
+                <coordinates>-0.141732158762,51.5086885436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>Leeds, Infirmary Street</name>
+            <Point id="geom_71">
+                <coordinates>-1.54842505686,53.7975402008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>Tothill Street</name>
+            <Point id="geom_72">
+                <coordinates>-0.13248,51.499647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>141 Cheapside</name>
+            <Point id="geom_73">
+                <coordinates>-0.09612,51.514575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>Putney High Street</name>
+            <Point id="geom_74">
+                <coordinates>-0.21621589399,51.462388031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>182 Strand</name>
+            <Point id="geom_75">
+                <coordinates>-0.114706630988,51.5125954996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>York, Parliament Street</name>
+            <Point id="geom_76">
+                <coordinates>-1.08140319343,53.959013131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>Frith Street</name>
+            <Point id="geom_77">
+                <coordinates>-0.131918930333,51.5138861617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>Brighton, North Street</name>
+            <Point id="geom_78">
+                <coordinates>-0.144146442052,50.8236030221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>Brompton Road</name>
+            <Point id="geom_79">
+                <coordinates>-0.165685596314,51.4987362781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>Edinburgh, Hanover Street</name>
+            <Point id="geom_80">
+                <coordinates>-3.19684488813,55.9531218323,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>Liverpool Street Station</name>
+            <Point id="geom_81">
+                <coordinates>-0.082173,51.518305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>136 Great Portland Street</name>
+            <Point id="geom_82">
+                <coordinates>-0.142614204267,51.5202340187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>America Square</name>
+            <Point id="geom_83">
+                <coordinates>-0.0756839548004,51.5114211209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>City Road</name>
+            <Point id="geom_84">
+                <coordinates>-0.0873620329688,51.5244862466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>Stansted Airport, Airside</name>
+            <Point id="geom_85">
+                <coordinates>0.261067106244,51.8904483896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>Trafalgar Square North</name>
+            <Point id="geom_86">
+                <coordinates>-0.12689665526,51.5093632362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>Canary Wharf, Jubilee Place</name>
+            <Point id="geom_87">
+                <coordinates>-0.018737034401,51.5025770773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>Fenchurch Street</name>
+            <Point id="geom_88">
+                <coordinates>-0.079726,51.512165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>Kingston, Eden Walk</name>
+            <Point id="geom_89">
+                <coordinates>-0.303459388214,51.4096220485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>Trafalgar Square South</name>
+            <Point id="geom_90">
+                <coordinates>-0.128631,51.507312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>Cavendish Square</name>
+            <Point id="geom_91">
+                <coordinates>-0.144161544966,51.5160162325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>Newcastle, Grainger Street</name>
+            <Point id="geom_92">
+                <coordinates>-1.613508,54.973944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>Uxbridge, High Street</name>
+            <Point id="geom_93">
+                <coordinates>-0.479175497961,51.5460614141,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>Bromley High Street</name>
+            <Point id="geom_94">
+                <coordinates>0.015237,51.402843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>Norwich, Haymarket</name>
+            <Point id="geom_95">
+                <coordinates>1.293484,52.627075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>Croydon, North End</name>
+            <Point id="geom_96">
+                <coordinates>-0.102337,51.376034,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>Luton Airport</name>
+            <Point id="geom_97">
+                <coordinates>-0.378037203322,51.8776563895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>St John Street, 3-5</name>
+            <Point id="geom_98">
+                <coordinates>-0.101993174825,51.5199840979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>Canary Wharf, The Mall</name>
+            <Point id="geom_99">
+                <coordinates>-0.0184612095966,51.5048819014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>Lakeside Shopping Centre</name>
+            <Point id="geom_100">
+                <coordinates>0.283779158976,51.4867875297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>Russell Square</name>
+            <Point id="geom_101">
+                <coordinates>-0.124669199952,51.5232591685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>Canary Wharf, Canada Place</name>
+            <Point id="geom_102">
+                <coordinates>-0.0166050944887,51.5038899627,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>Finsbury Square</name>
+            <Point id="geom_103">
+                <coordinates>-0.0874043075257,51.520905749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>Tooley Street</name>
+            <Point id="geom_104">
+                <coordinates>-0.0849846508957,51.5055614777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>Buckingham Palace Road</name>
+            <Point id="geom_105">
+                <coordinates>-0.146790556227,51.4943733095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>South Kensington</name>
+            <Point id="geom_106">
+                <coordinates>-0.174116786884,51.4933910062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>Pentonville Road</name>
+            <Point id="geom_107">
+                <coordinates>-0.122085115293,51.5309058843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>Bath, Stall Street</name>
+            <Point id="geom_108">
+                <coordinates>-2.36034846703,51.3814582011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>Guildford, Swan Lane</name>
+            <Point id="geom_109">
+                <coordinates>-0.574378058536,51.236308033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>Canary Wharf, Tower Kiosk</name>
+            <Point id="geom_110">
+                <coordinates>-0.0190242926923,51.5049077429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>Fulham Broadway</name>
+            <Point id="geom_111">
+                <coordinates>-0.194497,51.480182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>Coventry Street</name>
+            <Point id="geom_112">
+                <coordinates>-0.131650548375,51.510230848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>Leeds, Lands Lane</name>
+            <Point id="geom_113">
+                <coordinates>-1.54351787439,53.797768702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>Byward Street</name>
+            <Point id="geom_114">
+                <coordinates>-0.0785991842118,51.5097702172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>Paternoster Square</name>
+            <Point id="geom_115">
+                <coordinates>-0.0994126935506,51.5146332339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>Newcastle, Northumberland St</name>
+            <Point id="geom_116">
+                <coordinates>-1.6133086005,54.9768877015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>Birmingham, Selfridges</name>
+            <Point id="geom_117">
+                <coordinates>-1.89289721273,52.4778346764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>Heathrow, Terminal 3</name>
+            <Point id="geom_118">
+                <coordinates>-0.457607752504,51.4699996291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>Manchester, Trafford Centre</name>
+            <Point id="geom_119">
+                <coordinates>-2.348267,53.466096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>Canterbury, The Parade</name>
+            <Point id="geom_120">
+                <coordinates>1.08060539902,51.2787077128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>Euston Station Piazza</name>
+            <Point id="geom_121">
+                <coordinates>-0.132828713853,51.5277810054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>Whitehall</name>
+            <Point id="geom_122">
+                <coordinates>-0.127282,51.507207,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>Gatwick, South Terminal</name>
+            <Point id="geom_123">
+                <coordinates>-0.163,51.1568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>Euston Road</name>
+            <Point id="geom_124">
+                <coordinates>-0.127639720809,51.5283555187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>Cardiff, Bridge Street Arcade</name>
+            <Point id="geom_125">
+                <coordinates>-3.17449002608,51.4794889845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>Southampton Row</name>
+            <Point id="geom_126">
+                <coordinates>-0.122416,51.520358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>Glasgow, Gordon Street</name>
+            <Point id="geom_127">
+                <coordinates>-4.25543019258,55.8603991844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>Stoney Street</name>
+            <Point id="geom_128">
+                <coordinates>-0.0913049064748,51.5068835328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>Aldersgate</name>
+            <Point id="geom_129">
+                <coordinates>-0.0970588897937,51.5171742509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>125 High Holborn</name>
+            <Point id="geom_130">
+                <coordinates>-0.121191010074,51.5176520621,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>Croydon, George Street</name>
+            <Point id="geom_131">
+                <coordinates>-0.093695659222,51.3747186945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>Islington, High Street</name>
+            <Point id="geom_132">
+                <coordinates>-0.106298262744,51.5328522715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>Hanover Street</name>
+            <Point id="geom_133">
+                <coordinates>-0.141871,51.513807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>Whitecross Place</name>
+            <Point id="geom_134">
+                <coordinates>-0.0850192421333,51.519713942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>157 Camden High St</name>
+            <Point id="geom_135">
+                <coordinates>-0.142192215419,51.5381233342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>Berkeley Square</name>
+            <Point id="geom_136">
+                <coordinates>-0.144679824954,51.5095226438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>Camden Market</name>
+            <Point id="geom_137">
+                <coordinates>-0.144162,51.540632,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>Wardour Street</name>
+            <Point id="geom_138">
+                <coordinates>-0.135506644765,51.5156664234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>Reading, Broad Street</name>
+            <Point id="geom_139">
+                <coordinates>-0.974266978356,51.4556324941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>Queensway</name>
+            <Point id="geom_140">
+                <coordinates>-0.187819,51.513418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_143">
+            <name>Cheshire Oaks</name>
+            <Point id="geom_141">
+                <coordinates>-2.87939059356,53.2655818108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_144">
+            <name>Gloucester Road</name>
+            <Point id="geom_142">
+                <coordinates>-0.182150530357,51.4939932423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_145">
+            <name>Canvey Street</name>
+            <Point id="geom_143">
+                <coordinates>-0.0992559150962,51.5056377593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_146">
+            <name>Gresham Street</name>
+            <Point id="geom_144">
+                <coordinates>-0.0923271503978,51.5150095573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_147">
+            <name>King William Street</name>
+            <Point id="geom_145">
+                <coordinates>-0.0867964172662,51.5098928055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_148">
+            <name>Heathrow, Terminal 5</name>
+            <Point id="geom_146">
+                <coordinates>-0.487568345324,51.4722298151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_149">
+            <name>Southampton, West Quay</name>
+            <Point id="geom_147">
+                <coordinates>-1.40446224143,50.9039500389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>Newcastle, Fenwick</name>
+            <Point id="geom_148">
+                <coordinates>-1.612899,54.975295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>Manchester, Spinningfields</name>
+            <Point id="geom_149">
+                <coordinates>-2.25166463751,53.4796411089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_152">
+            <name>Cullum Street</name>
+            <Point id="geom_150">
+                <coordinates>-0.0821253580441,51.5120503334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_153">
+            <name>173 Victoria Street</name>
+            <Point id="geom_151">
+                <coordinates>-0.142318602954,51.4963896693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_154">
+            <name>St Pancras International</name>
+            <Point id="geom_152">
+                <coordinates>-0.12615611234,51.5320129351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_155">
+            <name>Hammersmith, Broadway</name>
+            <Point id="geom_153">
+                <coordinates>-0.223690563906,51.4924332635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>Barbican, Long Lane</name>
+            <Point id="geom_154">
+                <coordinates>-0.0980754011192,51.5200383003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>Manchester, Piccadilly Gardens</name>
+            <Point id="geom_155">
+                <coordinates>-2.23548695281,53.4806158248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>Brighton, East Street</name>
+            <Point id="geom_156">
+                <coordinates>-0.139329675407,50.8211879383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>67 Tottenham Court Road</name>
+            <Point id="geom_157">
+                <coordinates>-0.134187399986,51.5203021134,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>Lombard Street</name>
+            <Point id="geom_158">
+                <coordinates>-0.0878162052948,51.5127152106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>28 Fenchurch Avenue</name>
+            <Point id="geom_159">
+                <coordinates>-0.08127249669,51.5128379673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>Oxford, 26-27 Cornmarket</name>
+            <Point id="geom_160">
+                <coordinates>-1.25846908215,51.7534511037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>Cambridge, Market Street</name>
+            <Point id="geom_161">
+                <coordinates>0.119672,52.20582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>Wigmore Street</name>
+            <Point id="geom_162">
+                <coordinates>-0.147389283831,51.5167004505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>Coleman Street</name>
+            <Point id="geom_163">
+                <coordinates>-0.089648,51.51653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>Spitalfields, 280 Bishops Sq</name>
+            <Point id="geom_164">
+                <coordinates>-0.0776493706107,51.5196287207,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>Bristol, Cabot Circus</name>
+            <Point id="geom_165">
+                <coordinates>-2.58486734448,51.4591307941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>Great Peter Street</name>
+            <Point id="geom_166">
+                <coordinates>-0.129189332938,51.4968336478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>Holborn Circus</name>
+            <Point id="geom_167">
+                <coordinates>-0.107122827748,51.5178535343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>Liverpool, Paradise Street</name>
+            <Point id="geom_168">
+                <coordinates>-2.98687608817,53.4033360921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>Borough High Street, 51</name>
+            <Point id="geom_169">
+                <coordinates>-0.089868,51.504806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_172">
+            <name>Wilton Road</name>
+            <Point id="geom_170">
+                <coordinates>-0.14148864371,51.493406284,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_173">
+            <name>Aldermanbury Square</name>
+            <Point id="geom_171">
+                <coordinates>-0.0936362156782,51.5173027321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_174">
+            <name>Liverpool, Derby Square</name>
+            <Point id="geom_172">
+                <coordinates>-2.99004905763,53.4053506161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_175">
+            <name>18 Camden High Street</name>
+            <Point id="geom_173">
+                <coordinates>-0.138483,51.535159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_176">
+            <name>City Airport</name>
+            <Point id="geom_174">
+                <coordinates>0.0480413466277,51.5039848434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_177">
+            <name>Great Eastern Street</name>
+            <Point id="geom_175">
+                <coordinates>-0.081089,51.524636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_178">
+            <name>More London</name>
+            <Point id="geom_176">
+                <coordinates>-0.0805611510791,51.5045978727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_179">
+            <name>Conduit Street</name>
+            <Point id="geom_177">
+                <coordinates>-0.141144,51.5128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_180">
+            <name>Victoria Place</name>
+            <Point id="geom_178">
+                <coordinates>-0.145468489209,51.4941557848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_181">
+            <name>Vauxhall, St George's Wharf</name>
+            <Point id="geom_179">
+                <coordinates>-0.124610495361,51.4861758835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_182">
+            <name>Warwick Way</name>
+            <Point id="geom_180">
+                <coordinates>-0.138086702158,51.4926152881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_183">
+            <name>Queen Victoria Street</name>
+            <Point id="geom_181">
+                <coordinates>-0.0976192730474,51.5120151057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_184">
+            <name>Brent Cross Shopping Centre</name>
+            <Point id="geom_182">
+                <coordinates>-0.22417,51.57703,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_185">
+            <name>Birmingham Airport, Airside</name>
+            <Point id="geom_183">
+                <coordinates>-1.7343278959,52.4531702896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_186">
+            <name>South Quay Plaza</name>
+            <Point id="geom_184">
+                <coordinates>-0.0193822285037,51.5010007321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_187">
+            <name>Westfield, White City</name>
+            <Point id="geom_185">
+                <coordinates>-0.22078057554,51.5069895447,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_188">
+            <name>Wimbledon</name>
+            <Point id="geom_186">
+                <coordinates>-0.207276033761,51.4209625327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_189">
+            <name>Bishopsgate, 201</name>
+            <Point id="geom_187">
+                <coordinates>-0.0801375539568,51.5207771836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_190">
+            <name>Lower Regent Street</name>
+            <Point id="geom_188">
+                <coordinates>-0.13314028777,51.508154548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_191">
+            <name>Solihull</name>
+            <Point id="geom_189">
+                <coordinates>-1.77780366906,52.4128437394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_192">
+            <name>Eastcastle Street</name>
+            <Point id="geom_190">
+                <coordinates>-0.13890148555,51.5163854452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_193">
+            <name>Chester, Northgate Street</name>
+            <Point id="geom_191">
+                <coordinates>-2.89174953094,53.190988945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_194">
+            <name>6468 New Oxford Street</name>
+            <Point id="geom_192">
+                <coordinates>-0.127100108948,51.5170115288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_195">
+            <name>Avery Row</name>
+            <Point id="geom_193">
+                <coordinates>-0.146015100929,51.5127038209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_196">
+            <name>The Cut</name>
+            <Point id="geom_194">
+                <coordinates>-0.108068558851,51.5027326642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_197">
+            <name>Kentish Town</name>
+            <Point id="geom_195">
+                <coordinates>-0.140895395683,51.5505815462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_198">
+            <name>Grosvenor Place</name>
+            <Point id="geom_196">
+                <coordinates>-0.151611510791,51.5016810365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_199">
+            <name>Thomas More Square</name>
+            <Point id="geom_197">
+                <coordinates>-0.0680799280576,51.5080806301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_200">
+            <name>Baker Street, 211-213</name>
+            <Point id="geom_198">
+                <coordinates>-0.158101896403,51.5228854144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_201">
+            <name>Chelmsford</name>
+            <Point id="geom_199">
+                <coordinates>0.473651093672,51.7338086465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_202">
+            <name>Maidstone</name>
+            <Point id="geom_200">
+                <coordinates>0.521157823637,51.2752883813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_203">
+            <name>Houndsditch</name>
+            <Point id="geom_201">
+                <coordinates>-0.0780909416527,51.5150952383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_204">
+            <name>Windsor, 52 King Edward Court</name>
+            <Point id="geom_202">
+                <coordinates>-0.610420644914,51.4819899258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_205">
+            <name>Watford</name>
+            <Point id="geom_203">
+                <coordinates>-0.398028784173,51.6567413734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>Fetter Lane, 110</name>
+            <Point id="geom_204">
+                <coordinates>-0.109703,51.516772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_207">
+            <name>York Way</name>
+            <Point id="geom_205">
+                <coordinates>-0.122157178187,51.5334518416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>Paddington, 8 Sheldon Square</name>
+            <Point id="geom_206">
+                <coordinates>-0.179599784997,51.5193274276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>St Christopher's Place</name>
+            <Point id="geom_207">
+                <coordinates>-0.1501597,51.514903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>Farringdon Street</name>
+            <Point id="geom_208">
+                <coordinates>-0.104435791191,51.515543113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>Heathrow Terminal 3, Airside</name>
+            <Point id="geom_209">
+                <coordinates>-0.458212307194,51.4705089666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>Praed St</name>
+            <Point id="geom_210">
+                <coordinates>-0.169928,51.51913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>Heathrow, Terminal 4</name>
+            <Point id="geom_211">
+                <coordinates>-0.447729137568,51.4597798754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>Tottenham Court Road, 237</name>
+            <Point id="geom_212">
+                <coordinates>-0.131825553161,51.5182468914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>Manchester, Piccadilly Station</name>
+            <Point id="geom_213">
+                <coordinates>-2.23096107112,53.4777219749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>Aberdeen, Bon Accord</name>
+            <Point id="geom_214">
+                <coordinates>-2.09939469558,57.148586578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>Mansell Street</name>
+            <Point id="geom_215">
+                <coordinates>-0.0733812283055,51.513783289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>Horseferry Road, 19</name>
+            <Point id="geom_216">
+                <coordinates>-0.129721028154,51.4947927361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>87-88 Strand</name>
+            <Point id="geom_217">
+                <coordinates>-0.121430762046,51.510322681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_220">
+            <name>Westfield Stratford City</name>
+            <Point id="geom_218">
+                <coordinates>-0.00532877697844,51.5438470567,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_221">
+            <name>Earls Court Station</name>
+            <Point id="geom_219">
+                <coordinates>-0.193071730917,51.4921508555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>Ealing</name>
+            <Point id="geom_220">
+                <coordinates>-0.304561980681,51.5130184781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>Horsham</name>
+            <Point id="geom_221">
+                <coordinates>-0.330907370666,51.0626849209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>Woking, Wolsey Walk</name>
+            <Point id="geom_222">
+                <coordinates>-0.558564553539,51.3197958664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_225">
+            <name>Hanover Square</name>
+            <Point id="geom_223">
+                <coordinates>-0.143819092648,51.5144550479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_226">
+            <name>Victoria Street, 143</name>
+            <Point id="geom_224">
+                <coordinates>-0.139364755789,51.4968448259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_227">
+            <name>Aberdeen, Union Street</name>
+            <Point id="geom_225">
+                <coordinates>-2.10710420091,57.1443877785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_228">
+            <name>Clarks Village, Somerset</name>
+            <Point id="geom_226">
+                <coordinates>-2.74100130865,51.1294161017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_229">
+            <name>Caxton Street</name>
+            <Point id="geom_227">
+                <coordinates>-0.135938763596,51.4986653757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>Heathrow, T5 Kiosk</name>
+            <Point id="geom_228">
+                <coordinates>-0.487861952071,51.4723563316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>Kings Cross, Station</name>
+            <Point id="geom_229">
+                <coordinates>-0.12501188972,51.531541138,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>Glasgow, Queen Street</name>
+            <Point id="geom_230">
+                <coordinates>-4.251292749,55.8606628494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>Piccadilly, 81</name>
+            <Point id="geom_231">
+                <coordinates>-0.143525769056,51.5065966946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>Kings Cross Station, Kiosk</name>
+            <Point id="geom_232">
+                <coordinates>-0.124342824972,51.5313401773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>Tunbridge Wells</name>
+            <Point id="geom_233">
+                <coordinates>0.26355990384,51.13403877,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>Shelton Street</name>
+            <Point id="geom_234">
+                <coordinates>-0.124942126322,51.5141569144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>St John Street, 182</name>
+            <Point id="geom_235">
+                <coordinates>-0.103096122668,51.5244233774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>Eastcheap, 19</name>
+            <Point id="geom_236">
+                <coordinates>-0.0843961913663,51.510819114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_239">
+            <name>St John Street, 402</name>
+            <Point id="geom_237">
+                <coordinates>-0.10594513853,51.5315478873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_240">
+            <name>Fulham Road</name>
+            <Point id="geom_238">
+                <coordinates>-0.18166511107,51.4854223374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>Gatwick, North Terminal</name>
+            <Point id="geom_239">
+                <coordinates>-0.163081881343,51.1719646468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_242">
+            <name>Richmond, Lower George Street</name>
+            <Point id="geom_240">
+                <coordinates>-0.303645234442,51.4610920839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_243">
+            <name>Borough High Street, 167</name>
+            <Point id="geom_241">
+                <coordinates>-0.0919337851036,51.5026325015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_244">
+            <name>Regent Place</name>
+            <Point id="geom_242">
+                <coordinates>-0.138352751784,51.5111065694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_245">
+            <name>95 Farringdon Road</name>
+            <Point id="geom_243">
+                <coordinates>-0.107452,51.522336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_246">
+            <name>St John's Wood</name>
+            <Point id="geom_244">
+                <coordinates>-0.171474,51.534058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_247">
+            <name>Waterloo Station</name>
+            <Point id="geom_245">
+                <coordinates>-0.11245,51.503293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_248">
+            <name>Cardiff, Capitol Centre</name>
+            <Point id="geom_246">
+                <coordinates>-3.17313231507,51.4827755873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_249">
+            <name>20 Baker Street</name>
+            <Point id="geom_247">
+                <coordinates>-0.155065804509,51.5172916004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_250">
+            <name>Milton Keynes, Eagle Walk</name>
+            <Point id="geom_248">
+                <coordinates>-0.751272,52.043052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_251">
+            <name>Shoreditch High Street, 192</name>
+            <Point id="geom_249">
+                <coordinates>-0.077436,51.523895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_252">
+            <name>Aldgate East Tube Station</name>
+            <Point id="geom_250">
+                <coordinates>-0.0728276799832,51.5155828326,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_253">
+            <name>Leicester, Gallowtree Gate</name>
+            <Point id="geom_251">
+                <coordinates>-1.132657,52.635456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_254">
+            <name>Stratford Station</name>
+            <Point id="geom_252">
+                <coordinates>-0.00191829509276,51.5412067845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_255">
+            <name>Kingston, Clarence Street</name>
+            <Point id="geom_253">
+                <coordinates>-0.302939848311,51.4109666381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_256">
+            <name>Wembley, (LDO) Designer Outlet</name>
+            <Point id="geom_254">
+                <coordinates>-0.277903871779,51.559302704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_257">
+            <name>Blackfriars Road,157</name>
+            <Point id="geom_255">
+                <coordinates>-0.104305257566,51.5017164989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_258">
+            <name>Manchester, Oxford Street</name>
+            <Point id="geom_256">
+                <coordinates>-2.2429983397,53.4762759909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_259">
+            <name>St Albans, St Peter's Street</name>
+            <Point id="geom_257">
+                <coordinates>-0.338176,51.753138,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_260">
+            <name>Peterborough Queensgate Centre</name>
+            <Point id="geom_258">
+                <coordinates>-0.243959233778,52.5733361054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_261">
+            <name>Crawley</name>
+            <Point id="geom_259">
+                <coordinates>-0.186795031404,51.1144637329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_262">
+            <name>High Holborn, 280</name>
+            <Point id="geom_260">
+                <coordinates>-0.117104594327,51.5176869698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_263">
+            <name>Vere Street</name>
+            <Point id="geom_261">
+                <coordinates>-0.147231046657,51.5151868826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_264">
+            <name>Bristol, 95 Broadmead</name>
+            <Point id="geom_262">
+                <coordinates>-2.59064130405,51.4569770487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_265">
+            <name>Newbury, 93 Northbrook Street</name>
+            <Point id="geom_263">
+                <coordinates>-1.32459797433,51.4019656099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_266">
+            <name>London Wall, 165-166</name>
+            <Point id="geom_264">
+                <coordinates>-0.0879822618284,51.523690555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_267">
+            <name>Kings Road, 35-37</name>
+            <Point id="geom_265">
+                <coordinates>-0.16178706456,51.4901228556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_268">
+            <name>Bishopsgate 55</name>
+            <Point id="geom_266">
+                <coordinates>-0.0829686555225,51.5153803427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_269">
+            <name>Islington , N1 Centre</name>
+            <Point id="geom_267">
+                <coordinates>-0.10658084177,51.5344058523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_270">
+            <name>Warren Street, 14</name>
+            <Point id="geom_268">
+                <coordinates>-0.138803198122,51.5239055636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_271">
+            <name>90 Queen Street</name>
+            <Point id="geom_269">
+                <coordinates>-0.091684502138,51.5134092008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_272">
+            <name>Pall Mall East, 5</name>
+            <Point id="geom_270">
+                <coordinates>-0.130089685072,51.5082275732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_273">
+            <name>Borough High Street, 11-13</name>
+            <Point id="geom_271">
+                <coordinates>-0.0891337031824,51.5051392904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_274">
+            <name>Victoria Street, 95</name>
+            <Point id="geom_272">
+                <coordinates>-0.134987100882,51.4973434462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_275">
+            <name>Strand, 217</name>
+            <Point id="geom_273">
+                <coordinates>-0.112610859506,51.5130734101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_276">
+            <name>Whitecross Street</name>
+            <Point id="geom_274">
+                <coordinates>-0.092814,51.522853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_277">
+            <name>Hammersmith Station</name>
+            <Point id="geom_275">
+                <coordinates>-0.224956191315,51.4933713042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_278">
+            <name>Edinburgh, North Bridge</name>
+            <Point id="geom_276">
+                <coordinates>-3.18843867614,55.9509699928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_279">
+            <name>Glasgow, Braehead</name>
+            <Point id="geom_277">
+                <coordinates>-4.36484320882,55.875986935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_280">
+            <name>Harbour Island</name>
+            <Point id="geom_278">
+                <coordinates>-0.0143052315674,51.4987880585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_281">
+            <name>Bristol, Cribbs Causeway</name>
+            <Point id="geom_279">
+                <coordinates>-2.5953854962,51.5251106874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_282">
+            <name>Mortimer Street</name>
+            <Point id="geom_280">
+                <coordinates>-0.137146417351,51.5185825677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_283">
+            <name>Birmingham, Colmore Row</name>
+            <Point id="geom_281">
+                <coordinates>-1.89749560547,52.4821899811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_284">
+            <name>Glasgow, Silverburn</name>
+            <Point id="geom_282">
+                <coordinates>-4.34209621123,55.8229352624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_285">
+            <name>Paddington Station</name>
+            <Point id="geom_283">
+                <coordinates>-0.177420969592,51.51745282,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_286">
+            <name>St Andrews</name>
+            <Point id="geom_284">
+                <coordinates>-2.79586911677,56.3407630416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_287">
+            <name>Portsmouth, Gunwharf Quay</name>
+            <Point id="geom_285">
+                <coordinates>-1.10656395649,50.7963001946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_288">
+            <name>Manchester, Deansgate</name>
+            <Point id="geom_286">
+                <coordinates>-2.24646718435,53.4820665651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_289">
+            <name>125 Old Broad Street</name>
+            <Point id="geom_287">
+                <coordinates>-0.0852991003899,51.5144561906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_290">
+            <name>Gateshead, Metrocentre</name>
+            <Point id="geom_288">
+                <coordinates>-1.66854461253,54.9576626707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_291">
+            <name>Tavistock Square</name>
+            <Point id="geom_289">
+                <coordinates>-0.12822098331,51.5253378508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_292">
+            <name>Tower Hill</name>
+            <Point id="geom_290">
+                <coordinates>-0.0790366,51.508858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_293">
+            <name>Basingstoke, Festival Place</name>
+            <Point id="geom_291">
+                <coordinates>-1.08794869586,51.2655884655,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_294">
+            <name>Blackfrairs Road, 240</name>
+            <Point id="geom_292">
+                <coordinates>-0.104006671774,51.5057853863,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

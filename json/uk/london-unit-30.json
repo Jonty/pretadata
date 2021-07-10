@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-30",
+        "url": "https://locations.pret.co.uk/london/unit-30",
+        "open": true,
+        "name": "Hammersmith, Broadway",
+        "phone_number": "+442087410864",
+        "data_last_updated": "2021-07-10T20:27:32.833182"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 30 Broadway Shopping Centre",
+        "city": "London",
+        "postal_code": "W6 9YE",
+        "country": "GB",
+        "latitude": "51.4922834",
+        "longitude": "-0.2242501"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:30",
+            "close": "19:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

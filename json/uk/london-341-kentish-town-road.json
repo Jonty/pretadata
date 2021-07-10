@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-341-kentish-town-road",
+        "url": "https://locations.pret.co.uk/london/341-kentish-town-road",
+        "open": true,
+        "name": "Kentish Town",
+        "phone_number": "+442079325383",
+        "data_last_updated": "2021-07-10T20:27:01.140412"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "341 Kentish Town Road",
+        "city": "London",
+        "postal_code": "NW5 2TJ",
+        "country": "GB",
+        "latitude": "51.550532226092926",
+        "longitude": "-0.1409512789269285"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

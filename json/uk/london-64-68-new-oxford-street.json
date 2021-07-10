@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-64-68-new-oxford-street",
+        "url": "https://locations.pret.co.uk/london/64-68-new-oxford-street",
+        "open": true,
+        "name": "64\u201368 New Oxford Street",
+        "phone_number": "+442079325308",
+        "data_last_updated": "2021-07-10T20:27:10.471853"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "64-68 New Oxford Street",
+        "city": "London",
+        "postal_code": "WC1A 1AZ",
+        "country": "GB",
+        "latitude": "51.51701433705246",
+        "longitude": "-0.12722750873282562"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:45",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:45",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:45",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:45",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:45",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

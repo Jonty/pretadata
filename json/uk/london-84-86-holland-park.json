@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-84-86-holland-park",
+        "url": "https://locations.pret.co.uk/london/84-86-holland-park",
+        "open": true,
+        "name": "Holland Park",
+        "phone_number": "+442077927813",
+        "data_last_updated": "2021-07-10T20:27:17.079793"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "84-86 Holland Park",
+        "city": "London",
+        "postal_code": "W11 3RB",
+        "country": "GB",
+        "latitude": "51.507197",
+        "longitude": "-0.206148"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:30",
+            "close": "18:00",
+            "closed": false
+        }
+    }
+}

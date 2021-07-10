@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "surrey-unit-5-eden-walk",
+        "url": "https://locations.pret.co.uk/surrey/unit-5-eden-walk",
+        "open": true,
+        "name": "Kingston, Eden Walk",
+        "phone_number": "+442085469018",
+        "data_last_updated": "2021-07-10T20:27:49.401161"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 5, Eden Walk Kingston upon Thames",
+        "city": "Surrey",
+        "postal_code": "KT1 1BP",
+        "country": "GB",
+        "latitude": "51.41008400000001",
+        "longitude": "-0.3057378220901441"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "18:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

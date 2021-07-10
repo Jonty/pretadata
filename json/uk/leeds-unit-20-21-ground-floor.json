@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "leeds-unit-20-21-ground-floor",
+        "url": "https://locations.pret.co.uk/leeds/unit-20-21-ground-floor",
+        "open": true,
+        "name": "Leeds, Victoria Gate",
+        "phone_number": "+441132459247",
+        "data_last_updated": "2021-07-10T20:26:34.129551"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit 20-21, Ground Floor Victoria Gate Shopping Centre",
+        "city": "Leeds",
+        "postal_code": "LS2 7JL",
+        "country": "GB",
+        "latitude": "53.7984327",
+        "longitude": "-1.5381257"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "9:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "9:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "9:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "9:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "9:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "10:30",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

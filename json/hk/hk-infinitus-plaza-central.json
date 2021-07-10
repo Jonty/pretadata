@@ -1,0 +1,20 @@
+{
+    "details": {
+        "id": "hk-infinitus-plaza-central",
+        "url": "https://www.pret.hk/en-HK/find-a-pret",
+        "open": null,
+        "name": "Infinitus Plaza (Central)",
+        "phone_number": "+852 2465 2055",
+        "data_last_updated": "2021-07-10T20:48:22.897525"
+    },
+    "facilities": {},
+    "location": {
+        "street": "Shops 109-110, 1/F ,  Infinitus Plaza, 199 Des Voeux Road Central, Central",
+        "city": "Hong Kong Island",
+        "postal_code": null,
+        "country": "Hong Kong",
+        "latitude": 22.2864399,
+        "longitude": 114.1536781
+    },
+    "opening_hours": {}
+}

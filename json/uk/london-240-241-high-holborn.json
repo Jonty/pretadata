@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-240-241-high-holborn",
+        "url": "https://locations.pret.co.uk/london/240-241-high-holborn",
+        "open": true,
+        "name": "High Holborn, 240",
+        "phone_number": "+442079325231",
+        "data_last_updated": "2021-07-10T20:26:54.915775"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "240-241 High Holborn",
+        "city": "London",
+        "postal_code": "WC1V 7DN",
+        "country": "GB",
+        "latitude": "51.51760724895128",
+        "longitude": "-0.11892211901435967"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "18:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "16:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

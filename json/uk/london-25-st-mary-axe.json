@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-25-st-mary-axe",
+        "url": "https://locations.pret.co.uk/london/25-st.-mary-axe",
+        "open": true,
+        "name": "St Mary Axe",
+        "phone_number": "+442079294188",
+        "data_last_updated": "2021-07-10T20:26:55.373146"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "25 St. Mary Axe",
+        "city": "London",
+        "postal_code": "EC3A 8AA",
+        "country": "GB",
+        "latitude": "51.51471439247461",
+        "longitude": "-0.08102383191185503"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "norwich-5-5a-st-stephens-street",
+        "url": "https://locations.pret.co.uk/norwich/5-5a-st-stephens-street",
+        "open": true,
+        "name": "Norwich, 5 St Stephens Street",
+        "phone_number": "+442079325279",
+        "data_last_updated": "2021-07-10T20:27:44.622172"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "5-5A St Stephens Street Norwich",
+        "city": "Norwich",
+        "postal_code": "NR1 3QL",
+        "country": "GB",
+        "latitude": "52.62572",
+        "longitude": "1.293569"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

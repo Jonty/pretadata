@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-600-lexington-avenue",
+        "url": "https://locations.pret.com/../ny/new-york/600-lexington-avenue",
+        "open": true,
+        "name": "Pret a Manger",
+        "phone_number": "+12126448760",
+        "data_last_updated": "2021-07-10T20:28:43.449583"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "600 Lexington Avenue",
+        "city": "New York",
+        "postal_code": "10022",
+        "country": "US",
+        "latitude": "40.758038659766",
+        "longitude": "-73.97148369715636"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "19:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-63-tottenham-court-road",
+        "url": "https://locations.pret.co.uk/london/63-tottenham-court-road",
+        "open": true,
+        "name": "63 Tottenham Court Rd",
+        "phone_number": "+442076366904",
+        "data_last_updated": "2021-07-10T20:27:10.264057"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "63 Tottenham Court Road",
+        "city": "London",
+        "postal_code": "W1T 2ES",
+        "country": "GB",
+        "latitude": "51.52026815370251",
+        "longitude": "-0.13424749689761484"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "18:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:00",
+            "closed": false
+        }
+    }
+}

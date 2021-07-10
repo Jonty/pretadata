@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "windsor-138-139-peascod-rd",
+        "url": "https://locations.pret.co.uk/windsor/138/139-peascod-rd",
+        "open": true,
+        "name": "Windsor",
+        "phone_number": "+441753620838",
+        "data_last_updated": "2021-07-10T20:27:49.947481"
+    },
+    "facilities": {
+        "seating": false,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "138/139 Peascod Rd",
+        "city": "Windsor",
+        "postal_code": "SL4 1DS",
+        "country": "GB",
+        "latitude": "51.482439",
+        "longitude": "-0.608295"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

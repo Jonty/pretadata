@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-unit-3-moorgate-halls",
+        "url": "https://locations.pret.co.uk/london/unit-3-moorgate-halls",
+        "open": true,
+        "name": "Moorgate",
+        "phone_number": "+442072567868",
+        "data_last_updated": "2021-07-10T20:27:31.776255"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": false,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 3 Moorgate Halls 143 171 Moorgate",
+        "city": "London",
+        "postal_code": "EC2M 6XB",
+        "country": "GB",
+        "latitude": "51.51878386280507",
+        "longitude": "-0.08824037672432228"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "8:00",
+            "close": "17:00",
+            "closed": false
+        }
+    }
+}

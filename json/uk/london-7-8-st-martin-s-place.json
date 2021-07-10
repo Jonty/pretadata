@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-7-8-st-martin-s-place",
+        "url": "https://locations.pret.co.uk/london/7-8-st-martin's-place",
+        "open": true,
+        "name": "Trafalgar Square North",
+        "phone_number": "+442079325345",
+        "data_last_updated": "2021-07-10T20:27:12.865586"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "7-8 St Martin's Place",
+        "city": "London",
+        "postal_code": "WC2N 4JH",
+        "country": "GB",
+        "latitude": "51.509289338748175",
+        "longitude": "-0.1267640049629204"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "22:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "7:00",
+            "close": "22:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "7:00",
+            "close": "21:00",
+            "closed": false
+        }
+    }
+}

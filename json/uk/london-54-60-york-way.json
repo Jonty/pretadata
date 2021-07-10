@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-54-60-york-way",
+        "url": "https://locations.pret.co.uk/london/54-60-york-way",
+        "open": true,
+        "name": "York Way",
+        "phone_number": "+442079325452",
+        "data_last_updated": "2021-07-10T20:27:08.078362"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "54-60 York Way",
+        "city": "London",
+        "postal_code": "N1 9AB",
+        "country": "GB",
+        "latitude": "51.5334539",
+        "longitude": "-0.1221261"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:30",
+            "close": "17:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

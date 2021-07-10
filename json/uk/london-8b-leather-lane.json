@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-8b-leather-lane",
+        "url": "https://locations.pret.co.uk/london/8b-leather-lane",
+        "open": true,
+        "name": "Leather Lane, 8B",
+        "phone_number": "+442072425622",
+        "data_last_updated": "2021-07-10T20:27:18.151111"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "8B Leather Lane",
+        "city": "London",
+        "postal_code": "EC1N 7RA",
+        "country": "GB",
+        "latitude": "51.518567021755054",
+        "longitude": "-0.10885506182681137"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

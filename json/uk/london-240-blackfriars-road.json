@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-240-blackfriars-road",
+        "url": "https://locations.pret.co.uk/london/240-blackfriars-road",
+        "open": true,
+        "name": "Blackfriars Road, 240",
+        "phone_number": "+442076204580",
+        "data_last_updated": "2021-07-10T20:26:54.740110"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "240 Blackfriars Road",
+        "city": "London",
+        "postal_code": "SE1 8NW",
+        "country": "GB",
+        "latitude": "51.50660399158289",
+        "longitude": "-0.10408236073055743"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "folkestone-unit-16-passenger-terminal",
+        "url": "https://locations.pret.co.uk/folkestone/unit-16-passenger-terminal",
+        "open": true,
+        "name": "Folkestone",
+        "phone_number": "+442079325277",
+        "data_last_updated": "2021-07-10T20:26:27.893534"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "Unit 16, Passenger Terminal Folkestone",
+        "city": "Folkestone",
+        "postal_code": "CT18 8XX",
+        "country": "GB",
+        "latitude": "51.095761",
+        "longitude": "1.12181"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "6:00",
+            "close": "20:00",
+            "closed": false
+        }
+    }
+}

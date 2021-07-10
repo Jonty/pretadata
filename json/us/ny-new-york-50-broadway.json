@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "ny-new-york-50-broadway",
+        "url": "https://locations.pret.com/../ny/new-york/50-broadway",
+        "open": true,
+        "name": "50 Broadway",
+        "phone_number": "+12123440105",
+        "data_last_updated": "2021-07-10T20:28:41.921259"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "50 Broadway",
+        "city": "New York",
+        "postal_code": "10004",
+        "country": "US",
+        "latitude": "40.706242445197596",
+        "longitude": "-74.01245365651377"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "17:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

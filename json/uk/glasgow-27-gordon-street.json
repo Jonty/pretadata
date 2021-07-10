@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "glasgow-27-gordon-street",
+        "url": "https://locations.pret.co.uk/glasgow/27-gordon-street",
+        "open": true,
+        "name": "Glasgow, Gordon Street",
+        "phone_number": "+441418470449",
+        "data_last_updated": "2021-07-10T20:26:29.038513"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "27 Gordon Street",
+        "city": "Glasgow",
+        "postal_code": "G1 3PL",
+        "country": "GB",
+        "latitude": "55.8603083",
+        "longitude": "-4.2552977"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:00",
+            "close": "16:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
+        }
+    }
+}

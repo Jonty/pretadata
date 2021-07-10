@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "edinburgh-30-north-bridge",
+        "url": "https://locations.pret.co.uk/edinburgh/30-north-bridge",
+        "open": true,
+        "name": "Edinburgh, North Bridge",
+        "phone_number": "+441312262861",
+        "data_last_updated": "2021-07-10T20:26:26.396804"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "30 North Bridge",
+        "city": "Edinburgh",
+        "postal_code": "EH1 1QG",
+        "country": "GB",
+        "latitude": "55.95086691307875",
+        "longitude": "-3.1881406276743673"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

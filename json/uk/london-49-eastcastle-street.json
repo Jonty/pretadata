@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "london-49-eastcastle-street",
+        "url": "https://locations.pret.co.uk/london/49-eastcastle-street",
+        "open": true,
+        "name": "Eastcastle Street",
+        "phone_number": "+442079325412",
+        "data_last_updated": "2021-07-10T20:27:05.678863"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": true
+    },
+    "location": {
+        "street": "49 Eastcastle Street",
+        "city": "London",
+        "postal_code": "W1W 8DZ",
+        "country": "GB",
+        "latitude": "51.51636488598124",
+        "longitude": "-0.13899903497027521"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "thursday": {
+            "open": "7:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "friday": {
+            "open": "7:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "8:30",
+            "close": "16:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": null,
+            "close": null,
+            "closed": true
+        }
+    }
+}

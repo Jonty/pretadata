@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "bath-2-stall-street",
+        "url": "https://locations.pret.co.uk/bath/2-stall-street",
+        "open": true,
+        "name": "Bath, Stall Street",
+        "phone_number": "+441225338225",
+        "data_last_updated": "2021-07-10T20:26:18.072303"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "2 Stall Street",
+        "city": "Bath",
+        "postal_code": "BA1 1QL",
+        "country": "GB",
+        "latitude": "51.38144180000001",
+        "longitude": "-2.3602462141382308"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "9:00",
+            "close": "17:30",
+            "closed": false
+        },
+        "sunday": {
+            "open": "9:00",
+            "close": "17:30",
+            "closed": false
+        }
+    }
+}

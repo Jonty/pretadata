@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "stansted-unit-acs9",
+        "url": "https://locations.pret.co.uk/stansted/unit-acs9",
+        "open": true,
+        "name": "Stansted Airport",
+        "phone_number": "+441279661149",
+        "data_last_updated": "2021-07-10T20:27:48.578178"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Unit ACS9 International Departure Lounge",
+        "city": "Stansted",
+        "postal_code": "CM24 1RW",
+        "country": "GB",
+        "latitude": "51.88810936215705",
+        "longitude": "0.25850022702385456"
+    },
+    "opening_hours": {
+        "monday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "tuesday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "wednesday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "thursday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "friday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "saturday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        },
+        "sunday": {
+            "open": "5:00",
+            "close": "21:00",
+            "closed": false
+        }
+    }
+}

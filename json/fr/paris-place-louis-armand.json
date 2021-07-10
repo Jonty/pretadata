@@ -1,0 +1,60 @@
+{
+    "details": {
+        "id": "paris-place-louis-armand",
+        "url": "https://locations.pretamanger.fr/paris/place-louis-armand",
+        "open": true,
+        "name": "Gare de Lyon",
+        "phone_number": "+33144757653",
+        "data_last_updated": "2021-07-10T20:28:05.930498"
+    },
+    "facilities": {
+        "seating": true,
+        "wheelchair": true,
+        "wifi": false
+    },
+    "location": {
+        "street": "Place Louis Armand Triangle d'Or",
+        "city": "Paris",
+        "postal_code": "75012",
+        "country": "FR",
+        "latitude": "48.8452314",
+        "longitude": "2.3739221"
+    },
+    "opening_hours": {
+        "lundi": {
+            "open": "5:45",
+            "close": "20:00",
+            "closed": false
+        },
+        "mardi": {
+            "open": "5:45",
+            "close": "20:00",
+            "closed": false
+        },
+        "mercredi": {
+            "open": "5:45",
+            "close": "20:00",
+            "closed": false
+        },
+        "jeudi": {
+            "open": "5:45",
+            "close": "21:00",
+            "closed": false
+        },
+        "vendredi": {
+            "open": "5:45",
+            "close": "21:00",
+            "closed": false
+        },
+        "samedi": {
+            "open": "5:45",
+            "close": "20:00",
+            "closed": false
+        },
+        "dimanche": {
+            "open": "5:45",
+            "close": "21:00",
+            "closed": false
+        }
+    }
+}
