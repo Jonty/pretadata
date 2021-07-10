@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Jonty/pretadata/master/pretadata.jpg" width="40%" height="40%">
+</div>
+
 Pretadata
 =========
 This repository contains data about all 636 Pret A Manger fast food restaurants in the world, and the code used to extract it from their websites.
