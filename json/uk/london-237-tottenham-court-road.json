@@ -2,10 +2,10 @@
     "details": {
         "id": "london-237-tottenham-court-road",
         "url": "https://locations.pret.co.uk/london/237-tottenham-court-road",
-        "open": true,
+        "open": false,
         "name": "Tottenham Court Road, 237",
         "phone_number": "+442079325258",
-        "data_last_updated": "2021-07-10T20:26:54.053012"
+        "data_last_updated": "2021-10-28T01:54:56.695106"
     },
     "facilities": {
         "seating": true,
@@ -22,39 +22,39 @@
     },
     "opening_hours": {
         "monday": {
-            "open": "7:00",
-            "close": "19:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "tuesday": {
-            "open": "7:00",
-            "close": "19:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "wednesday": {
-            "open": "7:00",
-            "close": "19:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "thursday": {
-            "open": "7:00",
-            "close": "19:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "friday": {
-            "open": "7:00",
-            "close": "19:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "saturday": {
-            "open": "9:00",
-            "close": "19:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "sunday": {
-            "open": "9:30",
-            "close": "19:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         }
     }
 }

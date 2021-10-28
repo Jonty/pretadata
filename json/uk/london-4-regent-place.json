@@ -5,7 +5,7 @@
         "open": true,
         "name": "Regent Place",
         "phone_number": "+442074944760",
-        "data_last_updated": "2021-07-10T20:27:02.714436"
+        "data_last_updated": "2021-10-28T01:55:18.499940"
     },
     "facilities": {
         "seating": true,
@@ -47,14 +47,14 @@
             "closed": false
         },
         "saturday": {
-            "open": "7:00",
-            "close": "15:30",
+            "open": "8:00",
+            "close": "16:30",
             "closed": false
         },
         "sunday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "9:00",
+            "close": "16:30",
+            "closed": false
         }
     }
 }

@@ -5,7 +5,7 @@
         "open": true,
         "name": "Newport Centre Mall",
         "phone_number": "+12012175601",
-        "data_last_updated": "2021-07-10T20:28:12.739067"
+        "data_last_updated": "2021-10-28T01:57:46.233595"
     },
     "facilities": {
         "seating": true,
@@ -17,8 +17,8 @@
         "city": "New Jersey",
         "postal_code": "07310",
         "country": "US",
-        "latitude": "40.726654606702446",
-        "longitude": "-74.03745254448162"
+        "latitude": "40.726431846872956",
+        "longitude": "-74.03706197837194"
     },
     "opening_hours": {
         "monday": {

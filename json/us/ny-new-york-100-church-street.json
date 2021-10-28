@@ -5,7 +5,7 @@
         "open": true,
         "name": "100 Church Street",
         "phone_number": "+12122273108",
-        "data_last_updated": "2021-07-10T20:28:23.073563"
+        "data_last_updated": "2021-10-28T01:57:54.435521"
     },
     "facilities": {
         "seating": true,
@@ -22,28 +22,28 @@
     },
     "opening_hours": {
         "monday": {
-            "open": "7:00",
-            "close": "15:30",
+            "open": "6:30",
+            "close": "17:30",
             "closed": false
         },
         "tuesday": {
-            "open": "7:00",
-            "close": "15:30",
+            "open": "6:30",
+            "close": "17:30",
             "closed": false
         },
         "wednesday": {
-            "open": "7:00",
-            "close": "15:30",
+            "open": "6:30",
+            "close": "17:30",
             "closed": false
         },
         "thursday": {
-            "open": "7:00",
-            "close": "15:30",
+            "open": "6:30",
+            "close": "17:30",
             "closed": false
         },
         "friday": {
-            "open": "7:00",
-            "close": "15:30",
+            "open": "6:30",
+            "close": "17:30",
             "closed": false
         },
         "saturday": {

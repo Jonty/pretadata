@@ -5,7 +5,7 @@
         "open": true,
         "name": "Regent Street",
         "phone_number": "+442075803876",
-        "data_last_updated": "2021-07-10T20:26:58.416601"
+        "data_last_updated": "2021-10-28T01:55:07.845300"
     },
     "facilities": {
         "seating": true,
@@ -48,12 +48,12 @@
         },
         "saturday": {
             "open": "8:30",
-            "close": "16:30",
+            "close": "20:00",
             "closed": false
         },
         "sunday": {
             "open": "8:30",
-            "close": "16:30",
+            "close": "19:00",
             "closed": false
         }
     }

@@ -5,7 +5,7 @@
         "open": true,
         "name": "So Ouest",
         "phone_number": "+33141050859",
-        "data_last_updated": "2021-07-10T20:27:52.139497"
+        "data_last_updated": "2021-10-28T01:57:23.050320"
     },
     "facilities": {
         "seating": true,
@@ -52,9 +52,9 @@
             "closed": false
         },
         "dimanche": {
-            "open": "9:00",
-            "close": "20:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         }
     }
 }

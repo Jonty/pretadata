@@ -5,7 +5,7 @@
         "open": true,
         "name": "Edinburgh, Hanover Street",
         "phone_number": "+441312609727",
-        "data_last_updated": "2021-07-10T20:26:26.567268"
+        "data_last_updated": "2021-10-28T01:53:46.316073"
     },
     "facilities": {
         "seating": true,
@@ -23,22 +23,22 @@
     "opening_hours": {
         "monday": {
             "open": "8:00",
-            "close": "16:00",
+            "close": "17:00",
             "closed": false
         },
         "tuesday": {
             "open": "8:00",
-            "close": "16:30",
+            "close": "17:00",
             "closed": false
         },
         "wednesday": {
             "open": "8:00",
-            "close": "16:30",
+            "close": "17:00",
             "closed": false
         },
         "thursday": {
             "open": "8:00",
-            "close": "16:30",
+            "close": "17:00",
             "closed": false
         },
         "friday": {

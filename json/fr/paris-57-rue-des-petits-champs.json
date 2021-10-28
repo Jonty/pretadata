@@ -5,7 +5,7 @@
         "open": true,
         "name": "Petits-Champs",
         "phone_number": "+33142616756",
-        "data_last_updated": "2021-07-10T20:28:03.490963"
+        "data_last_updated": "2021-10-28T01:57:36.885892"
     },
     "facilities": {
         "seating": true,
@@ -32,9 +32,9 @@
             "closed": false
         },
         "mercredi": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:30",
+            "close": "15:00",
+            "closed": false
         },
         "jeudi": {
             "open": "8:30",

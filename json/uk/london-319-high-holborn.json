@@ -5,7 +5,7 @@
         "open": true,
         "name": "High Holborn, 319",
         "phone_number": "+442079325202",
-        "data_last_updated": "2021-07-10T20:27:00.561142"
+        "data_last_updated": "2021-10-28T01:55:12.479585"
     },
     "facilities": {
         "seating": false,
@@ -27,19 +27,19 @@
             "closed": false
         },
         "tuesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
         },
         "wednesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
         },
         "thursday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "7:00",
+            "close": "15:00",
+            "closed": false
         },
         "friday": {
             "open": "7:00",

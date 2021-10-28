@@ -5,7 +5,7 @@
         "open": true,
         "name": "Piccadilly, 81",
         "phone_number": "+442074956264",
-        "data_last_updated": "2021-07-10T20:27:16.731972"
+        "data_last_updated": "2021-10-28T01:55:50.932139"
     },
     "facilities": {
         "seating": true,
@@ -23,27 +23,27 @@
     "opening_hours": {
         "monday": {
             "open": "6:00",
-            "close": "19:00",
+            "close": "21:00",
             "closed": false
         },
         "tuesday": {
             "open": "6:00",
-            "close": "19:00",
+            "close": "21:00",
             "closed": false
         },
         "wednesday": {
             "open": "6:00",
-            "close": "19:00",
+            "close": "21:00",
             "closed": false
         },
         "thursday": {
             "open": "6:00",
-            "close": "19:00",
+            "close": "21:00",
             "closed": false
         },
         "friday": {
             "open": "6:00",
-            "close": "19:00",
+            "close": "21:00",
             "closed": false
         },
         "saturday": {

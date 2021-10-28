@@ -5,7 +5,7 @@
         "open": true,
         "name": "Soho",
         "phone_number": "+442079325261",
-        "data_last_updated": "2021-07-10T20:27:19.168225"
+        "data_last_updated": "2021-10-28T01:55:57.776358"
     },
     "facilities": {
         "seating": true,
@@ -22,34 +22,34 @@
     },
     "opening_hours": {
         "monday": {
-            "open": "7:30",
-            "close": "15:30",
+            "open": "8:00",
+            "close": "17:00",
             "closed": false
         },
         "tuesday": {
-            "open": "7:30",
-            "close": "15:30",
+            "open": "8:00",
+            "close": "17:00",
             "closed": false
         },
         "wednesday": {
-            "open": "7:30",
-            "close": "15:30",
+            "open": "8:00",
+            "close": "17:00",
             "closed": false
         },
         "thursday": {
-            "open": "7:30",
-            "close": "15:30",
+            "open": "8:00",
+            "close": "17:00",
             "closed": false
         },
         "friday": {
-            "open": "7:30",
-            "close": "15:30",
+            "open": "8:00",
+            "close": "17:00",
             "closed": false
         },
         "saturday": {
-            "open": "10:30",
-            "close": "17:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "sunday": {
             "open": null,

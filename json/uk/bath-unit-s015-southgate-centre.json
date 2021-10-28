@@ -5,7 +5,7 @@
         "open": true,
         "name": "Bath, Southgate Centre",
         "phone_number": "+441225319092",
-        "data_last_updated": "2021-07-10T20:26:18.604475"
+        "data_last_updated": "2021-10-28T01:53:24.691184"
     },
     "facilities": {
         "seating": true,
@@ -17,8 +17,8 @@
         "city": "Bath",
         "postal_code": "BA1 1AP",
         "country": "GB",
-        "latitude": "51.3787039",
-        "longitude": "-2.3577845"
+        "latitude": "51.37890761763185",
+        "longitude": "-2.3579572539672866"
     },
     "opening_hours": {
         "monday": {
@@ -53,7 +53,7 @@
         },
         "sunday": {
             "open": "9:00",
-            "close": "18:30",
+            "close": "16:30",
             "closed": false
         }
     }

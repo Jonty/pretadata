@@ -5,7 +5,7 @@
         "open": true,
         "name": "Barbican, Long Lane",
         "phone_number": "+442079325221",
-        "data_last_updated": "2021-07-10T20:26:36.192933"
+        "data_last_updated": "2021-10-28T01:54:11.267682"
     },
     "facilities": {
         "seating": true,
@@ -43,13 +43,13 @@
         },
         "friday": {
             "open": "6:30",
-            "close": "17:30",
+            "close": "18:30",
             "closed": false
         },
         "saturday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "9:00",
+            "close": "15:30",
+            "closed": false
         },
         "sunday": {
             "open": null,

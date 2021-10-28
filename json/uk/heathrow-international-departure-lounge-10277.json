@@ -2,10 +2,10 @@
     "details": {
         "id": "heathrow-international-departure-lounge-10277",
         "url": "https://locations.pret.co.uk/heathrow/international-departure-lounge-10277",
-        "open": false,
+        "open": true,
         "name": "Heathrow Terminal 3, Airside",
         "phone_number": "+442087598971",
-        "data_last_updated": "2021-07-10T20:26:30.989710"
+        "data_last_updated": "2021-10-28T01:53:58.377187"
     },
     "facilities": {
         "seating": true,
@@ -22,39 +22,39 @@
     },
     "opening_hours": {
         "monday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "21:30",
+            "closed": false
         },
         "tuesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "21:30",
+            "closed": false
         },
         "wednesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "21:30",
+            "closed": false
         },
         "thursday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "21:30",
+            "closed": false
         },
         "friday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "21:30",
+            "closed": false
         },
         "saturday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "21:30",
+            "closed": false
         },
         "sunday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "21:30",
+            "closed": false
         }
     }
 }

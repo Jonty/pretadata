@@ -5,7 +5,7 @@
         "open": true,
         "name": "Pret a Manger",
         "phone_number": "+33607912557",
-        "data_last_updated": "2021-07-10T20:28:07.469162"
+        "data_last_updated": "2021-10-28T01:57:40.882759"
     },
     "facilities": {
         "seating": true,
@@ -17,8 +17,8 @@
         "city": "Roissy-en-France",
         "postal_code": "95700",
         "country": "FR",
-        "latitude": "49.00410461425781",
-        "longitude": "2.515554904937744"
+        "latitude": "49.00471341221356",
+        "longitude": "2.562944173812851"
     },
     "opening_hours": {
         "lundi": {

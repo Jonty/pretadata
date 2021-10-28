@@ -5,7 +5,7 @@
         "open": true,
         "name": "Waterloo Road",
         "phone_number": "+442072611768",
-        "data_last_updated": "2021-07-10T20:26:46.288024"
+        "data_last_updated": "2021-10-28T01:54:35.241196"
     },
     "facilities": {
         "seating": true,
@@ -17,8 +17,8 @@
         "city": "London",
         "postal_code": "SE1 7AA",
         "country": "GB",
-        "latitude": "51.5023315",
-        "longitude": "-0.1104033"
+        "latitude": "51.50232441501016",
+        "longitude": "-0.11039523781425808"
     },
     "opening_hours": {
         "monday": {
@@ -47,13 +47,13 @@
             "closed": true
         },
         "saturday": {
-            "open": "9:00",
-            "close": "19:30",
+            "open": "8:30",
+            "close": "19:00",
             "closed": false
         },
         "sunday": {
-            "open": "9:30",
-            "close": "19:30",
+            "open": "8:30",
+            "close": "19:00",
             "closed": false
         }
     }

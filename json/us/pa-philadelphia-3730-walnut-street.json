@@ -2,10 +2,10 @@
     "details": {
         "id": "pa-philadelphia-3730-walnut-street",
         "url": "https://locations.pret.com/../pa/philadelphia/3730-walnut-street",
-        "open": false,
-        "name": "UPenn- Wharton upstairs",
+        "open": true,
+        "name": "UPenn- Wharton downstairs",
         "phone_number": "+12155739106",
-        "data_last_updated": "2021-07-10T20:28:14.346738"
+        "data_last_updated": "2021-10-28T01:57:47.062050"
     },
     "facilities": {
         "seating": true,
@@ -22,39 +22,39 @@
     },
     "opening_hours": {
         "monday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
         },
         "tuesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
         },
         "wednesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
         },
         "thursday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "20:00",
+            "closed": false
         },
         "friday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
         },
         "saturday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
         },
         "sunday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
         }
     }
 }

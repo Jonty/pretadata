@@ -5,7 +5,7 @@
         "open": true,
         "name": "Birmingham Airport, Landside",
         "phone_number": "+442079325388",
-        "data_last_updated": "2021-07-10T20:26:19.695818"
+        "data_last_updated": "2021-10-28T01:53:28.827413"
     },
     "facilities": {
         "seating": true,
@@ -17,8 +17,8 @@
         "city": "Birmingham",
         "postal_code": "B26 3QJ",
         "country": "GB",
-        "latitude": "52.453184",
-        "longitude": "-1.734294"
+        "latitude": "52.4511583",
+        "longitude": "-1.7332425"
     },
     "opening_hours": {
         "monday": {

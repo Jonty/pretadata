@@ -5,7 +5,7 @@
         "open": true,
         "name": "Shoreditch High Street, 192",
         "phone_number": "+442070330209",
-        "data_last_updated": "2021-07-10T20:26:50.886751"
+        "data_last_updated": "2021-10-28T01:54:47.087925"
     },
     "facilities": {
         "seating": true,
@@ -53,7 +53,7 @@
         },
         "sunday": {
             "open": "7:30",
-            "close": "18:30",
+            "close": "19:00",
             "closed": false
         }
     }

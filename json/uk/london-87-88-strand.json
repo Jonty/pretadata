@@ -5,7 +5,7 @@
         "open": true,
         "name": "87-88 Strand",
         "phone_number": "+442079325455",
-        "data_last_updated": "2021-07-10T20:27:17.820158"
+        "data_last_updated": "2021-10-28T01:55:53.693962"
     },
     "facilities": {
         "seating": true,
@@ -23,36 +23,36 @@
     "opening_hours": {
         "monday": {
             "open": "6:30",
-            "close": "15:30",
+            "close": "17:00",
             "closed": false
         },
         "tuesday": {
             "open": "6:30",
-            "close": "15:30",
+            "close": "17:00",
             "closed": false
         },
         "wednesday": {
             "open": "6:30",
-            "close": "15:30",
+            "close": "17:00",
             "closed": false
         },
         "thursday": {
             "open": "6:30",
-            "close": "15:30",
+            "close": "17:00",
             "closed": false
         },
         "friday": {
             "open": "6:30",
-            "close": "15:30",
+            "close": "17:00",
             "closed": false
         },
         "saturday": {
-            "open": "7:30",
+            "open": "6:30",
             "close": "17:00",
             "closed": false
         },
         "sunday": {
-            "open": "8:00",
+            "open": "7:00",
             "close": "17:00",
             "closed": false
         }

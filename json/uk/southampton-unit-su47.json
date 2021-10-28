@@ -5,7 +5,7 @@
         "open": true,
         "name": "Southampton, West Quay",
         "phone_number": "+442380829741",
-        "data_last_updated": "2021-07-10T20:27:47.710640"
+        "data_last_updated": "2021-10-28T01:57:12.249102"
     },
     "facilities": {
         "seating": true,
@@ -28,7 +28,7 @@
         },
         "tuesday": {
             "open": "8:00",
-            "close": ":0",
+            "close": "18:00",
             "closed": false
         },
         "wednesday": {

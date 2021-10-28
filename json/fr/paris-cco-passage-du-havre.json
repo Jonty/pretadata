@@ -5,7 +5,7 @@
         "open": true,
         "name": "Passage du Havre",
         "phone_number": "+33144847269",
-        "data_last_updated": "2021-07-10T20:28:05.404803"
+        "data_last_updated": "2021-10-28T01:57:38.962404"
     },
     "facilities": {
         "seating": true,
@@ -22,32 +22,32 @@
     },
     "opening_hours": {
         "lundi": {
-            "open": "9:30",
+            "open": "8:00",
             "close": "20:00",
             "closed": false
         },
         "mardi": {
-            "open": "9:30",
+            "open": "8:00",
             "close": "20:00",
             "closed": false
         },
         "mercredi": {
-            "open": "9:30",
+            "open": "8:00",
             "close": "20:00",
             "closed": false
         },
         "jeudi": {
-            "open": "9:30",
-            "close": "20:30",
+            "open": "8:00",
+            "close": "20:00",
             "closed": false
         },
         "vendredi": {
-            "open": "9:30",
-            "close": "20:30",
+            "open": "8:00",
+            "close": "20:00",
             "closed": false
         },
         "samedi": {
-            "open": "9:30",
+            "open": "8:00",
             "close": "20:00",
             "closed": false
         },

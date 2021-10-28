@@ -2,10 +2,10 @@
     "details": {
         "id": "bristol-93-95-broadmead",
         "url": "https://locations.pret.co.uk/bristol/93-95-broadmead",
-        "open": true,
+        "open": false,
         "name": "Bristol, 95 Broadmead",
         "phone_number": "+441179220251",
-        "data_last_updated": "2021-07-10T20:26:22.277337"
+        "data_last_updated": "2021-10-28T01:53:37.280412"
     },
     "facilities": {
         "seating": true,
@@ -22,39 +22,39 @@
     },
     "opening_hours": {
         "monday": {
-            "open": "7:30",
-            "close": "18:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "tuesday": {
-            "open": "7:30",
-            "close": "18:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "wednesday": {
-            "open": "7:30",
-            "close": "18:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "thursday": {
-            "open": "7:30",
-            "close": "18:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "friday": {
-            "open": "7:30",
-            "close": "18:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "saturday": {
-            "open": "7:30",
-            "close": "19:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "sunday": {
-            "open": "8:00",
-            "close": "17:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         }
     }
 }

@@ -5,7 +5,7 @@
         "open": true,
         "name": "Horseferry Road, 19",
         "phone_number": "+442079325459",
-        "data_last_updated": "2021-07-10T20:27:28.181612"
+        "data_last_updated": "2021-10-28T01:56:21.679711"
     },
     "facilities": {
         "seating": true,
@@ -52,7 +52,7 @@
             "closed": false
         },
         "sunday": {
-            "open": "7:00",
+            "open": "6:00",
             "close": "19:00",
             "closed": false
         }

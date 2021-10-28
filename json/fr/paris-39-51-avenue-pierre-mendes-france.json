@@ -5,7 +5,7 @@
         "open": true,
         "name": "Biblioth\u00e8que Nationale",
         "phone_number": "+33143448887",
-        "data_last_updated": "2021-07-10T20:28:01.191737"
+        "data_last_updated": "2021-10-28T01:57:34.599734"
     },
     "facilities": {
         "seating": true,
@@ -32,9 +32,9 @@
             "closed": false
         },
         "mercredi": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "7:30",
+            "close": "18:00",
+            "closed": false
         },
         "jeudi": {
             "open": "7:30",
@@ -47,9 +47,9 @@
             "closed": false
         },
         "samedi": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "9:30",
+            "close": "16:30",
+            "closed": false
         },
         "dimanche": {
             "open": null,

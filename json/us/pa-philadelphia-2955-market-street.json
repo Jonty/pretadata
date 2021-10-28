@@ -2,10 +2,10 @@
     "details": {
         "id": "pa-philadelphia-2955-market-street",
         "url": "https://locations.pret.com/../pa/philadelphia/2955-market-street",
-        "open": false,
+        "open": true,
         "name": "30th Street Station",
         "phone_number": "+12152221474",
-        "data_last_updated": "2021-07-10T20:28:13.299377"
+        "data_last_updated": "2021-10-28T01:57:46.686052"
     },
     "facilities": {
         "seating": true,
@@ -22,29 +22,29 @@
     },
     "opening_hours": {
         "monday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "6:00",
+            "close": "18:00",
+            "closed": false
         },
         "tuesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "6:00",
+            "close": "18:00",
+            "closed": false
         },
         "wednesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "6:00",
+            "close": "18:00",
+            "closed": false
         },
         "thursday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "6:00",
+            "close": "18:00",
+            "closed": false
         },
         "friday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "6:00",
+            "close": "18:00",
+            "closed": false
         },
         "saturday": {
             "open": null,

@@ -5,7 +5,7 @@
         "open": true,
         "name": "Cambridge, One Station Square",
         "phone_number": "+441223357641",
-        "data_last_updated": "2021-07-10T20:26:23.902633"
+        "data_last_updated": "2021-10-28T01:53:39.555665"
     },
     "facilities": {
         "seating": true,
@@ -23,37 +23,37 @@
     "opening_hours": {
         "monday": {
             "open": "7:00",
-            "close": "17:30",
+            "close": "17:00",
             "closed": false
         },
         "tuesday": {
             "open": "7:00",
-            "close": "17:30",
+            "close": "17:00",
             "closed": false
         },
         "wednesday": {
             "open": "7:00",
-            "close": "17:30",
+            "close": "17:00",
             "closed": false
         },
         "thursday": {
             "open": "7:00",
-            "close": "17:30",
+            "close": "17:00",
             "closed": false
         },
         "friday": {
             "open": "7:00",
-            "close": "17:30",
+            "close": "17:00",
             "closed": false
         },
         "saturday": {
             "open": "8:30",
-            "close": "16:00",
+            "close": "17:00",
             "closed": false
         },
         "sunday": {
             "open": "8:30",
-            "close": "15:30",
+            "close": "17:00",
             "closed": false
         }
     }

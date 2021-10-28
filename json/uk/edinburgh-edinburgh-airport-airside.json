@@ -2,10 +2,10 @@
     "details": {
         "id": "edinburgh-edinburgh-airport-airside",
         "url": "https://locations.pret.co.uk/edinburgh/edinburgh-airport-airside",
-        "open": false,
+        "open": true,
         "name": "Edinburgh Airport, Airside",
         "phone_number": "+441313331714",
-        "data_last_updated": "2021-07-10T20:26:26.896022"
+        "data_last_updated": "2021-10-28T01:53:47.209464"
     },
     "facilities": {
         "seating": true,
@@ -22,39 +22,39 @@
     },
     "opening_hours": {
         "monday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "19:00",
+            "closed": false
         },
         "tuesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "19:00",
+            "closed": false
         },
         "wednesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "19:00",
+            "closed": false
         },
         "thursday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "19:00",
+            "closed": false
         },
         "friday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "19:00",
+            "closed": false
         },
         "saturday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "19:00",
+            "closed": false
         },
         "sunday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "5:00",
+            "close": "19:00",
+            "closed": false
         }
     }
 }

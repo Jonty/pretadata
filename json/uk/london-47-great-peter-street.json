@@ -5,7 +5,7 @@
         "open": true,
         "name": "Great Peter Street",
         "phone_number": "+442079325401",
-        "data_last_updated": "2021-07-10T20:27:05.500491"
+        "data_last_updated": "2021-10-28T01:55:25.923572"
     },
     "facilities": {
         "seating": true,
@@ -17,8 +17,8 @@
         "city": "London",
         "postal_code": "SW1P 3LT",
         "country": "GB",
-        "latitude": "51.4967744",
-        "longitude": "-0.129528"
+        "latitude": "51.49683574440641",
+        "longitude": "-0.12919792944773745"
     },
     "opening_hours": {
         "monday": {

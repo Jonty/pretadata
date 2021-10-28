@@ -5,7 +5,7 @@
         "open": true,
         "name": "163 Piccadilly",
         "phone_number": "+442079325229",
-        "data_last_updated": "2021-07-10T20:26:47.164391"
+        "data_last_updated": "2021-10-28T01:54:36.802048"
     },
     "facilities": {
         "seating": true,
@@ -23,27 +23,27 @@
     "opening_hours": {
         "monday": {
             "open": "6:00",
-            "close": "21:30",
+            "close": "20:00",
             "closed": false
         },
         "tuesday": {
             "open": "6:00",
-            "close": "21:30",
+            "close": "20:00",
             "closed": false
         },
         "wednesday": {
             "open": "6:00",
-            "close": "21:30",
+            "close": "20:00",
             "closed": false
         },
         "thursday": {
             "open": "6:00",
-            "close": "21:30",
+            "close": "20:00",
             "closed": false
         },
         "friday": {
             "open": "6:00",
-            "close": "21:30",
+            "close": "20:00",
             "closed": false
         },
         "saturday": {

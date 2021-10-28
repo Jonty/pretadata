@@ -5,7 +5,7 @@
         "open": true,
         "name": "20th and Sixth",
         "phone_number": "+12122552087",
-        "data_last_updated": "2021-07-10T20:28:46.195888"
+        "data_last_updated": "2021-10-28T01:58:16.001700"
     },
     "facilities": {
         "seating": true,
@@ -22,39 +22,39 @@
     },
     "opening_hours": {
         "monday": {
-            "open": "7:30",
+            "open": "6:30",
             "close": "19:30",
             "closed": false
         },
         "tuesday": {
-            "open": "7:30",
+            "open": "6:30",
             "close": "19:30",
             "closed": false
         },
         "wednesday": {
-            "open": "7:30",
+            "open": "6:30",
             "close": "19:30",
             "closed": false
         },
         "thursday": {
-            "open": "7:30",
+            "open": "6:30",
             "close": "19:30",
             "closed": false
         },
         "friday": {
-            "open": "7:30",
+            "open": "6:30",
             "close": "19:30",
             "closed": false
         },
         "saturday": {
-            "open": "9:00",
-            "close": "16:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "sunday": {
-            "open": "9:00",
-            "close": "16:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         }
     }
 }

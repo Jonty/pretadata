@@ -5,7 +5,7 @@
         "open": true,
         "name": "Tooley Street",
         "phone_number": "+442079325366",
-        "data_last_updated": "2021-07-10T20:27:05.295423"
+        "data_last_updated": "2021-10-28T01:55:25.305885"
     },
     "facilities": {
         "seating": true,
@@ -42,8 +42,8 @@
             "closed": false
         },
         "friday": {
-            "open": "5:30",
-            "close": "17:00",
+            "open": "6:00",
+            "close": "19:00",
             "closed": false
         },
         "saturday": {

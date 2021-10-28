@@ -5,7 +5,7 @@
         "open": true,
         "name": "Marceau",
         "phone_number": "+33142893803",
-        "data_last_updated": "2021-07-10T20:28:04.024562"
+        "data_last_updated": "2021-10-28T01:57:37.346936"
     },
     "facilities": {
         "seating": true,
@@ -17,8 +17,8 @@
         "city": "Paris",
         "postal_code": "75008",
         "country": "FR",
-        "latitude": "48.8701384",
-        "longitude": "2.2983874"
+        "latitude": "48.87016261459603",
+        "longitude": "2.298512172579854"
     },
     "opening_hours": {
         "lundi": {
@@ -33,7 +33,7 @@
         },
         "mercredi": {
             "open": "7:30",
-            "close": "18:00",
+            "close": "19:00",
             "closed": false
         },
         "jeudi": {
@@ -47,7 +47,7 @@
             "closed": false
         },
         "samedi": {
-            "open": "9:00",
+            "open": "8:30",
             "close": "18:00",
             "closed": false
         },

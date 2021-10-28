@@ -5,7 +5,7 @@
         "open": true,
         "name": "Warren Street, 14",
         "phone_number": "+442073876661",
-        "data_last_updated": "2021-07-10T20:26:44.773812"
+        "data_last_updated": "2021-10-28T01:54:31.161250"
     },
     "facilities": {
         "seating": true,
@@ -47,7 +47,7 @@
             "closed": false
         },
         "saturday": {
-            "open": "8:00",
+            "open": "7:30",
             "close": "16:00",
             "closed": false
         },

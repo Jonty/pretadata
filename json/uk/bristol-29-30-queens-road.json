@@ -5,7 +5,7 @@
         "open": true,
         "name": "Bristol, Queens Road",
         "phone_number": "+441179293885",
-        "data_last_updated": "2021-07-10T20:26:21.876266"
+        "data_last_updated": "2021-10-28T01:53:35.671617"
     },
     "facilities": {
         "seating": true,
@@ -23,27 +23,27 @@
     "opening_hours": {
         "monday": {
             "open": "7:30",
-            "close": "16:30",
+            "close": "16:00",
             "closed": false
         },
         "tuesday": {
             "open": "7:30",
-            "close": "16:30",
+            "close": "16:00",
             "closed": false
         },
         "wednesday": {
             "open": "7:30",
-            "close": "16:30",
+            "close": "16:00",
             "closed": false
         },
         "thursday": {
             "open": "7:30",
-            "close": "16:30",
+            "close": "16:00",
             "closed": false
         },
         "friday": {
             "open": "7:30",
-            "close": "16:30",
+            "close": "16:00",
             "closed": false
         },
         "saturday": {

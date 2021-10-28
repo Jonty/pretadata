@@ -5,7 +5,7 @@
         "open": true,
         "name": "Birmingham Bullring",
         "phone_number": "+442079325375",
-        "data_last_updated": "2021-07-10T20:26:20.935715"
+        "data_last_updated": "2021-10-28T01:53:32.617852"
     },
     "facilities": {
         "seating": false,
@@ -17,8 +17,8 @@
         "city": "Birmingham",
         "postal_code": "B5 4QL",
         "country": "GB",
-        "latitude": "52.478024",
-        "longitude": "-1.892318"
+        "latitude": "52.47792504628267",
+        "longitude": "-1.8931637891186792"
     },
     "opening_hours": {
         "monday": {

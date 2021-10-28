@@ -5,7 +5,7 @@
         "open": true,
         "name": "La D\u00e9fense",
         "phone_number": "+33140909646",
-        "data_last_updated": "2021-07-10T20:27:53.090129"
+        "data_last_updated": "2021-10-28T01:57:24.262648"
     },
     "facilities": {
         "seating": true,
@@ -17,17 +17,17 @@
         "city": "Nanterre",
         "postal_code": "92800",
         "country": "FR",
-        "latitude": "48.89042618994783",
-        "longitude": "2.2375047589208874"
+        "latitude": "48.8905163",
+        "longitude": "2.2362075"
     },
     "opening_hours": {
         "lundi": {
-            "open": "7:30",
+            "open": "9:00",
             "close": "19:30",
             "closed": false
         },
         "mardi": {
-            "open": "7:30",
+            "open": "9:00",
             "close": "19:30",
             "closed": false
         },
@@ -37,17 +37,17 @@
             "closed": false
         },
         "jeudi": {
-            "open": "7:30",
+            "open": "9:00",
             "close": "19:30",
             "closed": false
         },
         "vendredi": {
-            "open": "7:30",
+            "open": "9:00",
             "close": "19:30",
             "closed": false
         },
         "samedi": {
-            "open": "10:00",
+            "open": "9:00",
             "close": "19:30",
             "closed": false
         },

@@ -5,7 +5,7 @@
         "open": true,
         "name": "Lafayette Gourmet Haussmann",
         "phone_number": "+33142654365",
-        "data_last_updated": "2021-07-10T20:28:01.734500"
+        "data_last_updated": "2021-10-28T01:57:35.238992"
     },
     "facilities": {
         "seating": true,
@@ -23,37 +23,37 @@
     "opening_hours": {
         "lundi": {
             "open": "9:30",
-            "close": "21:00",
+            "close": "20:30",
             "closed": false
         },
         "mardi": {
             "open": "9:30",
-            "close": "21:00",
+            "close": "20:30",
             "closed": false
         },
         "mercredi": {
             "open": "9:30",
-            "close": "21:00",
+            "close": "20:30",
             "closed": false
         },
         "jeudi": {
             "open": "9:30",
-            "close": "21:00",
+            "close": "20:30",
             "closed": false
         },
         "vendredi": {
             "open": "9:30",
-            "close": "21:00",
+            "close": "20:30",
             "closed": false
         },
         "samedi": {
             "open": "9:30",
-            "close": "21:00",
+            "close": "20:30",
             "closed": false
         },
         "dimanche": {
             "open": "11:00",
-            "close": "20:00",
+            "close": "19:00",
             "closed": false
         }
     }

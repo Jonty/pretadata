@@ -5,7 +5,7 @@
         "open": true,
         "name": "Issy-Les-Moulineaux",
         "phone_number": "+33147659702",
-        "data_last_updated": "2021-07-10T20:27:51.612968"
+        "data_last_updated": "2021-10-28T01:57:22.421703"
     },
     "facilities": {
         "seating": true,
@@ -32,8 +32,8 @@
             "closed": false
         },
         "mercredi": {
-            "open": "9:00",
-            "close": "18:00",
+            "open": "7:30",
+            "close": "20:00",
             "closed": false
         },
         "jeudi": {
@@ -47,13 +47,13 @@
             "closed": false
         },
         "samedi": {
-            "open": "9:00",
-            "close": "19:00",
+            "open": "8:30",
+            "close": "18:00",
             "closed": false
         },
         "dimanche": {
             "open": "9:00",
-            "close": "19:00",
+            "close": "18:00",
             "closed": false
         }
     }

@@ -5,7 +5,7 @@
         "open": true,
         "name": "Canary Wharf Veggie Pret",
         "phone_number": "+442077191667",
-        "data_last_updated": "2021-07-10T20:27:27.122346"
+        "data_last_updated": "2021-10-28T01:56:18.539865"
     },
     "facilities": {
         "seating": true,
@@ -17,8 +17,8 @@
         "city": "London",
         "postal_code": "E14 5AH",
         "country": "GB",
-        "latitude": "51.5049085",
-        "longitude": "-0.0187255"
+        "latitude": "51.5065156789346",
+        "longitude": "-0.027763218599616835"
     },
     "opening_hours": {
         "monday": {

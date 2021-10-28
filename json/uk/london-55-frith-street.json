@@ -5,7 +5,7 @@
         "open": true,
         "name": "Frith Street",
         "phone_number": "+442079325335",
-        "data_last_updated": "2021-07-10T20:27:08.501247"
+        "data_last_updated": "2021-10-28T01:55:33.115587"
     },
     "facilities": {
         "seating": true,
@@ -17,8 +17,8 @@
         "city": "London",
         "postal_code": "W1D 4SJ",
         "country": "GB",
-        "latitude": "51.5138639",
-        "longitude": "-0.1318758"
+        "latitude": "51.5125116",
+        "longitude": "-0.1312597"
     },
     "opening_hours": {
         "monday": {

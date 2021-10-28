@@ -5,7 +5,7 @@
         "open": false,
         "name": "Stansted Airport, Airside",
         "phone_number": "+441279661911",
-        "data_last_updated": "2021-07-10T20:27:48.071977"
+        "data_last_updated": "2021-10-28T01:57:13.756693"
     },
     "facilities": {
         "seating": true,
@@ -17,8 +17,8 @@
         "city": "Stansted",
         "postal_code": "CM24 1RW",
         "country": "GB",
-        "latitude": "51.89052229039117",
-        "longitude": "0.2607356819707274"
+        "latitude": "51.89043717138574",
+        "longitude": "0.26100306894576875"
     },
     "opening_hours": {
         "monday": {

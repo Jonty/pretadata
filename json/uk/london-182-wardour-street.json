@@ -5,7 +5,7 @@
         "open": true,
         "name": "Wardour Street",
         "phone_number": "+442079325208",
-        "data_last_updated": "2021-07-10T20:26:49.800611"
+        "data_last_updated": "2021-10-28T01:54:43.841180"
     },
     "facilities": {
         "seating": true,
@@ -23,27 +23,27 @@
     "opening_hours": {
         "monday": {
             "open": "7:30",
-            "close": "15:30",
+            "close": "16:00",
             "closed": false
         },
         "tuesday": {
             "open": "7:30",
-            "close": "15:30",
+            "close": "16:00",
             "closed": false
         },
         "wednesday": {
             "open": "7:30",
-            "close": "15:30",
+            "close": "16:00",
             "closed": false
         },
         "thursday": {
             "open": "7:30",
-            "close": "15:30",
+            "close": "16:00",
             "closed": false
         },
         "friday": {
             "open": "7:30",
-            "close": "15:30",
+            "close": "16:00",
             "closed": false
         },
         "saturday": {

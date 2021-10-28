@@ -5,7 +5,7 @@
         "open": true,
         "name": "Manchester, Deansgate",
         "phone_number": "+441618328292",
-        "data_last_updated": "2021-07-10T20:27:41.713597"
+        "data_last_updated": "2021-10-28T01:56:55.155962"
     },
     "facilities": {
         "seating": true,
@@ -23,27 +23,27 @@
     "opening_hours": {
         "monday": {
             "open": "7:30",
-            "close": "16:30",
+            "close": "18:00",
             "closed": false
         },
         "tuesday": {
             "open": "7:30",
-            "close": "16:30",
+            "close": "18:00",
             "closed": false
         },
         "wednesday": {
             "open": "7:30",
-            "close": "16:30",
+            "close": "18:00",
             "closed": false
         },
         "thursday": {
             "open": "7:30",
-            "close": "16:30",
+            "close": "18:00",
             "closed": false
         },
         "friday": {
             "open": "7:30",
-            "close": "16:30",
+            "close": "18:00",
             "closed": false
         },
         "saturday": {

@@ -5,7 +5,7 @@
         "open": true,
         "name": "York, Designer Outlet",
         "phone_number": "+441904639899",
-        "data_last_updated": "2021-07-10T20:27:50.637347"
+        "data_last_updated": "2021-10-28T01:57:21.343570"
     },
     "facilities": {
         "seating": true,
@@ -22,22 +22,22 @@
     },
     "opening_hours": {
         "monday": {
-            "open": "9:30",
+            "open": "9:00",
             "close": "20:00",
             "closed": false
         },
         "tuesday": {
-            "open": "9:30",
+            "open": "9:00",
             "close": "20:00",
             "closed": false
         },
         "wednesday": {
-            "open": "9:30",
+            "open": "9:00",
             "close": "20:00",
             "closed": false
         },
         "thursday": {
-            "open": "9:30",
+            "open": "9:00",
             "close": "20:00",
             "closed": false
         },

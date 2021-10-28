@@ -5,7 +5,7 @@
         "open": true,
         "name": "Victoria Coach Station",
         "phone_number": "+442077308267",
-        "data_last_updated": "2021-07-10T20:27:39.194221"
+        "data_last_updated": "2021-10-28T01:56:47.998582"
     },
     "facilities": {
         "seating": true,
@@ -23,37 +23,37 @@
     "opening_hours": {
         "monday": {
             "open": "6:30",
-            "close": "17:00",
+            "close": "19:00",
             "closed": false
         },
         "tuesday": {
             "open": "7:00",
-            "close": "17:00",
+            "close": "19:00",
             "closed": false
         },
         "wednesday": {
             "open": "7:00",
-            "close": "17:00",
+            "close": "19:00",
             "closed": false
         },
         "thursday": {
             "open": "7:00",
-            "close": "17:00",
+            "close": "19:00",
             "closed": false
         },
         "friday": {
             "open": "6:30",
-            "close": "17:00",
+            "close": "19:00",
             "closed": false
         },
         "saturday": {
-            "open": "6:30",
-            "close": "17:00",
+            "open": "6:00",
+            "close": "19:00",
             "closed": false
         },
         "sunday": {
-            "open": "6:30",
-            "close": "17:00",
+            "open": "6:00",
+            "close": "19:00",
             "closed": false
         }
     }

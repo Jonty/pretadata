@@ -5,7 +5,7 @@
         "open": true,
         "name": "32nd and Park",
         "phone_number": "+12125322416",
-        "data_last_updated": "2021-07-10T20:28:31.205859"
+        "data_last_updated": "2021-10-28T01:58:01.976330"
     },
     "facilities": {
         "seating": true,
@@ -22,27 +22,27 @@
     },
     "opening_hours": {
         "monday": {
-            "open": "7:30",
+            "open": "6:30",
             "close": "19:30",
             "closed": false
         },
         "tuesday": {
-            "open": "7:30",
+            "open": "6:30",
             "close": "19:30",
             "closed": false
         },
         "wednesday": {
-            "open": "7:30",
+            "open": "6:30",
             "close": "19:30",
             "closed": false
         },
         "thursday": {
-            "open": "7:30",
+            "open": "6:30",
             "close": "19:30",
             "closed": false
         },
         "friday": {
-            "open": "7:30",
+            "open": "6:30",
             "close": "19:30",
             "closed": false
         },

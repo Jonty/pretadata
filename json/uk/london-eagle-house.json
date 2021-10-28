@@ -5,7 +5,7 @@
         "open": true,
         "name": "City Road, 161",
         "phone_number": "+442072537266",
-        "data_last_updated": "2021-07-10T20:27:21.040264"
+        "data_last_updated": "2021-10-28T01:56:01.817764"
     },
     "facilities": {
         "seating": true,
@@ -22,7 +22,7 @@
     },
     "opening_hours": {
         "monday": {
-            "open": "6:30",
+            "open": "6:00",
             "close": "21:00",
             "closed": false
         },

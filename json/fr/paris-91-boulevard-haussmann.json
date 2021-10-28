@@ -5,7 +5,7 @@
         "open": true,
         "name": "Saint-Augustin",
         "phone_number": "+33187039292",
-        "data_last_updated": "2021-07-10T20:28:04.837255"
+        "data_last_updated": "2021-10-28T01:57:38.489190"
     },
     "facilities": {
         "seating": true,
@@ -32,8 +32,8 @@
             "closed": false
         },
         "mercredi": {
-            "open": "9:00",
-            "close": "17:00",
+            "open": "7:30",
+            "close": "18:00",
             "closed": false
         },
         "jeudi": {
@@ -47,12 +47,12 @@
             "closed": false
         },
         "samedi": {
-            "open": "10:00",
+            "open": "8:30",
             "close": "18:00",
             "closed": false
         },
         "dimanche": {
-            "open": "10:00",
+            "open": "9:00",
             "close": "17:00",
             "closed": false
         }

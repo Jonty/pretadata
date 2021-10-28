@@ -5,7 +5,7 @@
         "open": true,
         "name": "Sheffield, Meadow Hall",
         "phone_number": "+441142569181",
-        "data_last_updated": "2021-07-10T20:27:46.833062"
+        "data_last_updated": "2021-10-28T01:57:10.205297"
     },
     "facilities": {
         "seating": true,
@@ -42,13 +42,13 @@
             "closed": false
         },
         "friday": {
-            "open": "9:30",
-            "close": "19:00",
+            "open": "8:30",
+            "close": "21:00",
             "closed": false
         },
         "saturday": {
             "open": "9:00",
-            "close": "19:00",
+            "close": "20:00",
             "closed": false
         },
         "sunday": {

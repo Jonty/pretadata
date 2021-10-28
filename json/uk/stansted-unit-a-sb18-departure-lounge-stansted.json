@@ -2,10 +2,10 @@
     "details": {
         "id": "stansted-unit-a-sb18-departure-lounge-stansted",
         "url": "https://locations.pret.co.uk/stansted/unit-a-sb18-departure-lounge-stansted",
-        "open": false,
+        "open": true,
         "name": "Stansted Airport Airside",
         "phone_number": "+441279681950",
-        "data_last_updated": "2021-07-10T20:27:48.404650"
+        "data_last_updated": "2021-10-28T01:57:14.687187"
     },
     "facilities": {
         "seating": false,
@@ -22,39 +22,39 @@
     },
     "opening_hours": {
         "monday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "4:00",
+            "close": "11:00",
+            "closed": false
         },
         "tuesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "4:00",
+            "close": "11:00",
+            "closed": false
         },
         "wednesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "4:00",
+            "close": "11:00",
+            "closed": false
         },
         "thursday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "4:00",
+            "close": "11:00",
+            "closed": false
         },
         "friday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "4:00",
+            "close": "11:00",
+            "closed": false
         },
         "saturday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "4:00",
+            "close": "11:00",
+            "closed": false
         },
         "sunday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "4:00",
+            "close": "11:00",
+            "closed": false
         }
     }
 }

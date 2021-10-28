@@ -5,7 +5,7 @@
         "open": true,
         "name": "A\u00e9roville",
         "phone_number": "+33174257422",
-        "data_last_updated": "2021-07-10T20:28:11.119050"
+        "data_last_updated": "2021-10-28T01:57:44.623997"
     },
     "facilities": {
         "seating": true,
@@ -52,7 +52,7 @@
             "closed": false
         },
         "dimanche": {
-            "open": "9:00",
+            "open": "8:30",
             "close": "20:00",
             "closed": false
         }

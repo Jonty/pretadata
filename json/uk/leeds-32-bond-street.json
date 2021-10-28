@@ -5,7 +5,7 @@
         "open": true,
         "name": "Leeds, Bond Street",
         "phone_number": "+441132421126",
-        "data_last_updated": "2021-07-10T20:26:33.693160"
+        "data_last_updated": "2021-10-28T01:54:04.639612"
     },
     "facilities": {
         "seating": true,
@@ -23,27 +23,27 @@
     "opening_hours": {
         "monday": {
             "open": "7:30",
-            "close": "16:00",
+            "close": "17:00",
             "closed": false
         },
         "tuesday": {
             "open": "7:30",
-            "close": "16:00",
+            "close": "17:00",
             "closed": false
         },
         "wednesday": {
             "open": "7:30",
-            "close": "16:00",
+            "close": "17:00",
             "closed": false
         },
         "thursday": {
             "open": "7:30",
-            "close": "16:00",
+            "close": "17:00",
             "closed": false
         },
         "friday": {
             "open": "7:30",
-            "close": "16:00",
+            "close": "17:00",
             "closed": false
         },
         "saturday": {

@@ -5,7 +5,7 @@
         "open": true,
         "name": "Canvey Street",
         "phone_number": "+442079325257",
-        "data_last_updated": "2021-07-10T20:26:51.071743"
+        "data_last_updated": "2021-10-28T01:54:47.576947"
     },
     "facilities": {
         "seating": true,
@@ -43,7 +43,7 @@
         },
         "friday": {
             "open": "6:30",
-            "close": "16:00",
+            "close": "16:30",
             "closed": false
         },
         "saturday": {

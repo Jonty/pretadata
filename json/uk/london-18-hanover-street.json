@@ -5,7 +5,7 @@
         "open": true,
         "name": "Hanover Street",
         "phone_number": "+442079325404",
-        "data_last_updated": "2021-07-10T20:26:49.303945"
+        "data_last_updated": "2021-10-28T01:54:42.124289"
     },
     "facilities": {
         "seating": true,
@@ -17,8 +17,8 @@
         "city": "London",
         "postal_code": "W1S 1YN",
         "country": "GB",
-        "latitude": "51.5145072",
-        "longitude": "-0.1438859"
+        "latitude": "51.513803902139216",
+        "longitude": "-0.14194890216328915"
     },
     "opening_hours": {
         "monday": {
@@ -52,9 +52,9 @@
             "closed": false
         },
         "sunday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "9:00",
+            "close": "15:00",
+            "closed": false
         }
     }
 }

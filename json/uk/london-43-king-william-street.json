@@ -5,7 +5,7 @@
         "open": true,
         "name": "King William Street",
         "phone_number": "+442079325217",
-        "data_last_updated": "2021-07-10T20:27:04.376708"
+        "data_last_updated": "2021-10-28T01:55:23.204119"
     },
     "facilities": {
         "seating": true,
@@ -47,9 +47,9 @@
             "closed": false
         },
         "saturday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "10:00",
+            "close": "16:00",
+            "closed": false
         },
         "sunday": {
             "open": null,

@@ -2,13 +2,13 @@
     "details": {
         "id": "pa-philadelphia-john-m-huntsman-hall",
         "url": "https://locations.pret.com/../pa/philadelphia/john-m.-huntsman-hall",
-        "open": false,
-        "name": "UPenn- Wharton downstairs",
+        "open": true,
+        "name": "UPenn- Wharton upstairs",
         "phone_number": "+12155739106",
-        "data_last_updated": "2021-07-10T20:28:14.943093"
+        "data_last_updated": "2021-10-28T01:57:47.494628"
     },
     "facilities": {
-        "seating": true,
+        "seating": false,
         "wheelchair": false,
         "wifi": false
     },
@@ -22,24 +22,24 @@
     },
     "opening_hours": {
         "monday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
         },
         "tuesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
         },
         "wednesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
         },
         "thursday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
         },
         "friday": {
             "open": null,

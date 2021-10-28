@@ -5,7 +5,7 @@
         "open": true,
         "name": "Trafalgar Square North",
         "phone_number": "+442079325345",
-        "data_last_updated": "2021-07-10T20:27:12.865586"
+        "data_last_updated": "2021-10-28T01:55:42.225644"
     },
     "facilities": {
         "seating": true,
@@ -14,7 +14,7 @@
     },
     "location": {
         "street": "7-8 St Martin's Place",
-        "city": "London",
+        "city": "London Westminster",
         "postal_code": "WC2N 4JH",
         "country": "GB",
         "latitude": "51.509289338748175",

@@ -5,7 +5,7 @@
         "open": true,
         "name": "London Bridge Station",
         "phone_number": "+442073780366",
-        "data_last_updated": "2021-07-10T20:27:21.815505"
+        "data_last_updated": "2021-10-28T01:56:04.305815"
     },
     "facilities": {
         "seating": true,
@@ -23,27 +23,27 @@
     "opening_hours": {
         "monday": {
             "open": "5:30",
-            "close": "22:00",
+            "close": "23:00",
             "closed": false
         },
         "tuesday": {
             "open": "5:30",
-            "close": "22:00",
+            "close": "23:00",
             "closed": false
         },
         "wednesday": {
             "open": "5:30",
-            "close": "22:00",
+            "close": "23:00",
             "closed": false
         },
         "thursday": {
             "open": "5:30",
-            "close": "22:00",
+            "close": "23:00",
             "closed": false
         },
         "friday": {
             "open": "5:30",
-            "close": "22:00",
+            "close": "23:00",
             "closed": false
         },
         "saturday": {
@@ -53,7 +53,7 @@
         },
         "sunday": {
             "open": "8:00",
-            "close": "22:00",
+            "close": "23:00",
             "closed": false
         }
     }

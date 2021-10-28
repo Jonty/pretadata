@@ -5,7 +5,7 @@
         "open": true,
         "name": "125 Old Broad Street",
         "phone_number": "+442073744550",
-        "data_last_updated": "2021-07-10T20:26:42.510748"
+        "data_last_updated": "2021-10-28T01:54:24.879972"
     },
     "facilities": {
         "seating": true,
@@ -28,28 +28,28 @@
         },
         "tuesday": {
             "open": "6:00",
-            "close": "16:00",
+            "close": "18:00",
             "closed": false
         },
         "wednesday": {
             "open": "6:00",
-            "close": "16:00",
+            "close": "18:00",
             "closed": false
         },
         "thursday": {
             "open": "6:00",
-            "close": "16:00",
+            "close": "18:00",
             "closed": false
         },
         "friday": {
             "open": "6:00",
-            "close": "16:00",
+            "close": "18:00",
             "closed": false
         },
         "saturday": {
-            "open": "9:00",
-            "close": "15:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "sunday": {
             "open": null,

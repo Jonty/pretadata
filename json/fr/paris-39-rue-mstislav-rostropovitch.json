@@ -5,7 +5,7 @@
         "open": true,
         "name": "Batignolles",
         "phone_number": "+33142265820",
-        "data_last_updated": "2021-07-10T20:28:00.672642"
+        "data_last_updated": "2021-10-28T01:57:33.927050"
     },
     "facilities": {
         "seating": true,
@@ -32,9 +32,9 @@
             "closed": false
         },
         "mercredi": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "7:30",
+            "close": "17:00",
+            "closed": false
         },
         "jeudi": {
             "open": "7:30",

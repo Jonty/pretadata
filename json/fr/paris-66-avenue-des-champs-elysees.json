@@ -5,7 +5,7 @@
         "open": true,
         "name": "Avenue des Champs-\u00c9lys\u00e9es",
         "phone_number": "+33145634272",
-        "data_last_updated": "2021-07-10T20:28:04.585971"
+        "data_last_updated": "2021-10-28T01:57:38.013383"
     },
     "facilities": {
         "seating": true,
@@ -33,7 +33,7 @@
         },
         "mercredi": {
             "open": "7:30",
-            "close": "17:00",
+            "close": "18:00",
             "closed": false
         },
         "jeudi": {
@@ -48,7 +48,7 @@
         },
         "samedi": {
             "open": "10:00",
-            "close": "18:00",
+            "close": "17:00",
             "closed": false
         },
         "dimanche": {

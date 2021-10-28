@@ -5,7 +5,7 @@
         "open": true,
         "name": "100 Tottenham Court Road",
         "phone_number": "+442079325238",
-        "data_last_updated": "2021-07-10T20:26:37.935385"
+        "data_last_updated": "2021-10-28T01:54:15.462169"
     },
     "facilities": {
         "seating": true,
@@ -23,27 +23,27 @@
     "opening_hours": {
         "monday": {
             "open": "6:45",
-            "close": "19:00",
+            "close": "19:30",
             "closed": false
         },
         "tuesday": {
             "open": "6:45",
-            "close": "19:00",
+            "close": "19:30",
             "closed": false
         },
         "wednesday": {
             "open": "6:45",
-            "close": "19:00",
+            "close": "19:30",
             "closed": false
         },
         "thursday": {
             "open": "6:45",
-            "close": "19:00",
+            "close": "19:30",
             "closed": false
         },
         "friday": {
             "open": "6:45",
-            "close": "19:00",
+            "close": "19:30",
             "closed": false
         },
         "saturday": {
@@ -52,9 +52,9 @@
             "closed": false
         },
         "sunday": {
-            "open": "9:30",
-            "close": "17:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         }
     }
 }

@@ -5,7 +5,7 @@
         "open": true,
         "name": "Cavendish Square",
         "phone_number": "+442079325351",
-        "data_last_updated": "2021-07-10T20:27:00.378372"
+        "data_last_updated": "2021-10-28T01:55:11.696854"
     },
     "facilities": {
         "seating": true,
@@ -22,38 +22,38 @@
     },
     "opening_hours": {
         "monday": {
-            "open": "7:30",
-            "close": "19:00",
+            "open": "7:00",
+            "close": "18:30",
             "closed": false
         },
         "tuesday": {
-            "open": "7:30",
-            "close": "19:00",
+            "open": "7:00",
+            "close": "18:30",
             "closed": false
         },
         "wednesday": {
-            "open": "7:30",
-            "close": "19:00",
+            "open": "7:00",
+            "close": "18:30",
             "closed": false
         },
         "thursday": {
-            "open": "7:30",
-            "close": "19:00",
+            "open": "7:00",
+            "close": "18:30",
             "closed": false
         },
         "friday": {
-            "open": "7:30",
-            "close": "19:00",
+            "open": "7:00",
+            "close": "18:30",
             "closed": false
         },
         "saturday": {
             "open": "8:30",
-            "close": "16:00",
+            "close": "17:00",
             "closed": false
         },
         "sunday": {
             "open": "9:00",
-            "close": "16:00",
+            "close": "17:00",
             "closed": false
         }
     }

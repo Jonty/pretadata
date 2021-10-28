@@ -2,10 +2,10 @@
     "details": {
         "id": "ny-new-york-205-east-42nd-street",
         "url": "https://locations.pret.com/../ny/new-york/205-east-42nd-street",
-        "open": false,
+        "open": true,
         "name": "42nd and 3rd",
         "phone_number": "+12129222805",
-        "data_last_updated": "2021-07-10T20:28:32.249595"
+        "data_last_updated": "2021-10-28T01:58:02.626825"
     },
     "facilities": {
         "seating": true,
@@ -22,29 +22,29 @@
     },
     "opening_hours": {
         "monday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
         },
         "tuesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
         },
         "wednesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
         },
         "thursday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
         },
         "friday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "6:30",
+            "close": "19:30",
+            "closed": false
         },
         "saturday": {
             "open": null,

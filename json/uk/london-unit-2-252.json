@@ -5,7 +5,7 @@
         "open": true,
         "name": "Finsbury Square",
         "phone_number": "+442079325365",
-        "data_last_updated": "2021-07-10T20:27:30.050500"
+        "data_last_updated": "2021-10-28T01:56:27.102581"
     },
     "facilities": {
         "seating": true,
@@ -23,22 +23,22 @@
     "opening_hours": {
         "monday": {
             "open": "6:30",
-            "close": "16:00",
+            "close": "17:00",
             "closed": false
         },
         "tuesday": {
             "open": "6:30",
-            "close": "15:00",
+            "close": "17:00",
             "closed": false
         },
         "wednesday": {
             "open": "6:30",
-            "close": "15:00",
+            "close": "17:00",
             "closed": false
         },
         "thursday": {
             "open": "6:30",
-            "close": "15:00",
+            "close": "17:00",
             "closed": false
         },
         "friday": {

@@ -2,10 +2,10 @@
     "details": {
         "id": "ny-new-york-639-3rd-avenue",
         "url": "https://locations.pret.com/../ny/new-york/639-3rd-avenue",
-        "open": true,
+        "open": false,
         "name": "41st and 3rd",
         "phone_number": "+16464389421",
-        "data_last_updated": "2021-07-10T20:28:45.709242"
+        "data_last_updated": "2021-10-28T01:58:15.523941"
     },
     "facilities": {
         "seating": true,
@@ -22,29 +22,29 @@
     },
     "opening_hours": {
         "monday": {
-            "open": "7:30",
-            "close": "17:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "tuesday": {
-            "open": "7:30",
-            "close": "17:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "wednesday": {
-            "open": "7:30",
-            "close": "17:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "thursday": {
-            "open": "7:30",
-            "close": "17:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "friday": {
-            "open": "7:30",
-            "close": "17:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "saturday": {
             "open": null,

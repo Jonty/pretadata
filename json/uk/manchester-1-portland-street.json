@@ -5,7 +5,7 @@
         "open": true,
         "name": "Manchester, Portland Street",
         "phone_number": "+441612286797",
-        "data_last_updated": "2021-07-10T20:27:40.898190"
+        "data_last_updated": "2021-10-28T01:56:52.827731"
     },
     "facilities": {
         "seating": true,
@@ -47,9 +47,9 @@
             "closed": false
         },
         "saturday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "9:00",
+            "close": "17:00",
+            "closed": false
         },
         "sunday": {
             "open": null,

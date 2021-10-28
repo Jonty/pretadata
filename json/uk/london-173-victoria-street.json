@@ -5,7 +5,7 @@
         "open": true,
         "name": "173 Victoria Street",
         "phone_number": "+442079325224",
-        "data_last_updated": "2021-07-10T20:26:48.973505"
+        "data_last_updated": "2021-10-28T01:54:41.185707"
     },
     "facilities": {
         "seating": true,
@@ -17,33 +17,33 @@
         "city": "London",
         "postal_code": "SW1E 5NA",
         "country": "GB",
-        "latitude": "51.4963595",
-        "longitude": "-0.1421133"
+        "latitude": "51.496381",
+        "longitude": "-0.142224"
     },
     "opening_hours": {
         "monday": {
             "open": "6:00",
-            "close": "19:00",
+            "close": "20:00",
             "closed": false
         },
         "tuesday": {
             "open": "6:00",
-            "close": "19:00",
+            "close": "20:00",
             "closed": false
         },
         "wednesday": {
             "open": "6:00",
-            "close": "19:00",
+            "close": "20:00",
             "closed": false
         },
         "thursday": {
             "open": "6:00",
-            "close": "19:00",
+            "close": "20:00",
             "closed": false
         },
         "friday": {
             "open": "6:00",
-            "close": "19:00",
+            "close": "20:00",
             "closed": false
         },
         "saturday": {

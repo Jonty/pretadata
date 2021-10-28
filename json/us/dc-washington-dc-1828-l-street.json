@@ -5,7 +5,7 @@
         "open": true,
         "name": "19th and L",
         "phone_number": "+12026891274",
-        "data_last_updated": "2021-07-10T20:28:18.874574"
+        "data_last_updated": "2021-10-28T01:57:50.831763"
     },
     "facilities": {
         "seating": true,
@@ -17,8 +17,8 @@
         "city": "Washington, DC",
         "postal_code": "20006",
         "country": "US",
-        "latitude": "38.903550317688115",
-        "longitude": "-77.04302338161469"
+        "latitude": "38.90341932950857",
+        "longitude": "-77.0429113613337"
     },
     "opening_hours": {
         "monday": {

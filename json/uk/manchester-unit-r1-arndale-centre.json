@@ -5,7 +5,7 @@
         "open": true,
         "name": "Manchester Arndale Centre",
         "phone_number": "+441618322014",
-        "data_last_updated": "2021-07-10T20:27:42.914949"
+        "data_last_updated": "2021-10-28T01:56:59.372531"
     },
     "facilities": {
         "seating": true,
@@ -17,32 +17,32 @@
         "city": "Manchester",
         "postal_code": "M4 3AQ",
         "country": "GB",
-        "latitude": "53.48319016631978",
-        "longitude": "-2.241690746032705"
+        "latitude": "53.48334436361524",
+        "longitude": "-2.241681640786788"
     },
     "opening_hours": {
         "monday": {
-            "open": "8:30",
+            "open": "8:00",
             "close": "19:00",
             "closed": false
         },
         "tuesday": {
-            "open": "8:30",
+            "open": "8:00",
             "close": "19:00",
             "closed": false
         },
         "wednesday": {
-            "open": "8:30",
+            "open": "8:00",
             "close": "19:00",
             "closed": false
         },
         "thursday": {
-            "open": "8:30",
+            "open": "8:00",
             "close": "19:00",
             "closed": false
         },
         "friday": {
-            "open": "8:30",
+            "open": "8:00",
             "close": "19:00",
             "closed": false
         },

@@ -2,10 +2,10 @@
     "details": {
         "id": "pa-philadelphia-30-south-15th-street",
         "url": "https://locations.pret.com/../pa/philadelphia/30-south-15th-street",
-        "open": false,
+        "open": true,
         "name": "15th & Ranstead",
         "phone_number": "+16104921877",
-        "data_last_updated": "2021-07-10T20:28:13.828401"
+        "data_last_updated": "2021-10-28T01:57:46.886996"
     },
     "facilities": {
         "seating": true,
@@ -17,34 +17,34 @@
         "city": "Philadelphia",
         "postal_code": "19012",
         "country": "US",
-        "latitude": "39.951605",
-        "longitude": "-75.165839"
+        "latitude": "39.951511823449835",
+        "longitude": "-75.16571602910673"
     },
     "opening_hours": {
         "monday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
         },
         "tuesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
         },
         "wednesday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
         },
         "thursday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
         },
         "friday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "8:00",
+            "close": "16:00",
+            "closed": false
         },
         "saturday": {
             "open": null,

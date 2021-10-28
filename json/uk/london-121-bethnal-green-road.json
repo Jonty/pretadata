@@ -5,7 +5,7 @@
         "open": true,
         "name": "Bethnal Green Road, 121",
         "phone_number": "+442077390086",
-        "data_last_updated": "2021-07-10T20:26:41.228479"
+        "data_last_updated": "2021-10-28T01:54:22.485189"
     },
     "facilities": {
         "seating": true,
@@ -53,7 +53,7 @@
         },
         "sunday": {
             "open": "8:00",
-            "close": "17:00",
+            "close": "18:00",
             "closed": false
         }
     }

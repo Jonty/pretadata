@@ -5,7 +5,7 @@
         "open": true,
         "name": "Luton Airport Landside",
         "phone_number": "+441582730224",
-        "data_last_updated": "2021-07-10T20:27:40.733298"
+        "data_last_updated": "2021-10-28T01:56:51.917141"
     },
     "facilities": {
         "seating": true,
@@ -23,37 +23,37 @@
     "opening_hours": {
         "monday": {
             "open": "4:00",
-            "close": "21:00",
+            "close": "22:00",
             "closed": false
         },
         "tuesday": {
             "open": "4:00",
-            "close": "21:00",
+            "close": "22:00",
             "closed": false
         },
         "wednesday": {
             "open": "4:00",
-            "close": "21:00",
+            "close": "22:00",
             "closed": false
         },
         "thursday": {
             "open": "4:00",
-            "close": "21:00",
+            "close": "22:00",
             "closed": false
         },
         "friday": {
             "open": "4:00",
-            "close": "21:00",
+            "close": "22:00",
             "closed": false
         },
         "saturday": {
             "open": "4:00",
-            "close": "21:00",
+            "close": "22:00",
             "closed": false
         },
         "sunday": {
             "open": "4:00",
-            "close": "21:00",
+            "close": "22:00",
             "closed": false
         }
     }

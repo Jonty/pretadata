@@ -5,7 +5,7 @@
         "open": true,
         "name": "MetroTech",
         "phone_number": "+13477253758",
-        "data_last_updated": "2021-07-10T20:28:30.693833"
+        "data_last_updated": "2021-10-28T01:58:01.796500"
     },
     "facilities": {
         "seating": true,
@@ -22,28 +22,28 @@
     },
     "opening_hours": {
         "monday": {
-            "open": "7:30",
-            "close": "15:30",
+            "open": "6:30",
+            "close": "17:30",
             "closed": false
         },
         "tuesday": {
-            "open": "7:30",
-            "close": "15:30",
+            "open": "6:30",
+            "close": "17:30",
             "closed": false
         },
         "wednesday": {
-            "open": "7:30",
-            "close": "15:30",
+            "open": "6:30",
+            "close": "17:30",
             "closed": false
         },
         "thursday": {
-            "open": "7:30",
-            "close": "15:30",
+            "open": "6:30",
+            "close": "17:30",
             "closed": false
         },
         "friday": {
-            "open": "7:30",
-            "close": "15:30",
+            "open": "6:30",
+            "close": "17:30",
             "closed": false
         },
         "saturday": {

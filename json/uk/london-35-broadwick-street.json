@@ -5,7 +5,7 @@
         "open": true,
         "name": "Broadwick Street",
         "phone_number": "+442079325274",
-        "data_last_updated": "2021-07-10T20:27:01.313527"
+        "data_last_updated": "2021-10-28T01:55:14.003323"
     },
     "facilities": {
         "seating": true,
@@ -22,38 +22,38 @@
     },
     "opening_hours": {
         "monday": {
-            "open": "8:30",
-            "close": "16:30",
+            "open": "7:00",
+            "close": "18:00",
             "closed": false
         },
         "tuesday": {
             "open": "7:00",
-            "close": "17:00",
+            "close": "18:00",
             "closed": false
         },
         "wednesday": {
             "open": "7:00",
-            "close": "17:00",
+            "close": "18:00",
             "closed": false
         },
         "thursday": {
             "open": "7:00",
-            "close": "17:00",
+            "close": "18:00",
             "closed": false
         },
         "friday": {
             "open": "7:00",
-            "close": "17:00",
+            "close": "18:30",
             "closed": false
         },
         "saturday": {
             "open": "8:30",
-            "close": "16:30",
+            "close": "17:30",
             "closed": false
         },
         "sunday": {
             "open": "8:30",
-            "close": "16:00",
+            "close": "16:30",
             "closed": false
         }
     }

@@ -5,7 +5,7 @@
         "open": true,
         "name": "Guildford, Swan Lane",
         "phone_number": "+441483458406",
-        "data_last_updated": "2021-07-10T20:27:48.745467"
+        "data_last_updated": "2021-10-28T01:57:15.709033"
     },
     "facilities": {
         "seating": true,
@@ -23,27 +23,27 @@
     "opening_hours": {
         "monday": {
             "open": "7:30",
-            "close": "17:30",
+            "close": "17:00",
             "closed": false
         },
         "tuesday": {
             "open": "7:30",
-            "close": "17:30",
+            "close": "17:00",
             "closed": false
         },
         "wednesday": {
             "open": "7:30",
-            "close": "17:30",
+            "close": "17:00",
             "closed": false
         },
         "thursday": {
             "open": "7:30",
-            "close": "17:30",
+            "close": "17:00",
             "closed": false
         },
         "friday": {
             "open": "7:30",
-            "close": "17:30",
+            "close": "17:00",
             "closed": false
         },
         "saturday": {

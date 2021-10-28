@@ -5,7 +5,7 @@
         "open": true,
         "name": "Chester, Northgate Street",
         "phone_number": "+441244400982",
-        "data_last_updated": "2021-07-10T20:26:25.381881"
+        "data_last_updated": "2021-10-28T01:53:42.515241"
     },
     "facilities": {
         "seating": true,
@@ -17,38 +17,38 @@
         "city": "Chester",
         "postal_code": "CH1 2HA",
         "country": "GB",
-        "latitude": "53.1911588",
-        "longitude": "-2.8917043"
+        "latitude": "53.19109381806688",
+        "longitude": "-2.891390275397434"
     },
     "opening_hours": {
         "monday": {
             "open": "8:00",
-            "close": "17:00",
+            "close": "18:00",
             "closed": false
         },
         "tuesday": {
             "open": "8:00",
-            "close": "17:00",
+            "close": "18:00",
             "closed": false
         },
         "wednesday": {
             "open": "8:00",
-            "close": "17:00",
+            "close": "18:00",
             "closed": false
         },
         "thursday": {
             "open": "8:00",
-            "close": "17:00",
+            "close": "18:00",
             "closed": false
         },
         "friday": {
             "open": "8:00",
-            "close": "17:00",
+            "close": "18:00",
             "closed": false
         },
         "saturday": {
             "open": "8:00",
-            "close": "17:30",
+            "close": "18:00",
             "closed": false
         },
         "sunday": {

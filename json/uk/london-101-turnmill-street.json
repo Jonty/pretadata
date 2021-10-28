@@ -5,7 +5,7 @@
         "open": true,
         "name": "Turnmill Street",
         "phone_number": "+442079325245",
-        "data_last_updated": "2021-07-10T20:26:38.793952"
+        "data_last_updated": "2021-10-28T01:54:17.041195"
     },
     "facilities": {
         "seating": true,
@@ -52,9 +52,9 @@
             "closed": false
         },
         "sunday": {
-            "open": null,
-            "close": null,
-            "closed": true
+            "open": "9:00",
+            "close": "15:00",
+            "closed": false
         }
     }
 }

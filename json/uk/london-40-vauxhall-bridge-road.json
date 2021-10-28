@@ -5,7 +5,7 @@
         "open": true,
         "name": "Vauxhall Bridge Road, 40",
         "phone_number": "+442078282102",
-        "data_last_updated": "2021-07-10T20:27:03.846282"
+        "data_last_updated": "2021-10-28T01:55:21.837396"
     },
     "facilities": {
         "seating": true,
@@ -53,7 +53,7 @@
         },
         "sunday": {
             "open": "7:30",
-            "close": "17:00",
+            "close": "18:00",
             "closed": false
         }
     }

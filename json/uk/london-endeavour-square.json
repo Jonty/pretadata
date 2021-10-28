@@ -5,7 +5,7 @@
         "open": true,
         "name": "Stratford InternationalQuarter",
         "phone_number": "+442085346310",
-        "data_last_updated": "2021-07-10T20:27:21.206245"
+        "data_last_updated": "2021-10-28T01:56:02.262966"
     },
     "facilities": {
         "seating": true,
@@ -52,8 +52,8 @@
             "closed": false
         },
         "sunday": {
-            "open": "7:00",
-            "close": "20:00",
+            "open": "6:00",
+            "close": "19:30",
             "closed": false
         }
     }

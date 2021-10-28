@@ -5,7 +5,7 @@
         "open": true,
         "name": "Manchester, Cross St",
         "phone_number": "+441618395602",
-        "data_last_updated": "2021-07-10T20:27:41.110853"
+        "data_last_updated": "2021-10-28T01:56:53.299769"
     },
     "facilities": {
         "seating": true,
@@ -48,7 +48,7 @@
         },
         "saturday": {
             "open": "8:00",
-            "close": "18:00",
+            "close": "18:30",
             "closed": false
         },
         "sunday": {

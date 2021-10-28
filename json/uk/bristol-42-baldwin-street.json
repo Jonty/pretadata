@@ -2,10 +2,10 @@
     "details": {
         "id": "bristol-42-baldwin-street",
         "url": "https://locations.pret.co.uk/bristol/42-baldwin-street",
-        "open": true,
+        "open": false,
         "name": "Bristol, Baldwin Street",
         "phone_number": "+441179293439",
-        "data_last_updated": "2021-07-10T20:26:22.120712"
+        "data_last_updated": "2021-10-28T01:53:36.826933"
     },
     "facilities": {
         "seating": true,
@@ -27,24 +27,24 @@
             "closed": true
         },
         "tuesday": {
-            "open": "8:00",
-            "close": "14:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "wednesday": {
-            "open": "8:00",
-            "close": "14:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "thursday": {
-            "open": "8:00",
-            "close": "14:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "friday": {
-            "open": "8:00",
-            "close": "14:30",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "saturday": {
             "open": null,

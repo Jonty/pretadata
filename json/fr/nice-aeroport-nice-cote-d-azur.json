@@ -2,10 +2,10 @@
     "details": {
         "id": "nice-aeroport-nice-cote-d-azur",
         "url": "https://locations.pretamanger.fr/nice/a\u00e9roport-nice-c\u00f4te-d'azur",
-        "open": true,
+        "open": false,
         "name": "A\u00e9roport de Nice - Terminal 1",
         "phone_number": "+33493712997",
-        "data_last_updated": "2021-07-10T20:27:55.664074"
+        "data_last_updated": "2021-10-28T01:57:27.167498"
     },
     "facilities": {
         "seating": true,
@@ -22,39 +22,39 @@
     },
     "opening_hours": {
         "lundi": {
-            "open": "5:30",
-            "close": "22:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "mardi": {
-            "open": "5:30",
-            "close": "22:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "mercredi": {
-            "open": "5:30",
-            "close": "22:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "jeudi": {
-            "open": "5:30",
-            "close": "22:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "vendredi": {
-            "open": "5:30",
-            "close": "22:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "samedi": {
-            "open": "5:30",
-            "close": "22:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         },
         "dimanche": {
-            "open": "5:30",
-            "close": "22:00",
-            "closed": false
+            "open": null,
+            "close": null,
+            "closed": true
         }
     }
 }

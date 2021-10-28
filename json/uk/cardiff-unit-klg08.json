@@ -5,7 +5,7 @@
         "open": true,
         "name": "Cardiff, Bridge Street Arcade",
         "phone_number": "+442920224657",
-        "data_last_updated": "2021-07-10T20:26:24.768915"
+        "data_last_updated": "2021-10-28T01:53:40.964489"
     },
     "facilities": {
         "seating": true,
@@ -53,7 +53,7 @@
         },
         "sunday": {
             "open": "9:00",
-            "close": "18:00",
+            "close": "17:00",
             "closed": false
         }
     }
